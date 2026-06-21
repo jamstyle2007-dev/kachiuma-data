@@ -80,6 +80,24 @@ def main():
                 if n is not None: nums.add(n)
                 need(h, "name", str, hp); need(h, "jockey", str, hp)
 
+        # result（任意・確定レースのみ。アプリが結果/的中/回収率を表示する）
+        if "result" in r:
+            res = r["result"]; rp = f"{p}.result"
+            if not isinstance(res, dict):
+                err(rp, "オブジェクトが必要")
+            else:
+                for k in ("first", "second", "third"):
+                    rn = need(res, k, int, rp)
+                    if rn is not None and nums and rn not in nums:
+                        err(f"{rp}.{k}", f"馬番 {rn} が出走馬に存在しません")
+                for k in ("tanshoPay", "sanrenpukuPay", "sanrentanPay"):
+                    if k in res and res[k] is not None and not (isinstance(res[k], int) and not isinstance(res[k], bool)):
+                        err(f"{rp}.{k}", "整数が必要（任意キー）")
+                if "fukushoPay" in res and res["fukushoPay"] is not None:
+                    fp = res["fukushoPay"]
+                    if not (isinstance(fp, list) and all(isinstance(x, int) and not isinstance(x, bool) for x in fp)):
+                        err(f"{rp}.fukushoPay", "整数配列が必要（[1着,2着,3着]）")
+
         pred = need(r, "prediction", dict, p)
         if pred is None: continue
         pp = f"{p}.prediction"
