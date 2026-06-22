@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-21T22:30:07.101Z",
-  "source": "betexplorer.com (average odds)",
+  "generatedAt": "2026-06-21T23:49:56.141Z",
+  "source": "betexplorer.com (Pinnacle / 1xBet odds)",
   "threshold": 1.6,
-  "count": 21,
+  "count": 23,
   "matches": [
     {
       "sport": "テニス",
@@ -12,8 +12,13 @@
       "away": "Tolev A.",
       "favTeam": "Berkieta T.",
       "underTeam": "Tolev A.",
-      "favOdd": 1.03,
-      "prob": 97,
+      "favOdd": 1.02,
+      "prob": 98,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.02
+      },
+      "avgFavOdd": 1.03,
       "time": "17:30",
       "kickoff": "2026-06-22T09:30:00+09:00",
       "niche": false,
@@ -27,12 +32,37 @@
       "away": "Kazakhstan",
       "favTeam": "Australia",
       "underTeam": "Kazakhstan",
-      "favOdd": 1.09,
-      "prob": 92,
+      "favOdd": 1.08,
+      "prob": 93,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.08
+      },
+      "avgFavOdd": 1.09,
       "time": "16:30",
       "kickoff": "2026-06-22T08:30:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/volleyball/asia/avc-nations-cup/australia-kazakhstan/tAThG1GD/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "USA: WNBA",
+      "home": "Atlanta Dream W",
+      "away": "Toronto Tempo W",
+      "favTeam": "Atlanta Dream W",
+      "underTeam": "Toronto Tempo W",
+      "favOdd": 1.11,
+      "prob": 90,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.11
+      },
+      "avgFavOdd": 1.09,
+      "time": "09:30",
+      "kickoff": "2026-06-23T01:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/usa/wnba/atlanta-dream-toronto-tempo/fsXavIoI/"
     },
     {
       "sport": "テニス",
@@ -42,8 +72,13 @@
       "away": "Sperle J.",
       "favTeam": "Papoe R. M.",
       "underTeam": "Sperle J.",
-      "favOdd": 1.13,
-      "prob": 88,
+      "favOdd": 1.11,
+      "prob": 90,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.11
+      },
+      "avgFavOdd": 1.13,
       "time": "18:00",
       "kickoff": "2026-06-22T10:00:00+09:00",
       "niche": false,
@@ -59,25 +94,15 @@
       "underTeam": "Gima S.",
       "favOdd": 1.13,
       "prob": 88,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.13
+      },
+      "avgFavOdd": 1.13,
       "time": "18:00",
       "kickoff": "2026-06-22T10:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/tennis/challenger-men-singles/targu-mures/roca-batalla-oriol-gima-sebastian/tbq1HtjU/"
-    },
-    {
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "USA: USL LEAGUE TWO",
-      "home": "Sueno",
-      "away": "St. Croix",
-      "favTeam": "Sueno",
-      "underTeam": "St. Croix",
-      "favOdd": 1.15,
-      "prob": 87,
-      "time": "09:00",
-      "kickoff": "2026-06-22T01:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/football/usa/usl-league-two/sueno-st-croix/KrsIDb5k/"
     },
     {
       "sport": "バスケ",
@@ -89,6 +114,11 @@
       "underTeam": "Bay Hawks",
       "favOdd": 1.17,
       "prob": 85,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.17
+      },
+      "avgFavOdd": 1.17,
       "time": "17:00",
       "kickoff": "2026-06-22T09:00:00+09:00",
       "niche": false,
@@ -102,8 +132,13 @@
       "away": "Angelini L.",
       "favTeam": "Angelini L.",
       "underTeam": "Sinha N. K.",
-      "favOdd": 1.2,
+      "favOdd": 1.21,
       "prob": 83,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.21
+      },
+      "avgFavOdd": 1.13,
       "time": "19:00",
       "kickoff": "2026-06-22T11:00:00+09:00",
       "niche": false,
@@ -117,8 +152,13 @@
       "away": "Indonesia",
       "favTeam": "Qatar",
       "underTeam": "Indonesia",
-      "favOdd": 1.28,
-      "prob": 78,
+      "favOdd": 1.26,
+      "prob": 79,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.26
+      },
+      "avgFavOdd": 1.28,
       "time": "22:30",
       "kickoff": "2026-06-22T14:30:00+09:00",
       "niche": false,
@@ -134,40 +174,15 @@
       "underTeam": "Rubio Fierros A. F.",
       "favOdd": 1.3,
       "prob": 77,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.3
+      },
+      "avgFavOdd": 1.3,
       "time": "18:00",
       "kickoff": "2026-06-22T10:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/tennis/challenger-men-singles/targu-mures/turcanu-radu-david-rubio-fierros-alan-fernando/lzLSgeBk/"
-    },
-    {
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "WORLD: CLUB FRIENDLY",
-      "home": "Cancun",
-      "away": "Monterrey",
-      "favTeam": "Monterrey",
-      "underTeam": "Cancun",
-      "favOdd": 1.33,
-      "prob": 75,
-      "time": "08:30",
-      "kickoff": "2026-06-22T00:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/football/world/club-friendly/cancun-monterrey/UPbjU8vQ/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: PLOVDIV, CLAY",
-      "home": "Tajima N.",
-      "away": "Dinev D.",
-      "favTeam": "Dinev D.",
-      "underTeam": "Tajima N.",
-      "favOdd": 1.38,
-      "prob": 72,
-      "time": "17:30",
-      "kickoff": "2026-06-22T09:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/plovdiv/tajima-naoki-dinko-dinev/4dIX64eE/"
     },
     {
       "sport": "サッカー",
@@ -177,12 +192,57 @@
       "away": "Ballard",
       "favTeam": "Ballard",
       "underTeam": "West Seattle Junction",
-      "favOdd": 1.4,
-      "prob": 71,
+      "favOdd": 1.33,
+      "prob": 75,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.33
+      },
+      "avgFavOdd": 1.36,
       "time": "10:15",
       "kickoff": "2026-06-22T02:15:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/football/usa/usl-league-two/west-seattle-junction-ballard/l0jnJKsS/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "PARAGUAY: LNB",
+      "home": "Felix Perez Cardozo",
+      "away": "Dep. San Jose",
+      "favTeam": "Dep. San Jose",
+      "underTeam": "Felix Perez Cardozo",
+      "favOdd": 1.35,
+      "prob": 74,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.35
+      },
+      "avgFavOdd": 1.37,
+      "time": "09:30",
+      "kickoff": "2026-06-23T01:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/paraguay/lnb/felix-perez-cardozo-deportivo-san-jose/dCCqZqsm/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "CHALLENGER MEN - SINGLES: PLOVDIV, CLAY",
+      "home": "Tajima N.",
+      "away": "Dinev D.",
+      "favTeam": "Dinev D.",
+      "underTeam": "Tajima N.",
+      "favOdd": 1.39,
+      "prob": 72,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.39
+      },
+      "avgFavOdd": 1.38,
+      "time": "17:30",
+      "kickoff": "2026-06-22T09:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/plovdiv/tajima-naoki-dinko-dinev/4dIX64eE/"
     },
     {
       "sport": "バレー",
@@ -192,12 +252,57 @@
       "away": "Thailand",
       "favTeam": "Thailand",
       "underTeam": "Oman",
-      "favOdd": 1.42,
-      "prob": 70,
+      "favOdd": 1.39,
+      "prob": 72,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.39
+      },
+      "avgFavOdd": 1.42,
       "time": "19:30",
       "kickoff": "2026-06-22T11:30:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/volleyball/asia/avc-nations-cup/oman-thailand/8GLvv58K/"
+    },
+    {
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "AUSTRALIA: NPL NSW U20",
+      "home": "Sydney Olympic U20",
+      "away": "Rockdale Ilinden U20",
+      "favTeam": "Rockdale Ilinden U20",
+      "underTeam": "Sydney Olympic U20",
+      "favOdd": 1.4,
+      "prob": 71,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.4
+      },
+      "avgFavOdd": 1.42,
+      "time": "19:45",
+      "kickoff": "2026-06-22T11:45:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/football/australia/npl-nsw-u20/sydney-olympic-rockdale-ilinden/QVE02Qm4/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "USA: WNBA",
+      "home": "Los Angeles Sparks W",
+      "away": "New York Liberty W",
+      "favTeam": "New York Liberty W",
+      "underTeam": "Los Angeles Sparks W",
+      "favOdd": 1.42,
+      "prob": 70,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.42
+      },
+      "avgFavOdd": 1.45,
+      "time": "10:00",
+      "kickoff": "2026-06-22T02:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/usa/wnba/los-angeles-sparks-new-york-liberty/UVVsCGdR/"
     },
     {
       "sport": "テニス",
@@ -209,55 +314,15 @@
       "underTeam": "Tauson C.",
       "favOdd": 1.45,
       "prob": 69,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.45
+      },
+      "avgFavOdd": 1.45,
       "time": "19:00",
       "kickoff": "2026-06-22T11:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/tennis/wta-singles/bad-homburg/tauson-clara-shnaider-diana/lYqMad2U/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "USA: WNBA",
-      "home": "Los Angeles Sparks W",
-      "away": "New York Liberty W",
-      "favTeam": "New York Liberty W",
-      "underTeam": "Los Angeles Sparks W",
-      "favOdd": 1.46,
-      "prob": 68,
-      "time": "10:00",
-      "kickoff": "2026-06-22T02:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/usa/wnba/los-angeles-sparks-new-york-liberty/UVVsCGdR/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "PUERTO RICO: BSN",
-      "home": "Leones De Ponce",
-      "away": "Osos de Manati",
-      "favTeam": "Leones De Ponce",
-      "underTeam": "Osos de Manati",
-      "favOdd": 1.49,
-      "prob": 67,
-      "time": "10:00",
-      "kickoff": "2026-06-22T02:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/puerto-rico/bsn/leones-de-ponce-osos-de-manati/YFzhZhKG/"
-    },
-    {
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "USA: MLS NEXT PRO",
-      "home": "New York Red Bulls II",
-      "away": "Toronto FC II",
-      "favTeam": "New York Red Bulls II",
-      "underTeam": "Toronto FC II",
-      "favOdd": 1.5,
-      "prob": 67,
-      "time": "09:00",
-      "kickoff": "2026-06-22T01:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/football/usa/mls-next-pro/new-york-red-bulls-toronto-fc/4Evvtynm/"
     },
     {
       "sport": "サッカー",
@@ -267,8 +332,13 @@
       "away": "San Antonio FC 2",
       "favTeam": "AHFC Royals",
       "underTeam": "San Antonio FC 2",
-      "favOdd": 1.51,
-      "prob": 66,
+      "favOdd": 1.47,
+      "prob": 68,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.47
+      },
+      "avgFavOdd": 1.51,
       "time": "10:00",
       "kickoff": "2026-06-22T02:00:00+09:00",
       "niche": false,
@@ -277,32 +347,62 @@
     {
       "sport": "バスケ",
       "sportKey": "basketball",
-      "league": "CANADA: CEBL",
-      "home": "Ottawa Blackjacks",
-      "away": "Saskatoon Mamba",
-      "favTeam": "Ottawa Blackjacks",
-      "underTeam": "Saskatoon Mamba",
-      "favOdd": 1.51,
-      "prob": 66,
-      "time": "09:00",
-      "kickoff": "2026-06-22T01:00:00+09:00",
+      "league": "PUERTO RICO: BSN",
+      "home": "Leones De Ponce",
+      "away": "Osos de Manati",
+      "favTeam": "Leones De Ponce",
+      "underTeam": "Osos de Manati",
+      "favOdd": 1.53,
+      "prob": 65,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.53
+      },
+      "avgFavOdd": 1.5,
+      "time": "10:00",
+      "kickoff": "2026-06-22T02:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/canada/cebl/ottawa-blackjacks-saskatoon-mamba/nBXvH3em/"
+      "url": "https://www.betexplorer.com/basketball/puerto-rico/bsn/leones-de-ponce-osos-de-manati/YFzhZhKG/"
     },
     {
-      "sport": "野球",
-      "sportKey": "baseball",
-      "league": "USA: MLB",
-      "home": "Philadelphia Phillies",
-      "away": "New York Mets",
-      "favTeam": "Philadelphia Phillies",
-      "underTeam": "New York Mets",
-      "favOdd": 1.54,
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "USA: MLS NEXT PRO",
+      "home": "Austin FC II",
+      "away": "Sporting Kansas City II",
+      "favTeam": "Austin FC II",
+      "underTeam": "Sporting Kansas City II",
+      "favOdd": 1.55,
       "prob": 65,
-      "time": "09:20",
-      "kickoff": "2026-06-22T01:20:00+09:00",
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.55
+      },
+      "avgFavOdd": 1.6,
+      "time": "10:30",
+      "kickoff": "2026-06-22T02:30:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/philadelphia-phillies-new-york-mets/KESTMmp3/"
+      "url": "https://www.betexplorer.com/football/usa/mls-next-pro/austin-fc-sporting-kansas-city/zXakMfoo/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "CHALLENGER MEN - SINGLES: PLOVDIV, CLAY",
+      "home": "Faucon R.",
+      "away": "Belozertsev N.",
+      "favTeam": "Belozertsev N.",
+      "underTeam": "Faucon R.",
+      "favOdd": 1.59,
+      "prob": 63,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.59
+      },
+      "avgFavOdd": 1.59,
+      "time": "19:00",
+      "kickoff": "2026-06-22T11:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/plovdiv/romain-faucon-belozertsev-nikita/MyPHcDV6/"
     },
     {
       "sport": "野球",
@@ -312,12 +412,57 @@
       "away": "Reno Aces",
       "favTeam": "El Paso Chihuahuas",
       "underTeam": "Reno Aces",
-      "favOdd": 1.58,
+      "favOdd": 1.59,
       "prob": 63,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.59
+      },
+      "avgFavOdd": 1.59,
       "time": "10:05",
       "kickoff": "2026-06-22T02:05:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/baseball/usa/pcl/el-paso-chihuahuas-reno-aces/x0OrjwKM/"
+    },
+    {
+      "sport": "野球",
+      "sportKey": "baseball",
+      "league": "MEXICO: LMB",
+      "home": "Toros de Tijuana",
+      "away": "Tabasco",
+      "favTeam": "Toros de Tijuana",
+      "underTeam": "Tabasco",
+      "favOdd": 1.6,
+      "prob": 63,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.6
+      },
+      "avgFavOdd": 1.59,
+      "time": "11:05",
+      "kickoff": "2026-06-22T03:05:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/baseball/mexico/lmb/toros-de-tijuana-olmecas-de-tabasco/lOslbEtn/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "USA: WNBA",
+      "home": "Connecticut Sun W",
+      "away": "Chicago Sky W",
+      "favTeam": "Chicago Sky W",
+      "underTeam": "Connecticut Sun W",
+      "favOdd": 1.6,
+      "prob": 63,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.6
+      },
+      "avgFavOdd": 1.6,
+      "time": "09:00",
+      "kickoff": "2026-06-23T01:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/usa/wnba/connecticut-sun-chicago-sky/0EMD6fKl/"
     }
   ]
 }
