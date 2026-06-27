@@ -1,7 +1,7 @@
 {
   "meta": {
     "updatedAt": "2026-06-27",
-    "note": "6/27(土) 福島・小倉・函館の3鞍＋6/28(日) ラジオNIKKEI賞・函館記念の計5鞍を、各馬の近3走を踏まえて予想しました。結果はレース後に配信します。"
+    "note": "6/27(土)の結果を掲載しました（着順・的中・回収率を確認できます）。6/28(日) ラジオNIKKEI賞・函館記念は近走ベースで予想中、結果はレース後に配信します。"
   },
   "races": [
     {
@@ -251,6 +251,19 @@
             }
           }
         }
+      },
+      "result": {
+        "first": 4,
+        "second": 8,
+        "third": 3,
+        "tanshoPay": 170,
+        "fukushoPay": [
+          110,
+          150,
+          160
+        ],
+        "sanrenpukuPay": 820,
+        "sanrentanPay": 2220
       }
     },
     {
@@ -535,6 +548,19 @@
             }
           }
         }
+      },
+      "result": {
+        "first": 9,
+        "second": 13,
+        "third": 2,
+        "tanshoPay": 560,
+        "fukushoPay": [
+          170,
+          200,
+          250
+        ],
+        "sanrenpukuPay": 3800,
+        "sanrentanPay": 21820
       }
     },
     {
@@ -809,6 +835,19 @@
             }
           }
         }
+      },
+      "result": {
+        "first": 2,
+        "second": 11,
+        "third": 12,
+        "tanshoPay": 380,
+        "fukushoPay": [
+          160,
+          230,
+          190
+        ],
+        "sanrenpukuPay": 2940,
+        "sanrentanPay": 13200
       }
     },
     {
