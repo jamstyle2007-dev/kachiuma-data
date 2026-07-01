@@ -1,17 +1,77 @@
 {
-  "generatedAt": "2026-07-01T05:50:35.578Z",
+  "generatedAt": "2026-07-01T09:14:40.161Z",
   "source": "betexplorer.com (Pinnacle / 1xBet odds)",
   "threshold": 1.6,
-  "count": 17,
+  "count": 26,
   "matches": [
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M15 SAN DIEGO, CA, HARD",
-      "home": "Gogineni V.",
-      "away": "Zhang W.",
-      "favTeam": "Gogineni V.",
-      "underTeam": "Zhang W.",
+      "league": "ITF MEN - SINGLES: M25 SKOPJE, CLAY",
+      "home": "Jovanovic P.",
+      "away": "Radovanovic T.",
+      "favTeam": "Jovanovic P.",
+      "underTeam": "Radovanovic T.",
+      "favOdd": 1.01,
+      "prob": 99,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.01
+      },
+      "avgFavOdd": 1.02,
+      "time": "19:20",
+      "kickoff": "2026-07-01T11:20:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-skopje/jovanovic-petar-radovanovic-tadija/fNdAbP7L/"
+    },
+    {
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "WORLD: WORLD CHAMPIONSHIP U20 WOMEN",
+      "home": "Denmark U20 W",
+      "away": "Serbia U20 W",
+      "favTeam": "Denmark U20 W",
+      "underTeam": "Serbia U20 W",
+      "favOdd": 1.05,
+      "prob": 95,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.05
+      },
+      "avgFavOdd": 1.05,
+      "time": "18:00",
+      "kickoff": "2026-07-02T10:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/handball/world/world-championship-u20-women/denmark-serbia/KYqyCnt3/"
+    },
+    {
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "WORLD: WORLD CHAMPIONSHIP U20 WOMEN",
+      "home": "India U20 W",
+      "away": "USA U20 W",
+      "favTeam": "USA U20 W",
+      "underTeam": "India U20 W",
+      "favOdd": 1.05,
+      "prob": 95,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.05
+      },
+      "avgFavOdd": 1.07,
+      "time": "13:45",
+      "kickoff": "2026-07-02T05:45:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/handball/world/world-championship-u20-women/india-usa/GSo1CTak/"
+    },
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "EUROPE: EUROPEAN LEAGUE WOMEN",
+      "home": "Slovenia W",
+      "away": "Slovakia W",
+      "favTeam": "Slovenia W",
+      "underTeam": "Slovakia W",
       "favOdd": 1.08,
       "prob": 93,
       "book": "1xBet",
@@ -19,10 +79,30 @@
         "1xbet": 1.08
       },
       "avgFavOdd": 1.08,
-      "time": "16:30",
-      "kickoff": "2026-07-01T08:30:00+09:00",
+      "time": "04:00",
+      "kickoff": "2026-07-01T20:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/volleyball/europe/european-league-women/slovenia-slovakia/lOM5AuPH/"
+    },
+    {
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "WORLD: WORLD CHAMPIONSHIP U20 WOMEN",
+      "home": "Canada U20 W",
+      "away": "Chinese Taipei U20 W",
+      "favTeam": "Chinese Taipei U20 W",
+      "underTeam": "Canada U20 W",
+      "favOdd": 1.09,
+      "prob": 92,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.09
+      },
+      "avgFavOdd": 1.07,
+      "time": "16:00",
+      "kickoff": "2026-07-02T08:00:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m15-san-diego-ca/gogineni-vignesh-zhang-william/WpV7NKE8/"
+      "url": "https://www.betexplorer.com/handball/world/world-championship-u20-women/canada-chinese-taipei/SptWUwrS/"
     },
     {
       "sport": "ハンドボール",
@@ -38,51 +118,11 @@
       "books": {
         "1xbet": 1.1
       },
-      "avgFavOdd": 1.1,
+      "avgFavOdd": 1.07,
       "time": "13:30",
       "kickoff": "2026-07-02T05:30:00+09:00",
       "niche": true,
       "url": "https://www.betexplorer.com/handball/world/world-championship-u20-women/south-korea-hungary/AoLASDKj/"
-    },
-    {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "EUROPE: EUROPEAN LEAGUE WOMEN",
-      "home": "Slovenia W",
-      "away": "Slovakia W",
-      "favTeam": "Slovenia W",
-      "underTeam": "Slovakia W",
-      "favOdd": 1.11,
-      "prob": 90,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.11
-      },
-      "avgFavOdd": 1.11,
-      "time": "04:00",
-      "kickoff": "2026-07-01T20:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/europe/european-league-women/slovenia-slovakia/lOM5AuPH/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M15 WUNING 4, HARD",
-      "home": "Mo Y. C.",
-      "away": "Hou C.",
-      "favTeam": "Mo Y. C.",
-      "underTeam": "Hou C.",
-      "favOdd": 1.11,
-      "prob": 90,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.11
-      },
-      "avgFavOdd": 1.12,
-      "time": "16:00",
-      "kickoff": "2026-07-01T08:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m15-wuning-4/mo-yecong-hou-chun-chien/K8zxc6pd/"
     },
     {
       "sport": "ハンドボール",
@@ -98,7 +138,7 @@
       "books": {
         "1xbet": 1.13
       },
-      "avgFavOdd": 1.14,
+      "avgFavOdd": 1.13,
       "time": "13:45",
       "kickoff": "2026-07-02T05:45:00+09:00",
       "niche": true,
@@ -108,61 +148,21 @@
       "sport": "ハンドボール",
       "sportKey": "handball",
       "league": "WORLD: WORLD CHAMPIONSHIP U20 WOMEN",
-      "home": "India U20 W",
-      "away": "USA U20 W",
-      "favTeam": "USA U20 W",
-      "underTeam": "India U20 W",
-      "favOdd": 1.14,
-      "prob": 88,
+      "home": "France U20 W",
+      "away": "Montenegro U20 W",
+      "favTeam": "France U20 W",
+      "underTeam": "Montenegro U20 W",
+      "favOdd": 1.15,
+      "prob": 87,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.14
+        "1xbet": 1.15
       },
       "avgFavOdd": 1.14,
-      "time": "13:45",
-      "kickoff": "2026-07-02T05:45:00+09:00",
+      "time": "18:00",
+      "kickoff": "2026-07-02T10:00:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/handball/world/world-championship-u20-women/india-usa/GSo1CTak/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M15 SAN DIEGO, CA, HARD",
-      "home": "Cooper S.",
-      "away": "Kalina V.",
-      "favTeam": "Kalina V.",
-      "underTeam": "Cooper S.",
-      "favOdd": 1.18,
-      "prob": 85,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.18
-      },
-      "avgFavOdd": 1.17,
-      "time": "16:30",
-      "kickoff": "2026-07-01T08:30:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m15-san-diego-ca/stefan-cooper-kalina-vit/bF1pNj3S/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M15 WUNING 4, HARD",
-      "home": "Satara H.",
-      "away": "Roh H.",
-      "favTeam": "Roh H.",
-      "underTeam": "Satara H.",
-      "favOdd": 1.2,
-      "prob": 83,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.2
-      },
-      "avgFavOdd": 1.19,
-      "time": "16:00",
-      "kickoff": "2026-07-01T08:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m15-wuning-4/satara-harrison-roh-hoyoung/nHZqXwSP/"
+      "url": "https://www.betexplorer.com/handball/world/world-championship-u20-women/france-montenegro/hSiklqld/"
     },
     {
       "sport": "バスケ",
@@ -172,17 +172,117 @@
       "away": "Romania U20",
       "favTeam": "Latvia U20",
       "underTeam": "Romania U20",
-      "favOdd": 1.23,
-      "prob": 81,
+      "favOdd": 1.19,
+      "prob": 84,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.23
+        "1xbet": 1.19
       },
-      "avgFavOdd": 1.26,
+      "avgFavOdd": 1.17,
       "time": "20:00",
       "kickoff": "2026-07-01T12:00:00+09:00",
       "niche": true,
       "url": "https://www.betexplorer.com/basketball/world/friendly-international/latvia-romania/x2vGQpRH/"
+    },
+    {
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "WORLD: WORLD CHAMPIONSHIP U20 WOMEN",
+      "home": "Romania U20 W",
+      "away": "Poland U20 W",
+      "favTeam": "Romania U20 W",
+      "underTeam": "Poland U20 W",
+      "favOdd": 1.19,
+      "prob": 84,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.19
+      },
+      "avgFavOdd": 1.2,
+      "time": "15:45",
+      "kickoff": "2026-07-02T07:45:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/handball/world/world-championship-u20-women/romania-poland/WYfVnr65/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF WOMEN - SINGLES: W35 AMSTELVEEN, CLAY",
+      "home": "Vargova N.",
+      "away": "Herea C. A.",
+      "favTeam": "Vargova N.",
+      "underTeam": "Herea C. A.",
+      "favOdd": 1.22,
+      "prob": 82,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.22
+      },
+      "avgFavOdd": 1.22,
+      "time": "19:20",
+      "kickoff": "2026-07-01T11:20:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w35-amstelveen/vargova-nina-herea-carmen-andreea/hMdhZXfU/"
+    },
+    {
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "WORLD: WORLD CHAMPIONSHIP U20 WOMEN",
+      "home": "Austria U20 W",
+      "away": "China U20 W",
+      "favTeam": "Austria U20 W",
+      "underTeam": "China U20 W",
+      "favOdd": 1.25,
+      "prob": 80,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.25
+      },
+      "avgFavOdd": 1.2,
+      "time": "15:45",
+      "kickoff": "2026-07-02T07:45:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/handball/world/world-championship-u20-women/austria-china/6Bgsj5Jq/"
+    },
+    {
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "WORLD: WORLD CHAMPIONSHIP U20 WOMEN",
+      "home": "Egypt U20 W",
+      "away": "Iceland U20 W",
+      "favTeam": "Egypt U20 W",
+      "underTeam": "Iceland U20 W",
+      "favOdd": 1.26,
+      "prob": 79,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.26
+      },
+      "avgFavOdd": 1.24,
+      "time": "18:15",
+      "kickoff": "2026-07-02T10:15:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/handball/world/world-championship-u20-women/egypt-iceland/juoaGAVQ/"
+    },
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U22",
+      "home": "Czech Republic U22",
+      "away": "Bulgaria U22",
+      "favTeam": "Czech Republic U22",
+      "underTeam": "Bulgaria U22",
+      "favOdd": 1.27,
+      "prob": 79,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.27
+      },
+      "avgFavOdd": 1.27,
+      "time": "00:00",
+      "kickoff": "2026-07-01T16:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/volleyball/europe/european-championship-u22/czech-republic-bulgaria/8jLjpWFs/"
     },
     {
       "sport": "バレー",
@@ -192,57 +292,37 @@
       "away": "Hungary W",
       "favTeam": "Sweden W",
       "underTeam": "Hungary W",
-      "favOdd": 1.25,
-      "prob": 80,
+      "favOdd": 1.27,
+      "prob": 79,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.25
+        "1xbet": 1.27
       },
-      "avgFavOdd": 1.26,
+      "avgFavOdd": 1.27,
       "time": "02:00",
       "kickoff": "2026-07-01T18:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/volleyball/europe/european-league-women/sweden-hungary/AXaNSMvn/"
     },
     {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "NEW ZEALAND: NBL",
-      "home": "Southland Sharks",
-      "away": "Canterbury Rams",
-      "favTeam": "Southland Sharks",
-      "underTeam": "Canterbury Rams",
-      "favOdd": 1.3,
-      "prob": 77,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.3
-      },
-      "avgFavOdd": 1.29,
-      "time": "17:00",
-      "kickoff": "2026-07-01T09:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/new-zealand/nbl/southland-sharks-canterbury-rams/4856E5YA/"
-    },
-    {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M15 WUNING 4, HARD",
-      "home": "Frydrych V.",
-      "away": "Zeng Y.",
-      "favTeam": "Zeng Y.",
-      "underTeam": "Frydrych V.",
-      "favOdd": 1.31,
-      "prob": 76,
+      "league": "ITF MEN - SINGLES: M25 MARBURG, CLAY",
+      "home": "Bastiaansen P.",
+      "away": "Gerch L.",
+      "favTeam": "Gerch L.",
+      "underTeam": "Bastiaansen P.",
+      "favOdd": 1.28,
+      "prob": 78,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.31
+        "1xbet": 1.28
       },
-      "avgFavOdd": 1.3,
-      "time": "16:00",
-      "kickoff": "2026-07-01T08:00:00+09:00",
+      "avgFavOdd": 1.27,
+      "time": "19:25",
+      "kickoff": "2026-07-01T11:25:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m15-wuning-4/frydrych-viktor-zeng-yaojie/4Im30uil/"
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-marburg/bastiaansen-pepijn-gerch-lucas/YwuCVUr3/"
     },
     {
       "sport": "バレー",
@@ -252,17 +332,177 @@
       "away": "Denmark",
       "favTeam": "Finland",
       "underTeam": "Denmark",
-      "favOdd": 1.35,
-      "prob": 74,
+      "favOdd": 1.3,
+      "prob": 77,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.35
+        "1xbet": 1.3
       },
       "avgFavOdd": 1.34,
       "time": "01:15",
       "kickoff": "2026-07-01T17:15:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/volleyball/europe/european-league/finland-denmark/8pLkENPh/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M25 MARBURG, CLAY",
+      "home": "Recek D.",
+      "away": "Shah A.",
+      "favTeam": "Recek D.",
+      "underTeam": "Shah A.",
+      "favOdd": 1.45,
+      "prob": 69,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.45
+      },
+      "avgFavOdd": 1.45,
+      "time": "19:20",
+      "kickoff": "2026-07-01T11:20:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-marburg/recek-dominik-shah-aryan/QJSDDdNH/"
+    },
+    {
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "SOUTH KOREA: WK LEAGUE WOMEN",
+      "home": "Seoul W",
+      "away": "Suwon FC W",
+      "favTeam": "Suwon FC W",
+      "underTeam": "Seoul W",
+      "favOdd": 1.45,
+      "prob": 69,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.45
+      },
+      "avgFavOdd": 1.51,
+      "time": "20:00",
+      "kickoff": "2026-07-01T12:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/football/south-korea/wk-league-women/seoul-wfc-suwon-fc/UP6c58DF/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M25 SKOPJE, CLAY",
+      "home": "Bladelius H.",
+      "away": "Bruna N.",
+      "favTeam": "Bladelius H.",
+      "underTeam": "Bruna N.",
+      "favOdd": 1.49,
+      "prob": 67,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.49
+      },
+      "avgFavOdd": 1.48,
+      "time": "19:20",
+      "kickoff": "2026-07-01T11:20:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-skopje/bladelius-henrik-bruna-nicolas/jRNxkCzP/"
+    },
+    {
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "WORLD: WORLD CHAMPIONSHIP U20 WOMEN",
+      "home": "Argentina U20 W",
+      "away": "Faroe Islands U20 W",
+      "favTeam": "Argentina U20 W",
+      "underTeam": "Faroe Islands U20 W",
+      "favOdd": 1.51,
+      "prob": 66,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.51
+      },
+      "avgFavOdd": 1.54,
+      "time": "16:00",
+      "kickoff": "2026-07-02T08:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/handball/world/world-championship-u20-women/argentina-faroe-islands/xKR1PH5k/"
+    },
+    {
+      "sport": "野球",
+      "sportKey": "baseball",
+      "league": "TAIWAN: CPBL",
+      "home": "Uni Lions",
+      "away": "Rakuten Monkeys",
+      "favTeam": "Uni Lions",
+      "underTeam": "Rakuten Monkeys",
+      "favOdd": 1.52,
+      "prob": 66,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.52
+      },
+      "avgFavOdd": 1.46,
+      "time": "20:35",
+      "kickoff": "2026-07-01T12:35:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/baseball/taiwan/cpbl/uni-lions-rakuten-monkeys/MFBh7RkD/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "WORLD: FRIENDLY INTERNATIONAL",
+      "home": "Turkey U20",
+      "away": "Serbia U20",
+      "favTeam": "Serbia U20",
+      "underTeam": "Turkey U20",
+      "favOdd": 1.53,
+      "prob": 65,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.53
+      },
+      "avgFavOdd": 1.53,
+      "time": "23:00",
+      "kickoff": "2026-07-01T15:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/basketball/world/friendly-international/turkey-serbia/Uyy8S6d5/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M25 MARBURG, CLAY",
+      "home": "Hammes T.",
+      "away": "Majdandzic O.",
+      "favTeam": "Majdandzic O.",
+      "underTeam": "Hammes T.",
+      "favOdd": 1.54,
+      "prob": 65,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.54
+      },
+      "avgFavOdd": 1.54,
+      "time": "19:20",
+      "kickoff": "2026-07-01T11:20:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-marburg/hammes-tim-majdandzic-oliver/vqOkJ0gt/"
+    },
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U22",
+      "home": "Ukraine U22",
+      "away": "Portugal U22",
+      "favTeam": "Ukraine U22",
+      "underTeam": "Portugal U22",
+      "favOdd": 1.54,
+      "prob": 65,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.54
+      },
+      "avgFavOdd": 1.54,
+      "time": "03:00",
+      "kickoff": "2026-07-01T19:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/volleyball/europe/european-championship-u22/ukraine-portugal/t4JbrApf/"
     },
     {
       "sport": "野球",
@@ -272,77 +512,17 @@
       "away": "Samsung Lions",
       "favTeam": "Samsung Lions",
       "underTeam": "NC Dinos",
-      "favOdd": 1.53,
-      "prob": 65,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.53
-      },
-      "avgFavOdd": 1.46,
-      "time": "19:30",
-      "kickoff": "2026-07-01T11:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/nc-dinos-samsung-lions/Y1OTlZkK/"
-    },
-    {
-      "sport": "野球",
-      "sportKey": "baseball",
-      "league": "JAPAN: NPB",
-      "home": "Nippon Ham Fighters",
-      "away": "Orix Buffaloes",
-      "favTeam": "Nippon Ham Fighters",
-      "underTeam": "Orix Buffaloes",
-      "favOdd": 1.55,
-      "prob": 65,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.55
-      },
-      "avgFavOdd": 1.5,
-      "time": "19:00",
-      "kickoff": "2026-07-01T11:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/baseball/japan/npb/nippon-ham-fighters-orix-buffaloes/4SaZwAKt/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - DOUBLES: M15 TOKYO 3, HARD",
-      "home": "Shin S. / Sumizawa D.",
-      "away": "Mochizuki Y. / Nakamura R.",
-      "favTeam": "Shin S. / Sumizawa D.",
-      "underTeam": "Mochizuki Y. / Nakamura R.",
       "favOdd": 1.59,
       "prob": 63,
       "book": "1xBet",
       "books": {
         "1xbet": 1.59
       },
-      "avgFavOdd": 1.57,
-      "time": "16:00",
-      "kickoff": "2026-07-01T08:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-doubles/m15-tokyo-3/shin-sanhui-sumizawa-daisuke-mochizuki-yuki-nakamura-ren/UemP8eVG/"
-    },
-    {
-      "sport": "野球",
-      "sportKey": "baseball",
-      "league": "JAPAN: NPB",
-      "home": "Yomiuri Giants",
-      "away": "Yakult Swallows",
-      "favTeam": "Yomiuri Giants",
-      "underTeam": "Yakult Swallows",
-      "favOdd": 1.6,
-      "prob": 63,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.6
-      },
-      "avgFavOdd": 1.56,
-      "time": "19:00",
-      "kickoff": "2026-07-01T11:00:00+09:00",
+      "avgFavOdd": 1.53,
+      "time": "19:30",
+      "kickoff": "2026-07-01T11:30:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/baseball/japan/npb/yomiuri-giants-yakult-swallows/8nJNYEr1/"
+      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/nc-dinos-samsung-lions/Y1OTlZkK/"
     }
   ]
 }
