@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T09:10:49.694Z",
+  "generatedAt": "2026-07-02T12:27:08.311Z",
   "source": "betexplorer.com (Pinnacle / 1xBet odds)",
   "threshold": 1.6,
   "count": 19,
@@ -8,15 +8,35 @@
       "sport": "バスケ",
       "sportKey": "basketball",
       "league": "WORLD: WORLD CUP",
+      "home": "India",
+      "away": "Qatar",
+      "favTeam": "Qatar",
+      "underTeam": "India",
+      "favOdd": 1.01,
+      "prob": 99,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.01
+      },
+      "avgFavOdd": 1.02,
+      "time": "22:30",
+      "kickoff": "2026-07-02T14:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/world/world-cup/india-qatar/nFLqmbwn/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "WORLD: WORLD CUP",
       "home": "Lithuania",
       "away": "Great Britain",
       "favTeam": "Lithuania",
       "underTeam": "Great Britain",
-      "favOdd": 1.03,
-      "prob": 97,
+      "favOdd": 1.01,
+      "prob": 99,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.03
+        "1xbet": 1.01
       },
       "avgFavOdd": 1.02,
       "time": "01:30",
@@ -25,64 +45,84 @@
       "url": "https://www.betexplorer.com/basketball/world/world-cup/lithuania-great-britain/8M5qnCgo/"
     },
     {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "WORLD: WORLD CHAMPIONSHIP U20 WOMEN",
-      "home": "Japan U20 W",
-      "away": "Spain U20 W",
-      "favTeam": "Spain U20 W",
-      "underTeam": "Japan U20 W",
-      "favOdd": 1.04,
-      "prob": 96,
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "EUROPE: EUROBASKET",
+      "home": "North Macedonia",
+      "away": "Ireland",
+      "favTeam": "North Macedonia",
+      "underTeam": "Ireland",
+      "favOdd": 1.02,
+      "prob": 98,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.04
+        "1xbet": 1.02
       },
-      "avgFavOdd": 1.05,
-      "time": "20:30",
-      "kickoff": "2026-07-02T12:30:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/handball/world/world-championship-u20-women/japan-spain/thYp76hD/"
+      "avgFavOdd": 1.02,
+      "time": "02:00",
+      "kickoff": "2026-07-02T18:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/europe/eurobasket/north-macedonia-ireland/zF856kFL/"
     },
     {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "WORLD: WORLD CHAMPIONSHIP U20 WOMEN",
-      "home": "Germany U20 W",
-      "away": "Norway U20 W",
-      "favTeam": "Germany U20 W",
-      "underTeam": "Norway U20 W",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M25 SKOPJE, CLAY",
+      "home": "Kolyachev N.",
+      "away": "Orlov V.",
+      "favTeam": "Orlov V.",
+      "underTeam": "Kolyachev N.",
+      "favOdd": 1.03,
+      "prob": 97,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.03
+      },
+      "avgFavOdd": 1.04,
+      "time": "22:20",
+      "kickoff": "2026-07-02T14:20:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-skopje/kolyachev-nikola-orlov-vladyslav/tb1I1kKU/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - DOUBLES: M25 MARBURG, CLAY",
+      "home": "Recek D. / Siniakov D.",
+      "away": "Barbic A. / Einig F.",
+      "favTeam": "Recek D. / Siniakov D.",
+      "underTeam": "Barbic A. / Einig F.",
+      "favOdd": 1.06,
+      "prob": 94,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.06
+      },
+      "avgFavOdd": 1.06,
+      "time": "22:30",
+      "kickoff": "2026-07-02T14:30:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-doubles/m25-marburg/recek-dominik-siniakov-daniel-barbic-arian-einig-felix/S2DCtMas/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "CHALLENGER MEN - SINGLES: MILAN, CLAY",
+      "home": "Diaz Acosta F.",
+      "away": "Rapagnetta D.",
+      "favTeam": "Diaz Acosta F.",
+      "underTeam": "Rapagnetta D.",
       "favOdd": 1.08,
       "prob": 93,
       "book": "1xBet",
       "books": {
         "1xbet": 1.08
       },
-      "avgFavOdd": 1.08,
-      "time": "20:30",
-      "kickoff": "2026-07-02T12:30:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/handball/world/world-championship-u20-women/germany-norway/8bQWU9pK/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "WORLD: WORLD CUP",
-      "home": "Tunisia",
-      "away": "Nigeria",
-      "favTeam": "Nigeria",
-      "underTeam": "Tunisia",
-      "favOdd": 1.13,
-      "prob": 88,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.13
-      },
-      "avgFavOdd": 1.11,
-      "time": "22:00",
-      "kickoff": "2026-07-02T14:00:00+09:00",
+      "avgFavOdd": 1.09,
+      "time": "22:20",
+      "kickoff": "2026-07-02T14:20:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/world/world-cup/tunisia-nigeria/f7F98yVr/"
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/milan/diaz-acosta-facundo-rapagnetta-daniele/xONDzNng/"
     },
     {
       "sport": "バスケ",
@@ -105,104 +145,44 @@
       "url": "https://www.betexplorer.com/basketball/world/world-cup/syria-iraq/Moi2Yw7e/"
     },
     {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "WORLD: WORLD CHAMPIONSHIP U20 WOMEN",
-      "home": "Brazil U20 W",
-      "away": "Croatia U20 W",
-      "favTeam": "Croatia U20 W",
-      "underTeam": "Brazil U20 W",
-      "favOdd": 1.19,
-      "prob": 84,
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "WORLD: WORLD CUP",
+      "home": "Romania",
+      "away": "Greece",
+      "favTeam": "Greece",
+      "underTeam": "Romania",
+      "favOdd": 1.17,
+      "prob": 85,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.19
+        "1xbet": 1.17
       },
-      "avgFavOdd": 1.18,
-      "time": "20:30",
-      "kickoff": "2026-07-02T12:30:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/handball/world/world-championship-u20-women/brazil-croatia/xvIeoaS8/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - SINGLES: W35 AIX-LES-BAINS, CLAY",
-      "home": "Kabbaj Y.",
-      "away": "Shapatava S.",
-      "favTeam": "Kabbaj Y.",
-      "underTeam": "Shapatava S.",
-      "favOdd": 1.25,
-      "prob": 80,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.25
-      },
-      "avgFavOdd": 1.25,
-      "time": "19:10",
-      "kickoff": "2026-07-02T11:10:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w35-aix-les-bains/kabbaj-yasmine-shapatava-sophia/phVGLp6e/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25 MARBURG, CLAY",
-      "home": "Rossi L.",
-      "away": "Siniakov D.",
-      "favTeam": "Siniakov D.",
-      "underTeam": "Rossi L.",
-      "favOdd": 1.28,
-      "prob": 78,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.28
-      },
-      "avgFavOdd": 1.27,
-      "time": "19:10",
-      "kickoff": "2026-07-02T11:10:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-marburg/rossi-leonardo-siniakov-daniel/4Gl0bDSg/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - DOUBLES: MILAN, CLAY",
-      "home": "Damas M. / Roca Batalla O.",
-      "away": "Forti F. / Romano F.",
-      "favTeam": "Forti F. / Romano F.",
-      "underTeam": "Damas M. / Roca Batalla O.",
-      "favOdd": 1.34,
-      "prob": 75,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.34
-      },
-      "avgFavOdd": 1.34,
-      "time": "19:30",
-      "kickoff": "2026-07-02T11:30:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-doubles/milan/damas-miguel-roca-batalla-oriol-forti-francesco-romano-filippo/tIiad2m1/"
-    },
-    {
-      "sport": "野球",
-      "sportKey": "baseball",
-      "league": "SOUTH KOREA: KBO",
-      "home": "Kiwoom Heroes",
-      "away": "LG Twins",
-      "favTeam": "LG Twins",
-      "underTeam": "Kiwoom Heroes",
-      "favOdd": 1.39,
-      "prob": 72,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.39
-      },
-      "avgFavOdd": 1.36,
-      "time": "19:30",
-      "kickoff": "2026-07-02T11:30:00+09:00",
+      "avgFavOdd": 1.14,
+      "time": "02:00",
+      "kickoff": "2026-07-02T18:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/kiwoom-heroes-lg-twins/CWgrfURa/"
+      "url": "https://www.betexplorer.com/basketball/world/world-cup/romania-greece/ljEN9fnl/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M25 RABAT, CLAY",
+      "home": "Bennani K.",
+      "away": "Klok D.",
+      "favTeam": "Bennani K.",
+      "underTeam": "Klok D.",
+      "favOdd": 1.18,
+      "prob": 85,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.18
+      },
+      "avgFavOdd": 1.2,
+      "time": "22:30",
+      "kickoff": "2026-07-02T14:30:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-rabat/bennani-karim-klok-denis/Aql5jm6k/"
     },
     {
       "sport": "バスケ",
@@ -212,137 +192,157 @@
       "away": "Ho Chi Minh City Wings",
       "favTeam": "Ho Chi Minh City Wings",
       "underTeam": "Can Tho Catfish",
-      "favOdd": 1.4,
-      "prob": 71,
+      "favOdd": 1.23,
+      "prob": 81,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.4
+        "1xbet": 1.23
       },
-      "avgFavOdd": 1.41,
+      "avgFavOdd": 1.24,
       "time": "22:30",
       "kickoff": "2026-07-02T14:30:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/basketball/vietnam/vba/can-tho-catfish-ho-chi-minh-city-wings/nFKL3BPq/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - SINGLES: W35 AMSTELVEEN, CLAY",
-      "home": "Pace F.",
-      "away": "Falkowska W.",
-      "favTeam": "Falkowska W.",
-      "underTeam": "Pace F.",
-      "favOdd": 1.42,
-      "prob": 70,
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "WORLD: CLUB FRIENDLY",
+      "home": "Spartak Moscow",
+      "away": "S. Kostroma",
+      "favTeam": "Spartak Moscow",
+      "underTeam": "S. Kostroma",
+      "favOdd": 1.28,
+      "prob": 78,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.42
+        "1xbet": 1.28
       },
-      "avgFavOdd": 1.4,
-      "time": "19:10",
-      "kickoff": "2026-07-02T11:10:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w35-amstelveen/pace-francesca-falkowska-weronika/UTr5Oj1D/"
+      "avgFavOdd": 1.27,
+      "time": "00:00",
+      "kickoff": "2026-07-02T16:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/football/world/club-friendly/spartak-moscow-s-kostroma/8Q8TtEWQ/"
+    },
+    {
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "KAZAKHSTAN: PREMIER LEAGUE",
+      "home": "Kairat Almaty",
+      "away": "Okzhetpes",
+      "favTeam": "Kairat Almaty",
+      "underTeam": "Okzhetpes",
+      "favOdd": 1.3,
+      "prob": 77,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.3
+      },
+      "avgFavOdd": 1.29,
+      "time": "00:00",
+      "kickoff": "2026-07-02T16:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/football/kazakhstan/premier-league/kairat-almaty-okzhetpes/juubNGi2/"
     },
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "CHALLENGER MEN - DOUBLES: BRASOV, CLAY",
-      "home": "Grevelius E. / Poljak D.",
-      "away": "Castelnuovo L. / Santillan A.",
-      "favTeam": "Grevelius E. / Poljak D.",
-      "underTeam": "Castelnuovo L. / Santillan A.",
-      "favOdd": 1.44,
+      "league": "ITF MEN - SINGLES: M25 FIGUEIRA DA FOZ, HARD",
+      "home": "Hudd E.",
+      "away": "Marques G.",
+      "favTeam": "Hudd E.",
+      "underTeam": "Marques G.",
+      "favOdd": 1.34,
+      "prob": 75,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.34
+      },
+      "avgFavOdd": 1.35,
+      "time": "22:20",
+      "kickoff": "2026-07-02T14:20:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-figueira-da-foz/hudd-emile-marques-goncalo/Ecl2jOWr/"
+    },
+    {
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "KYRGYZSTAN: PREMIER LIGA",
+      "home": "Kyrgyzaltyn",
+      "away": "Dordoi Bishkek",
+      "favTeam": "Dordoi Bishkek",
+      "underTeam": "Kyrgyzaltyn",
+      "favOdd": 1.45,
       "prob": 69,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.44
-      },
-      "avgFavOdd": 1.44,
-      "time": "19:15",
-      "kickoff": "2026-07-02T11:15:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-doubles/brasov/grevelius-erik-poljak-david-castelnuovo-luca-santillan-akira/WQ2s4RJD/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25 MARBURG, CLAY",
-      "home": "Shah A.",
-      "away": "Planinsek F. J.",
-      "favTeam": "Planinsek F. J.",
-      "underTeam": "Shah A.",
-      "favOdd": 1.46,
-      "prob": 68,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.46
+        "1xbet": 1.45
       },
       "avgFavOdd": 1.46,
-      "time": "19:10",
-      "kickoff": "2026-07-02T11:10:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-marburg/shah-aryan-filip-jeff-planinsek/bD4Z5mk1/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "AUSTRALIA: NBL1 SOUTH",
-      "home": "Ringwood",
-      "away": "Kilsyth",
-      "favTeam": "Ringwood",
-      "underTeam": "Kilsyth",
-      "favOdd": 1.49,
-      "prob": 67,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.49
-      },
-      "avgFavOdd": 1.51,
-      "time": "20:00",
-      "kickoff": "2026-07-02T12:00:00+09:00",
+      "time": "00:30",
+      "kickoff": "2026-07-02T16:30:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/australia/nbl1-south/ringwood-kilsyth/jVtcKFw9/"
+      "url": "https://www.betexplorer.com/football/kyrgyzstan/premier-liga/kyrgyzaltyn-dordoi-bishkek/bFVeJWGl/"
     },
     {
       "sport": "野球",
       "sportKey": "baseball",
-      "league": "JAPAN: NPB",
-      "home": "Yokohama BayStars",
-      "away": "Hiroshima Carp",
-      "favTeam": "Yokohama BayStars",
-      "underTeam": "Hiroshima Carp",
-      "favOdd": 1.52,
+      "league": "USA: MLB",
+      "home": "Seattle Mariners",
+      "away": "Los Angeles Angels",
+      "favTeam": "Seattle Mariners",
+      "underTeam": "Los Angeles Angels",
+      "favOdd": 1.51,
       "prob": 66,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.52
+        "1xbet": 1.51
       },
-      "avgFavOdd": 1.51,
-      "time": "19:15",
-      "kickoff": "2026-07-02T11:15:00+09:00",
+      "avgFavOdd": 1.46,
+      "time": "11:40",
+      "kickoff": "2026-07-03T03:40:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/baseball/japan/npb/yokohama-baystars-hiroshima-carp/tYfbY5lI/"
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/seattle-mariners-los-angeles-angels/tUGZMivQ/"
     },
     {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "WORLD: WORLD CHAMPIONSHIP U20 WOMEN",
-      "home": "Turkey U20 W",
-      "away": "Tunisia U20 W",
-      "favTeam": "Tunisia U20 W",
-      "underTeam": "Turkey U20 W",
-      "favOdd": 1.53,
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "CHALLENGER MEN - SINGLES: TROYES, CLAY",
+      "home": "Coulibaly E.",
+      "away": "Vasilev A.",
+      "favTeam": "Vasilev A.",
+      "underTeam": "Coulibaly E.",
+      "favOdd": 1.54,
       "prob": 65,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.53
+        "1xbet": 1.54
       },
-      "avgFavOdd": 1.47,
-      "time": "20:30",
-      "kickoff": "2026-07-02T12:30:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/handball/world/world-championship-u20-women/turkey-tunisia/ppV9Nez2/"
+      "avgFavOdd": 1.51,
+      "time": "22:25",
+      "kickoff": "2026-07-02T14:25:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/troyes/coulibaly-eliakim-vasilev-alexander/rFcWep9L/"
+    },
+    {
+      "sport": "野球",
+      "sportKey": "baseball",
+      "league": "USA: MLB",
+      "home": "Los Angeles Dodgers",
+      "away": "San Diego Padres",
+      "favTeam": "Los Angeles Dodgers",
+      "underTeam": "San Diego Padres",
+      "favOdd": 1.56,
+      "prob": 64,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.56
+      },
+      "avgFavOdd": 1.5,
+      "time": "12:10",
+      "kickoff": "2026-07-03T04:10:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/los-angeles-dodgers-san-diego-padres/SlZnalnJ/"
     },
     {
       "sport": "野球",
@@ -352,11 +352,11 @@
       "away": "Cincinnati Reds",
       "favTeam": "Milwaukee Brewers",
       "underTeam": "Cincinnati Reds",
-      "favOdd": 1.55,
-      "prob": 65,
+      "favOdd": 1.56,
+      "prob": 64,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.55
+        "1xbet": 1.56
       },
       "avgFavOdd": 1.51,
       "time": "04:10",
@@ -367,22 +367,22 @@
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25 SKOPJE, CLAY",
-      "home": "Ryan Ziegann S.",
-      "away": "Kountourakis I.",
-      "favTeam": "Kountourakis I.",
-      "underTeam": "Ryan Ziegann S.",
-      "favOdd": 1.59,
+      "league": "ITF MEN - SINGLES: M25 FIGUEIRA DA FOZ, HARD",
+      "home": "Pereira T.",
+      "away": "Schoen P.",
+      "favTeam": "Schoen P.",
+      "underTeam": "Pereira T.",
+      "favOdd": 1.6,
       "prob": 63,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.59
+        "1xbet": 1.6
       },
-      "avgFavOdd": 1.59,
-      "time": "19:10",
-      "kickoff": "2026-07-02T11:10:00+09:00",
+      "avgFavOdd": 1.58,
+      "time": "22:25",
+      "kickoff": "2026-07-02T14:25:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-skopje/ryan-ziegann-sam-kountourakis-ioannis/6wbn9FLt/"
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-figueira-da-foz/tiago-pereira-schoen-patrick/hE642Aln/"
     }
   ]
 }
