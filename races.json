@@ -1,7 +1,7 @@
 {
  "meta": {
   "updatedAt": "2026-07-05",
-  "note": "7/4(土)3鞍は結果確定。7/5(日)北九州記念(G3・重馬場に悪化)・ジュライS・大沼Sを予想掲載(全15鞍蓄積)。"
+  "note": "7/4(土)・7/5(日)全6鞍の結果確定。予想スタート(6/21)からの全レースを蓄積中。"
  },
  "races": [
   {
@@ -3816,6 +3816,19 @@
       }
      }
     }
+   },
+   "result": {
+    "first": 12,
+    "second": 2,
+    "third": 9,
+    "tanshoPay": 300,
+    "fukushoPay": [
+     160,
+     410,
+     230
+    ],
+    "sanrenpukuPay": 9440,
+    "sanrentanPay": 41430
    }
   },
   {
@@ -4118,6 +4131,19 @@
       }
      }
     }
+   },
+   "result": {
+    "first": 7,
+    "second": 8,
+    "third": 1,
+    "tanshoPay": 970,
+    "fukushoPay": [
+     320,
+     260,
+     170
+    ],
+    "sanrenpukuPay": 12340,
+    "sanrentanPay": 78470
    }
   },
   {
@@ -4400,6 +4426,19 @@
       }
      }
     }
+   },
+   "result": {
+    "first": 11,
+    "second": 6,
+    "third": 7,
+    "tanshoPay": 510,
+    "fukushoPay": [
+     210,
+     340,
+     230
+    ],
+    "sanrenpukuPay": 7370,
+    "sanrentanPay": 41770
    }
   }
  ]
