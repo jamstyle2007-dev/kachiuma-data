@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-09T04:12:26.689Z",
+  "generatedAt": "2026-07-09T07:15:18.161Z",
   "source": "betexplorer.com (Pinnacle / 1xBet odds)",
   "threshold": 1.6,
-  "count": 27,
+  "count": 33,
   "matches": [
     {
       "sport": "ハンドボール",
@@ -12,11 +12,11 @@
       "away": "Turkey U20",
       "favTeam": "Faroe Islands U20",
       "underTeam": "Turkey U20",
-      "favOdd": 1.02,
-      "prob": 98,
+      "favOdd": 1.01,
+      "prob": 99,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.02
+        "1xbet": 1.01
       },
       "avgFavOdd": 1.01,
       "time": "21:30",
@@ -32,57 +32,37 @@
       "away": "Romania U20",
       "favTeam": "Sweden U20",
       "underTeam": "Romania U20",
-      "favOdd": 1.02,
-      "prob": 98,
+      "favOdd": 1.01,
+      "prob": 99,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.02
+        "1xbet": 1.01
       },
-      "avgFavOdd": 1.02,
+      "avgFavOdd": 1.03,
       "time": "00:00",
       "kickoff": "2026-07-09T16:00:00+09:00",
       "niche": true,
       "url": "https://www.betexplorer.com/handball/europe/european-championship-u20/sweden-romania/n9scxOln/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - SINGLES: W15 ASTANA, HARD",
-      "home": "Sedysheva A.",
-      "away": "Kroitor K.",
-      "favTeam": "Kroitor K.",
-      "underTeam": "Sedysheva A.",
-      "favOdd": 1.02,
-      "prob": 98,
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U22 WOMEN",
+      "home": "Spain U22 W",
+      "away": "Ukraine U22 W",
+      "favTeam": "Spain U22 W",
+      "underTeam": "Ukraine U22 W",
+      "favOdd": 1.03,
+      "prob": 97,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.02
+        "1xbet": 1.03
       },
-      "avgFavOdd": 1.04,
-      "time": "15:30",
-      "kickoff": "2026-07-09T07:30:00+09:00",
+      "avgFavOdd": 1.03,
+      "time": "01:00",
+      "kickoff": "2026-07-09T17:00:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w15-astana/sedysheva-anna-kroitor-kristina/QoP28ZHF/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "NEW ZEALAND: NBL",
-      "home": "Canterbury Rams",
-      "away": "Taranaki Airs",
-      "favTeam": "Canterbury Rams",
-      "underTeam": "Taranaki Airs",
-      "favOdd": 1.02,
-      "prob": 98,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.02
-      },
-      "avgFavOdd": 1.05,
-      "time": "17:00",
-      "kickoff": "2026-07-09T09:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/new-zealand/nbl/canterbury-rams-taranaki-airs/zcuo7NQp/"
+      "url": "https://www.betexplorer.com/volleyball/europe/european-championship-u22-women/spain-ukraine/vumNwyi3/"
     },
     {
       "sport": "バスケ",
@@ -98,7 +78,7 @@
       "books": {
         "1xbet": 1.03
       },
-      "avgFavOdd": 1.04,
+      "avgFavOdd": 1.06,
       "time": "20:30",
       "kickoff": "2026-07-09T12:30:00+09:00",
       "niche": false,
@@ -118,91 +98,31 @@
       "books": {
         "1xbet": 1.04
       },
-      "avgFavOdd": 1.03,
+      "avgFavOdd": 1.04,
       "time": "19:00",
       "kickoff": "2026-07-09T11:00:00+09:00",
       "niche": true,
       "url": "https://www.betexplorer.com/handball/europe/european-championship-u20/austria-latvia/dSKCdnyf/"
     },
     {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "AUSTRALIA: NBL1 WEST WOMEN",
-      "home": "East Perth Eagles W",
-      "away": "Lakeside Lightning W",
-      "favTeam": "East Perth Eagles W",
-      "underTeam": "Lakeside Lightning W",
-      "favOdd": 1.06,
-      "prob": 94,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.06
-      },
-      "avgFavOdd": 1.06,
-      "time": "20:30",
-      "kickoff": "2026-07-09T12:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/australia/nbl1-west-women/east-perth-eagles-lakeside-lightning/0tnGZ5Yj/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - SINGLES: W15 ASTANA, HARD",
-      "home": "Sholokhova M.",
-      "away": "Nishimoto S.",
-      "favTeam": "Sholokhova M.",
-      "underTeam": "Nishimoto S.",
-      "favOdd": 1.07,
-      "prob": 93,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.07
-      },
-      "avgFavOdd": 1.08,
-      "time": "15:30",
-      "kickoff": "2026-07-09T07:30:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w15-astana/sholokhova-maria-nishimoto-sera/txCLDUge/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "AUSTRALIA: NBL1 WEST",
-      "home": "Perry Lakes Hawks",
-      "away": "Rockingham Flames",
-      "favTeam": "Rockingham Flames",
-      "underTeam": "Perry Lakes Hawks",
-      "favOdd": 1.08,
-      "prob": 93,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.08
-      },
-      "avgFavOdd": 1.07,
-      "time": "22:30",
-      "kickoff": "2026-07-09T14:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/australia/nbl1-west/perry-lakes-hawks-rockingham-flames/EPLhopLk/"
-    },
-    {
       "sport": "バレー",
       "sportKey": "volleyball",
-      "league": "WORLD: NATIONS LEAGUE WOMEN",
-      "home": "Serbia W",
-      "away": "France W",
-      "favTeam": "Serbia W",
-      "underTeam": "France W",
-      "favOdd": 1.09,
-      "prob": 92,
+      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U22 WOMEN",
+      "home": "Portugal U22 W",
+      "away": "Italy U22 W",
+      "favTeam": "Italy U22 W",
+      "underTeam": "Portugal U22 W",
+      "favOdd": 1.04,
+      "prob": 96,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.09
+        "1xbet": 1.04
       },
-      "avgFavOdd": 1.14,
-      "time": "04:00",
-      "kickoff": "2026-07-09T20:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/world/nations-league-women/serbia-france/0fOSlh87/"
+      "avgFavOdd": 1.04,
+      "time": "03:30",
+      "kickoff": "2026-07-09T19:30:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/volleyball/europe/european-championship-u22-women/portugal-italy/z7tWyFLF/"
     },
     {
       "sport": "バレー",
@@ -212,13 +132,13 @@
       "away": "Thailand W",
       "favTeam": "Japan W",
       "underTeam": "Thailand W",
-      "favOdd": 1.1,
-      "prob": 91,
+      "favOdd": 1.08,
+      "prob": 93,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.1
+        "1xbet": 1.08
       },
-      "avgFavOdd": 1.1,
+      "avgFavOdd": 1.09,
       "time": "20:20",
       "kickoff": "2026-07-09T12:20:00+09:00",
       "niche": false,
@@ -228,21 +148,161 @@
       "sport": "バレー",
       "sportKey": "volleyball",
       "league": "WORLD: NATIONS LEAGUE WOMEN",
+      "home": "Serbia W",
+      "away": "France W",
+      "favTeam": "Serbia W",
+      "underTeam": "France W",
+      "favOdd": 1.08,
+      "prob": 93,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.08
+      },
+      "avgFavOdd": 1.13,
+      "time": "04:00",
+      "kickoff": "2026-07-09T20:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/volleyball/world/nations-league-women/serbia-france/0fOSlh87/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "AUSTRALIA: NBL1 WEST",
+      "home": "Perry Lakes Hawks",
+      "away": "Rockingham Flames",
+      "favTeam": "Rockingham Flames",
+      "underTeam": "Perry Lakes Hawks",
+      "favOdd": 1.09,
+      "prob": 92,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.09
+      },
+      "avgFavOdd": 1.09,
+      "time": "22:30",
+      "kickoff": "2026-07-09T14:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/australia/nbl1-west/perry-lakes-hawks-rockingham-flames/EPLhopLk/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "AUSTRALIA: NBL1 WEST WOMEN",
+      "home": "East Perth Eagles W",
+      "away": "Lakeside Lightning W",
+      "favTeam": "East Perth Eagles W",
+      "underTeam": "Lakeside Lightning W",
+      "favOdd": 1.1,
+      "prob": 91,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.1
+      },
+      "avgFavOdd": 1.11,
+      "time": "20:30",
+      "kickoff": "2026-07-09T12:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/australia/nbl1-west-women/east-perth-eagles-lakeside-lightning/0tnGZ5Yj/"
+    },
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "WORLD: PAN-AMERICAN CUP U21 WOMEN",
+      "home": "Venezuela U21 W",
+      "away": "Mexico U21 W",
+      "favTeam": "Mexico U21 W",
+      "underTeam": "Venezuela U21 W",
+      "favOdd": 1.11,
+      "prob": 90,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.11
+      },
+      "avgFavOdd": 1.11,
+      "time": "05:00",
+      "kickoff": "2026-07-09T21:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup-u21-women/venezuela-mexico/YkNKdTsC/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M15 HILLCREST 2, HARD",
+      "home": "Timini A.",
+      "away": "Deckers A.",
+      "favTeam": "Deckers A.",
+      "underTeam": "Timini A.",
+      "favOdd": 1.13,
+      "prob": 88,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.13
+      },
+      "avgFavOdd": 1.15,
+      "time": "18:00",
+      "kickoff": "2026-07-09T10:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m15-hillcrest-2/timini-andreas-deckers-alec/rkj56AKO/"
+    },
+    {
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "VIETNAM: NATIONAL LEAGUE WOMEN",
+      "home": "Ha Noi 2 W",
+      "away": "Phong Phu Ha Nam W",
+      "favTeam": "Phong Phu Ha Nam W",
+      "underTeam": "Ha Noi 2 W",
+      "favOdd": 1.14,
+      "prob": 88,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.14
+      },
+      "avgFavOdd": 1.16,
+      "time": "19:00",
+      "kickoff": "2026-07-09T11:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/football/vietnam/national-league-women/ha-noi-phong-phu-ha-nam/G6z9Ui8s/"
+    },
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "WORLD: NATIONS LEAGUE WOMEN",
       "home": "China W",
       "away": "Ukraine W",
       "favTeam": "China W",
       "underTeam": "Ukraine W",
+      "favOdd": 1.17,
+      "prob": 85,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.17
+      },
+      "avgFavOdd": 1.2,
+      "time": "22:30",
+      "kickoff": "2026-07-09T14:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/volleyball/world/nations-league-women/china-ukraine/p4HChz9r/"
+    },
+    {
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U20",
+      "home": "Iceland U20",
+      "away": "Spain U20",
+      "favTeam": "Spain U20",
+      "underTeam": "Iceland U20",
       "favOdd": 1.2,
       "prob": 83,
       "book": "1xBet",
       "books": {
         "1xbet": 1.2
       },
-      "avgFavOdd": 1.21,
-      "time": "22:30",
-      "kickoff": "2026-07-09T14:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/world/nations-league-women/china-ukraine/p4HChz9r/"
+      "avgFavOdd": 1.2,
+      "time": "00:00",
+      "kickoff": "2026-07-09T16:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/handball/europe/european-championship-u20/iceland-spain/2PNKfQ56/"
     },
     {
       "sport": "バレー",
@@ -252,17 +312,57 @@
       "away": "Canada W",
       "favTeam": "Canada W",
       "underTeam": "Belgium W",
-      "favOdd": 1.2,
+      "favOdd": 1.21,
       "prob": 83,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.2
+        "1xbet": 1.21
       },
-      "avgFavOdd": 1.22,
+      "avgFavOdd": 1.21,
       "time": "19:00",
       "kickoff": "2026-07-09T11:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/volleyball/world/nations-league-women/belgium-canada/ryTYaIG8/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "AUSTRALIA: NBL1 SOUTH WOMEN",
+      "home": "Melbourne Tigers W",
+      "away": "Sandringham W",
+      "favTeam": "Melbourne Tigers W",
+      "underTeam": "Sandringham W",
+      "favOdd": 1.22,
+      "prob": 82,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.22
+      },
+      "avgFavOdd": 1.2,
+      "time": "18:30",
+      "kickoff": "2026-07-09T10:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/australia/nbl1-south-women/melbourne-tigers-sandringham-sabres/vXGeNeN0/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF WOMEN - SINGLES: W35 HILLCREST, HARD",
+      "home": "Cirotte A.",
+      "away": "Pahwa S.",
+      "favTeam": "Cirotte A.",
+      "underTeam": "Pahwa S.",
+      "favOdd": 1.23,
+      "prob": 81,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.23
+      },
+      "avgFavOdd": 1.22,
+      "time": "18:00",
+      "kickoff": "2026-07-09T10:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w35-hillcrest/astrid-cirotte-pahwa-samaira/OnAM2ur1/"
     },
     {
       "sport": "ハンドボール",
@@ -272,13 +372,13 @@
       "away": "Portugal U20",
       "favTeam": "Germany U20",
       "underTeam": "Portugal U20",
-      "favOdd": 1.26,
-      "prob": 79,
+      "favOdd": 1.23,
+      "prob": 81,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.26
+        "1xbet": 1.23
       },
-      "avgFavOdd": 1.23,
+      "avgFavOdd": 1.24,
       "time": "00:00",
       "kickoff": "2026-07-09T16:00:00+09:00",
       "niche": true,
@@ -292,97 +392,57 @@
       "away": "Norway U20",
       "favTeam": "Denmark U20",
       "underTeam": "Norway U20",
-      "favOdd": 1.26,
-      "prob": 79,
+      "favOdd": 1.24,
+      "prob": 81,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.26
+        "1xbet": 1.24
       },
-      "avgFavOdd": 1.26,
+      "avgFavOdd": 1.22,
       "time": "02:30",
       "kickoff": "2026-07-09T18:30:00+09:00",
       "niche": true,
       "url": "https://www.betexplorer.com/handball/europe/european-championship-u20/denmark-norway/0M485sKO/"
     },
     {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U20",
-      "home": "Iceland U20",
-      "away": "Spain U20",
-      "favTeam": "Spain U20",
-      "underTeam": "Iceland U20",
-      "favOdd": 1.28,
-      "prob": 78,
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF WOMEN - SINGLES: W35 BUZAU, CLAY",
+      "home": "Lovric P.",
+      "away": "Struplova J.",
+      "favTeam": "Struplova J.",
+      "underTeam": "Lovric P.",
+      "favOdd": 1.24,
+      "prob": 81,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.28
+        "1xbet": 1.24
       },
-      "avgFavOdd": 1.26,
-      "time": "00:00",
-      "kickoff": "2026-07-09T16:00:00+09:00",
+      "avgFavOdd": 1.24,
+      "time": "17:30",
+      "kickoff": "2026-07-09T09:30:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/handball/europe/european-championship-u20/iceland-spain/2PNKfQ56/"
+      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w35-buzau/lovric-pia-struplova-julie/WzpIBAN5/"
     },
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "ITF WOMEN - SINGLES: W35 BUZAU, CLAY",
-      "home": "Dencheva R.",
-      "away": "Kazionova E.",
-      "favTeam": "Dencheva R.",
-      "underTeam": "Kazionova E.",
-      "favOdd": 1.31,
-      "prob": 76,
+      "league": "ITF MEN - SINGLES: M15 LODZ, CLAY",
+      "home": "Michnev P.",
+      "away": "Rivera L.",
+      "favTeam": "Michnev P.",
+      "underTeam": "Rivera L.",
+      "favOdd": 1.26,
+      "prob": 79,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.31
+        "1xbet": 1.26
       },
-      "avgFavOdd": 1.32,
-      "time": "16:00",
-      "kickoff": "2026-07-09T08:00:00+09:00",
+      "avgFavOdd": 1.27,
+      "time": "18:00",
+      "kickoff": "2026-07-09T10:00:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w35-buzau/dencheva-rositsa-kazionova-ekaterina/EBiJwese/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "AUSTRALIA: NBL1 SOUTH WOMEN",
-      "home": "Melbourne Tigers W",
-      "away": "Sandringham W",
-      "favTeam": "Melbourne Tigers W",
-      "underTeam": "Sandringham W",
-      "favOdd": 1.32,
-      "prob": 76,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.32
-      },
-      "avgFavOdd": 1.29,
-      "time": "18:30",
-      "kickoff": "2026-07-09T10:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/australia/nbl1-south-women/melbourne-tigers-sandringham-sabres/vXGeNeN0/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "AUSTRALIA: NBL1 SOUTH",
-      "home": "Melbourne Tigers",
-      "away": "Sandringham Sabres",
-      "favTeam": "Melbourne Tigers",
-      "underTeam": "Sandringham Sabres",
-      "favOdd": 1.34,
-      "prob": 75,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.34
-      },
-      "avgFavOdd": 1.31,
-      "time": "20:30",
-      "kickoff": "2026-07-09T12:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/australia/nbl1-south/melbourne-tigers-sandringham-sabres/Ye5HY5bJ/"
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m15-lodz/michnev-petr-rivera-leyton/tOfrl834/"
     },
     {
       "sport": "ハンドボール",
@@ -392,13 +452,13 @@
       "away": "North Macedonia U20",
       "favTeam": "Croatia U20",
       "underTeam": "North Macedonia U20",
-      "favOdd": 1.36,
-      "prob": 74,
+      "favOdd": 1.27,
+      "prob": 79,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.36
+        "1xbet": 1.27
       },
-      "avgFavOdd": 1.33,
+      "avgFavOdd": 1.26,
       "time": "21:30",
       "kickoff": "2026-07-09T13:30:00+09:00",
       "niche": true,
@@ -407,22 +467,42 @@
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "ITF WOMEN - SINGLES: W15 ASTANA, HARD",
-      "home": "Ahlawat S.",
-      "away": "Maklakova E.",
-      "favTeam": "Maklakova E.",
-      "underTeam": "Ahlawat S.",
-      "favOdd": 1.37,
-      "prob": 73,
+      "league": "ITF MEN - SINGLES: M15 LODZ, CLAY",
+      "home": "Balducci L.",
+      "away": "Gschwendtner J.",
+      "favTeam": "Gschwendtner J.",
+      "underTeam": "Balducci L.",
+      "favOdd": 1.27,
+      "prob": 79,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.37
+        "1xbet": 1.27
       },
-      "avgFavOdd": 1.38,
-      "time": "15:30",
-      "kickoff": "2026-07-09T07:30:00+09:00",
+      "avgFavOdd": 1.29,
+      "time": "18:00",
+      "kickoff": "2026-07-09T10:00:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w15-astana/ahlawat-shruti-maklakova-ekaterina/x8HlaVv2/"
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m15-lodz/balducci-lorenzo-gschwendtner-jeremy/ALDIXnJN/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M15 LODZ, CLAY",
+      "home": "Lopez Morillo I.",
+      "away": "Kamrowski M.",
+      "favTeam": "Lopez Morillo I.",
+      "underTeam": "Kamrowski M.",
+      "favOdd": 1.28,
+      "prob": 78,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.28
+      },
+      "avgFavOdd": 1.28,
+      "time": "18:00",
+      "kickoff": "2026-07-09T10:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m15-lodz/lopez-morillo-imanol-kamrowski-marcel/h2YpJm4U/"
     },
     {
       "sport": "バレー",
@@ -432,37 +512,57 @@
       "away": "Netherlands W",
       "favTeam": "Netherlands W",
       "underTeam": "Czech Republic W",
-      "favOdd": 1.37,
-      "prob": 73,
+      "favOdd": 1.34,
+      "prob": 75,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.37
+        "1xbet": 1.34
       },
-      "avgFavOdd": 1.4,
+      "avgFavOdd": 1.39,
       "time": "00:30",
       "kickoff": "2026-07-09T16:30:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/volleyball/world/nations-league-women/czech-republic-netherlands/hUKKjEwe/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - DOUBLES: M15 TOKYO 4, HARD",
-      "home": "Oki Y. / Yamanaka T.",
-      "away": "Shiraishi H. / Tajima N.",
-      "favTeam": "Shiraishi H. / Tajima N.",
-      "underTeam": "Oki Y. / Yamanaka T.",
-      "favOdd": 1.41,
-      "prob": 71,
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "AUSTRALIA: NBL1 SOUTH",
+      "home": "Melbourne Tigers",
+      "away": "Sandringham Sabres",
+      "favTeam": "Melbourne Tigers",
+      "underTeam": "Sandringham Sabres",
+      "favOdd": 1.39,
+      "prob": 72,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.41
+        "1xbet": 1.39
       },
-      "avgFavOdd": 1.4,
-      "time": "15:00",
-      "kickoff": "2026-07-09T07:00:00+09:00",
+      "avgFavOdd": 1.35,
+      "time": "20:30",
+      "kickoff": "2026-07-09T12:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/australia/nbl1-south/melbourne-tigers-sandringham-sabres/Ye5HY5bJ/"
+    },
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U22 WOMEN",
+      "home": "Turkey U22 W",
+      "away": "Netherlands U22 W",
+      "favTeam": "Turkey U22 W",
+      "underTeam": "Netherlands U22 W",
+      "favOdd": 1.42,
+      "prob": 70,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.42
+      },
+      "avgFavOdd": 1.42,
+      "time": "04:30",
+      "kickoff": "2026-07-09T20:30:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-doubles/m15-tokyo-4/oki-yuto-yamanaka-taiyo-shiraishi-hikaru-tajima-naoki/KrZteAne/"
+      "url": "https://www.betexplorer.com/volleyball/europe/european-championship-u22-women/turkey-netherlands/CYfyGXbd/"
     },
     {
       "sport": "バスケ",
@@ -478,11 +578,31 @@
       "books": {
         "1xbet": 1.42
       },
-      "avgFavOdd": 1.44,
+      "avgFavOdd": 1.43,
       "time": "22:30",
       "kickoff": "2026-07-09T14:30:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/basketball/australia/nbl1-west/east-perth-eagles-lakeside-lightning/GphZ05wQ/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M15 LODZ, CLAY",
+      "home": "Braynin A.",
+      "away": "Lagerbohm L.",
+      "favTeam": "Braynin A.",
+      "underTeam": "Lagerbohm L.",
+      "favOdd": 1.49,
+      "prob": 67,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.49
+      },
+      "avgFavOdd": 1.52,
+      "time": "18:00",
+      "kickoff": "2026-07-09T10:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m15-lodz/braynin-aleksandr-lagerbohm-linus/jiH2yVJb/"
     },
     {
       "sport": "バスケ",
@@ -492,13 +612,13 @@
       "away": "Nunawading",
       "favTeam": "Nunawading",
       "underTeam": "Kilsyth",
-      "favOdd": 1.47,
-      "prob": 68,
+      "favOdd": 1.53,
+      "prob": 65,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.47
+        "1xbet": 1.53
       },
-      "avgFavOdd": 1.41,
+      "avgFavOdd": 1.49,
       "time": "20:00",
       "kickoff": "2026-07-09T12:00:00+09:00",
       "niche": false,
@@ -507,42 +627,42 @@
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "ITF MEN - DOUBLES: M15 TOKYO 4, HARD",
-      "home": "Koyama H. / Suzuki K.",
-      "away": "Ichikawa T. / Noguchi M.",
-      "favTeam": "Ichikawa T. / Noguchi M.",
-      "underTeam": "Koyama H. / Suzuki K.",
+      "league": "ITF MEN - SINGLES: M15 HILLCREST 2, HARD",
+      "home": "Montsi K.",
+      "away": "Badenhorst D.",
+      "favTeam": "Montsi K.",
+      "underTeam": "Badenhorst D.",
+      "favOdd": 1.58,
+      "prob": 63,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.58
+      },
+      "avgFavOdd": 1.57,
+      "time": "18:00",
+      "kickoff": "2026-07-09T10:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m15-hillcrest-2/montsi-khololwam-badenhorst-devin/KWh2ay7s/"
+    },
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U22 WOMEN",
+      "home": "Poland U22 W",
+      "away": "Serbia U22 W",
+      "favTeam": "Poland U22 W",
+      "underTeam": "Serbia U22 W",
       "favOdd": 1.59,
       "prob": 63,
       "book": "1xBet",
       "books": {
         "1xbet": 1.59
       },
-      "avgFavOdd": 1.57,
-      "time": "15:00",
-      "kickoff": "2026-07-09T07:00:00+09:00",
+      "avgFavOdd": 1.59,
+      "time": "00:00",
+      "kickoff": "2026-07-09T16:00:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-doubles/m15-tokyo-4/koyama-hiromasa-suzuki-ko-ichikawa-taisei-noguchi-masakatsu/drJE991l/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "AUSTRALIA: NBL1 SOUTH WOMEN",
-      "home": "Kilsyth W",
-      "away": "Nunawading W",
-      "favTeam": "Nunawading W",
-      "underTeam": "Kilsyth W",
-      "favOdd": 1.6,
-      "prob": 63,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.6
-      },
-      "avgFavOdd": 1.61,
-      "time": "18:00",
-      "kickoff": "2026-07-09T10:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/australia/nbl1-south-women/kilsyth-cobras-nunawading/CpF3LZiD/"
+      "url": "https://www.betexplorer.com/volleyball/europe/european-championship-u22-women/poland-serbia/6g33J65l/"
     }
   ]
 }
