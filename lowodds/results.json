@@ -1,10 +1,27 @@
 {
-  "generatedAt": "2026-07-10T00:38:12.836Z",
+  "generatedAt": "2026-07-10T04:00:03.028Z",
   "windowDays": 60,
-  "total": 276,
-  "hits": 172,
-  "hitRate": 0.6231884057971014,
+  "total": 277,
+  "hits": 173,
+  "hitRate": 0.6245487364620939,
   "settled": [
+    {
+      "id": "QgBObLv1",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "USA: WNBA",
+      "favTeam": "Las Vegas Aces W",
+      "underTeam": "Portland Fire W",
+      "favIsHome": false,
+      "favOdd": 1.26,
+      "prob": 79,
+      "stars": 2,
+      "kickoff": "2026-07-10T04:00:00+09:00",
+      "homeScore": 65,
+      "awayScore": 84,
+      "isDraw": false,
+      "favWon": true
+    },
     {
       "id": "tQn4naOF",
       "sport": "野球",
