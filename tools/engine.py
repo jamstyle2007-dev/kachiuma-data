@@ -115,7 +115,14 @@ def score_horse(h, race):
     today_track = race.get('track')
     today_cond = str(race.get('trackCondition') or '')
     rdate = _parse_date(race.get('date'))
-    pasts = [p for p in (h.get('recent3') or []) if p]
+    # 取消/中止/除外など着順が数値でない近走は素質評価から除外する
+    def _valid(p):
+        if not p: return False
+        fin = p.get('finish')
+        if isinstance(fin, bool): return False
+        if isinstance(fin, (int, float)): return True
+        return bool(re.fullmatch(r'\s*\d+\s*', str(fin)))
+    pasts = [p for p in (h.get('recent3') or []) if _valid(p)]
 
     if not pasts:
         return {'num': h.get('num'), 'name': h.get('name'), 'score': 0.0, 'ability': 0.0,
