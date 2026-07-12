@@ -1,155 +1,520 @@
 [
  {
   "date": "2026-07-12",
-  "track": "福島",
+  "track": "小倉",
   "raceNo": 11,
-  "name": "七夕賞",
-  "surface": "芝",
-  "distance": 2000,
-  "trackCondition": null,
-  "conditionType": "ハンデ",
+  "name": "阿蘇ステークス",
+  "surface": "ダ",
+  "distance": 1700,
+  "trackCondition": "良",
+  "conditionType": "別定",
   "result": null,
   "horses": [
    {
-    "num": 1,
-    "name": "ボーンディスウェイ",
-    "jockey": "丸山元気",
-    "weight": 56,
-    "style": "差",
-    "popularity": 12,
-    "winOdds": 52.4,
+    "num": 11,
+    "name": "モックモック",
+    "jockey": "川田将雅",
+    "weight": 58,
+    "style": "先",
+    "popularity": 1,
+    "winOdds": 2.9,
     "recent3": [
      {
-      "grade": "GII",
-      "track": "東京",
-      "surface": "芝",
-      "distance": 2500,
+      "grade": "OP",
+      "track": "阪神",
+      "surface": "ダ",
+      "distance": 1800,
       "cond": "良",
-      "field": 14,
-      "finish": 8,
-      "margin": 0.6,
-      "last3f": 33.7
+      "field": 16,
+      "finish": 5,
+      "margin": 0.5,
+      "last3f": 36.8
+     },
+     {
+      "grade": "GIII",
+      "track": "阪神",
+      "surface": "ダ",
+      "distance": 1800,
+      "cond": "良",
+      "field": 16,
+      "finish": 2,
+      "margin": 0.2,
+      "last3f": 35.8
      },
      {
       "grade": "OP",
       "track": "阪神",
-      "surface": "芝",
-      "distance": 2600,
+      "surface": "ダ",
+      "distance": 1800,
       "cond": "良",
-      "field": 13,
-      "finish": 6,
-      "margin": 0.9,
-      "last3f": 34.0
-     },
-     {
-      "grade": "GIII",
-      "track": "東京",
-      "surface": "芝",
-      "distance": 3400,
-      "cond": "良",
-      "field": 15,
-      "finish": 9,
-      "margin": 1.1,
-      "last3f": 35.2
+      "field": 16,
+      "finish": 3,
+      "margin": 0.0,
+      "last3f": 36.6
      }
     ]
    },
    {
-    "num": 2,
-    "name": "コントラポスト",
-    "jockey": "津村明秀",
-    "weight": 56,
-    "style": "差",
-    "popularity": 7,
-    "winOdds": 23.5,
+    "num": 7,
+    "name": "モンブランミノル",
+    "jockey": "松山弘平",
+    "weight": 57,
+    "style": "先",
+    "popularity": 2,
+    "winOdds": 5.3,
     "recent3": [
      {
       "grade": "OP",
-      "track": "東京",
-      "surface": "芝",
+      "track": "阪神",
+      "surface": "ダ",
       "distance": 1800,
       "cond": "良",
-      "field": 13,
+      "field": 14,
       "finish": 5,
-      "margin": 0.4,
-      "last3f": 34.2
+      "margin": 0.1,
+      "last3f": 37.6
      },
      {
-      "grade": "L",
-      "track": "中山",
-      "surface": "芝",
-      "distance": 1800,
-      "cond": "重",
-      "field": 16,
-      "finish": 6,
-      "margin": 0.4,
-      "last3f": 35.2
-     },
-     {
-      "grade": "GIII",
-      "track": "中山",
-      "surface": "芝",
-      "distance": 1600,
+      "grade": "OP",
+      "track": "京都",
+      "surface": "ダ",
+      "distance": 1900,
       "cond": "良",
       "field": 16,
-      "finish": 3,
-      "margin": 0.1,
-      "last3f": 33.6
+      "finish": 2,
+      "margin": 0.0,
+      "last3f": 36.1
+     },
+     {
+      "grade": "3勝",
+      "track": "京都",
+      "surface": "ダ",
+      "distance": 1800,
+      "cond": "良",
+      "field": 16,
+      "finish": 1,
+      "margin": -0.1,
+      "last3f": 36.1
      }
     ]
    },
    {
     "num": 3,
-    "name": "ショウナンマグマ",
-    "jockey": "三浦皇成",
-    "weight": 55,
+    "name": "ジンセイ",
+    "jockey": "西塚洸二",
+    "weight": 57,
     "style": "先",
-    "popularity": 16,
-    "winOdds": 192.3,
+    "popularity": 3,
+    "winOdds": 6.8,
     "recent3": [
      {
-      "grade": "L",
-      "track": "京都",
-      "surface": "芝",
+      "grade": "OP",
+      "track": "東京",
+      "surface": "ダ",
+      "distance": 1600,
+      "cond": "良",
+      "field": 16,
+      "finish": 2,
+      "margin": 0.7,
+      "last3f": 36.5
+     },
+     {
+      "grade": "OP",
+      "track": "阪神",
+      "surface": "ダ",
       "distance": 1800,
       "cond": "良",
-      "field": 13,
-      "finish": 2,
-      "margin": 1.6,
-      "last3f": 36.2
+      "field": 16,
+      "finish": 13,
+      "margin": 1.1,
+      "last3f": 37.7
      },
      {
       "grade": "L",
       "track": "阪神",
-      "surface": "芝",
+      "surface": "ダ",
       "distance": 1800,
-      "cond": "良",
-      "field": 13,
-      "finish": 3,
-      "margin": 2.5,
-      "last3f": 37.0
+      "cond": "重",
+      "field": 16,
+      "finish": 9,
+      "margin": 1.6,
+      "last3f": 37.2
+     }
+    ]
+   },
+   {
+    "num": 2,
+    "name": "ゴッドブルービー",
+    "jockey": "角田大和",
+    "weight": 57,
+    "style": "差",
+    "popularity": 4,
+    "winOdds": 8.3,
+    "recent3": [
+     {
+      "grade": "3勝",
+      "track": "小倉",
+      "surface": "ダ",
+      "distance": 1700,
+      "cond": "重",
+      "field": 15,
+      "finish": 1,
+      "margin": -0.1,
+      "last3f": 36.4
      },
      {
-      "grade": "GII",
-      "track": "中山",
-      "surface": "芝",
+      "grade": "3勝",
+      "track": "京都",
+      "surface": "ダ",
+      "distance": 1400,
+      "cond": "稍",
+      "field": 16,
+      "finish": 7,
+      "margin": 0.7,
+      "last3f": 36.9
+     },
+     {
+      "grade": "3勝",
+      "track": "小倉",
+      "surface": "ダ",
+      "distance": 1700,
+      "cond": "良",
+      "field": 13,
+      "finish": 4,
+      "margin": 0.8,
+      "last3f": 37.4
+     }
+    ]
+   },
+   {
+    "num": 6,
+    "name": "レイナデアルシーラ",
+    "jockey": "田口貫太",
+    "weight": 55,
+    "style": "逃",
+    "popularity": 5,
+    "winOdds": 8.7,
+    "recent3": [
+     {
+      "grade": "JpnII",
+      "track": "川崎",
+      "surface": "ダ",
+      "distance": 2100,
+      "cond": "良",
+      "field": 8,
+      "finish": 1,
+      "margin": 0.4,
+      "last3f": 38.3
+     },
+     {
+      "grade": "OP",
+      "track": "福島",
+      "surface": "ダ",
+      "distance": 1700,
+      "cond": "良",
+      "field": 15,
+      "finish": 4,
+      "margin": 0.7,
+      "last3f": 37.8
+     },
+     {
+      "grade": "OP",
+      "track": "小倉",
+      "surface": "ダ",
+      "distance": 1700,
+      "cond": "良",
+      "field": 15,
+      "finish": 12,
+      "margin": 1.3,
+      "last3f": 38.4
+     }
+    ]
+   },
+   {
+    "num": 9,
+    "name": "シュラザック",
+    "jockey": "幸英明",
+    "weight": 57,
+    "style": "差",
+    "popularity": 6,
+    "winOdds": 9.9,
+    "recent3": [
+     {
+      "grade": "GIII",
+      "track": "京都",
+      "surface": "ダ",
+      "distance": 1900,
+      "cond": "稍",
+      "field": 16,
+      "finish": 4,
+      "margin": 1.7,
+      "last3f": 39.1
+     },
+     {
+      "grade": "GIII",
+      "track": "阪神",
+      "surface": "ダ",
       "distance": 1800,
       "cond": "良",
-      "field": 14,
+      "field": 16,
+      "finish": 8,
+      "margin": 1.1,
+      "last3f": 35.5
+     },
+     {
+      "grade": "OP",
+      "track": "阪神",
+      "surface": "ダ",
+      "distance": 1800,
+      "cond": "良",
+      "field": 16,
+      "finish": 10,
+      "margin": 0.6,
+      "last3f": 36.9
+     }
+    ]
+   },
+   {
+    "num": 8,
+    "name": "メイショウズイウン",
+    "jockey": "太宰啓介",
+    "weight": 57,
+    "style": "差",
+    "popularity": 7,
+    "winOdds": 14.8,
+    "recent3": [
+     {
+      "grade": "OP",
+      "track": "阪神",
+      "surface": "ダ",
+      "distance": 1800,
+      "cond": "良",
+      "field": 16,
+      "finish": 9,
+      "margin": 1.1,
+      "last3f": 37.4
+     },
+     {
+      "grade": "L",
+      "track": "東京",
+      "surface": "ダ",
+      "distance": 2100,
+      "cond": "稍",
+      "field": 16,
+      "finish": 11,
+      "margin": 1.3,
+      "last3f": 37.8
+     },
+     {
+      "grade": "GIII",
+      "track": "阪神",
+      "surface": "ダ",
+      "distance": 1800,
+      "cond": "良",
+      "field": 16,
       "finish": 13,
-      "margin": 0.9,
-      "last3f": 34.0
+      "margin": 2.1,
+      "last3f": 37.0
+     }
+    ]
+   },
+   {
+    "num": 1,
+    "name": "メルキオル",
+    "jockey": "コレット",
+    "weight": 57,
+    "style": "逃",
+    "popularity": 8,
+    "winOdds": 15.1,
+    "recent3": [
+     {
+      "grade": "OP",
+      "track": "京都",
+      "surface": "ダ",
+      "distance": 1800,
+      "cond": "良",
+      "field": 16,
+      "finish": 16,
+      "margin": 10.8,
+      "last3f": 46.6
+     },
+     {
+      "grade": "JpnIII",
+      "track": "船橋",
+      "surface": "ダ",
+      "distance": 1800,
+      "cond": "良",
+      "field": 10,
+      "finish": 1,
+      "margin": -0.4,
+      "last3f": 39.5
+     },
+     {
+      "grade": "L",
+      "track": "中山",
+      "surface": "芝",
+      "distance": 1600,
+      "cond": "良",
+      "field": 15,
+      "finish": 12,
+      "margin": 1.5,
+      "last3f": 35.9
+     }
+    ]
+   },
+   {
+    "num": 5,
+    "name": "スナークラファエロ",
+    "jockey": "団野大成",
+    "weight": 57,
+    "style": "先",
+    "popularity": 9,
+    "winOdds": 15.7,
+    "recent3": [
+     {
+      "grade": "OP",
+      "track": "東京",
+      "surface": "ダ",
+      "distance": 2100,
+      "cond": "不",
+      "field": 15,
+      "finish": 3,
+      "margin": 0.7,
+      "last3f": 35.8
+     },
+     {
+      "grade": "OP",
+      "track": "東京",
+      "surface": "ダ",
+      "distance": 1600,
+      "cond": "良",
+      "field": 16,
+      "finish": 14,
+      "margin": 2.1,
+      "last3f": 37.6
+     },
+     {
+      "grade": "OP",
+      "track": "福島",
+      "surface": "ダ",
+      "distance": 1700,
+      "cond": "良",
+      "field": 15,
+      "finish": 3,
+      "margin": 0.7,
+      "last3f": 37.6
      }
     ]
    },
    {
     "num": 4,
+    "name": "サンライズアリオン",
+    "jockey": "松若風馬",
+    "weight": 58,
+    "style": "先",
+    "popularity": 10,
+    "winOdds": 34.4,
+    "recent3": [
+     {
+      "grade": "L",
+      "track": "阪神",
+      "surface": "ダ",
+      "distance": 1800,
+      "cond": "重",
+      "field": 16,
+      "finish": 2,
+      "margin": 2.1,
+      "last3f": 38.3
+     },
+     {
+      "grade": "L",
+      "track": "福島",
+      "surface": "ダ",
+      "distance": 1700,
+      "cond": "良",
+      "field": 15,
+      "finish": 9,
+      "margin": 0.9,
+      "last3f": 38.8
+     },
+     {
+      "grade": "L",
+      "track": "函館",
+      "surface": "ダ",
+      "distance": 1700,
+      "cond": "稍",
+      "field": 10,
+      "finish": 10,
+      "margin": 3.7,
+      "last3f": 40.1
+     }
+    ]
+   },
+   {
+    "num": 10,
+    "name": "フェルヴェンテ",
+    "jockey": "秋山稔樹",
+    "weight": 57,
+    "style": "差",
+    "popularity": 11,
+    "winOdds": 41.1,
+    "recent3": [
+     {
+      "grade": "OP",
+      "track": "東京",
+      "surface": "ダ",
+      "distance": 1400,
+      "cond": "稍",
+      "field": 16,
+      "finish": 6,
+      "margin": 1.6,
+      "last3f": 36.5
+     },
+     {
+      "grade": "L",
+      "track": "阪神",
+      "surface": "ダ",
+      "distance": 1400,
+      "cond": "良",
+      "field": 13,
+      "finish": 8,
+      "margin": 1.4,
+      "last3f": 36.9
+     },
+     {
+      "grade": "L",
+      "track": "京都",
+      "surface": "ダ",
+      "distance": 1400,
+      "cond": "良",
+      "field": 16,
+      "finish": 4,
+      "margin": 0.4,
+      "last3f": 36.0
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "date": "2026-07-12",
+  "track": "福島",
+  "raceNo": 11,
+  "name": "七夕賞",
+  "surface": "芝",
+  "distance": 2000,
+  "trackCondition": "稍",
+  "conditionType": "ハンデ",
+  "result": null,
+  "horses": [
+   {
+    "num": 4,
     "name": "カラマティアノス",
-    "jockey": "津村明秀",
+    "jockey": "岩田康誠",
     "weight": 58,
     "style": "差",
-    "popularity": 3,
-    "winOdds": 11.7,
+    "popularity": 1,
+    "winOdds": 4.5,
     "recent3": [
      {
       "grade": "GIII",
@@ -169,7 +534,7 @@
       "distance": 1800,
       "cond": "良",
       "field": 14,
-      "finish": 5,
+      "finish": 2,
       "margin": 0.3,
       "last3f": 34.0
      },
@@ -187,57 +552,189 @@
     ]
    },
    {
-    "num": 5,
-    "name": "オーロラエックス",
-    "jockey": "吉村誠之",
+    "num": 11,
+    "name": "アスクナイスショー",
+    "jockey": "田辺裕信",
     "weight": 55,
-    "style": "差",
-    "popularity": 11,
-    "winOdds": 42.3,
+    "style": "逃",
+    "popularity": 2,
+    "winOdds": 5.6,
     "recent3": [
      {
-      "grade": "L",
-      "track": "京都",
+      "grade": "GII",
+      "track": "中山",
       "surface": "芝",
-      "distance": 1800,
+      "distance": 2500,
       "cond": "良",
-      "field": 13,
-      "finish": 6,
-      "margin": 0.6,
-      "last3f": 34.8
+      "field": 15,
+      "finish": 2,
+      "margin": 1.6,
+      "last3f": 37.5
      },
+     {
+      "grade": "3勝",
+      "track": "中山",
+      "surface": "芝",
+      "distance": 2200,
+      "cond": "良",
+      "field": 17,
+      "finish": 1,
+      "margin": -0.2,
+      "last3f": 34.6
+     },
+     {
+      "grade": "3勝",
+      "track": "新潟",
+      "surface": "芝",
+      "distance": 2000,
+      "cond": "良",
+      "field": 18,
+      "finish": 2,
+      "margin": 1.1,
+      "last3f": 34.4
+     }
+    ]
+   },
+   {
+    "num": 13,
+    "name": "バトルボーン",
+    "jockey": "戸崎圭太",
+    "weight": 57,
+    "style": "逃",
+    "popularity": 3,
+    "winOdds": 6.9,
+    "recent3": [
      {
       "grade": "L",
       "track": "東京",
       "surface": "芝",
-      "distance": 2000,
+      "distance": 2400,
       "cond": "良",
-      "field": 10,
-      "finish": 7,
-      "margin": 1.9,
-      "last3f": 34.0
+      "field": 12,
+      "finish": 1,
+      "margin": 0.1,
+      "last3f": 34.3
      },
      {
-      "grade": "GI",
-      "track": "京都",
+      "grade": "OP",
+      "track": "小倉",
+      "surface": "芝",
+      "distance": 2000,
+      "cond": "良",
+      "field": 12,
+      "finish": 2,
+      "margin": 0.5,
+      "last3f": 35.3
+     },
+     {
+      "grade": "GII",
+      "track": "中京",
       "surface": "芝",
       "distance": 2200,
       "cond": "良",
       "field": 16,
-      "finish": 16,
-      "margin": 2.0,
-      "last3f": 35.9
+      "finish": 8,
+      "margin": 1.4,
+      "last3f": 37.1
+     }
+    ]
+   },
+   {
+    "num": 16,
+    "name": "サヴォーナ",
+    "jockey": "池添謙一",
+    "weight": 58,
+    "style": "差",
+    "popularity": 4,
+    "winOdds": 6.9,
+    "recent3": [
+     {
+      "grade": "L",
+      "track": "福島",
+      "surface": "芝",
+      "distance": 2000,
+      "cond": "良",
+      "field": 15,
+      "finish": 1,
+      "margin": -0.3,
+      "last3f": 35.1
+     },
+     {
+      "grade": "GII",
+      "track": "東京",
+      "surface": "芝",
+      "distance": 2500,
+      "cond": "良",
+      "field": 16,
+      "finish": 8,
+      "margin": 0.7,
+      "last3f": 36.3
+     },
+     {
+      "grade": "GII",
+      "track": "中山",
+      "surface": "芝",
+      "distance": 2200,
+      "cond": "良",
+      "field": 15,
+      "finish": 4,
+      "margin": 0.2,
+      "last3f": 34.6
+     }
+    ]
+   },
+   {
+    "num": 15,
+    "name": "ヤマニンブークリエ",
+    "jockey": "横山典弘",
+    "weight": 56,
+    "style": "先",
+    "popularity": 5,
+    "winOdds": 9.0,
+    "recent3": [
+     {
+      "grade": "GIII",
+      "track": "新潟",
+      "surface": "芝",
+      "distance": 2000,
+      "cond": "良",
+      "field": 15,
+      "finish": 3,
+      "margin": 0.4,
+      "last3f": 34.3
+     },
+     {
+      "grade": "GI",
+      "track": "サウジ",
+      "surface": "芝",
+      "distance": 2100,
+      "cond": null,
+      "field": 11,
+      "finish": 5,
+      "margin": null,
+      "last3f": null
+     },
+     {
+      "grade": "GII",
+      "track": "京都",
+      "surface": "芝",
+      "distance": 2400,
+      "cond": "良",
+      "field": 13,
+      "finish": 7,
+      "margin": 0.8,
+      "last3f": 34.6
      }
     ]
    },
    {
     "num": 6,
     "name": "マイネルモーント",
-    "jockey": "石川裕紀",
+    "jockey": "石川裕紀人",
     "weight": 56,
     "style": "差",
-    "popularity": 10,
-    "winOdds": 28.1,
+    "popularity": 6,
+    "winOdds": 12.6,
     "recent3": [
      {
       "grade": "GIII",
@@ -275,13 +772,101 @@
     ]
    },
    {
-    "num": 7,
-    "name": "メリオーレム",
-    "jockey": "Mデムーロ",
-    "weight": 55,
+    "num": 10,
+    "name": "センツブラッド",
+    "jockey": "原優介",
+    "weight": 56,
+    "style": "先",
+    "popularity": 7,
+    "winOdds": 15.1,
+    "recent3": [
+     {
+      "grade": "GIII",
+      "track": "東京",
+      "surface": "芝",
+      "distance": 1800,
+      "cond": "良",
+      "field": 17,
+      "finish": 10,
+      "margin": 0.6,
+      "last3f": 34.2
+     },
+     {
+      "grade": "GIII",
+      "track": "小倉",
+      "surface": "芝",
+      "distance": 1800,
+      "cond": "良",
+      "field": 16,
+      "finish": 14,
+      "margin": 1.6,
+      "last3f": 36.1
+     },
+     {
+      "grade": "GIII",
+      "track": "阪神",
+      "surface": "芝",
+      "distance": 1800,
+      "cond": "良",
+      "field": 14,
+      "finish": 2,
+      "margin": 0.3,
+      "last3f": 34.1
+     }
+    ]
+   },
+   {
+    "num": 2,
+    "name": "コントラポスト",
+    "jockey": "菊沢一樹",
+    "weight": 56,
     "style": "差",
     "popularity": 8,
-    "winOdds": 26.2,
+    "winOdds": 16.9,
+    "recent3": [
+     {
+      "grade": "OP",
+      "track": "東京",
+      "surface": "芝",
+      "distance": 1800,
+      "cond": "良",
+      "field": 13,
+      "finish": 5,
+      "margin": 0.4,
+      "last3f": 34.2
+     },
+     {
+      "grade": "L",
+      "track": "中山",
+      "surface": "芝",
+      "distance": 1800,
+      "cond": "重",
+      "field": 16,
+      "finish": 6,
+      "margin": 0.4,
+      "last3f": 35.2
+     },
+     {
+      "grade": "GIII",
+      "track": "中山",
+      "surface": "芝",
+      "distance": 1600,
+      "cond": "良",
+      "field": 16,
+      "finish": 3,
+      "margin": 0.1,
+      "last3f": 33.6
+     }
+    ]
+   },
+   {
+    "num": 7,
+    "name": "メリオーレム",
+    "jockey": "Ｍデムーロ",
+    "weight": 55,
+    "style": "差",
+    "popularity": 9,
+    "winOdds": 19.2,
     "recent3": [
      {
       "grade": "OP",
@@ -301,7 +886,7 @@
       "distance": 1800,
       "cond": "良",
       "field": 13,
-      "finish": 4,
+      "finish": 9,
       "margin": 0.6,
       "last3f": 34.2
      },
@@ -312,9 +897,141 @@
       "distance": 2000,
       "cond": "良",
       "field": 18,
-      "finish": 5,
+      "finish": 12,
       "margin": 0.5,
       "last3f": 33.2
+     }
+    ]
+   },
+   {
+    "num": 12,
+    "name": "リカンカブール",
+    "jockey": "荻野極",
+    "weight": 57,
+    "style": "先",
+    "popularity": 10,
+    "winOdds": 21.0,
+    "recent3": [
+     {
+      "grade": "GIII",
+      "track": "小倉",
+      "surface": "芝",
+      "distance": 1800,
+      "cond": "良",
+      "field": 16,
+      "finish": 5,
+      "margin": 0.7,
+      "last3f": 35.3
+     },
+     {
+      "grade": "GIII",
+      "track": "中山",
+      "surface": "芝",
+      "distance": 2000,
+      "cond": "良",
+      "field": 14,
+      "finish": 2,
+      "margin": 0.3,
+      "last3f": 34.9
+     },
+     {
+      "grade": "GIII",
+      "track": "福島",
+      "surface": "芝",
+      "distance": 2000,
+      "cond": "良",
+      "field": 16,
+      "finish": 7,
+      "margin": 0.6,
+      "last3f": 34.3
+     }
+    ]
+   },
+   {
+    "num": 5,
+    "name": "オーロラエックス",
+    "jockey": "坂井瑠星",
+    "weight": 55,
+    "style": "差",
+    "popularity": 11,
+    "winOdds": 26.3,
+    "recent3": [
+     {
+      "grade": "L",
+      "track": "京都",
+      "surface": "芝",
+      "distance": 1800,
+      "cond": "良",
+      "field": 13,
+      "finish": 6,
+      "margin": 0.6,
+      "last3f": 34.8
+     },
+     {
+      "grade": "L",
+      "track": "東京",
+      "surface": "芝",
+      "distance": 2000,
+      "cond": "良",
+      "field": 10,
+      "finish": 7,
+      "margin": 1.9,
+      "last3f": 34.0
+     },
+     {
+      "grade": "GI",
+      "track": "京都",
+      "surface": "芝",
+      "distance": 2200,
+      "cond": "良",
+      "field": 16,
+      "finish": 16,
+      "margin": 2.0,
+      "last3f": 35.9
+     }
+    ]
+   },
+   {
+    "num": 14,
+    "name": "オールナット",
+    "jockey": "西村淳也",
+    "weight": 57.5,
+    "style": "差",
+    "popularity": 12,
+    "winOdds": 32.6,
+    "recent3": [
+     {
+      "grade": "GII",
+      "track": "京都",
+      "surface": "芝",
+      "distance": 2400,
+      "cond": "良",
+      "field": 13,
+      "finish": 13,
+      "margin": 1.5,
+      "last3f": 34.9
+     },
+     {
+      "grade": "GIII",
+      "track": "阪神",
+      "surface": "芝",
+      "distance": 1800,
+      "cond": "良",
+      "field": 14,
+      "finish": 10,
+      "margin": 1.0,
+      "last3f": 34.6
+     },
+     {
+      "grade": "GIII",
+      "track": "阪神",
+      "surface": "芝",
+      "distance": 2000,
+      "cond": "良",
+      "field": 15,
+      "finish": 1,
+      "margin": -0.1,
+      "last3f": 34.5
      }
     ]
    },
@@ -324,8 +1041,8 @@
     "jockey": "杉原誠人",
     "weight": 55,
     "style": "逃",
-    "popularity": 15,
-    "winOdds": 92.3,
+    "popularity": 13,
+    "winOdds": 37.3,
     "recent3": [
      {
       "grade": "GII",
@@ -368,8 +1085,8 @@
     "jockey": "吉田豊",
     "weight": 54,
     "style": "差",
-    "popularity": 9,
-    "winOdds": 26.2,
+    "popularity": 14,
+    "winOdds": 42.2,
     "recent3": [
      {
       "grade": "GIII",
@@ -389,7 +1106,7 @@
       "distance": 1800,
       "cond": "良",
       "field": 17,
-      "finish": 12,
+      "finish": 15,
       "margin": 1.0,
       "last3f": 33.8
      },
@@ -400,317 +1117,97 @@
       "distance": 1600,
       "cond": "良",
       "field": 13,
-      "finish": 10,
+      "finish": 11,
       "margin": 1.3,
       "last3f": 34.9
      }
     ]
    },
    {
-    "num": 10,
-    "name": "センツブラッド",
-    "jockey": "原優介",
+    "num": 1,
+    "name": "ボーンディスウェイ",
+    "jockey": "丸山元気",
     "weight": 56,
-    "style": "先",
-    "popularity": 4,
-    "winOdds": 12.1,
-    "recent3": [
-     {
-      "grade": "GIII",
-      "track": "東京",
-      "surface": "芝",
-      "distance": 1800,
-      "cond": "良",
-      "field": 17,
-      "finish": 3,
-      "margin": 0.6,
-      "last3f": 34.2
-     },
-     {
-      "grade": "GIII",
-      "track": "小倉",
-      "surface": "芝",
-      "distance": 1800,
-      "cond": "良",
-      "field": 16,
-      "finish": 7,
-      "margin": 1.6,
-      "last3f": 36.1
-     },
-     {
-      "grade": "GIII",
-      "track": "阪神",
-      "surface": "芝",
-      "distance": 1800,
-      "cond": "良",
-      "field": 14,
-      "finish": 2,
-      "margin": 0.3,
-      "last3f": 34.1
-     }
-    ]
-   },
-   {
-    "num": 11,
-    "name": "アスクナイスショー",
-    "jockey": "田辺裕信",
-    "weight": 55,
-    "style": "逃",
-    "popularity": 1,
-    "winOdds": 1.8,
+    "style": "差",
+    "popularity": 15,
+    "winOdds": 44.5,
     "recent3": [
      {
       "grade": "GII",
-      "track": "中山",
+      "track": "東京",
       "surface": "芝",
       "distance": 2500,
       "cond": "良",
-      "field": 15,
-      "finish": 2,
-      "margin": 1.6,
-      "last3f": 37.5
-     },
-     {
-      "grade": "3勝",
-      "track": "中山",
-      "surface": "芝",
-      "distance": 2200,
-      "cond": "良",
-      "field": 17,
-      "finish": 1,
-      "margin": 0.2,
-      "last3f": 34.6
-     },
-     {
-      "grade": "3勝",
-      "track": "新潟",
-      "surface": "芝",
-      "distance": 2000,
-      "cond": "良",
-      "field": 18,
-      "finish": 12,
-      "margin": 1.1,
-      "last3f": 34.4
-     }
-    ]
-   },
-   {
-    "num": 12,
-    "name": "リカンカブール",
-    "jockey": "荻野極",
-    "weight": 57,
-    "style": "先",
-    "popularity": 13,
-    "winOdds": 58.4,
-    "recent3": [
-     {
-      "grade": "GIII",
-      "track": "小倉",
-      "surface": "芝",
-      "distance": 1800,
-      "cond": "良",
-      "field": 16,
-      "finish": 5,
-      "margin": 0.7,
-      "last3f": 35.3
-     },
-     {
-      "grade": "GIII",
-      "track": "中山",
-      "surface": "芝",
-      "distance": 2000,
-      "cond": "良",
       "field": 14,
-      "finish": 2,
-      "margin": 0.3,
-      "last3f": 34.9
-     },
-     {
-      "grade": "GIII",
-      "track": "福島",
-      "surface": "芝",
-      "distance": 2000,
-      "cond": "良",
-      "field": 16,
-      "finish": 7,
+      "finish": 8,
       "margin": 0.6,
-      "last3f": 34.3
-     }
-    ]
-   },
-   {
-    "num": 13,
-    "name": "バトルボーン",
-    "jockey": "戸崎圭太",
-    "weight": 57,
-    "style": "逃",
-    "popularity": 2,
-    "winOdds": 4.9,
-    "recent3": [
-     {
-      "grade": "L",
-      "track": "東京",
-      "surface": "芝",
-      "distance": 2400,
-      "cond": "良",
-      "field": 12,
-      "finish": 1,
-      "margin": 0.1,
-      "last3f": 34.3
+      "last3f": 33.7
      },
      {
       "grade": "OP",
-      "track": "小倉",
+      "track": "阪神",
       "surface": "芝",
-      "distance": 2000,
+      "distance": 2600,
       "cond": "良",
-      "field": 12,
-      "finish": 3,
-      "margin": 0.5,
-      "last3f": 35.3
+      "field": 13,
+      "finish": 6,
+      "margin": 0.9,
+      "last3f": 34.0
      },
      {
-      "grade": "GII",
-      "track": "中京",
+      "grade": "GIII",
+      "track": "東京",
       "surface": "芝",
-      "distance": 2200,
+      "distance": 3400,
       "cond": "良",
-      "field": 16,
-      "finish": 8,
-      "margin": 1.4,
-      "last3f": 37.1
+      "field": 15,
+      "finish": 9,
+      "margin": 1.1,
+      "last3f": 35.2
      }
     ]
    },
    {
-    "num": 14,
-    "name": "オールナット",
-    "jockey": "西村淳也",
-    "weight": 57.5,
-    "style": "差",
-    "popularity": 14,
-    "winOdds": 72.1,
+    "num": 3,
+    "name": "ショウナンマグマ",
+    "jockey": "三浦皇成",
+    "weight": 55,
+    "style": "先",
+    "popularity": 16,
+    "winOdds": 103.1,
     "recent3": [
      {
-      "grade": "GII",
+      "grade": "L",
       "track": "京都",
       "surface": "芝",
-      "distance": 2400,
+      "distance": 1800,
       "cond": "良",
       "field": 13,
-      "finish": 13,
-      "margin": 1.5,
-      "last3f": 34.9
+      "finish": 2,
+      "margin": 1.6,
+      "last3f": 36.2
      },
      {
-      "grade": "GIII",
+      "grade": "L",
       "track": "阪神",
       "surface": "芝",
       "distance": 1800,
       "cond": "良",
-      "field": 14,
-      "finish": 10,
-      "margin": 1.0,
-      "last3f": 34.6
-     },
-     {
-      "grade": "GIII",
-      "track": "阪神",
-      "surface": "芝",
-      "distance": 2000,
-      "cond": "良",
-      "field": 15,
-      "finish": 1,
-      "margin": 0.1,
-      "last3f": 34.5
-     }
-    ]
-   },
-   {
-    "num": 15,
-    "name": "ヤマニンブークリエ",
-    "jockey": "横山典弘",
-    "weight": 56,
-    "style": "先",
-    "popularity": 6,
-    "winOdds": 20.2,
-    "recent3": [
-     {
-      "grade": "GIII",
-      "track": "新潟",
-      "surface": "芝",
-      "distance": 2000,
-      "cond": "良",
-      "field": 15,
-      "finish": 3,
-      "margin": 0.4,
-      "last3f": 34.3
-     },
-     {
-      "grade": "GI",
-      "track": "サウジ",
-      "surface": "芝",
-      "distance": 2100,
-      "cond": null,
-      "field": 11,
-      "finish": 5,
-      "margin": null,
-      "last3f": null
-     },
-     {
-      "grade": "GII",
-      "track": "京都",
-      "surface": "芝",
-      "distance": 2400,
-      "cond": "良",
       "field": 13,
-      "finish": 7,
-      "margin": 0.8,
-      "last3f": 34.6
-     }
-    ]
-   },
-   {
-    "num": 16,
-    "name": "サヴォーナ",
-    "jockey": "池添謙一",
-    "weight": 58,
-    "style": "差",
-    "popularity": 5,
-    "winOdds": 18.0,
-    "recent3": [
-     {
-      "grade": "L",
-      "track": "福島",
-      "surface": "芝",
-      "distance": 2000,
-      "cond": "良",
-      "field": 15,
-      "finish": 1,
-      "margin": 0.3,
-      "last3f": 35.1
-     },
-     {
-      "grade": "GII",
-      "track": "東京",
-      "surface": "芝",
-      "distance": 2500,
-      "cond": "良",
-      "field": 16,
-      "finish": 8,
-      "margin": 0.7,
-      "last3f": 36.3
+      "finish": 3,
+      "margin": 2.5,
+      "last3f": 37.0
      },
      {
       "grade": "GII",
       "track": "中山",
       "surface": "芝",
-      "distance": 2200,
+      "distance": 1800,
       "cond": "良",
-      "field": 15,
-      "finish": 4,
-      "margin": 0.2,
-      "last3f": 34.6
+      "field": 14,
+      "finish": 13,
+      "margin": 0.9,
+      "last3f": 34.0
      }
     ]
    }
