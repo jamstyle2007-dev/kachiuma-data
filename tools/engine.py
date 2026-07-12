@@ -101,7 +101,8 @@ def _perf(pr, today_surf):
     else:
         margin_adj = -min(mgn, 3.0) * 7.0           # 負けた着差の減点
     base3f = 33.8 if psurf == '芝' else 36.8
-    closer = max(-2.0, min(2.5, base3f - l3f)) * 5.0 if l3f else 0.0
+    # 上がりは平地の妥当域(28〜45秒)のみ採用。障害の計時(13.6等)や大差負け(71.8等)の異常値は無視
+    closer = max(-2.0, min(2.5, base3f - l3f)) * 5.0 if (l3f and 28.0 <= l3f <= 45.0) else 0.0
     field_adj = (fld - 8) * 0.6
     field_adj = field_adj * (1.0 if fin <= 3 else 0.3)
     # 別馬場(芝⇄ダ)の近走は決め手指標の信頼度を落とす
