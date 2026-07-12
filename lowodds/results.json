@@ -1,10 +1,200 @@
 {
-  "generatedAt": "2026-07-12T22:24:33.162Z",
-  "windowDays": 60,
+  "generatedAt": "2026-07-12T23:03:27.286Z",
+  "windowDays": 400,
   "total": 300,
-  "hits": 198,
-  "hitRate": 0.66,
+  "hits": 196,
+  "hitRate": 0.6533333333333333,
+  "sim": {
+    "stake": 10000,
+    "asOf": "2026-07-12T23:03:27.286Z",
+    "byMinStars": {
+      "1": {
+        "all": {
+          "n": 494,
+          "hits": 320,
+          "staked": 4940000,
+          "returns": 4058000,
+          "profit": -882000
+        },
+        "year": {
+          "n": 494,
+          "hits": 320,
+          "staked": 4940000,
+          "returns": 4058000,
+          "profit": -882000
+        },
+        "month": {
+          "n": 494,
+          "hits": 320,
+          "staked": 4940000,
+          "returns": 4058000,
+          "profit": -882000
+        },
+        "week": {
+          "n": 3,
+          "hits": 1,
+          "staked": 30000,
+          "returns": 15000,
+          "profit": -15000
+        }
+      },
+      "2": {
+        "all": {
+          "n": 287,
+          "hits": 209,
+          "staked": 2870000,
+          "returns": 2409100,
+          "profit": -460900
+        },
+        "year": {
+          "n": 287,
+          "hits": 209,
+          "staked": 2870000,
+          "returns": 2409100,
+          "profit": -460900
+        },
+        "month": {
+          "n": 287,
+          "hits": 209,
+          "staked": 2870000,
+          "returns": 2409100,
+          "profit": -460900
+        },
+        "week": {
+          "n": 1,
+          "hits": 0,
+          "staked": 10000,
+          "returns": 0,
+          "profit": -10000
+        }
+      },
+      "3": {
+        "all": {
+          "n": 169,
+          "hits": 134,
+          "staked": 1690000,
+          "returns": 1452300,
+          "profit": -237700
+        },
+        "year": {
+          "n": 169,
+          "hits": 134,
+          "staked": 1690000,
+          "returns": 1452300,
+          "profit": -237700
+        },
+        "month": {
+          "n": 169,
+          "hits": 134,
+          "staked": 1690000,
+          "returns": 1452300,
+          "profit": -237700
+        },
+        "week": {
+          "n": 0,
+          "hits": 0,
+          "staked": 0,
+          "returns": 0,
+          "profit": 0
+        }
+      },
+      "4": {
+        "all": {
+          "n": 102,
+          "hits": 83,
+          "staked": 1020000,
+          "returns": 866100,
+          "profit": -153900
+        },
+        "year": {
+          "n": 102,
+          "hits": 83,
+          "staked": 1020000,
+          "returns": 866100,
+          "profit": -153900
+        },
+        "month": {
+          "n": 102,
+          "hits": 83,
+          "staked": 1020000,
+          "returns": 866100,
+          "profit": -153900
+        },
+        "week": {
+          "n": 0,
+          "hits": 0,
+          "staked": 0,
+          "returns": 0,
+          "profit": 0
+        }
+      },
+      "5": {
+        "all": {
+          "n": 63,
+          "hits": 57,
+          "staked": 630000,
+          "returns": 584600,
+          "profit": -45400
+        },
+        "year": {
+          "n": 63,
+          "hits": 57,
+          "staked": 630000,
+          "returns": 584600,
+          "profit": -45400
+        },
+        "month": {
+          "n": 63,
+          "hits": 57,
+          "staked": 630000,
+          "returns": 584600,
+          "profit": -45400
+        },
+        "week": {
+          "n": 0,
+          "hits": 0,
+          "staked": 0,
+          "returns": 0,
+          "profit": 0
+        }
+      }
+    }
+  },
   "settled": [
+    {
+      "id": "OrEwSvAb",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "CHILE: LNB",
+      "favTeam": "Colo Colo",
+      "underTeam": "Espanol de Talca",
+      "favIsHome": true,
+      "favOdd": 1.23,
+      "prob": 81,
+      "stars": 2,
+      "kickoff": "2026-07-13T01:00:00+09:00",
+      "homeScore": 2,
+      "awayScore": 2,
+      "isDraw": true,
+      "favWon": false
+    },
+    {
+      "id": "CjwwVZgS",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "USA: BIG3 (3X3)",
+      "favTeam": "LA Riot",
+      "underTeam": "Detroit Amps",
+      "favIsHome": true,
+      "favOdd": 1.5,
+      "prob": 67,
+      "stars": 1,
+      "kickoff": "2026-07-13T00:00:00+09:00",
+      "homeScore": 15,
+      "awayScore": 12,
+      "isDraw": false,
+      "favWon": true
+    },
     {
       "id": "pjl96JuK",
       "sport": "バスケ",
@@ -138,6 +328,23 @@
       "kickoff": "2026-07-12T22:00:00+09:00",
       "homeScore": 0,
       "awayScore": 0,
+      "isDraw": true,
+      "favWon": false
+    },
+    {
+      "id": "l6lAT6VH",
+      "sport": "野球",
+      "sportKey": "baseball",
+      "league": "MEXICO: LMB",
+      "favTeam": "Diablos Rojos",
+      "underTeam": "Queretaro",
+      "favIsHome": true,
+      "favOdd": 1.5,
+      "prob": 67,
+      "stars": 1,
+      "kickoff": "2026-07-12T22:00:00+09:00",
+      "homeScore": 4,
+      "awayScore": 4,
       "isDraw": true,
       "favWon": false
     },
@@ -5051,57 +5258,6 @@
       "kickoff": "2026-07-08T21:00:00+09:00",
       "homeScore": 3,
       "awayScore": 0,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "M3GdNF6M",
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U22 WOMEN",
-      "favTeam": "Netherlands U22 W",
-      "underTeam": "Ukraine U22 W",
-      "favIsHome": false,
-      "favOdd": 1.13,
-      "prob": 88,
-      "stars": 3,
-      "kickoff": "2026-07-08T20:30:00+09:00",
-      "homeScore": 0,
-      "awayScore": 3,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "tljsfSSk",
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "WORLD: NATIONS LEAGUE WOMEN",
-      "favTeam": "Serbia W",
-      "underTeam": "Bulgaria W",
-      "favIsHome": true,
-      "favOdd": 1.01,
-      "prob": 99,
-      "stars": 5,
-      "kickoff": "2026-07-08T20:00:00+09:00",
-      "homeScore": 3,
-      "awayScore": 0,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "OAKW45Cc",
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - DOUBLES: TRIESTE, CLAY",
-      "favTeam": "Gomez F. A. / Kestelboim M.",
-      "underTeam": "Pampanin P. / Pedretti T.",
-      "favIsHome": false,
-      "favOdd": 1.07,
-      "prob": 93,
-      "stars": 4,
-      "kickoff": "2026-07-08T20:00:00+09:00",
-      "homeScore": 0,
-      "awayScore": 1,
       "isDraw": false,
       "favWon": true
     }

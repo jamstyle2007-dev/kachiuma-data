@@ -1,9 +1,49 @@
 {
-  "generatedAt": "2026-07-12T22:24:32.921Z",
+  "generatedAt": "2026-07-12T23:03:25.431Z",
   "source": "betexplorer.com (Pinnacle / 1xBet odds)",
   "threshold": 1.6,
-  "count": 25,
+  "count": 24,
   "matches": [
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "WORLD: PAN-AMERICAN CUP U21 WOMEN",
+      "home": "Canada U21 W",
+      "away": "USA U21 W",
+      "favTeam": "USA U21 W",
+      "underTeam": "Canada U21 W",
+      "favOdd": 1.01,
+      "prob": 99,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.01
+      },
+      "avgFavOdd": 1.05,
+      "time": "09:00",
+      "kickoff": "2026-07-13T01:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup-u21-women/canada-usa/juaB3Uig/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "WTA - SINGLES: IASI, CLAY",
+      "home": "Pridankina E.",
+      "away": "Garcia-Perez G.",
+      "favTeam": "Pridankina E.",
+      "underTeam": "Garcia-Perez G.",
+      "favOdd": 1.02,
+      "prob": 98,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.02
+      },
+      "avgFavOdd": 1.03,
+      "time": "18:00",
+      "kickoff": "2026-07-13T10:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/tennis/wta-singles/iasi/pridankina-elena-garcia-perez-georgina/2R2uqn3t/"
+    },
     {
       "sport": "ハンドボール",
       "sportKey": "handball",
@@ -85,6 +125,26 @@
       "url": "https://www.betexplorer.com/handball/europe/european-championship-u20/france-faroe-islands/KA5maUIc/"
     },
     {
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "ASIA: ASEAN CHAMPIONSHIP WOMEN",
+      "home": "Cambodia W",
+      "away": "Timor-Leste W",
+      "favTeam": "Cambodia W",
+      "underTeam": "Timor-Leste W",
+      "favOdd": 1.04,
+      "prob": 96,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.04
+      },
+      "avgFavOdd": 1.04,
+      "time": "18:45",
+      "kickoff": "2026-07-13T10:45:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/football/asia/asean-championship-women/cambodia-timor-leste/IVQzY5Us/"
+    },
+    {
       "sport": "ハンドボール",
       "sportKey": "handball",
       "league": "EUROPE: EUROPEAN CHAMPIONSHIP U20",
@@ -107,26 +167,6 @@
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "WTA - SINGLES: IASI, CLAY",
-      "home": "Pridankina E.",
-      "away": "Garcia-Perez G.",
-      "favTeam": "Pridankina E.",
-      "underTeam": "Garcia-Perez G.",
-      "favOdd": 1.05,
-      "prob": 95,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.05
-      },
-      "avgFavOdd": 1.05,
-      "time": "18:00",
-      "kickoff": "2026-07-13T10:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/tennis/wta-singles/iasi/pridankina-elena-garcia-perez-georgina/2R2uqn3t/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
       "league": "CHALLENGER MEN - SINGLES: CORDENONS, CLAY",
       "home": "Prihodko O.",
       "away": "Crivellaro G.",
@@ -143,46 +183,6 @@
       "kickoff": "2026-07-13T10:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/tennis/challenger-men-singles/cordenons/prihodko-oleg-crivellaro-gabriele/b5CWVjbs/"
-    },
-    {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "WORLD: PAN-AMERICAN CUP U21 WOMEN",
-      "home": "Canada U21 W",
-      "away": "USA U21 W",
-      "favTeam": "USA U21 W",
-      "underTeam": "Canada U21 W",
-      "favOdd": 1.12,
-      "prob": 89,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.12
-      },
-      "avgFavOdd": 1.09,
-      "time": "09:00",
-      "kickoff": "2026-07-13T01:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup-u21-women/canada-usa/juaB3Uig/"
-    },
-    {
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "USA: USL LEAGUE TWO",
-      "home": "Brave SC",
-      "away": "Shark Coast",
-      "favTeam": "Brave SC",
-      "underTeam": "Shark Coast",
-      "favOdd": 1.12,
-      "prob": 89,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.12
-      },
-      "avgFavOdd": 1.14,
-      "time": "09:00",
-      "kickoff": "2026-07-13T01:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/football/usa/usl-league-two/brave-sc-shark-coast/UaoJp8uf/"
     },
     {
       "sport": "ハンドボール",
@@ -292,13 +292,13 @@
       "away": "Andreeva E.",
       "favTeam": "Andreeva E.",
       "underTeam": "Papamichail D.",
-      "favOdd": 1.32,
+      "favOdd": 1.31,
       "prob": 76,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.32
+        "1xbet": 1.31
       },
-      "avgFavOdd": 1.32,
+      "avgFavOdd": 1.31,
       "time": "19:00",
       "kickoff": "2026-07-13T11:00:00+09:00",
       "niche": false,
@@ -312,17 +312,37 @@
       "away": "Ancud",
       "favTeam": "Valdivia",
       "underTeam": "Ancud",
-      "favOdd": 1.35,
+      "favOdd": 1.36,
       "prob": 74,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.35
+        "1xbet": 1.36
       },
-      "avgFavOdd": 1.31,
+      "avgFavOdd": 1.32,
       "time": "10:30",
       "kickoff": "2026-07-13T02:30:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/basketball/chile/lnb/valdivia-ancud/vZKgOd9N/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "PUERTO RICO: BSN",
+      "home": "Leones De Ponce",
+      "away": "San German",
+      "favTeam": "Leones De Ponce",
+      "underTeam": "San German",
+      "favOdd": 1.41,
+      "prob": 71,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.41
+      },
+      "avgFavOdd": 1.46,
+      "time": "10:00",
+      "kickoff": "2026-07-13T02:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/puerto-rico/bsn/leones-de-ponce-san-german/UuPbeYFL/"
     },
     {
       "sport": "ハンドボール",
@@ -338,7 +358,7 @@
       "books": {
         "1xbet": 1.43
       },
-      "avgFavOdd": 1.44,
+      "avgFavOdd": 1.43,
       "time": "19:30",
       "kickoff": "2026-07-13T11:30:00+09:00",
       "niche": true,
@@ -367,22 +387,22 @@
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: CORDENONS, CLAY",
-      "home": "Forti F.",
-      "away": "Makk P.",
-      "favTeam": "Forti F.",
-      "underTeam": "Makk P.",
+      "league": "ATP - SINGLES: GSTAAD, CLAY",
+      "home": "Sonego L.",
+      "away": "Schwaerzler J. J.",
+      "favTeam": "Sonego L.",
+      "underTeam": "Schwaerzler J. J.",
       "favOdd": 1.45,
       "prob": 69,
       "book": "1xBet",
       "books": {
         "1xbet": 1.45
       },
-      "avgFavOdd": 1.46,
-      "time": "18:00",
-      "kickoff": "2026-07-13T10:00:00+09:00",
+      "avgFavOdd": 1.42,
+      "time": "18:30",
+      "kickoff": "2026-07-13T10:30:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/cordenons/forti-francesco-makk-peter/Sp2l1Kyg/"
+      "url": "https://www.betexplorer.com/tennis/atp-singles/gstaad/sonego-lorenzo-schwarzler-joel-josef/dbNj2CnS/"
     },
     {
       "sport": "ハンドボール",
@@ -407,42 +427,22 @@
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "ATP - SINGLES: GSTAAD, CLAY",
-      "home": "Sonego L.",
-      "away": "Schwaerzler J. J.",
-      "favTeam": "Sonego L.",
-      "underTeam": "Schwaerzler J. J.",
+      "league": "CHALLENGER MEN - SINGLES: CORDENONS, CLAY",
+      "home": "Forti F.",
+      "away": "Makk P.",
+      "favTeam": "Forti F.",
+      "underTeam": "Makk P.",
       "favOdd": 1.46,
       "prob": 68,
       "book": "1xBet",
       "books": {
         "1xbet": 1.46
       },
-      "avgFavOdd": 1.44,
-      "time": "18:30",
-      "kickoff": "2026-07-13T10:30:00+09:00",
+      "avgFavOdd": 1.47,
+      "time": "18:00",
+      "kickoff": "2026-07-13T10:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/tennis/atp-singles/gstaad/sonego-lorenzo-schwarzler-joel-josef/dbNj2CnS/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "PUERTO RICO: BSN",
-      "home": "Leones De Ponce",
-      "away": "San German",
-      "favTeam": "Leones De Ponce",
-      "underTeam": "San German",
-      "favOdd": 1.46,
-      "prob": 68,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.46
-      },
-      "avgFavOdd": 1.49,
-      "time": "10:00",
-      "kickoff": "2026-07-13T02:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/puerto-rico/bsn/leones-de-ponce-san-german/UuPbeYFL/"
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/cordenons/forti-francesco-makk-peter/Sp2l1Kyg/"
     },
     {
       "sport": "バスケ",
@@ -467,42 +467,22 @@
     {
       "sport": "サッカー",
       "sportKey": "soccer",
-      "league": "USA: NWSL WOMEN",
-      "home": "Denver Summit W",
-      "away": "Houston Dash W",
-      "favTeam": "Denver Summit W",
-      "underTeam": "Houston Dash W",
-      "favOdd": 1.54,
+      "league": "USA: MLS NEXT PRO",
+      "home": "Austin FC II",
+      "away": "Minnesota 2",
+      "favTeam": "Austin FC II",
+      "underTeam": "Minnesota 2",
+      "favOdd": 1.55,
       "prob": 65,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.54
+        "1xbet": 1.55
       },
-      "avgFavOdd": 1.58,
-      "time": "09:00",
-      "kickoff": "2026-07-13T01:00:00+09:00",
+      "avgFavOdd": 1.59,
+      "time": "10:30",
+      "kickoff": "2026-07-13T02:30:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/football/usa/nwsl-women/denver-summit-houston-dash/bRvXoCgl/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "USA: NBA LAS VEGAS SUMMER LEAGUE",
-      "home": "Portland Trail Blazers",
-      "away": "Orlando Magic",
-      "favTeam": "Orlando Magic",
-      "underTeam": "Portland Trail Blazers",
-      "favOdd": 1.57,
-      "prob": 64,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.57
-      },
-      "avgFavOdd": 1.55,
-      "time": "09:00",
-      "kickoff": "2026-07-13T01:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/usa/nba-las-vegas-summer-league/portland-trail-blazers-orlando-magic/dGnhZ7i4/"
+      "url": "https://www.betexplorer.com/football/usa/mls-next-pro/austin-fc-minnesota-united/dQQ7SYOG/"
     }
   ]
 }
