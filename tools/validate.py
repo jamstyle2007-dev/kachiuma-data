@@ -135,6 +135,8 @@ def main():
                 base = f"{pp}.plans.{side}"
                 check_betsimple(pl.get("tansho", {}), f"{base}.tansho") if "tansho" in pl else err(base, "必須キー 'tansho'")
                 check_betsimple(pl.get("fukusho", {}), f"{base}.fukusho") if "fukusho" in pl else err(base, "必須キー 'fukusho'")
+                if "wide" in pl and pl["wide"] is not None:  # 任意（推奨がある時だけ）。ペアの配列
+                    check_betcombo(pl["wide"], f"{base}.wide")
                 check_betcombo(pl.get("sanrenpuku", {}), f"{base}.sanrenpuku") if "sanrenpuku" in pl else err(base, "必須キー 'sanrenpuku'")
                 check_betcombo(pl.get("sanrentan", {}), f"{base}.sanrentan") if "sanrentan" in pl else err(base, "必須キー 'sanrentan'")
 
