@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-07-13T01:26:47.753Z",
+  "generatedAt": "2026-07-13T04:58:45.872Z",
   "windowDays": 400,
   "total": 300,
-  "hits": 199,
-  "hitRate": 0.6633333333333333,
+  "hits": 197,
+  "hitRate": 0.6566666666666666,
   "sim": {
     "stake": 10000,
-    "asOf": "2026-07-13T01:26:47.753Z",
+    "asOf": "2026-07-13T04:58:45.872Z",
     "byMinStars": {
       "1": {
         "all": {
-          "n": 502,
-          "hits": 327,
-          "staked": 5020000,
-          "returns": 4145100,
-          "profit": -874900
+          "n": 505,
+          "hits": 328,
+          "staked": 5050000,
+          "returns": 4160800,
+          "profit": -889200
         },
         "year": {
-          "n": 502,
-          "hits": 327,
-          "staked": 5020000,
-          "returns": 4145100,
-          "profit": -874900
+          "n": 505,
+          "hits": 328,
+          "staked": 5050000,
+          "returns": 4160800,
+          "profit": -889200
         },
         "month": {
-          "n": 502,
-          "hits": 327,
-          "staked": 5020000,
-          "returns": 4145100,
-          "profit": -874900
+          "n": 505,
+          "hits": 328,
+          "staked": 5050000,
+          "returns": 4160800,
+          "profit": -889200
         },
         "week": {
-          "n": 11,
-          "hits": 8,
-          "staked": 110000,
-          "returns": 102100,
-          "profit": -7900
+          "n": 14,
+          "hits": 9,
+          "staked": 140000,
+          "returns": 117800,
+          "profit": -22200
         }
       },
       "2": {
         "all": {
-          "n": 291,
+          "n": 292,
           "hits": 213,
-          "staked": 2910000,
+          "staked": 2920000,
           "returns": 2453000,
-          "profit": -457000
+          "profit": -467000
         },
         "year": {
-          "n": 291,
+          "n": 292,
           "hits": 213,
-          "staked": 2910000,
+          "staked": 2920000,
           "returns": 2453000,
-          "profit": -457000
+          "profit": -467000
         },
         "month": {
-          "n": 291,
+          "n": 292,
           "hits": 213,
-          "staked": 2910000,
+          "staked": 2920000,
           "returns": 2453000,
-          "profit": -457000
+          "profit": -467000
         },
         "week": {
-          "n": 5,
+          "n": 6,
           "hits": 4,
-          "staked": 50000,
+          "staked": 60000,
           "returns": 43900,
-          "profit": -6100
+          "profit": -16100
         }
       },
       "3": {
@@ -161,6 +161,40 @@
     }
   },
   "settled": [
+    {
+      "id": "zRm8VPjT",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "USA: NBA LAS VEGAS SUMMER LEAGUE",
+      "favTeam": "Utah Jazz",
+      "underTeam": "Los Angeles Clippers",
+      "favIsHome": true,
+      "favOdd": 1.32,
+      "prob": 76,
+      "stars": 2,
+      "kickoff": "2026-07-13T04:00:00+09:00",
+      "homeScore": 82,
+      "awayScore": 104,
+      "isDraw": false,
+      "favWon": false
+    },
+    {
+      "id": "2Dk0XoMG",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "USA: NBA LAS VEGAS SUMMER LEAGUE",
+      "favTeam": "Milwaukee Bucks",
+      "underTeam": "San Antonio Spurs",
+      "favIsHome": true,
+      "favOdd": 1.5,
+      "prob": 67,
+      "stars": 1,
+      "kickoff": "2026-07-13T03:00:00+09:00",
+      "homeScore": 80,
+      "awayScore": 90,
+      "isDraw": false,
+      "favWon": false
+    },
     {
       "id": "vZKgOd9N",
       "sport": "バスケ",
@@ -313,6 +347,23 @@
       "awayScore": 2,
       "isDraw": true,
       "favWon": false
+    },
+    {
+      "id": "dGnhZ7i4",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "USA: NBA LAS VEGAS SUMMER LEAGUE",
+      "favTeam": "Orlando Magic",
+      "underTeam": "Portland Trail Blazers",
+      "favIsHome": false,
+      "favOdd": 1.57,
+      "prob": 64,
+      "stars": 1,
+      "kickoff": "2026-07-13T01:00:00+09:00",
+      "homeScore": 105,
+      "awayScore": 112,
+      "isDraw": false,
+      "favWon": true
     },
     {
       "id": "CjwwVZgS",
@@ -5205,57 +5256,6 @@
       "prob": 89,
       "stars": 3,
       "kickoff": "2026-07-09T01:00:00+09:00",
-      "homeScore": 2,
-      "awayScore": 0,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "EDYrAcn1",
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25 LAVAL, HARD",
-      "favTeam": "Kirchheimer S.",
-      "underTeam": "Lapalme M.",
-      "favIsHome": false,
-      "favOdd": 1.07,
-      "prob": 93,
-      "stars": 4,
-      "kickoff": "2026-07-09T00:00:00+09:00",
-      "homeScore": 0,
-      "awayScore": 2,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "phq9STcT",
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: NEWPORT, GRASS",
-      "favTeam": "Blanch Dar.",
-      "underTeam": "Cassone M.",
-      "favIsHome": false,
-      "favOdd": 1.55,
-      "prob": 65,
-      "stars": 1,
-      "kickoff": "2026-07-08T23:45:00+09:00",
-      "homeScore": 1,
-      "awayScore": 2,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "OEd53jas",
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER WOMEN - SINGLES: NEWPORT, GRASS",
-      "favTeam": "Sawangkaew M.",
-      "underTeam": "Dolehide C.",
-      "favIsHome": true,
-      "favOdd": 1.53,
-      "prob": 65,
-      "stars": 1,
-      "kickoff": "2026-07-08T23:40:00+09:00",
       "homeScore": 2,
       "awayScore": 0,
       "isDraw": false,
