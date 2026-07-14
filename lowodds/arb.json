@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-14T23:01:31.003Z",
+  "generatedAt": "2026-07-14T23:14:31.434Z",
   "deadlineH": 4,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 12,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,5 +24,64 @@
     },
     "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "2mddEF14",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Converge FiberXers - Terrafirma Dyip",
+      "url": "https://www.betexplorer.com/basketball/philippines/pba-governors-cup/converge-fiberxers-terrafirma-dyip/2mddEF14/",
+      "kickoff": "2026-07-15T11:15:00+09:00",
+      "width": 2,
+      "books": 11,
+      "labels": [
+        "Converge FiberXers",
+        "Terrafirma Dyip"
+      ],
+      "legs": [
+        {
+          "outcome": "Converge FiberXers",
+          "book": "Betsson",
+          "odd": 1.28,
+          "stake": 81662,
+          "jp": false,
+          "exch": false
+        },
+        {
+          "outcome": "Terrafirma Dyip",
+          "book": "Mozzartbet",
+          "odd": 5.7,
+          "stake": 18338,
+          "jp": false,
+          "exch": false
+        }
+      ],
+      "S": 0.9566885964912281,
+      "roi": 4.527220630372497,
+      "profit": 4527,
+      "payout": 104527,
+      "staked": 100000,
+      "mins": 180,
+      "split": {
+        "S": 0.9566885964912281,
+        "payout": 104527,
+        "profit": 4527,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Betsson",
+            "odd": 1.28,
+            "stake": 81662
+          },
+          {
+            "book": "Mozzartbet",
+            "odd": 5.7,
+            "stake": 18338
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
