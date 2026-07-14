@@ -1,131 +1,131 @@
 {
-  "generatedAt": "2026-07-14T04:07:53.988Z",
+  "generatedAt": "2026-07-14T07:40:54.921Z",
   "windowDays": 400,
   "total": 300,
-  "hits": 203,
-  "hitRate": 0.6766666666666666,
+  "hits": 204,
+  "hitRate": 0.68,
   "sim": {
     "stake": 10000,
-    "asOf": "2026-07-14T04:07:53.988Z",
+    "asOf": "2026-07-14T07:40:54.921Z",
     "byMinStars": {
       "1": {
         "all": {
-          "n": 564,
-          "hits": 369,
-          "staked": 5640000,
-          "returns": 4674900,
-          "profit": -965100
+          "n": 568,
+          "hits": 373,
+          "staked": 5680000,
+          "returns": 4724200,
+          "profit": -955800
         },
         "year": {
-          "n": 564,
-          "hits": 369,
-          "staked": 5640000,
-          "returns": 4674900,
-          "profit": -965100
+          "n": 568,
+          "hits": 373,
+          "staked": 5680000,
+          "returns": 4724200,
+          "profit": -955800
         },
         "month": {
-          "n": 564,
-          "hits": 369,
-          "staked": 5640000,
-          "returns": 4674900,
-          "profit": -965100
+          "n": 568,
+          "hits": 373,
+          "staked": 5680000,
+          "returns": 4724200,
+          "profit": -955800
         },
         "week": {
-          "n": 73,
-          "hits": 50,
-          "staked": 730000,
-          "returns": 631900,
-          "profit": -98100
+          "n": 77,
+          "hits": 54,
+          "staked": 770000,
+          "returns": 681200,
+          "profit": -88800
         }
       },
       "2": {
         "all": {
-          "n": 330,
-          "hits": 242,
-          "staked": 3300000,
-          "returns": 2785600,
-          "profit": -514400
+          "n": 333,
+          "hits": 245,
+          "staked": 3330000,
+          "returns": 2821300,
+          "profit": -508700
         },
         "year": {
-          "n": 330,
-          "hits": 242,
-          "staked": 3300000,
-          "returns": 2785600,
-          "profit": -514400
+          "n": 333,
+          "hits": 245,
+          "staked": 3330000,
+          "returns": 2821300,
+          "profit": -508700
         },
         "month": {
-          "n": 330,
-          "hits": 242,
-          "staked": 3300000,
-          "returns": 2785600,
-          "profit": -514400
+          "n": 333,
+          "hits": 245,
+          "staked": 3330000,
+          "returns": 2821300,
+          "profit": -508700
         },
         "week": {
-          "n": 44,
-          "hits": 33,
-          "staked": 440000,
-          "returns": 376500,
-          "profit": -63500
+          "n": 47,
+          "hits": 36,
+          "staked": 470000,
+          "returns": 412200,
+          "profit": -57800
         }
       },
       "3": {
         "all": {
-          "n": 199,
-          "hits": 159,
-          "staked": 1990000,
-          "returns": 1727400,
-          "profit": -262600
+          "n": 200,
+          "hits": 160,
+          "staked": 2000000,
+          "returns": 1738400,
+          "profit": -261600
         },
         "year": {
-          "n": 199,
-          "hits": 159,
-          "staked": 1990000,
-          "returns": 1727400,
-          "profit": -262600
+          "n": 200,
+          "hits": 160,
+          "staked": 2000000,
+          "returns": 1738400,
+          "profit": -261600
         },
         "month": {
-          "n": 199,
-          "hits": 159,
-          "staked": 1990000,
-          "returns": 1727400,
-          "profit": -262600
+          "n": 200,
+          "hits": 160,
+          "staked": 2000000,
+          "returns": 1738400,
+          "profit": -261600
         },
         "week": {
-          "n": 30,
-          "hits": 25,
-          "staked": 300000,
-          "returns": 275100,
-          "profit": -24900
+          "n": 31,
+          "hits": 26,
+          "staked": 310000,
+          "returns": 286100,
+          "profit": -23900
         }
       },
       "4": {
         "all": {
-          "n": 118,
-          "hits": 95,
-          "staked": 1180000,
-          "returns": 990500,
-          "profit": -189500
+          "n": 119,
+          "hits": 96,
+          "staked": 1190000,
+          "returns": 1001500,
+          "profit": -188500
         },
         "year": {
-          "n": 118,
-          "hits": 95,
-          "staked": 1180000,
-          "returns": 990500,
-          "profit": -189500
+          "n": 119,
+          "hits": 96,
+          "staked": 1190000,
+          "returns": 1001500,
+          "profit": -188500
         },
         "month": {
-          "n": 118,
-          "hits": 95,
-          "staked": 1180000,
-          "returns": 990500,
-          "profit": -189500
+          "n": 119,
+          "hits": 96,
+          "staked": 1190000,
+          "returns": 1001500,
+          "profit": -188500
         },
         "week": {
-          "n": 16,
-          "hits": 12,
-          "staked": 160000,
-          "returns": 124400,
-          "profit": -35600
+          "n": 17,
+          "hits": 13,
+          "staked": 170000,
+          "returns": 135400,
+          "profit": -34600
         }
       },
       "5": {
@@ -162,6 +162,57 @@
   },
   "settled": [
     {
+      "id": "047bgnOO",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - DOUBLES: M25 BRISBANE, HARD",
+      "favTeam": "Bobichon M. / Sach T.",
+      "underTeam": "Winter H. / Zhang J.",
+      "favIsHome": true,
+      "favOdd": 1.22,
+      "prob": 82,
+      "stars": 2,
+      "kickoff": "2026-07-14T07:10:00+09:00",
+      "homeScore": 2,
+      "awayScore": 0,
+      "isDraw": false,
+      "favWon": true
+    },
+    {
+      "id": "tzBrcUOa",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - DOUBLES: M25 BRISBANE, HARD",
+      "favTeam": "Charlton J. / Hulme M.",
+      "underTeam": "Dong C. / Markovina D.",
+      "favIsHome": true,
+      "favOdd": 1.36,
+      "prob": 74,
+      "stars": 1,
+      "kickoff": "2026-07-14T07:10:00+09:00",
+      "homeScore": 2,
+      "awayScore": 0,
+      "isDraw": false,
+      "favWon": true
+    },
+    {
+      "id": "W6lO9785",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - DOUBLES: M25 BRISBANE, HARD",
+      "favTeam": "Camus C. / Shearer M.",
+      "underTeam": "Arcon A. / Dembo J.",
+      "favIsHome": false,
+      "favOdd": 1.1,
+      "prob": 91,
+      "stars": 4,
+      "kickoff": "2026-07-14T06:45:00+09:00",
+      "homeScore": 0,
+      "awayScore": 2,
+      "isDraw": false,
+      "favWon": true
+    },
+    {
       "id": "dtIJxsbd",
       "sport": "バスケ",
       "sportKey": "basketball",
@@ -194,6 +245,23 @@
       "awayScore": 1,
       "isDraw": true,
       "favWon": false
+    },
+    {
+      "id": "Em9je8gC",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M25 BRISBANE, HARD",
+      "favTeam": "Ellis B.",
+      "underTeam": "Jones H.",
+      "favIsHome": false,
+      "favOdd": 1.25,
+      "prob": 80,
+      "stars": 2,
+      "kickoff": "2026-07-14T04:30:00+09:00",
+      "homeScore": 0,
+      "awayScore": 2,
+      "isDraw": false,
+      "favWon": true
     },
     {
       "id": "8KXlX7Qs",
@@ -5190,74 +5258,6 @@
       "kickoff": "2026-07-09T19:00:00+09:00",
       "homeScore": 0,
       "awayScore": 3,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "0M485sKO",
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U20",
-      "favTeam": "Denmark U20",
-      "underTeam": "Norway U20",
-      "favIsHome": true,
-      "favOdd": 1.41,
-      "prob": 71,
-      "stars": 1,
-      "kickoff": "2026-07-09T18:30:00+09:00",
-      "homeScore": 33,
-      "awayScore": 30,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "MB380exS",
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U20",
-      "favTeam": "Switzerland U20",
-      "underTeam": "Serbia U20",
-      "favIsHome": false,
-      "favOdd": 1.43,
-      "prob": 70,
-      "stars": 1,
-      "kickoff": "2026-07-09T18:30:00+09:00",
-      "homeScore": 25,
-      "awayScore": 35,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "vumNwyi3",
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U22 WOMEN",
-      "favTeam": "Spain U22 W",
-      "underTeam": "Ukraine U22 W",
-      "favIsHome": true,
-      "favOdd": 1.01,
-      "prob": 99,
-      "stars": 5,
-      "kickoff": "2026-07-09T17:00:00+09:00",
-      "homeScore": 1,
-      "awayScore": 3,
-      "isDraw": false,
-      "favWon": false
-    },
-    {
-      "id": "86YhZUBE",
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "EUROPE: EUROBASKET U20 B WOMEN",
-      "favTeam": "Portugal U20 W",
-      "underTeam": "Bulgaria U20 W",
-      "favIsHome": false,
-      "favOdd": 1.1,
-      "prob": 91,
-      "stars": 4,
-      "kickoff": "2026-07-09T17:00:00+09:00",
-      "homeScore": 52,
-      "awayScore": 94,
       "isDraw": false,
       "favWon": true
     }
