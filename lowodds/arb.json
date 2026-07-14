@@ -1,87 +1,28 @@
 {
-  "generatedAt": "2026-07-14T17:58:16.552Z",
+  "generatedAt": "2026-07-14T18:03:52.853Z",
   "deadlineH": 4,
   "stake": 100000,
-  "scanned": 10,
-  "arbCount": 1,
+  "scanned": 5,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
-      "count": 0,
-      "profit": 0
+      "count": 1,
+      "profit": 788
     },
     "year": {
-      "count": 0,
-      "profit": 0
+      "count": 1,
+      "profit": 788
     },
     "month": {
-      "count": 0,
-      "profit": 0
+      "count": 1,
+      "profit": 788
     },
     "week": {
-      "count": 0,
-      "profit": 0
+      "count": 1,
+      "profit": 788
     },
-    "pending": 5
+    "pending": 4
   },
-  "opps": [
-    {
-      "id": "O4VIiBVH",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "Canada - Argentina",
-      "url": "https://www.betexplorer.com/volleyball/world/nations-league/canada-argentina/O4VIiBVH/",
-      "kickoff": "2026-07-15T05:00:00+09:00",
-      "width": 2,
-      "books": 17,
-      "labels": [
-        "Canada",
-        "Argentina"
-      ],
-      "legs": [
-        {
-          "outcome": "Canada",
-          "book": "1xBet",
-          "odd": 2.29,
-          "stake": 43735,
-          "jp": true,
-          "exch": false
-        },
-        {
-          "outcome": "Argentina",
-          "book": "BetInAsia",
-          "odd": 1.78,
-          "stake": 56265,
-          "jp": true,
-          "exch": false
-        }
-      ],
-      "S": 0.9984789755164124,
-      "roi": 0.15233415233415482,
-      "profit": 152,
-      "payout": 100152,
-      "staked": 100000,
-      "mins": 122,
-      "split": {
-        "S": 0.9984789755164124,
-        "payout": 100152,
-        "profit": 152,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 2.29,
-            "stake": 43735
-          },
-          {
-            "book": "BetInAsia",
-            "odd": 1.78,
-            "stake": 56265
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
