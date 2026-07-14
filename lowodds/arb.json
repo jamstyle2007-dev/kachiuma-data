@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T14:13:12.519Z",
+  "generatedAt": "2026-07-14T14:18:40.973Z",
   "deadlineH": 4,
   "stake": 100000,
   "scanned": 3,
@@ -43,40 +43,40 @@
           "outcome": "Golden State Warriors",
           "book": "bwin",
           "odd": 1.5,
-          "stake": 67391,
+          "stake": 66960,
           "jp": true,
           "exch": false
         },
         {
           "outcome": "Memphis Grizzlies",
           "book": "BetInAsia",
-          "odd": 3.1,
-          "stake": 32609,
+          "odd": 3.04,
+          "stake": 33040,
           "jp": true,
           "exch": false
         }
       ],
-      "S": 0.989247311827957,
-      "roi": 1.0869565217391353,
-      "profit": 1087,
-      "payout": 101087,
+      "S": 0.9956140350877193,
+      "roi": 0.4405286343612369,
+      "profit": 441,
+      "payout": 100441,
       "staked": 100000,
-      "mins": 107,
+      "mins": 101,
       "split": {
-        "S": 0.989247311827957,
-        "payout": 101087,
-        "profit": 1087,
+        "S": 0.9956140350877193,
+        "payout": 100441,
+        "profit": 441,
         "staked": 100000,
         "legs": [
           {
             "book": "bwin",
             "odd": 1.5,
-            "stake": 67391
+            "stake": 66960
           },
           {
             "book": "BetInAsia",
-            "odd": 3.1,
-            "stake": 32609
+            "odd": 3.04,
+            "stake": 33040
           }
         ]
       },
