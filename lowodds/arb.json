@@ -1,62 +1,62 @@
 {
-  "generatedAt": "2026-07-14T12:57:14.336Z",
+  "generatedAt": "2026-07-14T13:02:39.926Z",
   "deadlineH": 4,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "opps": [
     {
-      "id": "OnA50pj3",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Houston Rockets - Philadelphia 76ers",
-      "url": "https://www.betexplorer.com/basketball/usa/nba-las-vegas-summer-league/houston-rockets-philadelphia-76ers/OnA50pj3/",
-      "kickoff": "2026-07-14T22:00:00+09:00",
+      "id": "QakD3EJa",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "National League - American League",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/national-league-american-league/QakD3EJa/",
+      "kickoff": "2026-07-15T02:00:00+09:00",
       "width": 2,
-      "books": 18,
+      "books": 14,
       "labels": [
-        "Houston Rockets",
-        "Philadelphia 76ers"
+        "National League",
+        "American League"
       ],
       "legs": [
         {
-          "outcome": "Houston Rockets",
-          "book": "1xBet",
-          "odd": 2.72,
-          "stake": 36891,
+          "outcome": "National League",
+          "book": "BetInAsia",
+          "odd": 1.78,
+          "stake": 54822,
           "jp": true,
           "exch": false
         },
         {
-          "outcome": "Philadelphia 76ers",
-          "book": "bwin",
-          "odd": 1.59,
-          "stake": 63109,
+          "outcome": "American League",
+          "book": "BetInAsia",
+          "odd": 2.16,
+          "stake": 45178,
           "jp": true,
           "exch": false
         }
       ],
-      "S": 0.9965778764335922,
-      "roi": 0.3433874709976914,
-      "profit": 343,
-      "payout": 100343,
+      "S": 1.0247607157719516,
+      "roi": -2.4162436548223254,
+      "profit": -2416,
+      "payout": 97584,
       "staked": 100000,
-      "mins": 3,
+      "mins": 237,
       "split": {
-        "S": 0.9965778764335922,
-        "payout": 100343,
-        "profit": 343,
+        "S": 1.0247607157719516,
+        "payout": 97584,
+        "profit": -2416,
         "staked": 100000,
         "legs": [
           {
-            "book": "1xBet",
-            "odd": 2.72,
-            "stake": 36891
+            "book": "BetInAsia",
+            "odd": 1.78,
+            "stake": 54822
           },
           {
-            "book": "bwin",
-            "odd": 1.59,
-            "stake": 63109
+            "book": "BetInAsia",
+            "odd": 2.16,
+            "stake": 45178
           }
         ]
       },
