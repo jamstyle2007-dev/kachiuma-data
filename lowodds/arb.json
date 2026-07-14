@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-14T11:25:29.756Z",
+  "generatedAt": "2026-07-14T11:30:53.700Z",
   "deadlineH": 4,
   "stake": 100000,
-  "scanned": 2,
+  "scanned": 1,
   "arbCount": 0,
   "opps": [
     {
@@ -23,98 +23,40 @@
           "outcome": "Kosovo U20",
           "book": "William Hill",
           "odd": 1.08,
-          "stake": 91415,
+          "stake": 90674,
           "jp": false,
           "exch": false
         },
         {
           "outcome": "Armenia U20",
           "book": "bwin",
-          "odd": 11.5,
-          "stake": 8585,
+          "odd": 10.5,
+          "stake": 9326,
           "jp": true,
           "exch": false
         }
       ],
-      "S": 1.0128824476650562,
-      "roi": -1.2718600953894876,
-      "profit": -1272,
-      "payout": 98728,
+      "S": 1.021164021164021,
+      "roi": -2.072538860103601,
+      "profit": -2073,
+      "payout": 97927,
       "staked": 100000,
-      "mins": 35,
+      "mins": 29,
       "split": {
-        "S": 1.0128824476650562,
-        "payout": 98728,
-        "profit": -1272,
+        "S": 1.021164021164021,
+        "payout": 97927,
+        "profit": -2073,
         "staked": 100000,
         "legs": [
           {
             "book": "William Hill",
             "odd": 1.08,
-            "stake": 91415
+            "stake": 90674
           },
           {
             "book": "bwin",
-            "odd": 11.5,
-            "stake": 8585
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    },
-    {
-      "id": "GbKepkhM",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Ireland U20 - Azerbaijan U20",
-      "url": "https://www.betexplorer.com/basketball/europe/eurobasket-u20-b/ireland-azerbaijan/GbKepkhM/",
-      "kickoff": "2026-07-14T20:30:00+09:00",
-      "width": 2,
-      "books": 13,
-      "labels": [
-        "Ireland U20",
-        "Azerbaijan U20"
-      ],
-      "legs": [
-        {
-          "outcome": "Ireland U20",
-          "book": "1xBet",
-          "odd": 1.23,
-          "stake": 79258,
-          "jp": true,
-          "exch": false
-        },
-        {
-          "outcome": "Azerbaijan U20",
-          "book": "Mozzartbet",
-          "odd": 4.7,
-          "stake": 20742,
-          "jp": false,
-          "exch": false
-        }
-      ],
-      "S": 1.0257740875281094,
-      "roi": -2.51264755480608,
-      "profit": -2513,
-      "payout": 97487,
-      "staked": 100000,
-      "mins": 5,
-      "split": {
-        "S": 1.0257740875281094,
-        "payout": 97487,
-        "profit": -2513,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 1.23,
-            "stake": 79258
-          },
-          {
-            "book": "Mozzartbet",
-            "odd": 4.7,
-            "stake": 20742
+            "odd": 10.5,
+            "stake": 9326
           }
         ]
       },
