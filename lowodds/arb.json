@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-14T12:30:12.523Z",
+  "generatedAt": "2026-07-14T12:35:36.049Z",
   "deadlineH": 4,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 0,
+  "arbCount": 1,
   "opps": [
     {
       "id": "OnA50pj3",
@@ -23,40 +23,40 @@
           "outcome": "Houston Rockets",
           "book": "1xBet",
           "odd": 2.72,
-          "stake": 36000,
+          "stake": 36891,
           "jp": true,
           "exch": false
         },
         {
           "outcome": "Philadelphia 76ers",
-          "book": "Betway",
-          "odd": 1.53,
-          "stake": 64000,
+          "book": "bwin",
+          "odd": 1.59,
+          "stake": 63109,
           "jp": true,
           "exch": false
         }
       ],
-      "S": 1.0212418300653594,
-      "roi": -2.079999999999993,
-      "profit": -2080,
-      "payout": 97920,
+      "S": 0.9965778764335922,
+      "roi": 0.3433874709976914,
+      "profit": 343,
+      "payout": 100343,
       "staked": 100000,
-      "mins": 30,
+      "mins": 24,
       "split": {
-        "S": 1.0212418300653594,
-        "payout": 97920,
-        "profit": -2080,
+        "S": 0.9965778764335922,
+        "payout": 100343,
+        "profit": 343,
         "staked": 100000,
         "legs": [
           {
             "book": "1xBet",
             "odd": 2.72,
-            "stake": 36000
+            "stake": 36891
           },
           {
-            "book": "Betway",
-            "odd": 1.53,
-            "stake": 64000
+            "book": "bwin",
+            "odd": 1.59,
+            "stake": 63109
           }
         ]
       },
