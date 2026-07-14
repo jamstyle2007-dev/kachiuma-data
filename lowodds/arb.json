@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-14T14:35:01.682Z",
+  "generatedAt": "2026-07-14T14:40:28.701Z",
   "deadlineH": 4,
   "stake": 100000,
   "scanned": 3,
-  "arbCount": 2,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -61,7 +61,7 @@
       "profit": 2176,
       "payout": 102176,
       "staked": 100000,
-      "mins": 85,
+      "mins": 80,
       "split": {
         "S": 0.9787059787059786,
         "payout": 102176,
@@ -77,64 +77,6 @@
             "book": "Mozzartbet",
             "odd": 3.3,
             "stake": 30962
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    },
-    {
-      "id": "GfSCbOKF",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Brooklyn Nets - Sacramento Kings",
-      "url": "https://www.betexplorer.com/basketball/usa/nba-las-vegas-summer-league/brooklyn-nets-sacramento-kings/GfSCbOKF/",
-      "kickoff": "2026-07-15T00:00:00+09:00",
-      "width": 2,
-      "books": 18,
-      "labels": [
-        "Brooklyn Nets",
-        "Sacramento Kings"
-      ],
-      "legs": [
-        {
-          "outcome": "Brooklyn Nets",
-          "book": "Unibet",
-          "odd": 2.2,
-          "stake": 45679,
-          "jp": false,
-          "exch": false
-        },
-        {
-          "outcome": "Sacramento Kings",
-          "book": "1xBet",
-          "odd": 1.85,
-          "stake": 54321,
-          "jp": true,
-          "exch": false
-        }
-      ],
-      "S": 0.9950859950859949,
-      "roi": 0.4938271604938427,
-      "profit": 494,
-      "payout": 100494,
-      "staked": 100000,
-      "mins": 25,
-      "split": {
-        "S": 0.9950859950859949,
-        "payout": 100494,
-        "profit": 494,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Unibet",
-            "odd": 2.2,
-            "stake": 45679
-          },
-          {
-            "book": "1xBet",
-            "odd": 1.85,
-            "stake": 54321
           }
         ]
       },
