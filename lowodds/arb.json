@@ -1,8 +1,67 @@
 {
-  "generatedAt": "2026-07-14T12:14:03.638Z",
+  "generatedAt": "2026-07-14T12:19:24.967Z",
   "deadlineH": 4,
   "stake": 100000,
-  "scanned": 0,
+  "scanned": 1,
   "arbCount": 0,
-  "opps": []
+  "opps": [
+    {
+      "id": "OnA50pj3",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Houston Rockets - Philadelphia 76ers",
+      "url": "https://www.betexplorer.com/basketball/usa/nba-las-vegas-summer-league/houston-rockets-philadelphia-76ers/OnA50pj3/",
+      "kickoff": "2026-07-14T22:00:00+09:00",
+      "width": 2,
+      "books": 18,
+      "labels": [
+        "Houston Rockets",
+        "Philadelphia 76ers"
+      ],
+      "legs": [
+        {
+          "outcome": "Houston Rockets",
+          "book": "1xBet",
+          "odd": 2.72,
+          "stake": 36000,
+          "jp": true,
+          "exch": false
+        },
+        {
+          "outcome": "Philadelphia 76ers",
+          "book": "Betway",
+          "odd": 1.53,
+          "stake": 64000,
+          "jp": true,
+          "exch": false
+        }
+      ],
+      "S": 1.0212418300653594,
+      "roi": -2.079999999999993,
+      "profit": -2080,
+      "payout": 97920,
+      "staked": 100000,
+      "mins": 41,
+      "split": {
+        "S": 1.0212418300653594,
+        "payout": 97920,
+        "profit": -2080,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "1xBet",
+            "odd": 2.72,
+            "stake": 36000
+          },
+          {
+            "book": "Betway",
+            "odd": 1.53,
+            "stake": 64000
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    }
+  ]
 }
