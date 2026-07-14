@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-14T14:18:40.973Z",
+  "generatedAt": "2026-07-14T14:24:08.779Z",
   "deadlineH": 4,
   "stake": 100000,
   "scanned": 3,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,64 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "l8QKd2kS",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Golden State Warriors - Memphis Grizzlies",
-      "url": "https://www.betexplorer.com/basketball/usa/nba-las-vegas-summer-league/golden-state-warriors-memphis-grizzlies/l8QKd2kS/",
-      "kickoff": "2026-07-15T01:00:00+09:00",
-      "width": 2,
-      "books": 18,
-      "labels": [
-        "Golden State Warriors",
-        "Memphis Grizzlies"
-      ],
-      "legs": [
-        {
-          "outcome": "Golden State Warriors",
-          "book": "bwin",
-          "odd": 1.5,
-          "stake": 66960,
-          "jp": true,
-          "exch": false
-        },
-        {
-          "outcome": "Memphis Grizzlies",
-          "book": "BetInAsia",
-          "odd": 3.04,
-          "stake": 33040,
-          "jp": true,
-          "exch": false
-        }
-      ],
-      "S": 0.9956140350877193,
-      "roi": 0.4405286343612369,
-      "profit": 441,
-      "payout": 100441,
-      "staked": 100000,
-      "mins": 101,
-      "split": {
-        "S": 0.9956140350877193,
-        "payout": 100441,
-        "profit": 441,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "bwin",
-            "odd": 1.5,
-            "stake": 66960
-          },
-          {
-            "book": "BetInAsia",
-            "odd": 3.04,
-            "stake": 33040
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
