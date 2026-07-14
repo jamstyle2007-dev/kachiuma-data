@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-14T13:16:26.546Z",
-  "deadlineH": 12,
+  "generatedAt": "2026-07-14T13:19:03.013Z",
+  "deadlineH": 4,
   "stake": 100000,
-  "scanned": 4,
-  "arbCount": 1,
+  "scanned": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,64 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "U3cjZ2Fj",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "Belgium - Cuba",
-      "url": "https://www.betexplorer.com/volleyball/world/nations-league/belgium-cuba/U3cjZ2Fj/",
-      "kickoff": "2026-07-15T08:30:00+09:00",
-      "width": 2,
-      "books": 15,
-      "labels": [
-        "Belgium",
-        "Cuba"
-      ],
-      "legs": [
-        {
-          "outcome": "Belgium",
-          "book": "1xBet",
-          "odd": 1.75,
-          "stake": 58824,
-          "jp": true,
-          "exch": false
-        },
-        {
-          "outcome": "Cuba",
-          "book": "bet365",
-          "odd": 2.5,
-          "stake": 41176,
-          "jp": false,
-          "exch": false
-        }
-      ],
-      "S": 0.9714285714285714,
-      "roi": 2.941176470588247,
-      "profit": 2941,
-      "payout": 102941,
-      "staked": 100000,
-      "mins": 614,
-      "split": {
-        "S": 0.9714285714285714,
-        "payout": 102941,
-        "profit": 2941,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 1.75,
-            "stake": 58824
-          },
-          {
-            "book": "bet365",
-            "odd": 2.5,
-            "stake": 41176
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
