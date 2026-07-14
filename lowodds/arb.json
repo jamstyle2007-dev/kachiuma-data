@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T16:51:13.784Z",
+  "generatedAt": "2026-07-14T16:56:43.259Z",
   "deadlineH": 4,
   "stake": 100000,
   "scanned": 5,
@@ -42,8 +42,8 @@
         {
           "outcome": "San German",
           "book": "BetInAsia",
-          "odd": 1.7,
-          "stake": 59524,
+          "odd": 1.72,
+          "stake": 59242,
           "jp": true,
           "exch": false
         },
@@ -51,32 +51,32 @@
           "outcome": "Leones De Ponce",
           "book": "Betfair",
           "odd": 2.5,
-          "stake": 40476,
+          "stake": 40758,
           "jp": true,
           "exch": true
         }
       ],
-      "S": 0.9882352941176471,
-      "roi": 1.1904761904761862,
-      "profit": 1190,
-      "payout": 101190,
+      "S": 0.9813953488372094,
+      "roi": 1.8957345971563955,
+      "profit": 1896,
+      "payout": 101896,
       "staked": 100000,
-      "mins": 9,
+      "mins": 3,
       "split": {
-        "S": 0.9882352941176471,
-        "payout": 101190,
-        "profit": 1190,
+        "S": 0.9813953488372094,
+        "payout": 101896,
+        "profit": 1896,
         "staked": 100000,
         "legs": [
           {
             "book": "BetInAsia",
-            "odd": 1.7,
-            "stake": 59524
+            "odd": 1.72,
+            "stake": 59242
           },
           {
             "book": "Betfair",
             "odd": 2.5,
-            "stake": 40476
+            "stake": 40758
           }
         ]
       },
