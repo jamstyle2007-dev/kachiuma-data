@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-14T14:24:08.779Z",
+  "generatedAt": "2026-07-14T14:29:35.328Z",
   "deadlineH": 4,
   "stake": 100000,
   "scanned": 3,
-  "arbCount": 0,
+  "arbCount": 2,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,124 @@
       "count": 0,
       "profit": 0
     },
-    "pending": 2
+    "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "l8QKd2kS",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Golden State Warriors - Memphis Grizzlies",
+      "url": "https://www.betexplorer.com/basketball/usa/nba-las-vegas-summer-league/golden-state-warriors-memphis-grizzlies/l8QKd2kS/",
+      "kickoff": "2026-07-15T01:00:00+09:00",
+      "width": 2,
+      "books": 18,
+      "labels": [
+        "Golden State Warriors",
+        "Memphis Grizzlies"
+      ],
+      "legs": [
+        {
+          "outcome": "Golden State Warriors",
+          "book": "Unibet",
+          "odd": 1.48,
+          "stake": 69038,
+          "jp": false,
+          "exch": false
+        },
+        {
+          "outcome": "Memphis Grizzlies",
+          "book": "Mozzartbet",
+          "odd": 3.3,
+          "stake": 30962,
+          "jp": false,
+          "exch": false
+        }
+      ],
+      "S": 0.9787059787059786,
+      "roi": 2.175732217573234,
+      "profit": 2176,
+      "payout": 102176,
+      "staked": 100000,
+      "mins": 90,
+      "split": {
+        "S": 0.9787059787059786,
+        "payout": 102176,
+        "profit": 2176,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Unibet",
+            "odd": 1.48,
+            "stake": 69038
+          },
+          {
+            "book": "Mozzartbet",
+            "odd": 3.3,
+            "stake": 30962
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "GfSCbOKF",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Brooklyn Nets - Sacramento Kings",
+      "url": "https://www.betexplorer.com/basketball/usa/nba-las-vegas-summer-league/brooklyn-nets-sacramento-kings/GfSCbOKF/",
+      "kickoff": "2026-07-15T00:00:00+09:00",
+      "width": 2,
+      "books": 18,
+      "labels": [
+        "Brooklyn Nets",
+        "Sacramento Kings"
+      ],
+      "legs": [
+        {
+          "outcome": "Brooklyn Nets",
+          "book": "Unibet",
+          "odd": 2.2,
+          "stake": 45813,
+          "jp": false,
+          "exch": false
+        },
+        {
+          "outcome": "Sacramento Kings",
+          "book": "bet365",
+          "odd": 1.86,
+          "stake": 54187,
+          "jp": false,
+          "exch": false
+        }
+      ],
+      "S": 0.9921798631476051,
+      "roi": 0.7881773399014858,
+      "profit": 788,
+      "payout": 100788,
+      "staked": 100000,
+      "mins": 30,
+      "split": {
+        "S": 0.9921798631476051,
+        "payout": 100788,
+        "profit": 788,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Unibet",
+            "odd": 2.2,
+            "stake": 45813
+          },
+          {
+            "book": "bet365",
+            "odd": 1.86,
+            "stake": 54187
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
