@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-15T02:30:29.310Z",
+  "generatedAt": "2026-07-15T02:36:09.972Z",
   "deadlineH": 4,
   "stake": 100000,
   "scanned": 12,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,64 +24,5 @@
     },
     "pending": 5
   },
-  "opps": [
-    {
-      "id": "ENenL8Wo",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Chinatrust Brothers - Wei Chuan Dragons",
-      "url": "https://www.betexplorer.com/baseball/taiwan/cpbl/chinatrust-brothers-wei-chuan-dragons/ENenL8Wo/",
-      "kickoff": "2026-07-15T12:35:00+09:00",
-      "width": 2,
-      "books": 15,
-      "labels": [
-        "Chinatrust Brothers",
-        "Wei Chuan Dragons"
-      ],
-      "legs": [
-        {
-          "outcome": "Chinatrust Brothers",
-          "book": "BetInAsia",
-          "odd": 2.45,
-          "stake": 41106,
-          "jp": true,
-          "exch": false
-        },
-        {
-          "outcome": "Wei Chuan Dragons",
-          "book": "Unibet",
-          "odd": 1.71,
-          "stake": 58894,
-          "jp": false,
-          "exch": false
-        }
-      ],
-      "S": 0.9929585869435493,
-      "roi": 0.7091346153846212,
-      "profit": 709,
-      "payout": 100709,
-      "staked": 100000,
-      "mins": 65,
-      "split": {
-        "S": 0.9929585869435493,
-        "payout": 100709,
-        "profit": 709,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "BetInAsia",
-            "odd": 2.45,
-            "stake": 41106
-          },
-          {
-            "book": "Unibet",
-            "odd": 1.71,
-            "stake": 58894
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
