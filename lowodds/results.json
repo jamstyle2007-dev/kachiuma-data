@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-07-15T03:38:33.998Z",
+  "generatedAt": "2026-07-15T07:38:40.676Z",
   "windowDays": 400,
   "total": 300,
-  "hits": 199,
-  "hitRate": 0.6633333333333333,
+  "hits": 198,
+  "hitRate": 0.66,
   "sim": {
     "stake": 10000,
-    "asOf": "2026-07-15T03:38:33.998Z",
+    "asOf": "2026-07-15T07:38:40.676Z",
     "byMinStars": {
       "1": {
         "all": {
-          "n": 651,
-          "hits": 424,
-          "staked": 6510000,
-          "returns": 5355900,
-          "profit": -1154100
+          "n": 653,
+          "hits": 425,
+          "staked": 6530000,
+          "returns": 5368500,
+          "profit": -1161500
         },
         "year": {
-          "n": 651,
-          "hits": 424,
-          "staked": 6510000,
-          "returns": 5355900,
-          "profit": -1154100
+          "n": 653,
+          "hits": 425,
+          "staked": 6530000,
+          "returns": 5368500,
+          "profit": -1161500
         },
         "month": {
-          "n": 651,
-          "hits": 424,
-          "staked": 6510000,
-          "returns": 5355900,
-          "profit": -1154100
+          "n": 653,
+          "hits": 425,
+          "staked": 6530000,
+          "returns": 5368500,
+          "profit": -1161500
         },
         "week": {
-          "n": 160,
-          "hits": 105,
-          "staked": 1600000,
-          "returns": 1312900,
-          "profit": -287100
+          "n": 162,
+          "hits": 106,
+          "staked": 1620000,
+          "returns": 1325500,
+          "profit": -294500
         }
       },
       "2": {
         "all": {
-          "n": 383,
-          "hits": 282,
-          "staked": 3830000,
-          "returns": 3244500,
-          "profit": -585500
+          "n": 385,
+          "hits": 283,
+          "staked": 3850000,
+          "returns": 3257100,
+          "profit": -592900
         },
         "year": {
-          "n": 383,
-          "hits": 282,
-          "staked": 3830000,
-          "returns": 3244500,
-          "profit": -585500
+          "n": 385,
+          "hits": 283,
+          "staked": 3850000,
+          "returns": 3257100,
+          "profit": -592900
         },
         "month": {
-          "n": 383,
-          "hits": 282,
-          "staked": 3830000,
-          "returns": 3244500,
-          "profit": -585500
+          "n": 385,
+          "hits": 283,
+          "staked": 3850000,
+          "returns": 3257100,
+          "profit": -592900
         },
         "week": {
-          "n": 97,
-          "hits": 73,
-          "staked": 970000,
-          "returns": 835400,
-          "profit": -134600
+          "n": 99,
+          "hits": 74,
+          "staked": 990000,
+          "returns": 848000,
+          "profit": -142000
         }
       },
       "3": {
@@ -161,6 +161,40 @@
     }
   },
   "settled": [
+    {
+      "id": "xONSx6xh",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M25 BRISBANE, HARD",
+      "favTeam": "Delaney Ja.",
+      "underTeam": "Markovina D.",
+      "favIsHome": false,
+      "favOdd": 1.31,
+      "prob": 76,
+      "stars": 2,
+      "kickoff": "2026-07-15T06:30:00+09:00",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isDraw": true,
+      "favWon": false
+    },
+    {
+      "id": "2kV8AUln",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M25 BRISBANE, HARD",
+      "favTeam": "Charlton J.",
+      "underTeam": "Camus C.",
+      "favIsHome": true,
+      "favOdd": 1.26,
+      "prob": 79,
+      "stars": 2,
+      "kickoff": "2026-07-15T05:30:00+09:00",
+      "homeScore": 2,
+      "awayScore": 0,
+      "isDraw": false,
+      "favWon": true
+    },
     {
       "id": "KA7pDNZ8",
       "sport": "バスケ",
@@ -5224,40 +5258,6 @@
       "kickoff": "2026-07-11T01:00:00+09:00",
       "homeScore": 1,
       "awayScore": 0,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "zLhIW8Wb",
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "USA: NBA LAS VEGAS SUMMER LEAGUE",
-      "favTeam": "Brooklyn Nets",
-      "underTeam": "New York Knicks",
-      "favIsHome": false,
-      "favOdd": 1.34,
-      "prob": 75,
-      "stars": 2,
-      "kickoff": "2026-07-11T00:00:00+09:00",
-      "homeScore": 44,
-      "awayScore": 73,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "ERg2KiMO",
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "WORLD: PAN-AMERICAN CUP U21 WOMEN",
-      "favTeam": "Mexico U21 W",
-      "underTeam": "Costa Rica U21 W",
-      "favIsHome": false,
-      "favOdd": 1.06,
-      "prob": 94,
-      "stars": 4,
-      "kickoff": "2026-07-10T23:00:00+09:00",
-      "homeScore": 0,
-      "awayScore": 3,
       "isDraw": false,
       "favWon": true
     }
