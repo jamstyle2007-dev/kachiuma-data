@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-15T00:43:21.105Z",
+  "generatedAt": "2026-07-15T01:38:12.405Z",
   "deadlineH": 4,
   "stake": 100000,
-  "scanned": 20,
-  "arbCount": 2,
+  "scanned": 22,
+  "arbCount": 3,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,7 @@
       "count": 4,
       "profit": 3217
     },
-    "pending": 4
+    "pending": 5
   },
   "opps": [
     {
@@ -61,7 +61,7 @@
       "profit": 4527,
       "payout": 104527,
       "staked": 100000,
-      "mins": 92,
+      "mins": 37,
       "split": {
         "S": 0.9566885964912281,
         "payout": 104527,
@@ -77,6 +77,64 @@
             "book": "Mozzartbet",
             "odd": 5.7,
             "stake": 18338
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "ADa4CgWG",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Meralco Bolts - Phoenix Fuelmasters",
+      "url": "https://www.betexplorer.com/basketball/philippines/pba-governors-cup/meralco-bolts-phoenix-fuelmasters/ADa4CgWG/",
+      "kickoff": "2026-07-15T13:30:00+09:00",
+      "width": 2,
+      "books": 9,
+      "labels": [
+        "Meralco Bolts",
+        "Phoenix Fuelmasters"
+      ],
+      "legs": [
+        {
+          "outcome": "Meralco Bolts",
+          "book": "Betsson",
+          "odd": 1.3,
+          "stake": 79365,
+          "jp": false,
+          "exch": false
+        },
+        {
+          "outcome": "Phoenix Fuelmasters",
+          "book": "bwin",
+          "odd": 5,
+          "stake": 20635,
+          "jp": true,
+          "exch": false
+        }
+      ],
+      "S": 0.9692307692307691,
+      "roi": 3.1746031746031855,
+      "profit": 3175,
+      "payout": 103175,
+      "staked": 100000,
+      "mins": 172,
+      "split": {
+        "S": 0.9692307692307691,
+        "payout": 103175,
+        "profit": 3175,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Betsson",
+            "odd": 1.3,
+            "stake": 79365
+          },
+          {
+            "book": "bwin",
+            "odd": 5,
+            "stake": 20635
           }
         ]
       },
@@ -101,40 +159,40 @@
           "outcome": "Germany",
           "book": "BetInAsia",
           "odd": 2.6,
-          "stake": 38679,
+          "stake": 38534,
           "jp": true,
           "exch": false
         },
         {
           "outcome": "Slovenia",
           "book": "1xBet",
-          "odd": 1.64,
-          "stake": 61321,
+          "odd": 1.63,
+          "stake": 61466,
           "jp": true,
           "exch": false
         }
       ],
-      "S": 0.9943714821763602,
-      "roi": 0.5660377358490676,
-      "profit": 566,
-      "payout": 100566,
+      "S": 0.998112317130722,
+      "roi": 0.1891252955082745,
+      "profit": 189,
+      "payout": 100189,
       "staked": 100000,
-      "mins": 197,
+      "mins": 142,
       "split": {
-        "S": 0.9943714821763602,
-        "payout": 100566,
-        "profit": 566,
+        "S": 0.998112317130722,
+        "payout": 100189,
+        "profit": 189,
         "staked": 100000,
         "legs": [
           {
             "book": "BetInAsia",
             "odd": 2.6,
-            "stake": 38679
+            "stake": 38534
           },
           {
             "book": "1xBet",
-            "odd": 1.64,
-            "stake": 61321
+            "odd": 1.63,
+            "stake": 61466
           }
         ]
       },
