@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-15T01:56:08.470Z",
+  "generatedAt": "2026-07-15T02:02:08.747Z",
   "deadlineH": 4,
   "stake": 100000,
-  "scanned": 26,
+  "scanned": 13,
   "arbCount": 2,
   "track": {
     "stake": 100000,
@@ -61,7 +61,7 @@
       "profit": 4527,
       "payout": 104527,
       "staked": 100000,
-      "mins": 19,
+      "mins": 13,
       "split": {
         "S": 0.9566885964912281,
         "payout": 104527,
@@ -100,41 +100,41 @@
         {
           "outcome": "Meralco Bolts",
           "book": "1xBet",
-          "odd": 1.3,
-          "stake": 79365,
+          "odd": 1.35,
+          "stake": 77311,
           "jp": true,
           "exch": false
         },
         {
           "outcome": "Phoenix Fuelmasters",
           "book": "bwin",
-          "odd": 5,
-          "stake": 20635,
+          "odd": 4.6,
+          "stake": 22689,
           "jp": true,
           "exch": false
         }
       ],
-      "S": 0.9692307692307691,
-      "roi": 3.1746031746031855,
-      "profit": 3175,
-      "payout": 103175,
+      "S": 0.9581320450885669,
+      "roi": 4.3697478991596705,
+      "profit": 4370,
+      "payout": 104370,
       "staked": 100000,
-      "mins": 154,
+      "mins": 148,
       "split": {
-        "S": 0.9692307692307691,
-        "payout": 103175,
-        "profit": 3175,
+        "S": 0.9581320450885669,
+        "payout": 104370,
+        "profit": 4370,
         "staked": 100000,
         "legs": [
           {
             "book": "1xBet",
-            "odd": 1.3,
-            "stake": 79365
+            "odd": 1.35,
+            "stake": 77311
           },
           {
             "book": "bwin",
-            "odd": 5,
-            "stake": 20635
+            "odd": 4.6,
+            "stake": 22689
           }
         ]
       },
