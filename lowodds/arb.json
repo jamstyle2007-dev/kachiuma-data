@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-15T02:13:27.180Z",
+  "generatedAt": "2026-07-15T02:19:08.750Z",
   "deadlineH": 4,
   "stake": 100000,
-  "scanned": 13,
-  "arbCount": 2,
+  "scanned": 12,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,119 +22,61 @@
       "count": 4,
       "profit": 3217
     },
-    "pending": 5
+    "pending": 6
   },
   "opps": [
     {
-      "id": "2mddEF14",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Converge FiberXers - Terrafirma Dyip",
-      "url": "https://www.betexplorer.com/basketball/philippines/pba-governors-cup/converge-fiberxers-terrafirma-dyip/2mddEF14/",
-      "kickoff": "2026-07-15T11:15:00+09:00",
+      "id": "ENenL8Wo",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Chinatrust Brothers - Wei Chuan Dragons",
+      "url": "https://www.betexplorer.com/baseball/taiwan/cpbl/chinatrust-brothers-wei-chuan-dragons/ENenL8Wo/",
+      "kickoff": "2026-07-15T12:35:00+09:00",
       "width": 2,
-      "books": 11,
+      "books": 15,
       "labels": [
-        "Converge FiberXers",
-        "Terrafirma Dyip"
+        "Chinatrust Brothers",
+        "Wei Chuan Dragons"
       ],
       "legs": [
         {
-          "outcome": "Converge FiberXers",
-          "book": "Betsson",
-          "odd": 1.28,
-          "stake": 81662,
-          "jp": false,
-          "exch": false
-        },
-        {
-          "outcome": "Terrafirma Dyip",
-          "book": "Mozzartbet",
-          "odd": 5.7,
-          "stake": 18338,
-          "jp": false,
-          "exch": false
-        }
-      ],
-      "S": 0.9566885964912281,
-      "roi": 4.527220630372497,
-      "profit": 4527,
-      "payout": 104527,
-      "staked": 100000,
-      "mins": 2,
-      "split": {
-        "S": 0.9566885964912281,
-        "payout": 104527,
-        "profit": 4527,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betsson",
-            "odd": 1.28,
-            "stake": 81662
-          },
-          {
-            "book": "Mozzartbet",
-            "odd": 5.7,
-            "stake": 18338
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    },
-    {
-      "id": "ADa4CgWG",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Meralco Bolts - Phoenix Fuelmasters",
-      "url": "https://www.betexplorer.com/basketball/philippines/pba-governors-cup/meralco-bolts-phoenix-fuelmasters/ADa4CgWG/",
-      "kickoff": "2026-07-15T13:30:00+09:00",
-      "width": 2,
-      "books": 9,
-      "labels": [
-        "Meralco Bolts",
-        "Phoenix Fuelmasters"
-      ],
-      "legs": [
-        {
-          "outcome": "Meralco Bolts",
-          "book": "1xBet",
-          "odd": 1.39,
-          "stake": 72692,
+          "outcome": "Chinatrust Brothers",
+          "book": "BetInAsia",
+          "odd": 2.45,
+          "stake": 41106,
           "jp": true,
           "exch": false
         },
         {
-          "outcome": "Phoenix Fuelmasters",
-          "book": "Mozzartbet",
-          "odd": 3.7,
-          "stake": 27308,
+          "outcome": "Wei Chuan Dragons",
+          "book": "Unibet",
+          "odd": 1.71,
+          "stake": 58894,
           "jp": false,
           "exch": false
         }
       ],
-      "S": 0.989694730701925,
-      "roi": 1.0412573673870273,
-      "profit": 1041,
-      "payout": 101041,
+      "S": 0.9929585869435493,
+      "roi": 0.7091346153846212,
+      "profit": 709,
+      "payout": 100709,
       "staked": 100000,
-      "mins": 137,
+      "mins": 76,
       "split": {
-        "S": 0.989694730701925,
-        "payout": 101041,
-        "profit": 1041,
+        "S": 0.9929585869435493,
+        "payout": 100709,
+        "profit": 709,
         "staked": 100000,
         "legs": [
           {
-            "book": "1xBet",
-            "odd": 1.39,
-            "stake": 72692
+            "book": "BetInAsia",
+            "odd": 2.45,
+            "stake": 41106
           },
           {
-            "book": "Mozzartbet",
-            "odd": 3.7,
-            "stake": 27308
+            "book": "Unibet",
+            "odd": 1.71,
+            "stake": 58894
           }
         ]
       },
