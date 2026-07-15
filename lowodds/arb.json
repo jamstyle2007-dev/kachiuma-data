@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-15T00:08:39.667Z",
+  "generatedAt": "2026-07-15T00:14:22.939Z",
   "deadlineH": 4,
   "stake": 100000,
   "scanned": 16,
-  "arbCount": 3,
+  "arbCount": 2,
   "track": {
     "stake": 100000,
     "all": {
@@ -61,7 +61,7 @@
       "profit": 4527,
       "payout": 104527,
       "staked": 100000,
-      "mins": 126,
+      "mins": 121,
       "split": {
         "S": 0.9566885964912281,
         "payout": 104527,
@@ -101,102 +101,44 @@
           "outcome": "Germany",
           "book": "BetInAsia",
           "odd": 2.6,
-          "stake": 38967,
+          "stake": 38679,
           "jp": true,
           "exch": false
         },
         {
           "outcome": "Slovenia",
           "book": "1xBet",
-          "odd": 1.66,
-          "stake": 61033,
+          "odd": 1.64,
+          "stake": 61321,
           "jp": true,
           "exch": false
         }
       ],
-      "S": 0.9870250231696015,
-      "roi": 1.3145539906103343,
-      "profit": 1315,
-      "payout": 101315,
+      "S": 0.9943714821763602,
+      "roi": 0.5660377358490676,
+      "profit": 566,
+      "payout": 100566,
       "staked": 100000,
-      "mins": 231,
+      "mins": 226,
       "split": {
-        "S": 0.9870250231696015,
-        "payout": 101315,
-        "profit": 1315,
+        "S": 0.9943714821763602,
+        "payout": 100566,
+        "profit": 566,
         "staked": 100000,
         "legs": [
           {
             "book": "BetInAsia",
             "odd": 2.6,
-            "stake": 38967
+            "stake": 38679
           },
           {
             "book": "1xBet",
-            "odd": 1.66,
-            "stake": 61033
+            "odd": 1.64,
+            "stake": 61321
           }
         ]
       },
       "hasExch": false,
-      "allJp": true
-    },
-    {
-      "id": "Mcpxc67c",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "Japan - Italy",
-      "url": "https://www.betexplorer.com/volleyball/world/nations-league/japan-italy/Mcpxc67c/",
-      "kickoff": "2026-07-15T12:20:00+09:00",
-      "width": 2,
-      "books": 17,
-      "labels": [
-        "Japan",
-        "Italy"
-      ],
-      "legs": [
-        {
-          "outcome": "Japan",
-          "book": "Betfair",
-          "odd": 2.2,
-          "stake": 45679,
-          "jp": true,
-          "exch": true
-        },
-        {
-          "outcome": "Italy",
-          "book": "BetInAsia",
-          "odd": 1.85,
-          "stake": 54321,
-          "jp": true,
-          "exch": false
-        }
-      ],
-      "S": 0.9950859950859949,
-      "roi": 0.4938271604938427,
-      "profit": 494,
-      "payout": 100494,
-      "staked": 100000,
-      "mins": 191,
-      "split": {
-        "S": 0.9950859950859949,
-        "payout": 100494,
-        "profit": 494,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betfair",
-            "odd": 2.2,
-            "stake": 45679
-          },
-          {
-            "book": "BetInAsia",
-            "odd": 1.85,
-            "stake": 54321
-          }
-        ]
-      },
-      "hasExch": true,
       "allJp": true
     }
   ]
