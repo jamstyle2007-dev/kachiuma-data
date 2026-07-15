@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-15T18:18:06.894Z",
+  "generatedAt": "2026-07-15T18:23:36.937Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 4,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 11,
       "profit": 1197693
     },
-    "pending": 1
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "KnjYlEce",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Laguna - Caliente de Durango",
+      "url": "https://www.betexplorer.com/baseball/mexico/lmb/algodoneros-union-laguna-caliente-de-durango/KnjYlEce/",
+      "kickoff": "2026-07-16T03:30:00+09:00",
+      "width": 3,
+      "books": 8,
+      "labels": [
+        "Laguna",
+        "Draw",
+        "Caliente de Durango"
+      ],
+      "legs": [
+        {
+          "outcome": "Laguna",
+          "book": "18:11",
+          "odd": 18,
+          "stake": 9437,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=18%3A11%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "5:6",
+          "odd": 2.19,
+          "stake": 77566,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=5%3A6%20sportsbook"
+        },
+        {
+          "outcome": "Caliente de Durango",
+          "book": "3:6",
+          "odd": 13.07,
+          "stake": 12997,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=3%3A6%20sportsbook"
+        }
+      ],
+      "S": 0.5886876542304114,
+      "roi": 69.8693683847159,
+      "profit": 69869,
+      "payout": 169869,
+      "staked": 100000,
+      "mins": 6,
+      "split": {
+        "S": 0.5886876542304114,
+        "payout": 169869,
+        "profit": 69869,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "18:11",
+            "odd": 18,
+            "stake": 9437
+          },
+          {
+            "book": "5:6",
+            "odd": 2.19,
+            "stake": 77566
+          },
+          {
+            "book": "3:6",
+            "odd": 13.07,
+            "stake": 12997
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
