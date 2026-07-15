@@ -1,28 +1,87 @@
 {
-  "generatedAt": "2026-07-15T06:32:48.865Z",
+  "generatedAt": "2026-07-15T06:38:18.090Z",
   "deadlineH": 4,
   "stake": 100000,
   "scanned": 5,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
-      "count": 7,
-      "profit": 94577
+      "count": 8,
+      "profit": 95286
     },
     "year": {
-      "count": 7,
-      "profit": 94577
+      "count": 8,
+      "profit": 95286
     },
     "month": {
-      "count": 7,
-      "profit": 94577
+      "count": 8,
+      "profit": 95286
     },
     "week": {
-      "count": 7,
-      "profit": 94577
+      "count": 8,
+      "profit": 95286
     },
     "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "xESEKMtC",
+      "sport": "handball",
+      "sportLabel": "ハンドボール",
+      "teams": "Italy U20 - Georgia U20",
+      "url": "https://www.betexplorer.com/handball/europe/european-championship-u20-b/italy-georgia/xESEKMtC/",
+      "kickoff": "2026-07-15T16:00:00+09:00",
+      "width": 2,
+      "books": 3,
+      "labels": [
+        "Italy U20",
+        "Georgia U20"
+      ],
+      "legs": [
+        {
+          "outcome": "Italy U20",
+          "book": "Duelbits",
+          "odd": 25,
+          "stake": 47917,
+          "jp": false,
+          "exch": false
+        },
+        {
+          "outcome": "Georgia U20",
+          "book": "Duelbits",
+          "odd": 23,
+          "stake": 52083,
+          "jp": false,
+          "exch": false
+        }
+      ],
+      "S": 0.08347826086956522,
+      "roi": 1097.9166666666665,
+      "profit": 1097917,
+      "payout": 1197917,
+      "staked": 100000,
+      "mins": 22,
+      "split": {
+        "S": 0.08347826086956522,
+        "payout": 1197917,
+        "profit": 1097917,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Duelbits",
+            "odd": 25,
+            "stake": 47917
+          },
+          {
+            "book": "Duelbits",
+            "odd": 23,
+            "stake": 52083
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
