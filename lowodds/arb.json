@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-15T04:00:10.925Z",
+  "generatedAt": "2026-07-15T04:20:59.614Z",
   "deadlineH": 4,
   "stake": 100000,
   "scanned": 6,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,64 +24,5 @@
     },
     "pending": 5
   },
-  "opps": [
-    {
-      "id": "ADa4CgWG",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Meralco Bolts - Phoenix Fuelmasters",
-      "url": "https://www.betexplorer.com/basketball/philippines/pba-governors-cup/meralco-bolts-phoenix-fuelmasters/ADa4CgWG/",
-      "kickoff": "2026-07-15T13:30:00+09:00",
-      "width": 2,
-      "books": 11,
-      "labels": [
-        "Meralco Bolts",
-        "Phoenix Fuelmasters"
-      ],
-      "legs": [
-        {
-          "outcome": "Meralco Bolts",
-          "book": "1xBet",
-          "odd": 1.44,
-          "stake": 70248,
-          "jp": true,
-          "exch": false
-        },
-        {
-          "outcome": "Phoenix Fuelmasters",
-          "book": "Unibet",
-          "odd": 3.4,
-          "stake": 29752,
-          "jp": false,
-          "exch": false
-        }
-      ],
-      "S": 0.988562091503268,
-      "roi": 1.157024793388417,
-      "profit": 1157,
-      "payout": 101157,
-      "staked": 100000,
-      "mins": 30,
-      "split": {
-        "S": 0.988562091503268,
-        "payout": 101157,
-        "profit": 1157,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 1.44,
-            "stake": 70248
-          },
-          {
-            "book": "Unibet",
-            "odd": 3.4,
-            "stake": 29752
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
