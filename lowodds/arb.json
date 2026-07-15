@@ -1,88 +1,30 @@
 {
-  "generatedAt": "2026-07-15T02:24:49.132Z",
+  "generatedAt": "2026-07-15T02:30:29.310Z",
   "deadlineH": 4,
   "stake": 100000,
   "scanned": 12,
-  "arbCount": 2,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
-      "count": 4,
-      "profit": 3217
+      "count": 5,
+      "profit": 6158
     },
     "year": {
-      "count": 4,
-      "profit": 3217
+      "count": 5,
+      "profit": 6158
     },
     "month": {
-      "count": 4,
-      "profit": 3217
+      "count": 5,
+      "profit": 6158
     },
     "week": {
-      "count": 4,
-      "profit": 3217
+      "count": 5,
+      "profit": 6158
     },
-    "pending": 6
+    "pending": 5
   },
   "opps": [
-    {
-      "id": "ADa4CgWG",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Meralco Bolts - Phoenix Fuelmasters",
-      "url": "https://www.betexplorer.com/basketball/philippines/pba-governors-cup/meralco-bolts-phoenix-fuelmasters/ADa4CgWG/",
-      "kickoff": "2026-07-15T13:30:00+09:00",
-      "width": 2,
-      "books": 9,
-      "labels": [
-        "Meralco Bolts",
-        "Phoenix Fuelmasters"
-      ],
-      "legs": [
-        {
-          "outcome": "Meralco Bolts",
-          "book": "1xBet",
-          "odd": 1.39,
-          "stake": 72692,
-          "jp": true,
-          "exch": false
-        },
-        {
-          "outcome": "Phoenix Fuelmasters",
-          "book": "Mozzartbet",
-          "odd": 3.7,
-          "stake": 27308,
-          "jp": false,
-          "exch": false
-        }
-      ],
-      "S": 0.989694730701925,
-      "roi": 1.0412573673870273,
-      "profit": 1041,
-      "payout": 101041,
-      "staked": 100000,
-      "mins": 125,
-      "split": {
-        "S": 0.989694730701925,
-        "payout": 101041,
-        "profit": 1041,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 1.39,
-            "stake": 72692
-          },
-          {
-            "book": "Mozzartbet",
-            "odd": 3.7,
-            "stake": 27308
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    },
     {
       "id": "ENenL8Wo",
       "sport": "baseball",
@@ -119,7 +61,7 @@
       "profit": 709,
       "payout": 100709,
       "staked": 100000,
-      "mins": 70,
+      "mins": 65,
       "split": {
         "S": 0.9929585869435493,
         "payout": 100709,
