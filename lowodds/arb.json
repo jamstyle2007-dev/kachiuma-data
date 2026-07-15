@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-15T17:41:23.479Z",
+  "generatedAt": "2026-07-15T18:18:06.894Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 1,
+  "scanned": 4,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "4xtP7NLF",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "USA - China",
-      "url": "https://www.betexplorer.com/volleyball/world/nations-league/usa-china/4xtP7NLF/",
-      "kickoff": "2026-07-16T03:00:00+09:00",
-      "width": 2,
-      "books": 17,
-      "labels": [
-        "USA",
-        "China"
-      ],
-      "legs": [
-        {
-          "outcome": "USA",
-          "book": "Betfair Exchange",
-          "odd": 1.09,
-          "stake": 92038,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        },
-        {
-          "outcome": "China",
-          "book": "1xBet",
-          "odd": 12.6,
-          "stake": 7962,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        }
-      ],
-      "S": 0.9967962720256298,
-      "roi": 0.32140248356464785,
-      "profit": 321,
-      "payout": 100321,
-      "staked": 100000,
-      "mins": 19,
-      "split": {
-        "S": 0.9967962720256298,
-        "payout": 100321,
-        "profit": 321,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betfair Exchange",
-            "odd": 1.09,
-            "stake": 92038
-          },
-          {
-            "book": "1xBet",
-            "odd": 12.6,
-            "stake": 7962
-          }
-        ]
-      },
-      "hasExch": true,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
