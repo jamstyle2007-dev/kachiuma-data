@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-15T00:02:23.490Z",
+  "generatedAt": "2026-07-15T00:08:39.667Z",
   "deadlineH": 4,
   "stake": 100000,
-  "scanned": 14,
-  "arbCount": 2,
+  "scanned": 16,
+  "arbCount": 3,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,7 @@
       "count": 4,
       "profit": 3217
     },
-    "pending": 3
+    "pending": 4
   },
   "opps": [
     {
@@ -61,7 +61,7 @@
       "profit": 4527,
       "payout": 104527,
       "staked": 100000,
-      "mins": 133,
+      "mins": 126,
       "split": {
         "S": 0.9566885964912281,
         "payout": 104527,
@@ -84,6 +84,64 @@
       "allJp": false
     },
     {
+      "id": "8ErpepxA",
+      "sport": "volleyball",
+      "sportLabel": "バレー",
+      "teams": "Germany - Slovenia",
+      "url": "https://www.betexplorer.com/volleyball/world/nations-league/germany-slovenia/8ErpepxA/",
+      "kickoff": "2026-07-15T13:00:00+09:00",
+      "width": 2,
+      "books": 17,
+      "labels": [
+        "Germany",
+        "Slovenia"
+      ],
+      "legs": [
+        {
+          "outcome": "Germany",
+          "book": "BetInAsia",
+          "odd": 2.6,
+          "stake": 38967,
+          "jp": true,
+          "exch": false
+        },
+        {
+          "outcome": "Slovenia",
+          "book": "1xBet",
+          "odd": 1.66,
+          "stake": 61033,
+          "jp": true,
+          "exch": false
+        }
+      ],
+      "S": 0.9870250231696015,
+      "roi": 1.3145539906103343,
+      "profit": 1315,
+      "payout": 101315,
+      "staked": 100000,
+      "mins": 231,
+      "split": {
+        "S": 0.9870250231696015,
+        "payout": 101315,
+        "profit": 1315,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "BetInAsia",
+            "odd": 2.6,
+            "stake": 38967
+          },
+          {
+            "book": "1xBet",
+            "odd": 1.66,
+            "stake": 61033
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    },
+    {
       "id": "Mcpxc67c",
       "sport": "volleyball",
       "sportLabel": "バレー",
@@ -99,46 +157,46 @@
       "legs": [
         {
           "outcome": "Japan",
-          "book": "1xBet",
-          "odd": 2.24,
-          "stake": 45232,
+          "book": "Betfair",
+          "odd": 2.2,
+          "stake": 45679,
           "jp": true,
-          "exch": false
+          "exch": true
         },
         {
           "outcome": "Italy",
           "book": "BetInAsia",
           "odd": 1.85,
-          "stake": 54768,
+          "stake": 54321,
           "jp": true,
           "exch": false
         }
       ],
-      "S": 0.9869691119691119,
-      "roi": 1.3202933985330123,
-      "profit": 1320,
-      "payout": 101320,
+      "S": 0.9950859950859949,
+      "roi": 0.4938271604938427,
+      "profit": 494,
+      "payout": 100494,
       "staked": 100000,
-      "mins": 198,
+      "mins": 191,
       "split": {
-        "S": 0.9869691119691119,
-        "payout": 101320,
-        "profit": 1320,
+        "S": 0.9950859950859949,
+        "payout": 100494,
+        "profit": 494,
         "staked": 100000,
         "legs": [
           {
-            "book": "1xBet",
-            "odd": 2.24,
-            "stake": 45232
+            "book": "Betfair",
+            "odd": 2.2,
+            "stake": 45679
           },
           {
             "book": "BetInAsia",
             "odd": 1.85,
-            "stake": 54768
+            "stake": 54321
           }
         ]
       },
-      "hasExch": false,
+      "hasExch": true,
       "allJp": true
     }
   ]
