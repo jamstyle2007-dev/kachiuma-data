@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T13:46:42.334Z",
+  "generatedAt": "2026-07-16T13:52:07.369Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
@@ -42,8 +42,8 @@
         {
           "outcome": "China",
           "book": "1xBet",
-          "odd": 8.9,
-          "stake": 11355,
+          "odd": 9.55,
+          "stake": 10664,
           "jp": true,
           "exch": false,
           "url": "https://1xbet.com/ja"
@@ -52,33 +52,33 @@
           "outcome": "France",
           "book": "Betfair Exchange",
           "odd": 1.14,
-          "stake": 88645,
+          "stake": 89336,
           "jp": true,
           "exch": true,
           "url": "https://www.betfair.com/exchange/plus/"
         }
       ],
-      "S": 0.9895525330179382,
-      "roi": 1.0557768924302602,
-      "profit": 1056,
-      "payout": 101056,
+      "S": 0.9819050243409572,
+      "roi": 1.8428437792329166,
+      "profit": 1843,
+      "payout": 101843,
       "staked": 100000,
-      "mins": 13,
+      "mins": 8,
       "split": {
-        "S": 0.9895525330179382,
-        "payout": 101056,
-        "profit": 1056,
+        "S": 0.9819050243409572,
+        "payout": 101843,
+        "profit": 1843,
         "staked": 100000,
         "legs": [
           {
             "book": "1xBet",
-            "odd": 8.9,
-            "stake": 11355
+            "odd": 9.55,
+            "stake": 10664
           },
           {
             "book": "Betfair Exchange",
             "odd": 1.14,
-            "stake": 88645
+            "stake": 89336
           }
         ]
       },
