@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-16T13:57:31.864Z",
+  "generatedAt": "2026-07-16T14:02:55.702Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "ULO4K05L",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "China - France",
-      "url": "https://www.betexplorer.com/volleyball/world/nations-league/china-france/ULO4K05L/",
-      "kickoff": "2026-07-16T23:00:00+09:00",
-      "width": 2,
-      "books": 17,
-      "labels": [
-        "China",
-        "France"
-      ],
-      "legs": [
-        {
-          "outcome": "China",
-          "book": "1xBet",
-          "odd": 9.55,
-          "stake": 10664,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "France",
-          "book": "Betfair Exchange",
-          "odd": 1.14,
-          "stake": 89336,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        }
-      ],
-      "S": 0.9819050243409572,
-      "roi": 1.8428437792329166,
-      "profit": 1843,
-      "payout": 101843,
-      "staked": 100000,
-      "mins": 2,
-      "split": {
-        "S": 0.9819050243409572,
-        "payout": 101843,
-        "profit": 1843,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 9.55,
-            "stake": 10664
-          },
-          {
-            "book": "Betfair Exchange",
-            "odd": 1.14,
-            "stake": 89336
-          }
-        ]
-      },
-      "hasExch": true,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
