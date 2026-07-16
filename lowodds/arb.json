@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-16T15:29:04.896Z",
+  "generatedAt": "2026-07-16T15:34:27.461Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 3,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 17,
       "profit": 3210204
     },
-    "pending": 2
+    "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "ShvBPCtT",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "New York Knicks - Golden State Warriors",
+      "url": "https://www.betexplorer.com/basketball/usa/nba-las-vegas-summer-league/new-york-knicks-golden-state-warriors/ShvBPCtT/",
+      "kickoff": "2026-07-17T01:00:00+09:00",
+      "width": 2,
+      "books": 18,
+      "labels": [
+        "New York Knicks",
+        "Golden State Warriors"
+      ],
+      "legs": [
+        {
+          "outcome": "New York Knicks",
+          "book": "1xBet",
+          "odd": 3.61,
+          "stake": 27800,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        },
+        {
+          "outcome": "Golden State Warriors",
+          "book": "Betway",
+          "odd": 1.39,
+          "stake": 72200,
+          "jp": true,
+          "exch": false,
+          "url": "https://betway.com/"
+        }
+      ],
+      "S": 0.9964327706809623,
+      "roi": 0.35799999999999166,
+      "profit": 358,
+      "payout": 100358,
+      "staked": 100000,
+      "mins": 26,
+      "split": {
+        "S": 0.9964327706809623,
+        "payout": 100358,
+        "profit": 358,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "1xBet",
+            "odd": 3.61,
+            "stake": 27800
+          },
+          {
+            "book": "Betway",
+            "odd": 1.39,
+            "stake": 72200
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    }
+  ]
 }
