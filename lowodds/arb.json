@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-16T06:28:35.910Z",
+  "generatedAt": "2026-07-16T06:34:09.467Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 4,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 14,
       "profit": 1268127
     },
-    "pending": 2
+    "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "Em5opjDl",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Germany U20 - Spain U20",
+      "url": "https://www.betexplorer.com/basketball/europe/eurobasket-u20/germany-spain/Em5opjDl/",
+      "kickoff": "2026-07-16T16:00:00+09:00",
+      "width": 3,
+      "books": 4,
+      "labels": [
+        "Germany U20",
+        "Draw",
+        "Spain U20"
+      ],
+      "legs": [
+        {
+          "outcome": "Germany U20",
+          "book": "95:66",
+          "odd": 95,
+          "stake": 4121,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=95%3A66%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "88:72",
+          "odd": 5.6,
+          "stake": 69903,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=88%3A72%20sportsbook"
+        },
+        {
+          "outcome": "Spain U20",
+          "book": "88:72",
+          "odd": 15.07,
+          "stake": 25976,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=88%3A72%20sportsbook"
+        }
+      ],
+      "S": 0.2554547450244723,
+      "roi": 291.4587689119656,
+      "profit": 291459,
+      "payout": 391459,
+      "staked": 100000,
+      "mins": 26,
+      "split": {
+        "S": 0.2554547450244723,
+        "payout": 391459,
+        "profit": 291459,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "95:66",
+            "odd": 95,
+            "stake": 4121
+          },
+          {
+            "book": "88:72",
+            "odd": 5.6,
+            "stake": 69903
+          },
+          {
+            "book": "88:72",
+            "odd": 15.07,
+            "stake": 25976
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
