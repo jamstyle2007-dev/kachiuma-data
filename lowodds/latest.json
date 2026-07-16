@@ -1,68 +1,48 @@
 {
-  "generatedAt": "2026-07-16T07:57:53.415Z",
+  "generatedAt": "2026-07-16T11:53:09.893Z",
   "source": "betexplorer.com (Pinnacle / 1xBet odds)",
   "threshold": 1.6,
-  "count": 22,
+  "count": 23,
   "matches": [
     {
       "sport": "ハンドボール",
       "sportKey": "handball",
-      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U20",
-      "home": "North Macedonia U20",
-      "away": "Turkey U20",
-      "favTeam": "North Macedonia U20",
-      "underTeam": "Turkey U20",
-      "favOdd": 1.04,
-      "prob": 96,
+      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U20 B",
+      "home": "Georgia U20",
+      "away": "Estonia U20",
+      "favTeam": "Estonia U20",
+      "underTeam": "Georgia U20",
+      "favOdd": 1.01,
+      "prob": 99,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.04
+        "1xbet": 1.01
       },
-      "avgFavOdd": 1.09,
-      "time": "21:30",
-      "kickoff": "2026-07-16T13:30:00+09:00",
+      "avgFavOdd": 1.01,
+      "time": "04:30",
+      "kickoff": "2026-07-16T20:30:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/handball/europe/european-championship-u20/north-macedonia-turkey/lW4dgTnp/"
+      "url": "https://www.betexplorer.com/handball/europe/european-championship-u20-b/georgia-estonia/0UAfXaQH/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25 URIAGE, CLAY",
-      "home": "Picard M.",
-      "away": "Cuenin S.",
-      "favTeam": "Cuenin S.",
-      "underTeam": "Picard M.",
-      "favOdd": 1.05,
-      "prob": 95,
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "EUROPE: EUROBASKET U20",
+      "home": "Lithuania U20",
+      "away": "Belgium U20",
+      "favTeam": "Lithuania U20",
+      "underTeam": "Belgium U20",
+      "favOdd": 1.01,
+      "prob": 99,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.05
+        "1xbet": 1.01
       },
-      "avgFavOdd": 1.06,
-      "time": "18:00",
-      "kickoff": "2026-07-16T10:00:00+09:00",
+      "avgFavOdd": 1.02,
+      "time": "02:00",
+      "kickoff": "2026-07-16T18:00:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-uriage/picard-mathys-cuenin-sean/Ia6WAXv3/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25 URIAGE, CLAY",
-      "home": "Bellegy A.",
-      "away": "Ghazouani Durand Y.",
-      "favTeam": "Ghazouani Durand Y.",
-      "underTeam": "Bellegy A.",
-      "favOdd": 1.08,
-      "prob": 93,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.08
-      },
-      "avgFavOdd": 1.1,
-      "time": "18:00",
-      "kickoff": "2026-07-16T10:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-uriage/bellegy-arthur-ghazouani-durand-yanis/IgDoUrH5/"
+      "url": "https://www.betexplorer.com/basketball/europe/eurobasket-u20/lithuania-belgium/KK0MRX0D/"
     },
     {
       "sport": "バレー",
@@ -72,66 +52,66 @@
       "away": "France",
       "favTeam": "France",
       "underTeam": "China",
-      "favOdd": 1.09,
-      "prob": 92,
+      "favOdd": 1.08,
+      "prob": 93,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.09
+        "1xbet": 1.08
       },
-      "avgFavOdd": 1.1,
+      "avgFavOdd": 1.09,
       "time": "07:00",
       "kickoff": "2026-07-16T23:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/volleyball/world/nations-league/china-france/ULO4K05L/"
     },
     {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "WORLD: NATIONS LEAGUE",
-      "home": "Japan",
-      "away": "Canada",
-      "favTeam": "Japan",
-      "underTeam": "Canada",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "EUROPE: EUROBASKET U20",
+      "home": "Serbia U20",
+      "away": "Greece U20",
+      "favTeam": "Serbia U20",
+      "underTeam": "Greece U20",
+      "favOdd": 1.09,
+      "prob": 92,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.09
+      },
+      "avgFavOdd": 1.07,
+      "time": "05:00",
+      "kickoff": "2026-07-16T21:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/basketball/europe/eurobasket-u20/serbia-greece/I9qvpFGs/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "EUROPE: EUROBASKET U20",
+      "home": "Latvia U20",
+      "away": "Romania U20",
+      "favTeam": "Latvia U20",
+      "underTeam": "Romania U20",
       "favOdd": 1.11,
       "prob": 90,
       "book": "1xBet",
       "books": {
         "1xbet": 1.11
       },
-      "avgFavOdd": 1.12,
-      "time": "20:20",
-      "kickoff": "2026-07-16T12:20:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/world/nations-league/japan-canada/roz30uEk/"
-    },
-    {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U20",
-      "home": "Poland U20",
-      "away": "Bosnia & Herzegovina U20",
-      "favTeam": "Poland U20",
-      "underTeam": "Bosnia & Herzegovina U20",
-      "favOdd": 1.12,
-      "prob": 89,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.12
-      },
-      "avgFavOdd": 1.11,
-      "time": "19:00",
-      "kickoff": "2026-07-16T11:00:00+09:00",
+      "avgFavOdd": 1.09,
+      "time": "23:30",
+      "kickoff": "2026-07-16T15:30:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/handball/europe/european-championship-u20/poland-bosnia-herzegovina/dd84i7Hd/"
+      "url": "https://www.betexplorer.com/basketball/europe/eurobasket-u20/latvia-romania/O0mRdTdf/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25 URIAGE, CLAY",
-      "home": "Bonnaud A.",
-      "away": "Durasovic V.",
-      "favTeam": "Durasovic V.",
-      "underTeam": "Bonnaud A.",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "EUROPE: EUROBASKET U20",
+      "home": "Germany U20",
+      "away": "Spain U20",
+      "favTeam": "Spain U20",
+      "underTeam": "Germany U20",
       "favOdd": 1.13,
       "prob": 88,
       "book": "1xBet",
@@ -139,10 +119,10 @@
         "1xbet": 1.13
       },
       "avgFavOdd": 1.13,
-      "time": "18:00",
-      "kickoff": "2026-07-16T10:00:00+09:00",
+      "time": "00:00",
+      "kickoff": "2026-07-16T16:00:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-uriage/bonnaud-arthur-durasovic-viktor/EonvVfWI/"
+      "url": "https://www.betexplorer.com/basketball/europe/eurobasket-u20/germany-spain/Em5opjDl/"
     },
     {
       "sport": "ハンドボール",
@@ -165,144 +145,104 @@
       "url": "https://www.betexplorer.com/handball/europe/european-championship-u20-b/netherlands-italy/fX7nZLe5/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: CORDENONS, CLAY",
-      "home": "Alcala Gurri M.",
-      "away": "Angelini L.",
-      "favTeam": "Alcala Gurri M.",
-      "underTeam": "Angelini L.",
-      "favOdd": 1.16,
-      "prob": 86,
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "EUROPE: EUROBASKET U20",
+      "home": "Turkey U20",
+      "away": "Slovenia U20",
+      "favTeam": "Slovenia U20",
+      "underTeam": "Turkey U20",
+      "favOdd": 1.18,
+      "prob": 85,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.16
+        "1xbet": 1.18
       },
       "avgFavOdd": 1.16,
-      "time": "18:00",
-      "kickoff": "2026-07-16T10:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/cordenons/alcala-gurri-max-angelini-lorenzo/xCa70whg/"
+      "time": "02:30",
+      "kickoff": "2026-07-16T18:30:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/basketball/europe/eurobasket-u20/turkey-slovenia/jNsnrgof/"
     },
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "ITF WOMEN - SINGLES: W15 KRSKO, CLAY",
-      "home": "Falkner Z.",
-      "away": "Andrienko M.",
-      "favTeam": "Falkner Z.",
-      "underTeam": "Andrienko M.",
-      "favOdd": 1.23,
-      "prob": 81,
+      "league": "ITF WOMEN - SINGLES: W75 OLOMOUC, CLAY",
+      "home": "Balus I.",
+      "away": "Siskova A.",
+      "favTeam": "Siskova A.",
+      "underTeam": "Balus I.",
+      "favOdd": 1.19,
+      "prob": 84,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.23
+        "1xbet": 1.19
       },
-      "avgFavOdd": 1.25,
-      "time": "18:00",
-      "kickoff": "2026-07-16T10:00:00+09:00",
+      "avgFavOdd": 1.19,
+      "time": "21:55",
+      "kickoff": "2026-07-16T13:55:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w15-krsko/falkner-ziva-andrienko-maria/IPVy9Iem/"
+      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w75-olomouc/balus-irina-siskova-anna/x8ZeIR5l/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - DOUBLES: CORDENONS, CLAY",
-      "home": "Jecan M. A. / Poljak D.",
-      "away": "Binda A. / Prihodko O.",
-      "favTeam": "Jecan M. A. / Poljak D.",
-      "underTeam": "Binda A. / Prihodko O.",
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U20",
+      "home": "Czech Republic U20",
+      "away": "Latvia U20",
+      "favTeam": "Czech Republic U20",
+      "underTeam": "Latvia U20",
+      "favOdd": 1.21,
+      "prob": 83,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.21
+      },
+      "avgFavOdd": 1.19,
+      "time": "02:30",
+      "kickoff": "2026-07-16T18:30:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/handball/europe/european-championship-u20/czech-republic-latvia/h0JQbkPM/"
+    },
+    {
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "BHUTAN: PREMIER LEAGUE",
+      "home": "Thimphu FC",
+      "away": "Paro",
+      "favTeam": "Paro",
+      "underTeam": "Thimphu FC",
       "favOdd": 1.25,
       "prob": 80,
       "book": "1xBet",
       "books": {
         "1xbet": 1.25
       },
-      "avgFavOdd": 1.24,
-      "time": "18:00",
-      "kickoff": "2026-07-16T10:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-doubles/cordenons/jecan-mircea-alexandru-poljak-david-binda-alexandr-prihodko-oleg/hGHvteO7/"
+      "avgFavOdd": 1.27,
+      "time": "22:00",
+      "kickoff": "2026-07-16T14:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/football/bhutan/premier-league/thimphu-fc-paro/j98abNc3/"
     },
     {
       "sport": "ハンドボール",
       "sportKey": "handball",
       "league": "EUROPE: EUROPEAN CHAMPIONSHIP U20",
-      "home": "Croatia U20",
-      "away": "Austria U20",
-      "favTeam": "Croatia U20",
-      "underTeam": "Austria U20",
+      "home": "Germany U20",
+      "away": "Hungary U20",
+      "favTeam": "Germany U20",
+      "underTeam": "Hungary U20",
       "favOdd": 1.32,
       "prob": 76,
       "book": "1xBet",
       "books": {
         "1xbet": 1.32
       },
-      "avgFavOdd": 1.31,
-      "time": "21:30",
-      "kickoff": "2026-07-16T13:30:00+09:00",
+      "avgFavOdd": 1.33,
+      "time": "02:30",
+      "kickoff": "2026-07-16T18:30:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/handball/europe/european-championship-u20/croatia-austria/04cHiBvh/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - SINGLES: W35 TORINO, CLAY",
-      "home": "Karatancheva L.",
-      "away": "Maduzzi G.",
-      "favTeam": "Karatancheva L.",
-      "underTeam": "Maduzzi G.",
-      "favOdd": 1.32,
-      "prob": 76,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.32
-      },
-      "avgFavOdd": 1.32,
-      "time": "18:00",
-      "kickoff": "2026-07-16T10:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w35-torino/karatancheva-lia-maduzzi-gaia/v1q364uJ/"
-    },
-    {
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "WORLD: CLUB FRIENDLY",
-      "home": "Varazdin",
-      "away": "Kustosija",
-      "favTeam": "Varazdin",
-      "underTeam": "Kustosija",
-      "favOdd": 1.33,
-      "prob": 75,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.33
-      },
-      "avgFavOdd": 1.27,
-      "time": "18:30",
-      "kickoff": "2026-07-16T10:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/football/world/club-friendly/varazdin-kustosija/xhRGTMt3/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - SINGLES: W15 KRSKO, CLAY",
-      "home": "Trevisan F.",
-      "away": "Haavisto E.",
-      "favTeam": "Trevisan F.",
-      "underTeam": "Haavisto E.",
-      "favOdd": 1.34,
-      "prob": 75,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.34
-      },
-      "avgFavOdd": 1.32,
-      "time": "18:00",
-      "kickoff": "2026-07-16T10:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w15-krsko/trevisan-federica-haavisto-ella/40z03EPO/"
+      "url": "https://www.betexplorer.com/handball/europe/european-championship-u20/germany-hungary/nNK4QYug/"
     },
     {
       "sport": "バレー",
@@ -312,11 +252,11 @@
       "away": "Ukraine",
       "favTeam": "Ukraine",
       "underTeam": "Serbia",
-      "favOdd": 1.34,
+      "favOdd": 1.33,
       "prob": 75,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.34
+        "1xbet": 1.33
       },
       "avgFavOdd": 1.32,
       "time": "04:00",
@@ -325,24 +265,64 @@
       "url": "https://www.betexplorer.com/volleyball/world/nations-league/serbia-ukraine/MeLdMMz9/"
     },
     {
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "INDIA: CALCUTTA PREMIER DIVISION",
-      "home": "Kidderpore",
-      "away": "Mohun Bagan U23",
-      "favTeam": "Mohun Bagan U23",
-      "underTeam": "Kidderpore",
-      "favOdd": 1.37,
-      "prob": 73,
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U20",
+      "home": "Spain U20",
+      "away": "Slovenia U20",
+      "favTeam": "Spain U20",
+      "underTeam": "Slovenia U20",
+      "favOdd": 1.33,
+      "prob": 75,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.37
+        "1xbet": 1.33
       },
-      "avgFavOdd": 1.37,
-      "time": "19:30",
-      "kickoff": "2026-07-16T11:30:00+09:00",
+      "avgFavOdd": 1.33,
+      "time": "02:30",
+      "kickoff": "2026-07-16T18:30:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/football/india/calcutta-premier-division/kidderpore-sc-mohun-bagan/pUxfk4KM/"
+      "url": "https://www.betexplorer.com/handball/europe/european-championship-u20/spain-slovenia/S0MKMjuI/"
+    },
+    {
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U20",
+      "home": "Switzerland U20",
+      "away": "Denmark U20",
+      "favTeam": "Denmark U20",
+      "underTeam": "Switzerland U20",
+      "favOdd": 1.33,
+      "prob": 75,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.33
+      },
+      "avgFavOdd": 1.36,
+      "time": "00:00",
+      "kickoff": "2026-07-16T16:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/handball/europe/european-championship-u20/switzerland-denmark/KzJCOCA5/"
+    },
+    {
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U20 B",
+      "home": "Montenegro U20",
+      "away": "Kosovo U20",
+      "favTeam": "Montenegro U20",
+      "underTeam": "Kosovo U20",
+      "favOdd": 1.38,
+      "prob": 72,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.38
+      },
+      "avgFavOdd": 1.35,
+      "time": "02:15",
+      "kickoff": "2026-07-16T18:15:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/handball/europe/european-championship-u20-b/montenegro-kosovo/n74vyrRh/"
     },
     {
       "sport": "ハンドボール",
@@ -358,91 +338,131 @@
       "books": {
         "1xbet": 1.43
       },
-      "avgFavOdd": 1.42,
+      "avgFavOdd": 1.41,
       "time": "00:00",
       "kickoff": "2026-07-16T16:00:00+09:00",
       "niche": true,
       "url": "https://www.betexplorer.com/handball/europe/european-championship-u20/sweden-france/K8vSKU9U/"
     },
     {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U20",
-      "home": "Switzerland U20",
-      "away": "Denmark U20",
-      "favTeam": "Denmark U20",
-      "underTeam": "Switzerland U20",
-      "favOdd": 1.47,
-      "prob": 68,
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M25 HILLCREST, HARD",
+      "home": "Perego G.",
+      "away": "Pierre H.",
+      "favTeam": "Perego G.",
+      "underTeam": "Pierre H.",
+      "favOdd": 1.44,
+      "prob": 69,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.47
+        "1xbet": 1.44
       },
-      "avgFavOdd": 1.48,
-      "time": "00:00",
-      "kickoff": "2026-07-16T16:00:00+09:00",
+      "avgFavOdd": 1.43,
+      "time": "21:55",
+      "kickoff": "2026-07-16T13:55:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/handball/europe/european-championship-u20/switzerland-denmark/KzJCOCA5/"
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-hillcrest/perego-giulio-pierre-hugo/x8ZDDsbU/"
     },
     {
-      "sport": "野球",
-      "sportKey": "baseball",
-      "league": "SOUTH KOREA: KBO",
-      "home": "Hanwha Eagles",
-      "away": "Kiwoom Heroes",
-      "favTeam": "Hanwha Eagles",
-      "underTeam": "Kiwoom Heroes",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF WOMEN - SINGLES: W50 DARMSTADT, CLAY",
+      "home": "Burillo Escorihuela I.",
+      "away": "Steiner V.",
+      "favTeam": "Burillo Escorihuela I.",
+      "underTeam": "Steiner V.",
+      "favOdd": 1.5,
+      "prob": 67,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.5
+      },
+      "avgFavOdd": 1.51,
+      "time": "21:55",
+      "kickoff": "2026-07-16T13:55:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w50-darmstadt/burillo-escorihuela-irene-steiner-valentina/8IEiRMlJ/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "CHALLENGER WOMEN - SINGLES: KITZBUHEL, CLAY",
+      "home": "Bassols M.",
+      "away": "Rus A.",
+      "favTeam": "Bassols M.",
+      "underTeam": "Rus A.",
+      "favOdd": 1.51,
+      "prob": 66,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.51
+      },
+      "avgFavOdd": 1.41,
+      "time": "21:50",
+      "kickoff": "2026-07-16T13:50:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/tennis/challenger-women-singles/kitzbuhel/bassols-ribera-marina-rus-arantxa/h0aqabJ5/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "USA: NBA LAS VEGAS SUMMER LEAGUE",
+      "home": "Chicago Bulls",
+      "away": "Los Angeles Lakers",
+      "favTeam": "Los Angeles Lakers",
+      "underTeam": "Chicago Bulls",
+      "favOdd": 1.51,
+      "prob": 66,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.51
+      },
+      "avgFavOdd": 1.53,
+      "time": "08:00",
+      "kickoff": "2026-07-17T00:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/usa/nba-las-vegas-summer-league/chicago-bulls-los-angeles-lakers/Q7AxKVng/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "EUROPE: EUROBASKET U20",
+      "home": "Italy U20",
+      "away": "Israel U20",
+      "favTeam": "Italy U20",
+      "underTeam": "Israel U20",
+      "favOdd": 1.54,
+      "prob": 65,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.54
+      },
+      "avgFavOdd": 1.52,
+      "time": "04:30",
+      "kickoff": "2026-07-16T20:30:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/basketball/europe/eurobasket-u20/italy-israel/hhDdLGLj/"
+    },
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "WORLD: NATIONS LEAGUE",
+      "home": "USA",
+      "away": "Brazil",
+      "favTeam": "USA",
+      "underTeam": "Brazil",
       "favOdd": 1.57,
       "prob": 64,
       "book": "1xBet",
       "books": {
         "1xbet": 1.57
       },
-      "avgFavOdd": 1.52,
-      "time": "19:30",
-      "kickoff": "2026-07-16T11:30:00+09:00",
+      "avgFavOdd": 1.47,
+      "time": "11:00",
+      "kickoff": "2026-07-17T03:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/hanwha-eagles-kiwoom-heroes/CSJfZ88N/"
-    },
-    {
-      "sport": "野球",
-      "sportKey": "baseball",
-      "league": "SOUTH KOREA: KBO",
-      "home": "SSG Landers",
-      "away": "KIA Tigers",
-      "favTeam": "KIA Tigers",
-      "underTeam": "SSG Landers",
-      "favOdd": 1.58,
-      "prob": 63,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.58
-      },
-      "avgFavOdd": 1.52,
-      "time": "19:30",
-      "kickoff": "2026-07-16T11:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/ssg-landers-kia-tigers/zNOVvDvn/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: CORDENONS, CLAY",
-      "home": "Mrva M.",
-      "away": "Roncadelli F.",
-      "favTeam": "Mrva M.",
-      "underTeam": "Roncadelli F.",
-      "favOdd": 1.58,
-      "prob": 63,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.58
-      },
-      "avgFavOdd": 1.59,
-      "time": "18:00",
-      "kickoff": "2026-07-16T10:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/cordenons/mrva-maxim-roncadelli-franco/6Vy3EDU7/"
+      "url": "https://www.betexplorer.com/volleyball/world/nations-league/usa-brazil/QiAzFvTr/"
     }
   ]
 }
