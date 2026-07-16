@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-16T03:08:18.573Z",
+  "generatedAt": "2026-07-16T03:13:44.038Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "roz30uEk",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "Japan - Canada",
-      "url": "https://www.betexplorer.com/volleyball/world/nations-league/japan-canada/roz30uEk/",
-      "kickoff": "2026-07-16T12:20:00+09:00",
-      "width": 2,
-      "books": 12,
-      "labels": [
-        "Japan",
-        "Canada"
-      ],
-      "legs": [
-        {
-          "outcome": "Japan",
-          "book": "Betway",
-          "odd": 1.18,
-          "stake": 86150,
-          "jp": true,
-          "exch": false,
-          "url": "https://betway.com/"
-        },
-        {
-          "outcome": "Canada",
-          "book": "1xBet",
-          "odd": 7.34,
-          "stake": 13850,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        }
-      ],
-      "S": 0.9836974091349929,
-      "roi": 1.657276995305157,
-      "profit": 1657,
-      "payout": 101657,
-      "staked": 100000,
-      "mins": 12,
-      "split": {
-        "S": 0.9836974091349929,
-        "payout": 101657,
-        "profit": 1657,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betway",
-            "odd": 1.18,
-            "stake": 86150
-          },
-          {
-            "book": "1xBet",
-            "odd": 7.34,
-            "stake": 13850
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
