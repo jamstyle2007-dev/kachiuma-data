@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-16T03:56:56.567Z",
+  "generatedAt": "2026-07-16T04:02:19.142Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 4,
+  "arbCount": 2,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,143 @@
       "count": 13,
       "profit": 1267883
     },
-    "pending": 1
+    "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "Yc5VT7no",
+      "sport": "handball",
+      "sportLabel": "ハンドボール",
+      "teams": "Romania U20 - Portugal U20",
+      "url": "https://www.betexplorer.com/handball/europe/european-championship-u20/romania-portugal/Yc5VT7no/",
+      "kickoff": "2026-07-16T13:30:00+09:00",
+      "width": 2,
+      "books": 6,
+      "labels": [
+        "Romania U20",
+        "Portugal U20"
+      ],
+      "legs": [
+        {
+          "outcome": "Romania U20",
+          "book": "1xBet",
+          "odd": 35,
+          "stake": 50000,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        },
+        {
+          "outcome": "Portugal U20",
+          "book": "1xBet",
+          "odd": 35,
+          "stake": 50000,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        }
+      ],
+      "S": 0.05714285714285714,
+      "roi": 1650,
+      "profit": 1650000,
+      "payout": 1750000,
+      "staked": 100000,
+      "mins": 28,
+      "split": {
+        "S": 0.05714285714285714,
+        "payout": 1750000,
+        "profit": 1650000,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "1xBet",
+            "odd": 35,
+            "stake": 50000
+          },
+          {
+            "book": "1xBet",
+            "odd": 35,
+            "stake": 50000
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    },
+    {
+      "id": "04cHiBvh",
+      "sport": "handball",
+      "sportLabel": "ハンドボール",
+      "teams": "Croatia U20 - Austria U20",
+      "url": "https://www.betexplorer.com/handball/europe/european-championship-u20/croatia-austria/04cHiBvh/",
+      "kickoff": "2026-07-16T13:30:00+09:00",
+      "width": 3,
+      "books": 10,
+      "labels": [
+        "Croatia U20",
+        "Draw",
+        "Austria U20"
+      ],
+      "legs": [
+        {
+          "outcome": "Croatia U20",
+          "book": "Roobet",
+          "odd": 1.48,
+          "stake": 67985,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=Roobet%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "Unibet",
+          "odd": 11,
+          "stake": 9147,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.unibet.com/"
+        },
+        {
+          "outcome": "Austria U20",
+          "book": "Unibet",
+          "odd": 4.4,
+          "stake": 22868,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.unibet.com/"
+        }
+      ],
+      "S": 0.9938574938574939,
+      "roi": 0.6180469715698411,
+      "profit": 618,
+      "payout": 100618,
+      "staked": 100000,
+      "mins": 28,
+      "split": {
+        "S": 0.9938574938574939,
+        "payout": 100618,
+        "profit": 618,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Roobet",
+            "odd": 1.48,
+            "stake": 67985
+          },
+          {
+            "book": "Unibet",
+            "odd": 11,
+            "stake": 9147
+          },
+          {
+            "book": "Unibet",
+            "odd": 4.4,
+            "stake": 22868
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
