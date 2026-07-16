@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-16T12:56:50.433Z",
+  "generatedAt": "2026-07-16T13:02:15.622Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 17,
       "profit": 3210204
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "Is7ULiIt",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Houston Rockets - Brooklyn Nets",
+      "url": "https://www.betexplorer.com/basketball/usa/nba-las-vegas-summer-league/houston-rockets-brooklyn-nets/Is7ULiIt/",
+      "kickoff": "2026-07-16T22:30:00+09:00",
+      "width": 2,
+      "books": 18,
+      "labels": [
+        "Houston Rockets",
+        "Brooklyn Nets"
+      ],
+      "legs": [
+        {
+          "outcome": "Houston Rockets",
+          "book": "Mozzartbet",
+          "odd": 2.42,
+          "stake": 42243,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.mozzartbet.com/"
+        },
+        {
+          "outcome": "Brooklyn Nets",
+          "book": "bwin",
+          "odd": 1.77,
+          "stake": 57757,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        }
+      ],
+      "S": 0.9781948919082972,
+      "roi": 2.22911694510739,
+      "profit": 2229,
+      "payout": 102229,
+      "staked": 100000,
+      "mins": 28,
+      "split": {
+        "S": 0.9781948919082972,
+        "payout": 102229,
+        "profit": 2229,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Mozzartbet",
+            "odd": 2.42,
+            "stake": 42243
+          },
+          {
+            "book": "bwin",
+            "odd": 1.77,
+            "stake": 57757
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
