@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-17T13:20:06.065Z",
+  "generatedAt": "2026-07-17T13:25:31.037Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 23,
       "profit": 3314780
     },
-    "pending": 1
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "xInQqAif",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Nicaragua W - El Salvador W",
+      "url": "https://www.betexplorer.com/basketball/north-central-america/centrobasket-championship-women/nicaragua-el-salvador/xInQqAif/",
+      "kickoff": "2026-07-17T22:30:00+09:00",
+      "width": 2,
+      "books": 11,
+      "labels": [
+        "Nicaragua W",
+        "El Salvador W"
+      ],
+      "legs": [
+        {
+          "outcome": "Nicaragua W",
+          "book": "Betfair",
+          "odd": 2.1,
+          "stake": 48780,
+          "jp": true,
+          "exch": true,
+          "url": "https://www.betfair.com/exchange/plus/"
+        },
+        {
+          "outcome": "El Salvador W",
+          "book": "Unibet",
+          "odd": 2,
+          "stake": 51220,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.unibet.com/"
+        }
+      ],
+      "S": 0.9761904761904762,
+      "roi": 2.4390243902439046,
+      "profit": 2439,
+      "payout": 102439,
+      "staked": 100000,
+      "mins": 4,
+      "split": {
+        "S": 0.9761904761904762,
+        "payout": 102439,
+        "profit": 2439,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Betfair",
+            "odd": 2.1,
+            "stake": 48780
+          },
+          {
+            "book": "Unibet",
+            "odd": 2,
+            "stake": 51220
+          }
+        ]
+      },
+      "hasExch": true,
+      "allJp": false
+    }
+  ]
 }
