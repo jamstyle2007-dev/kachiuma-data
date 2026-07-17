@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T01:34:18.101Z",
+  "generatedAt": "2026-07-17T01:54:50.529Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 9,
@@ -42,8 +42,8 @@
         {
           "outcome": "SSG Landers",
           "book": "Betfair Exchange",
-          "odd": 2.2,
-          "stake": 45679,
+          "odd": 2.22,
+          "stake": 45455,
           "jp": true,
           "exch": true,
           "url": "https://www.betfair.com/exchange/plus/"
@@ -52,33 +52,33 @@
           "outcome": "KIA Tigers",
           "book": "1xBet",
           "odd": 1.85,
-          "stake": 54321,
+          "stake": 54545,
           "jp": true,
           "exch": false,
           "url": "https://1xbet.com/ja"
         }
       ],
-      "S": 0.9950859950859949,
-      "roi": 0.4938271604938427,
-      "profit": 494,
-      "payout": 100494,
+      "S": 0.9909909909909909,
+      "roi": 0.909090909090926,
+      "profit": 909,
+      "payout": 100909,
       "staked": 100000,
-      "mins": 26,
+      "mins": 5,
       "split": {
-        "S": 0.9950859950859949,
-        "payout": 100494,
-        "profit": 494,
+        "S": 0.9909909909909909,
+        "payout": 100909,
+        "profit": 909,
         "staked": 100000,
         "legs": [
           {
             "book": "Betfair Exchange",
-            "odd": 2.2,
-            "stake": 45679
+            "odd": 2.22,
+            "stake": 45455
           },
           {
             "book": "1xBet",
             "odd": 1.85,
-            "stake": 54321
+            "stake": 54545
           }
         ]
       },
