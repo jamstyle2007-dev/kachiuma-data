@@ -1,9 +1,89 @@
 {
-  "generatedAt": "2026-07-17T06:12:01.661Z",
+  "generatedAt": "2026-07-17T09:14:35.223Z",
   "source": "betexplorer.com (Pinnacle / 1xBet odds)",
   "threshold": 1.6,
-  "count": 24,
+  "count": 28,
   "matches": [
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "PHILIPPINES: PBA GOVERNORS' CUP",
+      "home": "Macau Black Bears",
+      "away": "Converge FiberXers",
+      "favTeam": "Converge FiberXers",
+      "underTeam": "Macau Black Bears",
+      "favOdd": 1.01,
+      "prob": 99,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.01
+      },
+      "avgFavOdd": 1.04,
+      "time": "19:15",
+      "kickoff": "2026-07-17T11:15:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/philippines/pba-governors-cup/macau-black-knights-converge-fiberxers/rwWvQRI6/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "AUSTRALIA: NBL1 EAST",
+      "home": "Sutherland Sharks",
+      "away": "Penrith P.",
+      "favTeam": "Sutherland Sharks",
+      "underTeam": "Penrith P.",
+      "favOdd": 1.01,
+      "prob": 99,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.01
+      },
+      "avgFavOdd": 1.04,
+      "time": "20:00",
+      "kickoff": "2026-07-17T12:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/australia/nbl1-east/sutherland-sharks-penrith-panthers/S4yD1N45/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "AUSTRALIA: NBL1 NORTH",
+      "home": "Cairns Marlins",
+      "away": "Rockhampton Rockets",
+      "favTeam": "Cairns Marlins",
+      "underTeam": "Rockhampton Rockets",
+      "favOdd": 1.03,
+      "prob": 97,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.03
+      },
+      "avgFavOdd": 1.03,
+      "time": "20:00",
+      "kickoff": "2026-07-17T12:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/australia/nbl1-north/cairns-marlins-rockhampton-rockets/0WMbFe4M/"
+    },
+    {
+      "sport": "アイスホッケー",
+      "sportKey": "hockey",
+      "league": "AUSTRALIA: AIHL",
+      "home": "Newcastle",
+      "away": "Adelaide",
+      "favTeam": "Newcastle",
+      "underTeam": "Adelaide",
+      "favOdd": 1.03,
+      "prob": 97,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.03
+      },
+      "avgFavOdd": 1.03,
+      "time": "17:00",
+      "kickoff": "2026-07-18T09:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/hockey/australia/aihl/newcastle-north-stars-adelaide-adrenaline/naHAJcZQ/"
+    },
     {
       "sport": "ハンドボール",
       "sportKey": "handball",
@@ -25,64 +105,84 @@
       "url": "https://www.betexplorer.com/handball/europe/european-championship-u20/croatia-romania/tG689XMj/"
     },
     {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M25 KRAMSACH, CLAY",
+      "home": "Wagner A.",
+      "away": "Wiskandt M.",
+      "favTeam": "Wiskandt M.",
+      "underTeam": "Wagner A.",
+      "favOdd": 1.03,
+      "prob": 97,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.03
+      },
+      "avgFavOdd": 1.05,
+      "time": "19:20",
+      "kickoff": "2026-07-17T11:20:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-kramsach/wagner-alexander-wiskandt-max/hIAhLF3C/"
+    },
+    {
       "sport": "バスケ",
       "sportKey": "basketball",
-      "league": "AUSTRALIA: NBL1 SOUTH WOMEN",
-      "home": "Eltham W",
-      "away": "Kilsyth W",
-      "favTeam": "Eltham W",
-      "underTeam": "Kilsyth W",
+      "league": "AUSTRALIA: NBL1 SOUTH",
+      "home": "Knox",
+      "away": "Hobart Chargers",
+      "favTeam": "Knox",
+      "underTeam": "Hobart Chargers",
+      "favOdd": 1.03,
+      "prob": 97,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.03
+      },
+      "avgFavOdd": 1.06,
+      "time": "20:30",
+      "kickoff": "2026-07-17T12:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/australia/nbl1-south/knox-hobart-chargers/tIbwvMid/"
+    },
+    {
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "AUSTRALIA: NPL QUEENSLAND WOMEN",
+      "home": "Gold Coast Knights W",
+      "away": "FQ Academy QAS W",
+      "favTeam": "Gold Coast Knights W",
+      "underTeam": "FQ Academy QAS W",
       "favOdd": 1.05,
       "prob": 95,
       "book": "1xBet",
       "books": {
         "1xbet": 1.05
       },
-      "avgFavOdd": 1.06,
-      "time": "18:30",
-      "kickoff": "2026-07-17T10:30:00+09:00",
+      "avgFavOdd": 1.04,
+      "time": "19:30",
+      "kickoff": "2026-07-17T11:30:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/australia/nbl1-south-women/eltham-kilsyth-cobras/0vXmlPRG/"
+      "url": "https://www.betexplorer.com/football/australia/npl-queensland-women/gold-coast-knights-fq-academy-qas/8npQ6SRq/"
     },
     {
       "sport": "バスケ",
       "sportKey": "basketball",
-      "league": "AUSTRALIA: NBL1 NORTH WOMEN",
-      "home": "Cairns W",
-      "away": "Rockhampton W",
-      "favTeam": "Cairns W",
-      "underTeam": "Rockhampton W",
-      "favOdd": 1.06,
-      "prob": 94,
+      "league": "AUSTRALIA: NBL1 WEST WOMEN",
+      "home": "Perry Lakes Hawks W",
+      "away": "Cockburn Cougars W",
+      "favTeam": "Cockburn Cougars W",
+      "underTeam": "Perry Lakes Hawks W",
+      "favOdd": 1.08,
+      "prob": 93,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.06
-      },
-      "avgFavOdd": 1.06,
-      "time": "18:00",
-      "kickoff": "2026-07-17T10:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/australia/nbl1-north-women/cairns-dolphins-rockhampton-cyclones/K83nx7tf/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "EUROPE: EUROBASKET U20 B",
-      "home": "Armenia U20",
-      "away": "Albania U20",
-      "favTeam": "Albania U20",
-      "underTeam": "Armenia U20",
-      "favOdd": 1.06,
-      "prob": 94,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.06
+        "1xbet": 1.08
       },
       "avgFavOdd": 1.08,
-      "time": "19:00",
-      "kickoff": "2026-07-17T11:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/basketball/europe/eurobasket-u20-b/armenia-albania/vJWKLaZF/"
+      "time": "20:20",
+      "kickoff": "2026-07-17T12:20:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/australia/nbl1-west-women/perry-lakes-hawks-cockburn-cougars/Uabsy1P1/"
     },
     {
       "sport": "バレー",
@@ -92,97 +192,17 @@
       "away": "Bulgaria",
       "favTeam": "Bulgaria",
       "underTeam": "China",
-      "favOdd": 1.07,
-      "prob": 93,
+      "favOdd": 1.09,
+      "prob": 92,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.07
+        "1xbet": 1.09
       },
-      "avgFavOdd": 1.05,
+      "avgFavOdd": 1.08,
       "time": "07:00",
       "kickoff": "2026-07-17T23:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/volleyball/world/nations-league/china-bulgaria/AHcGRHCl/"
-    },
-    {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U20",
-      "home": "Greece U20",
-      "away": "Czech Republic U20",
-      "favTeam": "Czech Republic U20",
-      "underTeam": "Greece U20",
-      "favOdd": 1.08,
-      "prob": 93,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.08
-      },
-      "avgFavOdd": 1.13,
-      "time": "00:00",
-      "kickoff": "2026-07-17T16:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/handball/europe/european-championship-u20/greece-czech-republic/COdWhDZF/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "AUSTRALIA: NBL1 SOUTH WOMEN",
-      "home": "Bendigo Braves W",
-      "away": "Keilor Thunder W",
-      "favTeam": "Keilor Thunder W",
-      "underTeam": "Bendigo Braves W",
-      "favOdd": 1.09,
-      "prob": 92,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.09
-      },
-      "avgFavOdd": 1.1,
-      "time": "18:30",
-      "kickoff": "2026-07-17T10:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/australia/nbl1-south-women/bendigo-braves-keilor-thunder/WbuXi7Si/"
-    },
-    {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U20",
-      "home": "Norway U20",
-      "away": "Faroe Islands U20",
-      "favTeam": "Norway U20",
-      "underTeam": "Faroe Islands U20",
-      "favOdd": 1.09,
-      "prob": 92,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.09
-      },
-      "avgFavOdd": 1.1,
-      "time": "19:00",
-      "kickoff": "2026-07-17T11:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/handball/europe/european-championship-u20/norway-faroe-islands/dS0FKcVi/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "PHILIPPINES: PBA GOVERNORS' CUP",
-      "home": "Macau Black Bears",
-      "away": "Converge FiberXers",
-      "favTeam": "Converge FiberXers",
-      "underTeam": "Macau Black Bears",
-      "favOdd": 1.09,
-      "prob": 92,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.09
-      },
-      "avgFavOdd": 1.12,
-      "time": "19:15",
-      "kickoff": "2026-07-17T11:15:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/philippines/pba-governors-cup/macau-black-knights-converge-fiberxers/rwWvQRI6/"
     },
     {
       "sport": "バレー",
@@ -192,137 +212,137 @@
       "away": "Belgium",
       "favTeam": "Japan",
       "underTeam": "Belgium",
-      "favOdd": 1.1,
-      "prob": 91,
+      "favOdd": 1.09,
+      "prob": 92,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.1
+        "1xbet": 1.09
       },
-      "avgFavOdd": 1.12,
+      "avgFavOdd": 1.09,
       "time": "20:20",
       "kickoff": "2026-07-17T12:20:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/volleyball/world/nations-league/japan-belgium/vFGjBdS7/"
     },
     {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "NEW ZEALAND: NBL",
-      "home": "Auckland Tuatara",
-      "away": "Manawatu Jets",
-      "favTeam": "Auckland Tuatara",
-      "underTeam": "Manawatu Jets",
-      "favOdd": 1.14,
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U20",
+      "home": "Greece U20",
+      "away": "Czech Republic U20",
+      "favTeam": "Czech Republic U20",
+      "underTeam": "Greece U20",
+      "favOdd": 1.13,
       "prob": 88,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.14
+        "1xbet": 1.13
       },
-      "avgFavOdd": 1.15,
-      "time": "17:30",
-      "kickoff": "2026-07-17T09:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/new-zealand/nbl/auckland-tuatara-manawatu-jets/48PTZwlK/"
+      "avgFavOdd": 1.13,
+      "time": "00:00",
+      "kickoff": "2026-07-17T16:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/handball/europe/european-championship-u20/greece-czech-republic/COdWhDZF/"
     },
     {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U20",
-      "home": "Iceland U20",
-      "away": "Israel U20",
-      "favTeam": "Iceland U20",
-      "underTeam": "Israel U20",
-      "favOdd": 1.15,
-      "prob": 87,
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF WOMEN - SINGLES: W50 DARMSTADT, CLAY",
+      "home": "Brockmann T. J.",
+      "away": "Brand V.",
+      "favTeam": "Brockmann T. J.",
+      "underTeam": "Brand V.",
+      "favOdd": 1.25,
+      "prob": 80,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.15
+        "1xbet": 1.25
       },
-      "avgFavOdd": 1.14,
-      "time": "19:00",
-      "kickoff": "2026-07-17T11:00:00+09:00",
+      "avgFavOdd": 1.27,
+      "time": "19:30",
+      "kickoff": "2026-07-17T11:30:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/handball/europe/european-championship-u20/iceland-israel/AXFxFgaT/"
+      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w50-darmstadt/brockmann-tessa-johanna-brand-victoria/xMtAia15/"
     },
     {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U20",
-      "home": "Bosnia & Herzegovina U20",
-      "away": "Turkey U20",
-      "favTeam": "Bosnia & Herzegovina U20",
-      "underTeam": "Turkey U20",
-      "favOdd": 1.15,
-      "prob": 87,
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M25 HILLCREST, HARD",
+      "home": "Kimhi O.",
+      "away": "Doig C.",
+      "favTeam": "Kimhi O.",
+      "underTeam": "Doig C.",
+      "favOdd": 1.26,
+      "prob": 79,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.15
+        "1xbet": 1.26
       },
-      "avgFavOdd": 1.15,
-      "time": "19:00",
-      "kickoff": "2026-07-17T11:00:00+09:00",
+      "avgFavOdd": 1.28,
+      "time": "19:20",
+      "kickoff": "2026-07-17T11:20:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/handball/europe/european-championship-u20/bosnia-herzegovina-turkey/hjIyXRKE/"
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-hillcrest/kimhi-orel-doig-connor/CKhy6TpQ/"
     },
     {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "EUROPE: EUROBASKET U20 B",
-      "home": "Slovakia U20",
-      "away": "Estonia U20",
-      "favTeam": "Estonia U20",
-      "underTeam": "Slovakia U20",
-      "favOdd": 1.34,
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M25 URIAGE, CLAY",
+      "home": "Wiedenmann L.",
+      "away": "Cuenin S.",
+      "favTeam": "Cuenin S.",
+      "underTeam": "Wiedenmann L.",
+      "favOdd": 1.3,
+      "prob": 77,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.3
+      },
+      "avgFavOdd": 1.3,
+      "time": "19:25",
+      "kickoff": "2026-07-17T11:25:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-uriage/wiedenmann-luca-cuenin-sean/Gf8iwlPc/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M25 URIAGE, CLAY",
+      "home": "Blancaneaux G.",
+      "away": "Ghazouani Durand Y.",
+      "favTeam": "Blancaneaux G.",
+      "underTeam": "Ghazouani Durand Y.",
+      "favOdd": 1.32,
+      "prob": 76,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.32
+      },
+      "avgFavOdd": 1.33,
+      "time": "19:25",
+      "kickoff": "2026-07-17T11:25:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-uriage/blancaneaux-geoffrey-ghazouani-durand-yanis/2adLnRM6/"
+    },
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "WORLD: NATIONS LEAGUE",
+      "home": "Brazil",
+      "away": "Poland",
+      "favTeam": "Poland",
+      "underTeam": "Brazil",
+      "favOdd": 1.33,
       "prob": 75,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.34
+        "1xbet": 1.33
       },
-      "avgFavOdd": 1.32,
-      "time": "18:30",
-      "kickoff": "2026-07-17T10:30:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/basketball/europe/eurobasket-u20-b/slovakia-estonia/0Y0nKnbB/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "AUSTRALIA: NBL1 SOUTH WOMEN",
-      "home": "Sandringham W",
-      "away": "Northern Tasmania W",
-      "favTeam": "Sandringham W",
-      "underTeam": "Northern Tasmania W",
-      "favOdd": 1.35,
-      "prob": 74,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.35
-      },
-      "avgFavOdd": 1.35,
-      "time": "18:30",
-      "kickoff": "2026-07-17T10:30:00+09:00",
+      "avgFavOdd": 1.29,
+      "time": "11:00",
+      "kickoff": "2026-07-18T03:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/australia/nbl1-south-women/sandringham-sabres-northern-tasmania/84zdn3dT/"
-    },
-    {
-      "sport": "アイスホッケー",
-      "sportKey": "hockey",
-      "league": "NEW ZEALAND: NZIHL",
-      "home": "Canterbury Red Devils",
-      "away": "Southern Stampede",
-      "favTeam": "Southern Stampede",
-      "underTeam": "Canterbury Red Devils",
-      "favOdd": 1.36,
-      "prob": 74,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.36
-      },
-      "avgFavOdd": 1.45,
-      "time": "15:10",
-      "kickoff": "2026-07-18T07:10:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/hockey/new-zealand/nzihl/canterbury-red-devils-southern-stampede/Q3aZGyY1/"
+      "url": "https://www.betexplorer.com/volleyball/world/nations-league/brazil-poland/rVeOPes1/"
     },
     {
       "sport": "バレー",
@@ -332,97 +352,137 @@
       "away": "Slovenia",
       "favTeam": "Slovenia",
       "underTeam": "Iran",
-      "favOdd": 1.37,
-      "prob": 73,
+      "favOdd": 1.34,
+      "prob": 75,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.37
+        "1xbet": 1.34
       },
-      "avgFavOdd": 1.34,
+      "avgFavOdd": 1.35,
       "time": "04:00",
       "kickoff": "2026-07-17T20:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/volleyball/world/nations-league/iran-slovenia/vZ6pXwkR/"
     },
     {
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "WORLD: CLUB FRIENDLY",
-      "home": "Zrinjski",
-      "away": "Posusje",
-      "favTeam": "Zrinjski",
-      "underTeam": "Posusje",
-      "favOdd": 1.44,
-      "prob": 69,
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "AUSTRALIA: NBL1 WEST WOMEN",
+      "home": "Perth Redbacks W",
+      "away": "Mandurah Magic W",
+      "favTeam": "Mandurah Magic W",
+      "underTeam": "Perth Redbacks W",
+      "favOdd": 1.36,
+      "prob": 74,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.44
+        "1xbet": 1.36
+      },
+      "avgFavOdd": 1.33,
+      "time": "20:20",
+      "kickoff": "2026-07-17T12:20:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/australia/nbl1-west-women/perth-redbacks-mandurah-magic/x2J2rqXR/"
+    },
+    {
+      "sport": "アイスホッケー",
+      "sportKey": "hockey",
+      "league": "NEW ZEALAND: NZIHL",
+      "home": "Canterbury Red Devils",
+      "away": "Southern Stampede",
+      "favTeam": "Southern Stampede",
+      "underTeam": "Canterbury Red Devils",
+      "favOdd": 1.37,
+      "prob": 73,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.37
+      },
+      "avgFavOdd": 1.38,
+      "time": "15:10",
+      "kickoff": "2026-07-18T07:10:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/hockey/new-zealand/nzihl/canterbury-red-devils-southern-stampede/Q3aZGyY1/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M25 HILLCREST, HARD",
+      "home": "Hasson J.",
+      "away": "Shimanov O.",
+      "favTeam": "Shimanov O.",
+      "underTeam": "Hasson J.",
+      "favOdd": 1.37,
+      "prob": 73,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.37
+      },
+      "avgFavOdd": 1.39,
+      "time": "19:20",
+      "kickoff": "2026-07-17T11:20:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-hillcrest/hasson-jordan-shimanov-ofek/tE7l0OCk/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "AUSTRALIA: NBL1 SOUTH",
+      "home": "Bendigo Braves",
+      "away": "Keilor Thunder",
+      "favTeam": "Keilor Thunder",
+      "underTeam": "Bendigo Braves",
+      "favOdd": 1.42,
+      "prob": 70,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.42
       },
       "avgFavOdd": 1.45,
-      "time": "18:00",
-      "kickoff": "2026-07-17T10:00:00+09:00",
+      "time": "20:30",
+      "kickoff": "2026-07-17T12:30:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/football/world/club-friendly/zrinjski-posusje/fgkvxYy3/"
+      "url": "https://www.betexplorer.com/basketball/australia/nbl1-south/bendigo-braves-keilor-thunder/4x5ao4aM/"
+    },
+    {
+      "sport": "アイスホッケー",
+      "sportKey": "hockey",
+      "league": "AUSTRALIA: AIHL",
+      "home": "Sydney Ice Dogs",
+      "away": "Central Coast Rhinos",
+      "favTeam": "Sydney Ice Dogs",
+      "underTeam": "Central Coast Rhinos",
+      "favOdd": 1.42,
+      "prob": 70,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.42
+      },
+      "avgFavOdd": 1.48,
+      "time": "17:00",
+      "kickoff": "2026-07-18T09:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/hockey/australia/aihl/sydney-ice-dogs-central-coast-rhinos/vcdkCFR0/"
     },
     {
       "sport": "野球",
       "sportKey": "baseball",
-      "league": "SOUTH KOREA: KBO",
-      "home": "Hanwha Eagles",
-      "away": "Kiwoom Heroes",
-      "favTeam": "Hanwha Eagles",
-      "underTeam": "Kiwoom Heroes",
-      "favOdd": 1.49,
-      "prob": 67,
+      "league": "CZECH REPUBLIC: EXTRALIGA",
+      "home": "Ostrava",
+      "away": "Draci Brno",
+      "favTeam": "Draci Brno",
+      "underTeam": "Ostrava",
+      "favOdd": 1.43,
+      "prob": 70,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.49
+        "1xbet": 1.43
       },
       "avgFavOdd": 1.43,
-      "time": "19:00",
-      "kickoff": "2026-07-17T11:00:00+09:00",
+      "time": "03:00",
+      "kickoff": "2026-07-17T19:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/hanwha-eagles-kiwoom-heroes/noYxnnhT/"
-    },
-    {
-      "sport": "野球",
-      "sportKey": "baseball",
-      "league": "JAPAN: NPB",
-      "home": "Hiroshima Carp",
-      "away": "Hanshin Tigers",
-      "favTeam": "Hanshin Tigers",
-      "underTeam": "Hiroshima Carp",
-      "favOdd": 1.49,
-      "prob": 67,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.49
-      },
-      "avgFavOdd": 1.46,
-      "time": "19:00",
-      "kickoff": "2026-07-17T11:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/baseball/japan/npb/hiroshima-carp-hanshin-tigers/OCYjGO1M/"
-    },
-    {
-      "sport": "野球",
-      "sportKey": "baseball",
-      "league": "SOUTH KOREA: KBO",
-      "home": "Samsung Lions",
-      "away": "Lotte Giants",
-      "favTeam": "Samsung Lions",
-      "underTeam": "Lotte Giants",
-      "favOdd": 1.5,
-      "prob": 67,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.5
-      },
-      "avgFavOdd": 1.44,
-      "time": "19:00",
-      "kickoff": "2026-07-17T11:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/samsung-lions-lotte-giants/I5tMkUh4/"
+      "url": "https://www.betexplorer.com/baseball/czech-republic/extraliga/arrows-ostrava-draci-brno/WpCY8lUI/"
     },
     {
       "sport": "野球",
@@ -445,24 +505,44 @@
       "url": "https://www.betexplorer.com/baseball/czech-republic/extraliga/eagles-prague-sabat-prague/AVNPAAa6/"
     },
     {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "WORLD: NATIONS LEAGUE",
-      "home": "Brazil",
-      "away": "Poland",
-      "favTeam": "Poland",
-      "underTeam": "Brazil",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "AUSTRALIA: NBL1 SOUTH",
+      "home": "Sandringham Sabres",
+      "away": "Northern Tasmania",
+      "favTeam": "Sandringham Sabres",
+      "underTeam": "Northern Tasmania",
+      "favOdd": 1.51,
+      "prob": 66,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.51
+      },
+      "avgFavOdd": 1.52,
+      "time": "20:30",
+      "kickoff": "2026-07-17T12:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/australia/nbl1-south/sandringham-sabres-northern-tasmania/8ABjmQU9/"
+    },
+    {
+      "sport": "野球",
+      "sportKey": "baseball",
+      "league": "USA: MLB",
+      "home": "Atlanta Braves",
+      "away": "Texas Rangers",
+      "favTeam": "Atlanta Braves",
+      "underTeam": "Texas Rangers",
       "favOdd": 1.52,
       "prob": 66,
       "book": "1xBet",
       "books": {
         "1xbet": 1.52
       },
-      "avgFavOdd": 1.44,
-      "time": "11:00",
-      "kickoff": "2026-07-18T03:00:00+09:00",
+      "avgFavOdd": 1.48,
+      "time": "09:15",
+      "kickoff": "2026-07-18T01:15:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/world/nations-league/brazil-poland/rVeOPes1/"
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/atlanta-braves-texas-rangers/I1xmWb4l/"
     },
     {
       "sport": "ハンドボール",
@@ -472,13 +552,13 @@
       "away": "Switzerland U20",
       "favTeam": "France U20",
       "underTeam": "Switzerland U20",
-      "favOdd": 1.55,
-      "prob": 65,
+      "favOdd": 1.59,
+      "prob": 63,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.55
+        "1xbet": 1.59
       },
-      "avgFavOdd": 1.52,
+      "avgFavOdd": 1.55,
       "time": "00:00",
       "kickoff": "2026-07-17T16:00:00+09:00",
       "niche": true,
