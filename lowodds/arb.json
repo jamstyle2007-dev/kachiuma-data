@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-17T21:38:11.377Z",
+  "generatedAt": "2026-07-17T21:43:34.916Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 1,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 25,
       "profit": 3318839
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "Q3aZGyY1",
+      "sport": "hockey",
+      "sportLabel": "アイスホッケー",
+      "teams": "Canterbury Red Devils - Southern Stampede",
+      "url": "https://www.betexplorer.com/hockey/new-zealand/nzihl/canterbury-red-devils-southern-stampede/Q3aZGyY1/",
+      "kickoff": "2026-07-18T07:10:00+09:00",
+      "width": 3,
+      "books": 11,
+      "labels": [
+        "Canterbury Red Devils",
+        "Draw",
+        "Southern Stampede"
+      ],
+      "legs": [
+        {
+          "outcome": "Canterbury Red Devils",
+          "book": "William Hill",
+          "odd": 10,
+          "stake": 11580,
+          "jp": false,
+          "exch": false,
+          "url": "https://sports.williamhill.com/"
+        },
+        {
+          "outcome": "Draw",
+          "book": "1xBet",
+          "odd": 7.9,
+          "stake": 14659,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        },
+        {
+          "outcome": "Southern Stampede",
+          "book": "Bets.io",
+          "odd": 1.57,
+          "stake": 73761,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
+        }
+      ],
+      "S": 0.8635249536402483,
+      "roi": 15.804412574811177,
+      "profit": 15804,
+      "payout": 115804,
+      "staked": 100000,
+      "mins": 26,
+      "split": {
+        "S": 0.8635249536402483,
+        "payout": 115804,
+        "profit": 15804,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "William Hill",
+            "odd": 10,
+            "stake": 11580
+          },
+          {
+            "book": "1xBet",
+            "odd": 7.9,
+            "stake": 14659
+          },
+          {
+            "book": "Bets.io",
+            "odd": 1.57,
+            "stake": 73761
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
