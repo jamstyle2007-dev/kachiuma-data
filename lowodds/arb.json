@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-17T10:01:53.679Z",
+  "generatedAt": "2026-07-17T10:07:19.568Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 1,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 23,
       "profit": 3314780
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "lQGZqBFl",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Boston Red Sox - Tampa Bay Rays",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/boston-red-sox-tampa-bay-rays/lQGZqBFl/",
+      "kickoff": "2026-07-17T19:35:00+09:00",
+      "width": 2,
+      "books": 18,
+      "labels": [
+        "Boston Red Sox",
+        "Tampa Bay Rays"
+      ],
+      "legs": [
+        {
+          "outcome": "Boston Red Sox",
+          "book": "Unibet",
+          "odd": 1.86,
+          "stake": 54634,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.unibet.com/"
+        },
+        {
+          "outcome": "Tampa Bay Rays",
+          "book": "1xBet",
+          "odd": 2.24,
+          "stake": 45366,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        }
+      ],
+      "S": 0.9840629800307219,
+      "roi": 1.6195121951219527,
+      "profit": 1620,
+      "payout": 101620,
+      "staked": 100000,
+      "mins": 28,
+      "split": {
+        "S": 0.9840629800307219,
+        "payout": 101620,
+        "profit": 1620,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Unibet",
+            "odd": 1.86,
+            "stake": 54634
+          },
+          {
+            "book": "1xBet",
+            "odd": 2.24,
+            "stake": 45366
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
