@@ -1,17 +1,37 @@
 {
-  "generatedAt": "2026-07-17T23:57:51.903Z",
+  "generatedAt": "2026-07-18T03:47:50.430Z",
   "source": "betexplorer.com (Pinnacle / 1xBet odds)",
   "threshold": 1.6,
-  "count": 25,
+  "count": 23,
   "matches": [
     {
       "sport": "バスケ",
       "sportKey": "basketball",
-      "league": "CHILE: LNB",
-      "home": "U. De Concepcion",
-      "away": "Colo Colo",
-      "favTeam": "U. De Concepcion",
-      "underTeam": "Colo Colo",
+      "league": "AUSTRALIA: NBL1 EAST WOMEN",
+      "home": "Hornsby S. W",
+      "away": "Bankstown Bruins W",
+      "favTeam": "Bankstown Bruins W",
+      "underTeam": "Hornsby S. W",
+      "favOdd": 1.01,
+      "prob": 99,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.01
+      },
+      "avgFavOdd": 1.02,
+      "time": "17:00",
+      "kickoff": "2026-07-18T09:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/australia/nbl1-east-women/hornsby-spiders-bankstown-bruins/Yi3SjApA/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "NEW ZEALAND: NBL",
+      "home": "Southland Sharks",
+      "away": "Bay Hawks",
+      "favTeam": "Southland Sharks",
+      "underTeam": "Bay Hawks",
       "favOdd": 1.01,
       "prob": 99,
       "book": "1xBet",
@@ -19,10 +39,30 @@
         "1xbet": 1.01
       },
       "avgFavOdd": 1.03,
-      "time": "10:00",
-      "kickoff": "2026-07-18T02:00:00+09:00",
+      "time": "14:00",
+      "kickoff": "2026-07-18T06:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/chile/lnb/universidad-de-concepcion-colo-colo/EkxbKm8k/"
+      "url": "https://www.betexplorer.com/basketball/new-zealand/nbl/southland-sharks-bay-hawks/lt10UHBs/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "AUSTRALIA: NBL1 EAST WOMEN",
+      "home": "Sutherland Sharks W",
+      "away": "Norths Bears W",
+      "favTeam": "Norths Bears W",
+      "underTeam": "Sutherland Sharks W",
+      "favOdd": 1.02,
+      "prob": 98,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.02
+      },
+      "avgFavOdd": 1.04,
+      "time": "17:00",
+      "kickoff": "2026-07-18T09:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/australia/nbl1-east-women/sutherland-sharks-norths-bears/6ajFs67d/"
     },
     {
       "sport": "アイスホッケー",
@@ -45,86 +85,6 @@
       "url": "https://www.betexplorer.com/hockey/australia/aihl/newcastle-north-stars-adelaide-adrenaline/naHAJcZQ/"
     },
     {
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "BOLIVIA: DIVISION PROFESIONAL",
-      "home": "Bolivar",
-      "away": "Guabira",
-      "favTeam": "Bolivar",
-      "underTeam": "Guabira",
-      "favOdd": 1.06,
-      "prob": 94,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.06
-      },
-      "avgFavOdd": 1.08,
-      "time": "10:00",
-      "kickoff": "2026-07-18T02:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/football/bolivia/division-profesional/bolivar-guabira/jeijhKIU/"
-    },
-    {
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "NICARAGUA: LIGA PRIMERA",
-      "home": "Diriangen",
-      "away": "San Marcos",
-      "favTeam": "Diriangen",
-      "underTeam": "San Marcos",
-      "favOdd": 1.09,
-      "prob": 92,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.09
-      },
-      "avgFavOdd": 1.11,
-      "time": "10:00",
-      "kickoff": "2026-07-18T02:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/football/nicaragua/liga-primera/diriangen-san-marcos/xUbxqBQQ/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "CHILE: LNB",
-      "home": "Puerto Montt",
-      "away": "Valdivia",
-      "favTeam": "Valdivia",
-      "underTeam": "Puerto Montt",
-      "favOdd": 1.1,
-      "prob": 91,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.1
-      },
-      "avgFavOdd": 1.09,
-      "time": "10:30",
-      "kickoff": "2026-07-18T02:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/chile/lnb/puerto-montt-valdivia/bRwD12so/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - SINGLES: W15 BRISBANE, HARD",
-      "home": "Thompson B.",
-      "away": "Yoshimoto N.",
-      "favTeam": "Yoshimoto N.",
-      "underTeam": "Thompson B.",
-      "favOdd": 1.12,
-      "prob": 89,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.12
-      },
-      "avgFavOdd": 1.13,
-      "time": "10:00",
-      "kickoff": "2026-07-18T02:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w15-brisbane/thompson-belle-yoshimoto-natsuki/xlLQHBzg/"
-    },
-    {
       "sport": "バレー",
       "sportKey": "volleyball",
       "league": "WORLD: NATIONS LEAGUE",
@@ -132,37 +92,77 @@
       "away": "Italy",
       "favTeam": "Italy",
       "underTeam": "Argentina",
-      "favOdd": 1.14,
+      "favOdd": 1.13,
       "prob": 88,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.14
+        "1xbet": 1.13
       },
-      "avgFavOdd": 1.13,
+      "avgFavOdd": 1.12,
       "time": "20:20",
       "kickoff": "2026-07-18T12:20:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/volleyball/world/nations-league/argentina-italy/txQtVjJt/"
     },
     {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "AUSTRALIA: NBL1 EAST WOMEN",
+      "home": "Illawarra Hawks W",
+      "away": "Hills Hornets W",
+      "favTeam": "Hills Hornets W",
+      "underTeam": "Illawarra Hawks W",
+      "favOdd": 1.14,
+      "prob": 88,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.14
+      },
+      "avgFavOdd": 1.2,
+      "time": "17:00",
+      "kickoff": "2026-07-18T09:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/australia/nbl1-east-women/illawarra-hawks-hills-hornets/f7iyklFM/"
+    },
+    {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25 BRISBANE, HARD",
-      "home": "O'Connell B.",
-      "away": "Delaney Ja.",
-      "favTeam": "Delaney Ja.",
-      "underTeam": "O'Connell B.",
+      "league": "ITF MEN - SINGLES: M15 SLOBOZIA, CLAY",
+      "home": "Aginskiy S.",
+      "away": "Ovcharenko O.",
+      "favTeam": "Ovcharenko O.",
+      "underTeam": "Aginskiy S.",
+      "favOdd": 1.15,
+      "prob": 87,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.15
+      },
+      "avgFavOdd": 1.18,
+      "time": "17:00",
+      "kickoff": "2026-07-18T09:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m15-slobozia/semen-aginskiy-ovcharenko-oleksandr/CdAMfQgK/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - DOUBLES: M25 BRISBANE, HARD",
+      "home": "Charlton J. / Hulme M.",
+      "away": "Sik M. E. / Takizawa T.",
+      "favTeam": "Charlton J. / Hulme M.",
+      "underTeam": "Sik M. E. / Takizawa T.",
       "favOdd": 1.17,
       "prob": 85,
       "book": "1xBet",
       "books": {
         "1xbet": 1.17
       },
-      "avgFavOdd": 1.15,
-      "time": "11:30",
-      "kickoff": "2026-07-18T03:30:00+09:00",
+      "avgFavOdd": 1.16,
+      "time": "13:55",
+      "kickoff": "2026-07-18T05:55:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-brisbane/o-connell-benjamin-delaney-jake/Iqtn4Zgt/"
+      "url": "https://www.betexplorer.com/tennis/itf-men-doubles/m25-brisbane/charlton-joshua-hulme-matthew-sik-mustafa-ege-takizawa-taiki/lfysO3Os/"
     },
     {
       "sport": "アイスホッケー",
@@ -185,144 +185,104 @@
       "url": "https://www.betexplorer.com/hockey/new-zealand/nzihl/canterbury-red-devils-southern-stampede/Q3aZGyY1/"
     },
     {
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "BRAZIL: PAULISTA WOMEN",
-      "home": "Santos W",
-      "away": "Taubate W",
-      "favTeam": "Santos W",
-      "underTeam": "Taubate W",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "AUSTRALIA: NBL1 NORTH WOMEN",
+      "home": "Brisbane Capitals W",
+      "away": "Southern District Spartans W",
+      "favTeam": "Southern District Spartans W",
+      "underTeam": "Brisbane Capitals W",
+      "favOdd": 1.19,
+      "prob": 84,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.19
+      },
+      "avgFavOdd": 1.17,
+      "time": "17:00",
+      "kickoff": "2026-07-18T09:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/australia/nbl1-north-women/brisbane-capitals-southern-district-spartans/z3lmtGsS/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "AUSTRALIA: NBL1 EAST WOMEN",
+      "home": "Maitland Mustangs W",
+      "away": "Newcastle Falcons W",
+      "favTeam": "Newcastle Falcons W",
+      "underTeam": "Maitland Mustangs W",
       "favOdd": 1.22,
       "prob": 82,
       "book": "1xBet",
       "books": {
         "1xbet": 1.22
       },
-      "avgFavOdd": 1.24,
-      "time": "10:00",
-      "kickoff": "2026-07-18T02:00:00+09:00",
+      "avgFavOdd": 1.23,
+      "time": "17:00",
+      "kickoff": "2026-07-18T09:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/football/brazil/paulista-women/santos-taubate/AqEcFH76/"
+      "url": "https://www.betexplorer.com/basketball/australia/nbl1-east-women/maitland-mustangs-newcastle-falcons/Qkr7qSxp/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - SINGLES: W15 BRISBANE, HARD",
-      "home": "Aiava D.",
-      "away": "Yang Y. Y.",
-      "favTeam": "Aiava D.",
-      "underTeam": "Yang Y. Y.",
-      "favOdd": 1.26,
-      "prob": 79,
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "AUSTRALIA: NPL QUEENSLAND",
+      "home": "Gold Coast Utd",
+      "away": "Queensland Lions",
+      "favTeam": "Queensland Lions",
+      "underTeam": "Gold Coast Utd",
+      "favOdd": 1.25,
+      "prob": 80,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.26
+        "1xbet": 1.25
       },
       "avgFavOdd": 1.26,
-      "time": "10:00",
-      "kickoff": "2026-07-18T02:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w15-brisbane/aiava-destanee-yang-ya-yi/UewYFk55/"
+      "time": "15:00",
+      "kickoff": "2026-07-18T07:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/football/australia/npl-queensland/gold-coast-utd-queensland-lions/EsivxUuT/"
     },
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "EXHIBITION - MEN: UTS CHAMPIONSHIP, CLAY",
-      "home": "Fonseca J.",
-      "away": "Kyrgios N.",
-      "favTeam": "Fonseca J.",
-      "underTeam": "Kyrgios N.",
-      "favOdd": 1.27,
-      "prob": 79,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.27
-      },
-      "avgFavOdd": 1.25,
-      "time": "10:00",
-      "kickoff": "2026-07-18T02:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/tennis/exhibition-men/uts-championship/fonseca-joao-kyrgios-nick/bqVRehcT/"
-    },
-    {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "WORLD: NATIONS LEAGUE",
-      "home": "Brazil",
-      "away": "Poland",
-      "favTeam": "Poland",
-      "underTeam": "Brazil",
-      "favOdd": 1.28,
-      "prob": 78,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.28
-      },
-      "avgFavOdd": 1.26,
-      "time": "11:00",
-      "kickoff": "2026-07-18T03:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/world/nations-league/brazil-poland/rVeOPes1/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - DOUBLES: W15 BRISBANE, HARD",
-      "home": "Simmons E. / Stevens A.",
-      "away": "Fairclough L. / Gilheany R.",
-      "favTeam": "Fairclough L. / Gilheany R.",
-      "underTeam": "Simmons E. / Stevens A.",
-      "favOdd": 1.32,
+      "league": "ITF WOMEN - DOUBLES: W15 ASTANA 2, HARD",
+      "home": "Arystanbekova A. / Dyussebay I.",
+      "away": "Matsuda R. / Nishimoto S.",
+      "favTeam": "Arystanbekova A. / Dyussebay I.",
+      "underTeam": "Matsuda R. / Nishimoto S.",
+      "favOdd": 1.31,
       "prob": 76,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.32
+        "1xbet": 1.31
       },
       "avgFavOdd": 1.31,
-      "time": "11:00",
-      "kickoff": "2026-07-18T03:00:00+09:00",
+      "time": "16:30",
+      "kickoff": "2026-07-18T08:30:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-doubles/w15-brisbane/simmons-ella-stevens-amy-fairclough-lily-gilheany-roisin/hp7NuJie/"
+      "url": "https://www.betexplorer.com/tennis/itf-women-doubles/w15-astana-2/arystanbekova-asylzhan-dyussebay-ingkar-matsuda-rinko-nishimoto-sera/Iyl5Yusp/"
     },
     {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "PUERTO RICO: BSN",
-      "home": "Vaqueros de Bayamon",
-      "away": "Gigantes de Carolina",
-      "favTeam": "Vaqueros de Bayamon",
-      "underTeam": "Gigantes de Carolina",
-      "favOdd": 1.37,
-      "prob": 73,
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "AUSTRALIA: NPL VICTORIA",
+      "home": "Avondale FC",
+      "away": "St Albans",
+      "favTeam": "Avondale FC",
+      "underTeam": "St Albans",
+      "favOdd": 1.34,
+      "prob": 75,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.37
+        "1xbet": 1.34
       },
-      "avgFavOdd": 1.35,
-      "time": "10:00",
-      "kickoff": "2026-07-18T02:00:00+09:00",
+      "avgFavOdd": 1.37,
+      "time": "15:00",
+      "kickoff": "2026-07-18T07:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/puerto-rico/bsn/vaqueros-de-bayamon-gigantes-de-carolina/C6XTHuU0/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "CHILE: LNB",
-      "home": "Catolica",
-      "away": "Leones Quilpue",
-      "favTeam": "Leones Quilpue",
-      "underTeam": "Catolica",
-      "favOdd": 1.4,
-      "prob": 71,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.4
-      },
-      "avgFavOdd": 1.35,
-      "time": "10:00",
-      "kickoff": "2026-07-18T02:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/chile/lnb/catolica-leones-de-quilpue/8jAQxdOG/"
+      "url": "https://www.betexplorer.com/football/australia/npl-victoria/avondale-fc-st-albans/bVCuzASa/"
     },
     {
       "sport": "アイスホッケー",
@@ -332,13 +292,13 @@
       "away": "Lokomotiv Orsha",
       "favTeam": "Zhlobin",
       "underTeam": "Lokomotiv Orsha",
-      "favOdd": 1.42,
-      "prob": 70,
+      "favOdd": 1.4,
+      "prob": 71,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.42
+        "1xbet": 1.4
       },
-      "avgFavOdd": 1.42,
+      "avgFavOdd": 1.4,
       "time": "21:00",
       "kickoff": "2026-07-18T13:00:00+09:00",
       "niche": false,
@@ -347,22 +307,42 @@
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: LINCOLN, HARD",
-      "home": "Forbes M.",
-      "away": "Tomic B.",
-      "favTeam": "Tomic B.",
-      "underTeam": "Forbes M.",
-      "favOdd": 1.45,
-      "prob": 69,
+      "league": "ITF WOMEN - SINGLES: W15 LUAN 5, HARD",
+      "home": "Kalyakina M.",
+      "away": "Wang J.",
+      "favTeam": "Wang J.",
+      "underTeam": "Kalyakina M.",
+      "favOdd": 1.42,
+      "prob": 70,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.45
+        "1xbet": 1.42
       },
-      "avgFavOdd": 1.46,
-      "time": "10:30",
-      "kickoff": "2026-07-18T02:30:00+09:00",
+      "avgFavOdd": 1.4,
+      "time": "16:00",
+      "kickoff": "2026-07-18T08:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w15-luan-5/kalyakina-maria-wang-jiayi/z10x1nb3/"
+    },
+    {
+      "sport": "野球",
+      "sportKey": "baseball",
+      "league": "JAPAN: NPB",
+      "home": "Chiba Lotte Marines",
+      "away": "Fukuoka S. Hawks",
+      "favTeam": "Fukuoka S. Hawks",
+      "underTeam": "Chiba Lotte Marines",
+      "favOdd": 1.51,
+      "prob": 66,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.51
+      },
+      "avgFavOdd": 1.47,
+      "time": "19:00",
+      "kickoff": "2026-07-18T11:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/lincoln/forbes-matthew-tomic-bernard/zVBRZIAm/"
+      "url": "https://www.betexplorer.com/baseball/japan/npb/chiba-lotte-marines-fukuoka-s-hawks/0C2YS1oS/"
     },
     {
       "sport": "アイスホッケー",
@@ -372,11 +352,11 @@
       "away": "Central Coast Rhinos",
       "favTeam": "Sydney Ice Dogs",
       "underTeam": "Central Coast Rhinos",
-      "favOdd": 1.53,
-      "prob": 65,
+      "favOdd": 1.51,
+      "prob": 66,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.53
+        "1xbet": 1.51
       },
       "avgFavOdd": 1.53,
       "time": "17:00",
@@ -385,44 +365,44 @@
       "url": "https://www.betexplorer.com/hockey/australia/aihl/sydney-ice-dogs-central-coast-rhinos/vcdkCFR0/"
     },
     {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "USA: NBA LAS VEGAS SUMMER LEAGUE",
-      "home": "Miami Heat",
-      "away": "Detroit Pistons",
-      "favTeam": "Detroit Pistons",
-      "underTeam": "Miami Heat",
-      "favOdd": 1.53,
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF WOMEN - DOUBLES: W15 LUAN 5, HARD",
+      "home": "Kikawada R. / Kosaka R.",
+      "away": "Leong S. L. X. / Ounmuang S.",
+      "favTeam": "Leong S. L. X. / Ounmuang S.",
+      "underTeam": "Kikawada R. / Kosaka R.",
+      "favOdd": 1.55,
       "prob": 65,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.53
+        "1xbet": 1.55
       },
-      "avgFavOdd": 1.56,
-      "time": "11:00",
-      "kickoff": "2026-07-18T03:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/usa/nba-las-vegas-summer-league/miami-heat-detroit-pistons/h0T2yadf/"
+      "avgFavOdd": 1.52,
+      "time": "16:00",
+      "kickoff": "2026-07-18T08:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-women-doubles/w15-luan-5/kikawada-riko-kosaka-rira-leong-shihomi-li-xuan-ounmuang-salakthip/rB5Zp5Ni/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - DOUBLES: LINCOLN, HARD",
-      "home": "Martinez L. D. / Sheehy J.",
-      "away": "Lammons N. / Withrow J.",
-      "favTeam": "Lammons N. / Withrow J.",
-      "underTeam": "Martinez L. D. / Sheehy J.",
-      "favOdd": 1.56,
-      "prob": 64,
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "AUSTRALIA: TASMANIA SOUTHERN CHAMPIONSHIP",
+      "home": "Hobart City",
+      "away": "Clarence Zebras U21",
+      "favTeam": "Hobart City",
+      "underTeam": "Clarence Zebras U21",
+      "favOdd": 1.55,
+      "prob": 65,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.56
+        "1xbet": 1.55
       },
-      "avgFavOdd": 1.55,
-      "time": "10:30",
-      "kickoff": "2026-07-18T02:30:00+09:00",
+      "avgFavOdd": 1.58,
+      "time": "14:30",
+      "kickoff": "2026-07-18T06:30:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-doubles/lincoln/martinez-luis-david-sheehy-joshua-lammons-nathaniel-withrow-jackson/YLcnihaK/"
+      "url": "https://www.betexplorer.com/football/australia/tasmania-southern-championship/hobart-city-clarence-zebras/8WCh2OFa/"
     },
     {
       "sport": "アイスホッケー",
@@ -445,64 +425,44 @@
       "url": "https://www.betexplorer.com/hockey/new-zealand/nzihl/dunedin-thunder-botany-swarm/IcnLvuQ8/"
     },
     {
-      "sport": "野球",
-      "sportKey": "baseball",
-      "league": "USA: PCL",
-      "home": "Round Rock Express",
-      "away": "Las Vegas Aviators",
-      "favTeam": "Las Vegas Aviators",
-      "underTeam": "Round Rock Express",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M15 NOVA GORICA, CLAY",
+      "home": "Bocchi L.",
+      "away": "Sakellaridis D.",
+      "favTeam": "Bocchi L.",
+      "underTeam": "Sakellaridis D.",
+      "favOdd": 1.57,
+      "prob": 64,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.57
+      },
+      "avgFavOdd": 1.57,
+      "time": "17:30",
+      "kickoff": "2026-07-18T09:30:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m15-nova-gorica/bocchi-lorenzo-dimitris-sakellaridis/nVj3nHJj/"
+    },
+    {
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "AUSTRALIA: NPL NSW",
+      "home": "WS Wanderers U21",
+      "away": "APIA Leichhardt",
+      "favTeam": "APIA Leichhardt",
+      "underTeam": "WS Wanderers U21",
       "favOdd": 1.58,
       "prob": 63,
       "book": "1xBet",
       "books": {
         "1xbet": 1.58
       },
-      "avgFavOdd": 1.58,
-      "time": "10:05",
-      "kickoff": "2026-07-18T02:05:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/baseball/usa/pcl/round-rock-express-las-vegas-aviators/nBRzhTPj/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - SINGLES: W75 GRANBY, HARD",
-      "home": "Saito S.",
-      "away": "Brace C.",
-      "favTeam": "Brace C.",
-      "underTeam": "Saito S.",
-      "favOdd": 1.59,
-      "prob": 63,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.59
-      },
-      "avgFavOdd": 1.6,
-      "time": "10:00",
-      "kickoff": "2026-07-18T02:00:00+09:00",
+      "avgFavOdd": 1.61,
+      "time": "15:00",
+      "kickoff": "2026-07-18T07:00:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w75-granby/saito-sara-brace-cadence/KKUu4Yw2/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25 BRISBANE, HARD",
-      "home": "Viiala Z.",
-      "away": "Hulme M.",
-      "favTeam": "Hulme M.",
-      "underTeam": "Viiala Z.",
-      "favOdd": 1.6,
-      "prob": 63,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.6
-      },
-      "avgFavOdd": 1.6,
-      "time": "10:00",
-      "kickoff": "2026-07-18T02:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-brisbane/viiala-zachary-hulme-matthew/YJlfP3if/"
+      "url": "https://www.betexplorer.com/football/australia/npl-nsw/western-sydney-wanderers-apia-leichhardt/r7Q7ymCU/"
     }
   ]
 }
