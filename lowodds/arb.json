@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-18T11:25:25.332Z",
+  "generatedAt": "2026-07-18T11:30:49.307Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "WWiKmLAb",
-      "sport": "handball",
-      "sportLabel": "ハンドボール",
-      "teams": "Georgia U20 - Netherlands U20",
-      "url": "https://www.betexplorer.com/handball/europe/european-championship-u20-b/georgia-netherlands/WWiKmLAb/",
-      "kickoff": "2026-07-18T20:30:00+09:00",
-      "width": 2,
-      "books": 5,
-      "labels": [
-        "Georgia U20",
-        "Netherlands U20"
-      ],
-      "legs": [
-        {
-          "outcome": "Georgia U20",
-          "book": "Roobet",
-          "odd": 60,
-          "stake": 45455,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Roobet%20sportsbook"
-        },
-        {
-          "outcome": "Netherlands U20",
-          "book": "Roobet",
-          "odd": 50,
-          "stake": 54545,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Roobet%20sportsbook"
-        }
-      ],
-      "S": 0.03666666666666667,
-      "roi": 2627.2727272727275,
-      "profit": 2627273,
-      "payout": 2727273,
-      "staked": 100000,
-      "mins": 5,
-      "split": {
-        "S": 0.03666666666666667,
-        "payout": 2727273,
-        "profit": 2627273,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Roobet",
-            "odd": 60,
-            "stake": 45455
-          },
-          {
-            "book": "Roobet",
-            "odd": 50,
-            "stake": 54545
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
