@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-18T22:32:21.907Z",
+  "generatedAt": "2026-07-18T22:37:48.942Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "6k92LJ4E",
-      "sport": "hockey",
-      "sportLabel": "アイスホッケー",
-      "teams": "Brisbane Lightning - CBR Brave",
-      "url": "https://www.betexplorer.com/hockey/australia/aihl/brisbane-lightning-cbr-brave/6k92LJ4E/",
-      "kickoff": "2026-07-19T07:45:00+09:00",
-      "width": 3,
-      "books": 14,
-      "labels": [
-        "Brisbane Lightning",
-        "Draw",
-        "CBR Brave"
-      ],
-      "legs": [
-        {
-          "outcome": "Brisbane Lightning",
-          "book": "Betfair",
-          "odd": 6,
-          "stake": 17002,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        },
-        {
-          "outcome": "Draw",
-          "book": "bwin",
-          "odd": 6.25,
-          "stake": 16322,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        },
-        {
-          "outcome": "CBR Brave",
-          "book": "bwin",
-          "odd": 1.53,
-          "stake": 66676,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        }
-      ],
-      "S": 0.9802614379084967,
-      "roi": 2.01360181357515,
-      "profit": 2014,
-      "payout": 102014,
-      "staked": 100000,
-      "mins": 13,
-      "split": {
-        "S": 0.9802614379084967,
-        "payout": 102014,
-        "profit": 2014,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betfair",
-            "odd": 6,
-            "stake": 17002
-          },
-          {
-            "book": "bwin",
-            "odd": 6.25,
-            "stake": 16322
-          },
-          {
-            "book": "bwin",
-            "odd": 1.53,
-            "stake": 66676
-          }
-        ]
-      },
-      "hasExch": true,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
