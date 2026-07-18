@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-18T12:30:32.689Z",
+  "generatedAt": "2026-07-18T12:35:58.873Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 1,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 26,
       "profit": 3334643
     },
-    "pending": 1
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "xn9VBzIt",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Philadelphia Phillies - New York Mets",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/philadelphia-phillies-new-york-mets/xn9VBzIt/",
+      "kickoff": "2026-07-18T22:05:00+09:00",
+      "width": 2,
+      "books": 18,
+      "labels": [
+        "Philadelphia Phillies",
+        "New York Mets"
+      ],
+      "legs": [
+        {
+          "outcome": "Philadelphia Phillies",
+          "book": "1xBet",
+          "odd": 1.65,
+          "stake": 60993,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        },
+        {
+          "outcome": "New York Mets",
+          "book": "BetInAsia",
+          "odd": 2.58,
+          "stake": 39007,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.betinasia.com/"
+        }
+      ],
+      "S": 0.9936575052854122,
+      "roi": 0.6382978723404431,
+      "profit": 638,
+      "payout": 100638,
+      "staked": 100000,
+      "mins": 29,
+      "split": {
+        "S": 0.9936575052854122,
+        "payout": 100638,
+        "profit": 638,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "1xBet",
+            "odd": 1.65,
+            "stake": 60993
+          },
+          {
+            "book": "BetInAsia",
+            "odd": 2.58,
+            "stake": 39007
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    }
+  ]
 }
