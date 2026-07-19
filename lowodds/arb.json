@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-19T00:30:47.140Z",
+  "generatedAt": "2026-07-19T00:36:16.427Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 3,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 28,
       "profit": 5962554
     },
-    "pending": 1
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "QHczFf0t",
+      "sport": "tennis",
+      "sportLabel": "テニス",
+      "teams": "Poulsen Brostrom O. - Janvier M.",
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/tampere/poulsen-oskar-brostrom-janvier-maxime/QHczFf0t/",
+      "kickoff": "2026-07-19T10:00:00+09:00",
+      "width": 3,
+      "books": 7,
+      "labels": [
+        "Poulsen Brostrom O.",
+        "Draw",
+        "Janvier M."
+      ],
+      "legs": [
+        {
+          "outcome": "Poulsen Brostrom O.",
+          "book": "CAN.",
+          "odd": 6.49,
+          "stake": 43109,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=CAN.%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "2:0",
+          "odd": 5.92,
+          "stake": 47260,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=2%3A0%20sportsbook"
+        },
+        {
+          "outcome": "Janvier M.",
+          "book": "2:0",
+          "odd": 29.05,
+          "stake": 9631,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=2%3A0%20sportsbook"
+        }
+      ],
+      "S": 0.3574255317669653,
+      "roi": 179.77855836330718,
+      "profit": 179779,
+      "payout": 279779,
+      "staked": 100000,
+      "mins": 24,
+      "split": {
+        "S": 0.3574255317669653,
+        "payout": 279779,
+        "profit": 179779,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "CAN.",
+            "odd": 6.49,
+            "stake": 43109
+          },
+          {
+            "book": "2:0",
+            "odd": 5.92,
+            "stake": 47260
+          },
+          {
+            "book": "2:0",
+            "odd": 29.05,
+            "stake": 9631
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
