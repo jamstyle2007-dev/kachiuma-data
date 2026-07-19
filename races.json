@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updatedAt": "2026-07-19",
-    "note": "日曜3鞍を再構築。◎は地力最上位を維持しつつ、○以下に市場が過小評価した妙味馬(サフィラ/ノリヤンモーニン/ショウナンアビアス等)を押し上げ。"
+    "updatedAt": "2026-07-20",
+    "note": "7/19(日)3鞍の結果を反映。"
   },
   "races": [
     {
@@ -7343,6 +7343,19 @@
             }
           }
         }
+      },
+      "result": {
+        "first": 1,
+        "second": 17,
+        "third": 18,
+        "tanshoPay": 3310,
+        "fukushoPay": [
+          600,
+          150,
+          420
+        ],
+        "sanrenpukuPay": 22060,
+        "sanrentanPay": 261530
       }
     },
     {
@@ -7603,6 +7616,19 @@
             }
           }
         }
+      },
+      "result": {
+        "first": 5,
+        "second": 9,
+        "third": 2,
+        "tanshoPay": 2360,
+        "fukushoPay": [
+          650,
+          170,
+          430
+        ],
+        "sanrenpukuPay": 11530,
+        "sanrentanPay": 79530
       }
     },
     {
@@ -7865,6 +7891,19 @@
             }
           }
         }
+      },
+      "result": {
+        "first": 2,
+        "second": 7,
+        "third": 14,
+        "tanshoPay": 2220,
+        "fukushoPay": [
+          760,
+          280,
+          400
+        ],
+        "sanrenpukuPay": 35610,
+        "sanrentanPay": 238390
       }
     }
   ]
