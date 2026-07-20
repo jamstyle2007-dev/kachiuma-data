@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-20T15:30:48.304Z",
+  "generatedAt": "2026-07-20T15:36:12.839Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 1,
+  "scanned": 2,
+  "arbCount": 2,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,9 +22,84 @@
       "count": 0,
       "profit": 0
     },
-    "pending": 1
+    "pending": 2
   },
   "opps": [
+    {
+      "id": "rou0tbpn",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "New York Yankees - Pittsburgh Pirates",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/new-york-yankees-pittsburgh-pirates/rou0tbpn/",
+      "kickoff": "2026-07-21T01:05:00+09:00",
+      "width": 3,
+      "books": 8,
+      "labels": [
+        "New York Yankees",
+        "Draw",
+        "Pittsburgh Pirates"
+      ],
+      "legs": [
+        {
+          "outcome": "New York Yankees",
+          "book": "6:4",
+          "odd": 6,
+          "stake": 27795,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=6%3A4%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "2:4",
+          "odd": 2.61,
+          "stake": 63896,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=2%3A4%20sportsbook"
+        },
+        {
+          "outcome": "Pittsburgh Pirates",
+          "book": "2:1",
+          "odd": 20.07,
+          "stake": 8309,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=2%3A1%20sportsbook"
+        }
+      ],
+      "S": 0.5996340394825008,
+      "roi": 66.7683844071002,
+      "profit": 66768,
+      "payout": 166768,
+      "staked": 100000,
+      "mins": 29,
+      "split": {
+        "S": 0.5996340394825008,
+        "payout": 166768,
+        "profit": 66768,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "6:4",
+            "odd": 6,
+            "stake": 27795
+          },
+          {
+            "book": "2:4",
+            "odd": 2.61,
+            "stake": 63896
+          },
+          {
+            "book": "2:1",
+            "odd": 20.07,
+            "stake": 8309
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
     {
       "id": "2isXxPwf",
       "sport": "baseball",
@@ -44,7 +119,7 @@
           "outcome": "Cleveland Guardians",
           "book": "6:5",
           "odd": 6,
-          "stake": 23656,
+          "stake": 23735,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=6%3A5%20sportsbook"
@@ -52,8 +127,8 @@
         {
           "outcome": "Draw",
           "book": "6:5",
-          "odd": 2.06,
-          "stake": 68901,
+          "odd": 2.07,
+          "stake": 68797,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=6%3A5%20sportsbook"
@@ -62,38 +137,38 @@
           "outcome": "Minnesota Twins",
           "book": "5:3",
           "odd": 19.07,
-          "stake": 7443,
+          "stake": 7468,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=5%3A3%20sportsbook"
         }
       ],
-      "S": 0.7045419447682952,
-      "roi": 41.936190943020854,
-      "profit": 41936,
-      "payout": 141936,
+      "S": 0.7021968390040253,
+      "roi": 42.41021099131827,
+      "profit": 42410,
+      "payout": 142410,
       "staked": 100000,
-      "mins": 9,
+      "mins": 4,
       "split": {
-        "S": 0.7045419447682952,
-        "payout": 141936,
-        "profit": 41936,
+        "S": 0.7021968390040253,
+        "payout": 142410,
+        "profit": 42410,
         "staked": 100000,
         "legs": [
           {
             "book": "6:5",
             "odd": 6,
-            "stake": 23656
+            "stake": 23735
           },
           {
             "book": "6:5",
-            "odd": 2.06,
-            "stake": 68901
+            "odd": 2.07,
+            "stake": 68797
           },
           {
             "book": "5:3",
             "odd": 19.07,
-            "stake": 7443
+            "stake": 7468
           }
         ]
       },
