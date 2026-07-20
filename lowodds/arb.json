@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-20T16:36:48.232Z",
+  "generatedAt": "2026-07-20T16:42:22.785Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 8,
-  "arbCount": 8,
+  "scanned": 6,
+  "arbCount": 6,
   "track": {
     "stake": 100000,
     "all": {
@@ -73,7 +73,7 @@
       "profit": 692735,
       "payout": 792735,
       "staked": 100000,
-      "mins": 23,
+      "mins": 18,
       "split": {
         "S": 0.12614557690968908,
         "payout": 792735,
@@ -148,7 +148,7 @@
       "profit": 498070,
       "payout": 598071,
       "staked": 100001,
-      "mins": 23,
+      "mins": 18,
       "split": {
         "S": 0.16720430375675174,
         "payout": 598071,
@@ -223,7 +223,7 @@
       "profit": 288195,
       "payout": 388194,
       "staked": 99999,
-      "mins": 23,
+      "mins": 18,
       "split": {
         "S": 0.2576033356262164,
         "payout": 388194,
@@ -298,7 +298,7 @@
       "profit": 156341,
       "payout": 256342,
       "staked": 100001,
-      "mins": 23,
+      "mins": 18,
       "split": {
         "S": 0.39010440657147244,
         "payout": 256342,
@@ -373,7 +373,7 @@
       "profit": 106582,
       "payout": 206582,
       "staked": 100000,
-      "mins": 28,
+      "mins": 23,
       "split": {
         "S": 0.48406855521404685,
         "payout": 206582,
@@ -394,156 +394,6 @@
             "book": "8:5",
             "odd": 19.07,
             "stake": 10833
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    },
-    {
-      "id": "UHVZhyUi",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Milwaukee Brewers - New York Mets",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/milwaukee-brewers-new-york-mets/UHVZhyUi/",
-      "kickoff": "2026-07-21T01:40:00+09:00",
-      "width": 3,
-      "books": 10,
-      "labels": [
-        "Milwaukee Brewers",
-        "Draw",
-        "New York Mets"
-      ],
-      "legs": [
-        {
-          "outcome": "Milwaukee Brewers",
-          "book": "14:5",
-          "odd": 14,
-          "stake": 14532,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=14%3A5%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "3:4",
-          "odd": 2.72,
-          "stake": 74799,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=3%3A4%20sportsbook"
-        },
-        {
-          "outcome": "New York Mets",
-          "book": "3:1",
-          "odd": 19.07,
-          "stake": 10669,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=3%3A1%20sportsbook"
-        }
-      ],
-      "S": 0.491514015149846,
-      "roi": 103.45299811952135,
-      "profit": 103453,
-      "payout": 203453,
-      "staked": 100000,
-      "mins": 3,
-      "split": {
-        "S": 0.491514015149846,
-        "payout": 203453,
-        "profit": 103453,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "14:5",
-            "odd": 14,
-            "stake": 14532
-          },
-          {
-            "book": "3:4",
-            "odd": 2.72,
-            "stake": 74799
-          },
-          {
-            "book": "3:1",
-            "odd": 19.07,
-            "stake": 10669
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    },
-    {
-      "id": "nwxHxGqB",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Kansas City Royals - San Francisco Giants",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/kansas-city-royals-san-francisco-giants/nwxHxGqB/",
-      "kickoff": "2026-07-21T01:40:00+09:00",
-      "width": 3,
-      "books": 10,
-      "labels": [
-        "Kansas City Royals",
-        "Draw",
-        "San Francisco Giants"
-      ],
-      "legs": [
-        {
-          "outcome": "Kansas City Royals",
-          "book": "15:1",
-          "odd": 15,
-          "stake": 13235,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=15%3A1%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "6:2",
-          "odd": 2.6,
-          "stake": 76355,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=6%3A2%20sportsbook"
-        },
-        {
-          "outcome": "San Francisco Giants",
-          "book": "2:19",
-          "odd": 19.07,
-          "stake": 10410,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=2%3A19%20sportsbook"
-        }
-      ],
-      "S": 0.5037204361797963,
-      "roi": 98.5228170578061,
-      "profit": 98523,
-      "payout": 198523,
-      "staked": 100000,
-      "mins": 3,
-      "split": {
-        "S": 0.5037204361797963,
-        "payout": 198523,
-        "profit": 98523,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "15:1",
-            "odd": 15,
-            "stake": 13235
-          },
-          {
-            "book": "6:2",
-            "odd": 2.6,
-            "stake": 76355
-          },
-          {
-            "book": "2:19",
-            "odd": 19.07,
-            "stake": 10410
           }
         ]
       },
@@ -598,7 +448,7 @@
       "profit": 77849,
       "payout": 177849,
       "staked": 100000,
-      "mins": 28,
+      "mins": 23,
       "split": {
         "S": 0.5622744504715156,
         "payout": 177849,
