@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-20T15:36:12.839Z",
+  "generatedAt": "2026-07-20T15:42:07.778Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 2,
+  "scanned": 4,
+  "arbCount": 4,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,9 +22,84 @@
       "count": 0,
       "profit": 0
     },
-    "pending": 2
+    "pending": 5
   },
   "opps": [
+    {
+      "id": "bJzty386",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Philadelphia Phillies - Los Angeles Dodgers",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/philadelphia-phillies-los-angeles-dodgers/bJzty386/",
+      "kickoff": "2026-07-21T01:10:00+09:00",
+      "width": 3,
+      "books": 5,
+      "labels": [
+        "Philadelphia Phillies",
+        "Draw",
+        "Los Angeles Dodgers"
+      ],
+      "legs": [
+        {
+          "outcome": "Philadelphia Phillies",
+          "book": "15:1",
+          "odd": 15,
+          "stake": 12927,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=15%3A1%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "6:1",
+          "odd": 2.54,
+          "stake": 76342,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=6%3A1%20sportsbook"
+        },
+        {
+          "outcome": "Los Angeles Dodgers",
+          "book": "6:1",
+          "odd": 18.07,
+          "stake": 10731,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=6%3A1%20sportsbook"
+        }
+      ],
+      "S": 0.5157077971783687,
+      "roi": 93.90825686006225,
+      "profit": 93908,
+      "payout": 193908,
+      "staked": 100000,
+      "mins": 28,
+      "split": {
+        "S": 0.5157077971783687,
+        "payout": 193908,
+        "profit": 93908,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "15:1",
+            "odd": 15,
+            "stake": 12927
+          },
+          {
+            "book": "6:1",
+            "odd": 2.54,
+            "stake": 76342
+          },
+          {
+            "book": "6:1",
+            "odd": 18.07,
+            "stake": 10731
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
     {
       "id": "rou0tbpn",
       "sport": "baseball",
@@ -73,7 +148,7 @@
       "profit": 66768,
       "payout": 166768,
       "staked": 100000,
-      "mins": 29,
+      "mins": 23,
       "split": {
         "S": 0.5996340394825008,
         "payout": 166768,
@@ -101,74 +176,149 @@
       "allJp": false
     },
     {
-      "id": "2isXxPwf",
+      "id": "UwqPvo9s",
       "sport": "baseball",
       "sportLabel": "野球",
-      "teams": "Cleveland Guardians - Minnesota Twins",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/cleveland-guardians-minnesota-twins/2isXxPwf/",
-      "kickoff": "2026-07-21T00:40:00+09:00",
+      "teams": "Boston Red Sox - Baltimore Orioles",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/boston-red-sox-baltimore-orioles/UwqPvo9s/",
+      "kickoff": "2026-07-21T01:10:00+09:00",
       "width": 3,
-      "books": 7,
+      "books": 6,
       "labels": [
-        "Cleveland Guardians",
+        "Boston Red Sox",
         "Draw",
-        "Minnesota Twins"
+        "Baltimore Orioles"
       ],
       "legs": [
         {
-          "outcome": "Cleveland Guardians",
-          "book": "6:5",
-          "odd": 6,
-          "stake": 23735,
+          "outcome": "Boston Red Sox",
+          "book": "10:0",
+          "odd": 10,
+          "stake": 15793,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=6%3A5%20sportsbook"
+          "url": "https://www.google.com/search?q=10%3A0%20sportsbook"
         },
         {
           "outcome": "Draw",
-          "book": "6:5",
-          "odd": 2.07,
-          "stake": 68797,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=6%3A5%20sportsbook"
-        },
-        {
-          "outcome": "Minnesota Twins",
           "book": "5:3",
-          "odd": 19.07,
-          "stake": 7468,
+          "odd": 2.08,
+          "stake": 75926,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=5%3A3%20sportsbook"
+        },
+        {
+          "outcome": "Baltimore Orioles",
+          "book": "6:1",
+          "odd": 19.07,
+          "stake": 8281,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=6%3A1%20sportsbook"
         }
       ],
-      "S": 0.7021968390040253,
-      "roi": 42.41021099131827,
-      "profit": 42410,
-      "payout": 142410,
+      "S": 0.6332076156669758,
+      "roi": 57.9260854193409,
+      "profit": 57926,
+      "payout": 157926,
       "staked": 100000,
-      "mins": 4,
+      "mins": 28,
       "split": {
-        "S": 0.7021968390040253,
-        "payout": 142410,
-        "profit": 42410,
+        "S": 0.6332076156669758,
+        "payout": 157926,
+        "profit": 57926,
         "staked": 100000,
         "legs": [
           {
-            "book": "6:5",
-            "odd": 6,
-            "stake": 23735
-          },
-          {
-            "book": "6:5",
-            "odd": 2.07,
-            "stake": 68797
+            "book": "10:0",
+            "odd": 10,
+            "stake": 15793
           },
           {
             "book": "5:3",
+            "odd": 2.08,
+            "stake": 75926
+          },
+          {
+            "book": "6:1",
             "odd": 19.07,
-            "stake": 7468
+            "stake": 8281
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "8fmsfR7F",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Toronto Blue Jays - Tampa Bay Rays",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/toronto-blue-jays-tampa-bay-rays/8fmsfR7F/",
+      "kickoff": "2026-07-21T01:07:00+09:00",
+      "width": 3,
+      "books": 7,
+      "labels": [
+        "Toronto Blue Jays",
+        "Draw",
+        "Tampa Bay Rays"
+      ],
+      "legs": [
+        {
+          "outcome": "Toronto Blue Jays",
+          "book": "10:1",
+          "odd": 10,
+          "stake": 15143,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=10%3A1%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "3:9",
+          "odd": 1.98,
+          "stake": 76478,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=3%3A9%20sportsbook"
+        },
+        {
+          "outcome": "Tampa Bay Rays",
+          "book": "4:12",
+          "odd": 18.07,
+          "stake": 8380,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=4%3A12%20sportsbook"
+        }
+      ],
+      "S": 0.6603908481606323,
+      "roi": 51.42547822782089,
+      "profit": 51424,
+      "payout": 151425,
+      "staked": 100001,
+      "mins": 25,
+      "split": {
+        "S": 0.6603908481606323,
+        "payout": 151425,
+        "profit": 51424,
+        "staked": 100001,
+        "legs": [
+          {
+            "book": "10:1",
+            "odd": 10,
+            "stake": 15143
+          },
+          {
+            "book": "3:9",
+            "odd": 1.98,
+            "stake": 76478
+          },
+          {
+            "book": "4:12",
+            "odd": 18.07,
+            "stake": 8380
           }
         ]
       },
