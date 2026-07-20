@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-20T16:31:18.625Z",
+  "generatedAt": "2026-07-20T16:36:48.232Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 6,
-  "arbCount": 6,
+  "scanned": 8,
+  "arbCount": 8,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,7 @@
       "count": 0,
       "profit": 0
     },
-    "pending": 12
+    "pending": 14
   },
   "opps": [
     {
@@ -73,7 +73,7 @@
       "profit": 692735,
       "payout": 792735,
       "staked": 100000,
-      "mins": 29,
+      "mins": 23,
       "split": {
         "S": 0.12614557690968908,
         "payout": 792735,
@@ -148,7 +148,7 @@
       "profit": 498070,
       "payout": 598071,
       "staked": 100001,
-      "mins": 29,
+      "mins": 23,
       "split": {
         "S": 0.16720430375675174,
         "payout": 598071,
@@ -194,7 +194,7 @@
           "outcome": "Dallas Wings W",
           "book": "99:84",
           "odd": 99,
-          "stake": 3804,
+          "stake": 3921,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=99%3A84%20sportsbook"
@@ -202,8 +202,8 @@
         {
           "outcome": "Draw",
           "book": "93:92",
-          "odd": 4.55,
-          "stake": 82774,
+          "odd": 4.72,
+          "stake": 82244,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=93%3A92%20sportsbook"
@@ -212,38 +212,38 @@
           "outcome": "New York Liberty W",
           "book": "77:85",
           "odd": 28.06,
-          "stake": 13422,
+          "stake": 13834,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=77%3A85%20sportsbook"
         }
       ],
-      "S": 0.26551914862677517,
-      "roi": 276.62067130444206,
-      "profit": 276621,
-      "payout": 376621,
-      "staked": 100000,
-      "mins": 29,
+      "S": 0.2576033356262164,
+      "roi": 288.1937310978785,
+      "profit": 288195,
+      "payout": 388194,
+      "staked": 99999,
+      "mins": 23,
       "split": {
-        "S": 0.26551914862677517,
-        "payout": 376621,
-        "profit": 276621,
-        "staked": 100000,
+        "S": 0.2576033356262164,
+        "payout": 388194,
+        "profit": 288195,
+        "staked": 99999,
         "legs": [
           {
             "book": "99:84",
             "odd": 99,
-            "stake": 3804
+            "stake": 3921
           },
           {
             "book": "93:92",
-            "odd": 4.55,
-            "stake": 82774
+            "odd": 4.72,
+            "stake": 82244
           },
           {
             "book": "77:85",
             "odd": 28.06,
-            "stake": 13422
+            "stake": 13834
           }
         ]
       },
@@ -298,7 +298,7 @@
       "profit": 156341,
       "payout": 256342,
       "staked": 100001,
-      "mins": 29,
+      "mins": 23,
       "split": {
         "S": 0.39010440657147244,
         "payout": 256342,
@@ -319,6 +319,81 @@
             "book": "92:114",
             "odd": 30.06,
             "stake": 8528
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "KjzPzfEN",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Texas Rangers - Chicago White Sox",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/texas-rangers-chicago-white-sox/KjzPzfEN/",
+      "kickoff": "2026-07-21T02:05:00+09:00",
+      "width": 3,
+      "books": 9,
+      "labels": [
+        "Texas Rangers",
+        "Draw",
+        "Chicago White Sox"
+      ],
+      "legs": [
+        {
+          "outcome": "Texas Rangers",
+          "book": "15:1",
+          "odd": 15,
+          "stake": 13772,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=15%3A1%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "15:1",
+          "odd": 2.74,
+          "stake": 75395,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=15%3A1%20sportsbook"
+        },
+        {
+          "outcome": "Chicago White Sox",
+          "book": "8:5",
+          "odd": 19.07,
+          "stake": 10833,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=8%3A5%20sportsbook"
+        }
+      ],
+      "S": 0.48406855521404685,
+      "roi": 106.58230930902279,
+      "profit": 106582,
+      "payout": 206582,
+      "staked": 100000,
+      "mins": 28,
+      "split": {
+        "S": 0.48406855521404685,
+        "payout": 206582,
+        "profit": 106582,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "15:1",
+            "odd": 15,
+            "stake": 13772
+          },
+          {
+            "book": "15:1",
+            "odd": 2.74,
+            "stake": 75395
+          },
+          {
+            "book": "8:5",
+            "odd": 19.07,
+            "stake": 10833
           }
         ]
       },
@@ -373,7 +448,7 @@
       "profit": 103453,
       "payout": 203453,
       "staked": 100000,
-      "mins": 9,
+      "mins": 3,
       "split": {
         "S": 0.491514015149846,
         "payout": 203453,
@@ -448,7 +523,7 @@
       "profit": 98523,
       "payout": 198523,
       "staked": 100000,
-      "mins": 9,
+      "mins": 3,
       "split": {
         "S": 0.5037204361797963,
         "payout": 198523,
@@ -469,6 +544,81 @@
             "book": "2:19",
             "odd": 19.07,
             "stake": 10410
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "jBr8vxFb",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Chicago Cubs - Detroit Tigers",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/chicago-cubs-detroit-tigers/jBr8vxFb/",
+      "kickoff": "2026-07-21T02:05:00+09:00",
+      "width": 3,
+      "books": 10,
+      "labels": [
+        "Chicago Cubs",
+        "Draw",
+        "Detroit Tigers"
+      ],
+      "legs": [
+        {
+          "outcome": "Chicago Cubs",
+          "book": "10:1",
+          "odd": 10,
+          "stake": 17785,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=10%3A1%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "10:1",
+          "odd": 2.44,
+          "stake": 72889,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=10%3A1%20sportsbook"
+        },
+        {
+          "outcome": "Detroit Tigers",
+          "book": "10:1",
+          "odd": 19.07,
+          "stake": 9326,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=10%3A1%20sportsbook"
+        }
+      ],
+      "S": 0.5622744504715156,
+      "roi": 77.84909116204975,
+      "profit": 77849,
+      "payout": 177849,
+      "staked": 100000,
+      "mins": 28,
+      "split": {
+        "S": 0.5622744504715156,
+        "payout": 177849,
+        "profit": 77849,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "10:1",
+            "odd": 10,
+            "stake": 17785
+          },
+          {
+            "book": "10:1",
+            "odd": 2.44,
+            "stake": 72889
+          },
+          {
+            "book": "10:1",
+            "odd": 19.07,
+            "stake": 9326
           }
         ]
       },
