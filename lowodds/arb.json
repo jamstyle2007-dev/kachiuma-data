@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-20T16:25:54.071Z",
+  "generatedAt": "2026-07-20T16:31:18.625Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 2,
+  "scanned": 6,
+  "arbCount": 6,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,9 +22,309 @@
       "count": 0,
       "profit": 0
     },
-    "pending": 8
+    "pending": 12
   },
   "opps": [
+    {
+      "id": "8GRILKZo",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Sampaio W - Cerrado W",
+      "url": "https://www.betexplorer.com/basketball/brazil/lbf-women/sampaio-cerrado/8GRILKZo/",
+      "kickoff": "2026-07-21T02:00:00+09:00",
+      "width": 3,
+      "books": 10,
+      "labels": [
+        "Sampaio W",
+        "Draw",
+        "Cerrado W"
+      ],
+      "legs": [
+        {
+          "outcome": "Sampaio W",
+          "book": "85:57",
+          "odd": 85,
+          "stake": 9326,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=85%3A57%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "82:30",
+          "odd": 12.33,
+          "stake": 64293,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=82%3A30%20sportsbook"
+        },
+        {
+          "outcome": "Cerrado W",
+          "book": "78:53",
+          "odd": 30.05,
+          "stake": 26381,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=78%3A53%20sportsbook"
+        }
+      ],
+      "S": 0.12614557690968908,
+      "roi": 692.734889718667,
+      "profit": 692735,
+      "payout": 792735,
+      "staked": 100000,
+      "mins": 29,
+      "split": {
+        "S": 0.12614557690968908,
+        "payout": 792735,
+        "profit": 692735,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "85:57",
+            "odd": 85,
+            "stake": 9326
+          },
+          {
+            "book": "82:30",
+            "odd": 12.33,
+            "stake": 64293
+          },
+          {
+            "book": "78:53",
+            "odd": 30.05,
+            "stake": 26381
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "AidAk3BG",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Toronto Tempo W - Las Vegas Aces W",
+      "url": "https://www.betexplorer.com/basketball/usa/wnba/toronto-tempo-las-vegas-aces/AidAk3BG/",
+      "kickoff": "2026-07-21T02:00:00+09:00",
+      "width": 3,
+      "books": 10,
+      "labels": [
+        "Toronto Tempo W",
+        "Draw",
+        "Las Vegas Aces W"
+      ],
+      "legs": [
+        {
+          "outcome": "Toronto Tempo W",
+          "book": "125:97",
+          "odd": 125,
+          "stake": 4785,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=125%3A97%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "94:87",
+          "odd": 8.18,
+          "stake": 73114,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=94%3A87%20sportsbook"
+        },
+        {
+          "outcome": "Las Vegas Aces W",
+          "book": "80:89",
+          "odd": 27.06,
+          "stake": 22102,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=80%3A89%20sportsbook"
+        }
+      ],
+      "S": 0.16720430375675174,
+      "roi": 498.0707299584804,
+      "profit": 498070,
+      "payout": 598071,
+      "staked": 100001,
+      "mins": 29,
+      "split": {
+        "S": 0.16720430375675174,
+        "payout": 598071,
+        "profit": 498070,
+        "staked": 100001,
+        "legs": [
+          {
+            "book": "125:97",
+            "odd": 125,
+            "stake": 4785
+          },
+          {
+            "book": "94:87",
+            "odd": 8.18,
+            "stake": 73114
+          },
+          {
+            "book": "80:89",
+            "odd": 27.06,
+            "stake": 22102
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "S0ddI6yi",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Dallas Wings W - New York Liberty W",
+      "url": "https://www.betexplorer.com/basketball/usa/wnba/dallas-wings-new-york-liberty/S0ddI6yi/",
+      "kickoff": "2026-07-21T02:00:00+09:00",
+      "width": 3,
+      "books": 9,
+      "labels": [
+        "Dallas Wings W",
+        "Draw",
+        "New York Liberty W"
+      ],
+      "legs": [
+        {
+          "outcome": "Dallas Wings W",
+          "book": "99:84",
+          "odd": 99,
+          "stake": 3804,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=99%3A84%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "93:92",
+          "odd": 4.55,
+          "stake": 82774,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=93%3A92%20sportsbook"
+        },
+        {
+          "outcome": "New York Liberty W",
+          "book": "77:85",
+          "odd": 28.06,
+          "stake": 13422,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=77%3A85%20sportsbook"
+        }
+      ],
+      "S": 0.26551914862677517,
+      "roi": 276.62067130444206,
+      "profit": 276621,
+      "payout": 376621,
+      "staked": 100000,
+      "mins": 29,
+      "split": {
+        "S": 0.26551914862677517,
+        "payout": 376621,
+        "profit": 276621,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "99:84",
+            "odd": 99,
+            "stake": 3804
+          },
+          {
+            "book": "93:92",
+            "odd": 4.55,
+            "stake": 82774
+          },
+          {
+            "book": "77:85",
+            "odd": 28.06,
+            "stake": 13422
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "O8F6vFFE",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Cangrejeros - Criollos de Caguas",
+      "url": "https://www.betexplorer.com/basketball/puerto-rico/bsn/cangrejeros-de-santurce-criollos-de-caguas/O8F6vFFE/",
+      "kickoff": "2026-07-21T02:00:00+09:00",
+      "width": 3,
+      "books": 8,
+      "labels": [
+        "Cangrejeros",
+        "Draw",
+        "Criollos de Caguas"
+      ],
+      "legs": [
+        {
+          "outcome": "Cangrejeros",
+          "book": "104:80",
+          "odd": 104,
+          "stake": 2465,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=104%3A80%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "94:87",
+          "odd": 2.88,
+          "stake": 89008,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=94%3A87%20sportsbook"
+        },
+        {
+          "outcome": "Criollos de Caguas",
+          "book": "92:114",
+          "odd": 30.06,
+          "stake": 8528,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=92%3A114%20sportsbook"
+        }
+      ],
+      "S": 0.39010440657147244,
+      "roi": 156.34163140804878,
+      "profit": 156341,
+      "payout": 256342,
+      "staked": 100001,
+      "mins": 29,
+      "split": {
+        "S": 0.39010440657147244,
+        "payout": 256342,
+        "profit": 156341,
+        "staked": 100001,
+        "legs": [
+          {
+            "book": "104:80",
+            "odd": 104,
+            "stake": 2465
+          },
+          {
+            "book": "94:87",
+            "odd": 2.88,
+            "stake": 89008
+          },
+          {
+            "book": "92:114",
+            "odd": 30.06,
+            "stake": 8528
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
     {
       "id": "UHVZhyUi",
       "sport": "baseball",
@@ -73,7 +373,7 @@
       "profit": 103453,
       "payout": 203453,
       "staked": 100000,
-      "mins": 14,
+      "mins": 9,
       "split": {
         "S": 0.491514015149846,
         "payout": 203453,
@@ -148,7 +448,7 @@
       "profit": 98523,
       "payout": 198523,
       "staked": 100000,
-      "mins": 14,
+      "mins": 9,
       "split": {
         "S": 0.5037204361797963,
         "payout": 198523,
