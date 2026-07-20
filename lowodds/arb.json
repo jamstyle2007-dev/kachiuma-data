@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-20T16:09:33.770Z",
+  "generatedAt": "2026-07-20T16:15:01.875Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 3,
-  "arbCount": 3,
+  "scanned": 2,
+  "arbCount": 2,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,78 +22,78 @@
       "count": 0,
       "profit": 0
     },
-    "pending": 6
+    "pending": 8
   },
   "opps": [
     {
-      "id": "4GwlZtwJ",
+      "id": "UHVZhyUi",
       "sport": "baseball",
       "sportLabel": "野球",
-      "teams": "Atlanta Braves - San Diego Padres",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/atlanta-braves-san-diego-padres/4GwlZtwJ/",
-      "kickoff": "2026-07-21T01:15:00+09:00",
+      "teams": "Milwaukee Brewers - New York Mets",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/milwaukee-brewers-new-york-mets/UHVZhyUi/",
+      "kickoff": "2026-07-21T01:40:00+09:00",
       "width": 3,
-      "books": 9,
+      "books": 10,
       "labels": [
-        "Atlanta Braves",
+        "Milwaukee Brewers",
         "Draw",
-        "San Diego Padres"
+        "New York Mets"
       ],
       "legs": [
         {
-          "outcome": "Atlanta Braves",
-          "book": "15:1",
-          "odd": 15,
-          "stake": 13772,
+          "outcome": "Milwaukee Brewers",
+          "book": "14:5",
+          "odd": 14,
+          "stake": 14532,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=15%3A1%20sportsbook"
+          "url": "https://www.google.com/search?q=14%3A5%20sportsbook"
         },
         {
           "outcome": "Draw",
-          "book": "15:1",
-          "odd": 2.74,
-          "stake": 75395,
+          "book": "3:4",
+          "odd": 2.72,
+          "stake": 74799,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=15%3A1%20sportsbook"
+          "url": "https://www.google.com/search?q=3%3A4%20sportsbook"
         },
         {
-          "outcome": "San Diego Padres",
-          "book": "8:5",
+          "outcome": "New York Mets",
+          "book": "3:1",
           "odd": 19.07,
-          "stake": 10833,
+          "stake": 10669,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=8%3A5%20sportsbook"
+          "url": "https://www.google.com/search?q=3%3A1%20sportsbook"
         }
       ],
-      "S": 0.48406855521404685,
-      "roi": 106.58230930902279,
-      "profit": 106582,
-      "payout": 206582,
+      "S": 0.491514015149846,
+      "roi": 103.45299811952135,
+      "profit": 103453,
+      "payout": 203453,
       "staked": 100000,
-      "mins": 5,
+      "mins": 25,
       "split": {
-        "S": 0.48406855521404685,
-        "payout": 206582,
-        "profit": 106582,
+        "S": 0.491514015149846,
+        "payout": 203453,
+        "profit": 103453,
         "staked": 100000,
         "legs": [
           {
-            "book": "15:1",
-            "odd": 15,
-            "stake": 13772
+            "book": "14:5",
+            "odd": 14,
+            "stake": 14532
           },
           {
-            "book": "15:1",
-            "odd": 2.74,
-            "stake": 75395
+            "book": "3:4",
+            "odd": 2.72,
+            "stake": 74799
           },
           {
-            "book": "8:5",
+            "book": "3:1",
             "odd": 19.07,
-            "stake": 10833
+            "stake": 10669
           }
         ]
       },
@@ -101,149 +101,74 @@
       "allJp": false
     },
     {
-      "id": "bJzty386",
+      "id": "nwxHxGqB",
       "sport": "baseball",
       "sportLabel": "野球",
-      "teams": "Philadelphia Phillies - Los Angeles Dodgers",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/philadelphia-phillies-los-angeles-dodgers/bJzty386/",
-      "kickoff": "2026-07-21T01:10:00+09:00",
+      "teams": "Kansas City Royals - San Francisco Giants",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/kansas-city-royals-san-francisco-giants/nwxHxGqB/",
+      "kickoff": "2026-07-21T01:40:00+09:00",
       "width": 3,
-      "books": 5,
+      "books": 10,
       "labels": [
-        "Philadelphia Phillies",
+        "Kansas City Royals",
         "Draw",
-        "Los Angeles Dodgers"
+        "San Francisco Giants"
       ],
       "legs": [
         {
-          "outcome": "Philadelphia Phillies",
+          "outcome": "Kansas City Royals",
           "book": "15:1",
           "odd": 15,
-          "stake": 12927,
+          "stake": 13235,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=15%3A1%20sportsbook"
         },
         {
           "outcome": "Draw",
-          "book": "6:1",
-          "odd": 2.54,
-          "stake": 76342,
+          "book": "6:2",
+          "odd": 2.6,
+          "stake": 76355,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=6%3A1%20sportsbook"
+          "url": "https://www.google.com/search?q=6%3A2%20sportsbook"
         },
         {
-          "outcome": "Los Angeles Dodgers",
-          "book": "6:1",
-          "odd": 18.07,
-          "stake": 10731,
+          "outcome": "San Francisco Giants",
+          "book": "2:19",
+          "odd": 19.07,
+          "stake": 10410,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=6%3A1%20sportsbook"
+          "url": "https://www.google.com/search?q=2%3A19%20sportsbook"
         }
       ],
-      "S": 0.5157077971783687,
-      "roi": 93.90825686006225,
-      "profit": 93908,
-      "payout": 193908,
+      "S": 0.5037204361797963,
+      "roi": 98.5228170578061,
+      "profit": 98523,
+      "payout": 198523,
       "staked": 100000,
-      "mins": 0,
+      "mins": 25,
       "split": {
-        "S": 0.5157077971783687,
-        "payout": 193908,
-        "profit": 93908,
+        "S": 0.5037204361797963,
+        "payout": 198523,
+        "profit": 98523,
         "staked": 100000,
         "legs": [
           {
             "book": "15:1",
             "odd": 15,
-            "stake": 12927
+            "stake": 13235
           },
           {
-            "book": "6:1",
-            "odd": 2.54,
-            "stake": 76342
+            "book": "6:2",
+            "odd": 2.6,
+            "stake": 76355
           },
           {
-            "book": "6:1",
-            "odd": 18.07,
-            "stake": 10731
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    },
-    {
-      "id": "UwqPvo9s",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Boston Red Sox - Baltimore Orioles",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/boston-red-sox-baltimore-orioles/UwqPvo9s/",
-      "kickoff": "2026-07-21T01:10:00+09:00",
-      "width": 3,
-      "books": 6,
-      "labels": [
-        "Boston Red Sox",
-        "Draw",
-        "Baltimore Orioles"
-      ],
-      "legs": [
-        {
-          "outcome": "Boston Red Sox",
-          "book": "10:0",
-          "odd": 10,
-          "stake": 15793,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=10%3A0%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "5:3",
-          "odd": 2.08,
-          "stake": 75926,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=5%3A3%20sportsbook"
-        },
-        {
-          "outcome": "Baltimore Orioles",
-          "book": "6:1",
-          "odd": 19.07,
-          "stake": 8281,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=6%3A1%20sportsbook"
-        }
-      ],
-      "S": 0.6332076156669758,
-      "roi": 57.9260854193409,
-      "profit": 57926,
-      "payout": 157926,
-      "staked": 100000,
-      "mins": 0,
-      "split": {
-        "S": 0.6332076156669758,
-        "payout": 157926,
-        "profit": 57926,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "10:0",
-            "odd": 10,
-            "stake": 15793
-          },
-          {
-            "book": "5:3",
-            "odd": 2.08,
-            "stake": 75926
-          },
-          {
-            "book": "6:1",
+            "book": "2:19",
             "odd": 19.07,
-            "stake": 8281
+            "stake": 10410
           }
         ]
       },
