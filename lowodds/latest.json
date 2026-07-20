@@ -1,9 +1,29 @@
 {
-  "generatedAt": "2026-07-20T00:56:34.313Z",
+  "generatedAt": "2026-07-20T03:58:41.623Z",
   "source": "betexplorer.com (Pinnacle / 1xBet odds)",
   "threshold": 1.6,
-  "count": 16,
+  "count": 18,
   "matches": [
+    {
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "CHINA: LEAGUE ONE WOMEN",
+      "home": "Henan Songshan Longmen W",
+      "away": "Zhejiang B W",
+      "favTeam": "Henan Songshan Longmen W",
+      "underTeam": "Zhejiang B W",
+      "favOdd": 1.01,
+      "prob": 99,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.01
+      },
+      "avgFavOdd": 1.04,
+      "time": "18:15",
+      "kickoff": "2026-07-20T10:15:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/football/china/league-one-women/henan-songshan-longmen-zhejiang/OxiX787s/"
+    },
     {
       "sport": "テニス",
       "sportKey": "tennis",
@@ -25,26 +45,6 @@
       "url": "https://www.betexplorer.com/tennis/challenger-men-singles/tampere/pohjola-peetu-wessels-louis/WzrCdj13/"
     },
     {
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "CHINA: LEAGUE ONE WOMEN",
-      "home": "Henan Songshan Longmen W",
-      "away": "Zhejiang B W",
-      "favTeam": "Henan Songshan Longmen W",
-      "underTeam": "Zhejiang B W",
-      "favOdd": 1.11,
-      "prob": 90,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.11
-      },
-      "avgFavOdd": 1.12,
-      "time": "18:15",
-      "kickoff": "2026-07-20T10:15:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/football/china/league-one-women/henan-songshan-longmen-zhejiang/OxiX787s/"
-    },
-    {
       "sport": "テニス",
       "sportKey": "tennis",
       "league": "WTA - SINGLES: HAMBURG, CLAY",
@@ -52,11 +52,11 @@
       "away": "Carle M. L.",
       "favTeam": "Carle M. L.",
       "underTeam": "Pieri J.",
-      "favOdd": 1.17,
-      "prob": 85,
+      "favOdd": 1.15,
+      "prob": 87,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.17
+        "1xbet": 1.15
       },
       "avgFavOdd": 1.17,
       "time": "18:00",
@@ -83,26 +83,6 @@
       "kickoff": "2026-07-20T11:00:00+09:00",
       "niche": true,
       "url": "https://www.betexplorer.com/tennis/atp-doubles/kitzbuhel/hipfl-nico-kopp-sandro-rojer-jean-julien-winegar-theodore/2oNY20xR/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "USA: WNBA",
-      "home": "Toronto Tempo W",
-      "away": "Las Vegas Aces W",
-      "favTeam": "Las Vegas Aces W",
-      "underTeam": "Toronto Tempo W",
-      "favOdd": 1.19,
-      "prob": 84,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.19
-      },
-      "avgFavOdd": 1.17,
-      "time": "10:00",
-      "kickoff": "2026-07-21T02:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/usa/wnba/toronto-tempo-las-vegas-aces/AidAk3BG/"
     },
     {
       "sport": "テニス",
@@ -132,17 +112,57 @@
       "away": "Navone M.",
       "favTeam": "Navone M.",
       "underTeam": "Muller A.",
+      "favOdd": 1.2,
+      "prob": 83,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.2
+      },
+      "avgFavOdd": 1.17,
+      "time": "19:00",
+      "kickoff": "2026-07-20T11:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/tennis/atp-singles/kitzbuhel/muller-alexandre-navone-mariano/WnGd70BM/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "USA: WNBA",
+      "home": "Toronto Tempo W",
+      "away": "Las Vegas Aces W",
+      "favTeam": "Las Vegas Aces W",
+      "underTeam": "Toronto Tempo W",
       "favOdd": 1.21,
       "prob": 83,
       "book": "1xBet",
       "books": {
         "1xbet": 1.21
       },
-      "avgFavOdd": 1.18,
-      "time": "19:00",
-      "kickoff": "2026-07-20T11:00:00+09:00",
+      "avgFavOdd": 1.16,
+      "time": "10:00",
+      "kickoff": "2026-07-21T02:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/tennis/atp-singles/kitzbuhel/muller-alexandre-navone-mariano/WnGd70BM/"
+      "url": "https://www.betexplorer.com/basketball/usa/wnba/toronto-tempo-las-vegas-aces/AidAk3BG/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "USA: WNBA",
+      "home": "Seattle Storm W",
+      "away": "Minnesota Lynx W",
+      "favTeam": "Minnesota Lynx W",
+      "underTeam": "Seattle Storm W",
+      "favOdd": 1.22,
+      "prob": 82,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.22
+      },
+      "avgFavOdd": 1.18,
+      "time": "12:00",
+      "kickoff": "2026-07-21T04:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/usa/wnba/seattle-storm-minnesota-lynx/Wlm2xmpK/"
     },
     {
       "sport": "テニス",
@@ -165,6 +185,26 @@
       "url": "https://www.betexplorer.com/tennis/wta-singles/livesport-prague-open/seidel-ella-snigur-daria/zFmvyolA/"
     },
     {
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "INDIA: CALCUTTA PREMIER DIVISION",
+      "home": "Kalighat SL",
+      "away": "United SC",
+      "favTeam": "United SC",
+      "underTeam": "Kalighat SL",
+      "favOdd": 1.27,
+      "prob": 79,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.27
+      },
+      "avgFavOdd": 1.25,
+      "time": "19:30",
+      "kickoff": "2026-07-20T11:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/football/india/calcutta-premier-division/kalighat-sl-united-sc/AXieMDWa/"
+    },
+    {
       "sport": "アイスホッケー",
       "sportKey": "hockey",
       "league": "WORLD: FRIENDLY INTERNATIONAL",
@@ -183,6 +223,26 @@
       "kickoff": "2026-07-20T14:00:00+09:00",
       "niche": true,
       "url": "https://www.betexplorer.com/hockey/world/friendly-international/finland-switzerland/xb4Yn3cn/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "USA: WNBA",
+      "home": "Golden State Valkyries W",
+      "away": "Washington Mystics W",
+      "favTeam": "Golden State Valkyries W",
+      "underTeam": "Washington Mystics W",
+      "favOdd": 1.32,
+      "prob": 76,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.32
+      },
+      "avgFavOdd": 1.27,
+      "time": "12:00",
+      "kickoff": "2026-07-21T04:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/usa/wnba/golden-state-valkyries-washington-mystics/4reGEqhD/"
     },
     {
       "sport": "野球",
@@ -205,6 +265,26 @@
       "url": "https://www.betexplorer.com/baseball/czech-republic/extraliga/hrosi-brno-hluboka-nad-vltavou/f14cY4cU/"
     },
     {
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "INDIA: CALCUTTA PREMIER DIVISION",
+      "home": "Suruchi Sangha",
+      "away": "Calcutta Police",
+      "favTeam": "Suruchi Sangha",
+      "underTeam": "Calcutta Police",
+      "favOdd": 1.37,
+      "prob": 73,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.37
+      },
+      "avgFavOdd": 1.38,
+      "time": "19:30",
+      "kickoff": "2026-07-20T11:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/football/india/calcutta-premier-division/suruchi-sangha-calcutta-police/U1lBIVVO/"
+    },
+    {
       "sport": "テニス",
       "sportKey": "tennis",
       "league": "WTA - SINGLES: HAMBURG, CLAY",
@@ -212,11 +292,11 @@
       "away": "Avanesyan E.",
       "favTeam": "Avanesyan E.",
       "underTeam": "Lepchenko V.",
-      "favOdd": 1.42,
-      "prob": 70,
+      "favOdd": 1.41,
+      "prob": 71,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.42
+        "1xbet": 1.41
       },
       "avgFavOdd": 1.43,
       "time": "18:00",
@@ -245,46 +325,6 @@
       "url": "https://www.betexplorer.com/tennis/wta-singles/livesport-prague-open/oktiabreva-alisa-dodin-oceane/QLBEKP3T/"
     },
     {
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "INDIA: CALCUTTA PREMIER DIVISION",
-      "home": "Suruchi Sangha",
-      "away": "Calcutta Police",
-      "favTeam": "Suruchi Sangha",
-      "underTeam": "Calcutta Police",
-      "favOdd": 1.45,
-      "prob": 69,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.45
-      },
-      "avgFavOdd": 1.46,
-      "time": "19:30",
-      "kickoff": "2026-07-20T11:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/football/india/calcutta-premier-division/suruchi-sangha-calcutta-police/U1lBIVVO/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "USA: NBA LAS VEGAS SUMMER LEAGUE",
-      "home": "Memphis Grizzlies",
-      "away": "Golden State Warriors",
-      "favTeam": "Memphis Grizzlies",
-      "underTeam": "Golden State Warriors",
-      "favOdd": 1.46,
-      "prob": 68,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.46
-      },
-      "avgFavOdd": 1.42,
-      "time": "11:00",
-      "kickoff": "2026-07-20T03:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/usa/nba-las-vegas-summer-league/memphis-grizzlies-golden-state-warriors/jZwV1bDG/"
-    },
-    {
       "sport": "バスケ",
       "sportKey": "basketball",
       "league": "BRAZIL: LBF WOMEN",
@@ -292,13 +332,13 @@
       "away": "Cerrado W",
       "favTeam": "Sampaio W",
       "underTeam": "Cerrado W",
-      "favOdd": 1.49,
-      "prob": 67,
+      "favOdd": 1.48,
+      "prob": 68,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.49
+        "1xbet": 1.48
       },
-      "avgFavOdd": 1.48,
+      "avgFavOdd": 1.49,
       "time": "10:00",
       "kickoff": "2026-07-21T02:00:00+09:00",
       "niche": false,

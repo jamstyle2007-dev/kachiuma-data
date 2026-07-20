@@ -1,41 +1,41 @@
 {
-  "generatedAt": "2026-07-20T00:56:34.576Z",
+  "generatedAt": "2026-07-20T03:58:41.836Z",
   "windowDays": 400,
   "total": 300,
   "hits": 207,
   "hitRate": 0.69,
   "sim": {
     "stake": 10000,
-    "asOf": "2026-07-20T00:56:34.576Z",
+    "asOf": "2026-07-20T03:58:41.836Z",
     "byMinStars": {
       "1": {
         "all": {
-          "n": 1069,
+          "n": 1070,
           "hits": 716,
-          "staked": 10690000,
+          "staked": 10700000,
           "returns": 9058100,
-          "profit": -1631900
+          "profit": -1641900
         },
         "year": {
-          "n": 1069,
+          "n": 1070,
           "hits": 716,
-          "staked": 10690000,
+          "staked": 10700000,
           "returns": 9058100,
-          "profit": -1631900
+          "profit": -1641900
         },
         "month": {
-          "n": 1069,
+          "n": 1070,
           "hits": 716,
-          "staked": 10690000,
+          "staked": 10700000,
           "returns": 9058100,
-          "profit": -1631900
+          "profit": -1641900
         },
         "week": {
-          "n": 0,
+          "n": 1,
           "hits": 0,
-          "staked": 0,
+          "staked": 10000,
           "returns": 0,
-          "profit": 0
+          "profit": -10000
         }
       },
       "2": {
@@ -161,6 +161,23 @@
     }
   },
   "settled": [
+    {
+      "id": "jZwV1bDG",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "USA: NBA LAS VEGAS SUMMER LEAGUE",
+      "favTeam": "Memphis Grizzlies",
+      "underTeam": "Golden State Warriors",
+      "favIsHome": true,
+      "favOdd": 1.46,
+      "prob": 68,
+      "stars": 1,
+      "kickoff": "2026-07-20T03:00:00+09:00",
+      "homeScore": 90,
+      "awayScore": 94,
+      "isDraw": false,
+      "favWon": false
+    },
     {
       "id": "b3q1IRhl",
       "sport": "バスケ",
@@ -5241,23 +5258,6 @@
       "kickoff": "2026-07-16T12:20:00+09:00",
       "homeScore": 0,
       "awayScore": 2,
-      "isDraw": false,
-      "favWon": false
-    },
-    {
-      "id": "CSJfZ88N",
-      "sport": "野球",
-      "sportKey": "baseball",
-      "league": "SOUTH KOREA: KBO",
-      "favTeam": "Hanwha Eagles",
-      "underTeam": "Kiwoom Heroes",
-      "favIsHome": true,
-      "favOdd": 1.57,
-      "prob": 64,
-      "stars": 1,
-      "kickoff": "2026-07-16T11:30:00+09:00",
-      "homeScore": 4,
-      "awayScore": 9,
       "isDraw": false,
       "favWon": false
     }
