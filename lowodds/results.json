@@ -1,161 +1,161 @@
 {
-  "generatedAt": "2026-07-20T16:04:07.460Z",
+  "generatedAt": "2026-07-20T19:04:43.373Z",
   "windowDays": 400,
   "total": 300,
-  "hits": 204,
-  "hitRate": 0.68,
+  "hits": 202,
+  "hitRate": 0.6733333333333333,
   "sim": {
     "stake": 10000,
-    "asOf": "2026-07-20T16:04:07.460Z",
+    "asOf": "2026-07-20T19:04:43.373Z",
     "byMinStars": {
       "1": {
         "all": {
-          "n": 1092,
+          "n": 1094,
           "hits": 730,
-          "staked": 10920000,
+          "staked": 10940000,
           "returns": 9240600,
-          "profit": -1679400
+          "profit": -1699400
         },
         "year": {
-          "n": 1092,
+          "n": 1094,
           "hits": 730,
-          "staked": 10920000,
+          "staked": 10940000,
           "returns": 9240600,
-          "profit": -1679400
+          "profit": -1699400
         },
         "month": {
-          "n": 1092,
+          "n": 1094,
           "hits": 730,
-          "staked": 10920000,
+          "staked": 10940000,
           "returns": 9240600,
-          "profit": -1679400
+          "profit": -1699400
         },
         "week": {
-          "n": 22,
+          "n": 23,
           "hits": 14,
-          "staked": 220000,
+          "staked": 230000,
           "returns": 182500,
-          "profit": -37500
+          "profit": -47500
         }
       },
       "2": {
         "all": {
-          "n": 656,
+          "n": 658,
           "hits": 480,
-          "staked": 6560000,
+          "staked": 6580000,
           "returns": 5526100,
-          "profit": -1033900
+          "profit": -1053900
         },
         "year": {
-          "n": 656,
+          "n": 658,
           "hits": 480,
-          "staked": 6560000,
+          "staked": 6580000,
           "returns": 5526100,
-          "profit": -1033900
+          "profit": -1053900
         },
         "month": {
-          "n": 656,
+          "n": 658,
           "hits": 480,
-          "staked": 6560000,
+          "staked": 6580000,
           "returns": 5526100,
-          "profit": -1033900
+          "profit": -1053900
         },
         "week": {
-          "n": 12,
+          "n": 13,
           "hits": 8,
-          "staked": 120000,
+          "staked": 130000,
           "returns": 93300,
-          "profit": -26700
+          "profit": -36700
         }
       },
       "3": {
         "all": {
-          "n": 396,
+          "n": 397,
           "hits": 317,
-          "staked": 3960000,
+          "staked": 3970000,
           "returns": 3445800,
-          "profit": -514200
+          "profit": -524200
         },
         "year": {
-          "n": 396,
+          "n": 397,
           "hits": 317,
-          "staked": 3960000,
+          "staked": 3970000,
           "returns": 3445800,
-          "profit": -514200
+          "profit": -524200
         },
         "month": {
-          "n": 396,
+          "n": 397,
           "hits": 317,
-          "staked": 3960000,
+          "staked": 3970000,
           "returns": 3445800,
-          "profit": -514200
+          "profit": -524200
         },
         "week": {
-          "n": 7,
+          "n": 8,
           "hits": 6,
-          "staked": 70000,
+          "staked": 80000,
           "returns": 66800,
-          "profit": -3200
+          "profit": -13200
         }
       },
       "4": {
         "all": {
-          "n": 232,
+          "n": 233,
           "hits": 191,
-          "staked": 2320000,
+          "staked": 2330000,
           "returns": 1995300,
-          "profit": -324700
+          "profit": -334700
         },
         "year": {
-          "n": 232,
+          "n": 233,
           "hits": 191,
-          "staked": 2320000,
+          "staked": 2330000,
           "returns": 1995300,
-          "profit": -324700
+          "profit": -334700
         },
         "month": {
-          "n": 232,
+          "n": 233,
           "hits": 191,
-          "staked": 2320000,
+          "staked": 2330000,
           "returns": 1995300,
-          "profit": -324700
+          "profit": -334700
         },
         "week": {
-          "n": 2,
+          "n": 3,
           "hits": 2,
-          "staked": 20000,
+          "staked": 30000,
           "returns": 20800,
-          "profit": 800
+          "profit": -9200
         }
       },
       "5": {
         "all": {
-          "n": 145,
+          "n": 146,
           "hits": 126,
-          "staked": 1450000,
+          "staked": 1460000,
           "returns": 1292600,
-          "profit": -157400
+          "profit": -167400
         },
         "year": {
-          "n": 145,
+          "n": 146,
           "hits": 126,
-          "staked": 1450000,
+          "staked": 1460000,
           "returns": 1292600,
-          "profit": -157400
+          "profit": -167400
         },
         "month": {
-          "n": 145,
+          "n": 146,
           "hits": 126,
-          "staked": 1450000,
+          "staked": 1460000,
           "returns": 1292600,
-          "profit": -157400
+          "profit": -167400
         },
         "week": {
-          "n": 2,
+          "n": 3,
           "hits": 2,
-          "staked": 20000,
+          "staked": 30000,
           "returns": 20800,
-          "profit": 800
+          "profit": -9200
         }
       }
     }
@@ -483,6 +483,23 @@
       "awayScore": 0,
       "isDraw": false,
       "favWon": true
+    },
+    {
+      "id": "OxiX787s",
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "CHINA: LEAGUE ONE WOMEN",
+      "favTeam": "Henan Songshan Longmen W",
+      "underTeam": "Zhejiang B W",
+      "favIsHome": true,
+      "favOdd": 1.01,
+      "prob": 99,
+      "stars": 5,
+      "kickoff": "2026-07-20T10:15:00+09:00",
+      "homeScore": 1,
+      "awayScore": 1,
+      "isDraw": true,
+      "favWon": false
     },
     {
       "id": "jio6evOH",
@@ -1078,6 +1095,23 @@
       "awayScore": 0,
       "isDraw": false,
       "favWon": true
+    },
+    {
+      "id": "f14cY4cU",
+      "sport": "野球",
+      "sportKey": "baseball",
+      "league": "CZECH REPUBLIC: EXTRALIGA",
+      "favTeam": "Hrosi Brno",
+      "underTeam": "Hluboka",
+      "favIsHome": true,
+      "favOdd": 1.33,
+      "prob": 75,
+      "stars": 2,
+      "kickoff": "2026-07-19T14:00:00+09:00",
+      "homeScore": 2,
+      "awayScore": 8,
+      "isDraw": false,
+      "favWon": false
     },
     {
       "id": "b5YzdCj4",
@@ -5226,40 +5260,6 @@
       "awayScore": 30,
       "isDraw": false,
       "favWon": false
-    },
-    {
-      "id": "n74vyrRh",
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U20 B",
-      "favTeam": "Montenegro U20",
-      "underTeam": "Kosovo U20",
-      "favIsHome": true,
-      "favOdd": 1.48,
-      "prob": 68,
-      "stars": 1,
-      "kickoff": "2026-07-16T18:15:00+09:00",
-      "homeScore": 21,
-      "awayScore": 20,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "KK0MRX0D",
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "EUROPE: EUROBASKET U20",
-      "favTeam": "Lithuania U20",
-      "underTeam": "Belgium U20",
-      "favIsHome": true,
-      "favOdd": 1.03,
-      "prob": 97,
-      "stars": 5,
-      "kickoff": "2026-07-16T18:00:00+09:00",
-      "homeScore": 95,
-      "awayScore": 80,
-      "isDraw": false,
-      "favWon": true
     }
   ]
 }
