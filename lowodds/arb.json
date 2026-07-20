@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-20T15:09:10.410Z",
+  "generatedAt": "2026-07-20T15:14:33.132Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 1,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 0,
       "profit": 0
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "2isXxPwf",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Cleveland Guardians - Minnesota Twins",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/cleveland-guardians-minnesota-twins/2isXxPwf/",
+      "kickoff": "2026-07-21T00:40:00+09:00",
+      "width": 3,
+      "books": 7,
+      "labels": [
+        "Cleveland Guardians",
+        "Draw",
+        "Minnesota Twins"
+      ],
+      "legs": [
+        {
+          "outcome": "Cleveland Guardians",
+          "book": "6:5",
+          "odd": 6,
+          "stake": 23656,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=6%3A5%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "6:5",
+          "odd": 2.06,
+          "stake": 68901,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=6%3A5%20sportsbook"
+        },
+        {
+          "outcome": "Minnesota Twins",
+          "book": "5:3",
+          "odd": 19.07,
+          "stake": 7443,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=5%3A3%20sportsbook"
+        }
+      ],
+      "S": 0.7045419447682952,
+      "roi": 41.936190943020854,
+      "profit": 41936,
+      "payout": 141936,
+      "staked": 100000,
+      "mins": 25,
+      "split": {
+        "S": 0.7045419447682952,
+        "payout": 141936,
+        "profit": 41936,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "6:5",
+            "odd": 6,
+            "stake": 23656
+          },
+          {
+            "book": "6:5",
+            "odd": 2.06,
+            "stake": 68901
+          },
+          {
+            "book": "5:3",
+            "odd": 19.07,
+            "stake": 7443
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
