@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-20T15:42:07.778Z",
+  "generatedAt": "2026-07-20T15:47:38.665Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 4,
-  "arbCount": 4,
+  "scanned": 5,
+  "arbCount": 5,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,9 +22,84 @@
       "count": 0,
       "profit": 0
     },
-    "pending": 5
+    "pending": 6
   },
   "opps": [
+    {
+      "id": "4GwlZtwJ",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Atlanta Braves - San Diego Padres",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/atlanta-braves-san-diego-padres/4GwlZtwJ/",
+      "kickoff": "2026-07-21T01:15:00+09:00",
+      "width": 3,
+      "books": 9,
+      "labels": [
+        "Atlanta Braves",
+        "Draw",
+        "San Diego Padres"
+      ],
+      "legs": [
+        {
+          "outcome": "Atlanta Braves",
+          "book": "15:1",
+          "odd": 15,
+          "stake": 13772,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=15%3A1%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "15:1",
+          "odd": 2.74,
+          "stake": 75395,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=15%3A1%20sportsbook"
+        },
+        {
+          "outcome": "San Diego Padres",
+          "book": "8:5",
+          "odd": 19.07,
+          "stake": 10833,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=8%3A5%20sportsbook"
+        }
+      ],
+      "S": 0.48406855521404685,
+      "roi": 106.58230930902279,
+      "profit": 106582,
+      "payout": 206582,
+      "staked": 100000,
+      "mins": 27,
+      "split": {
+        "S": 0.48406855521404685,
+        "payout": 206582,
+        "profit": 106582,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "15:1",
+            "odd": 15,
+            "stake": 13772
+          },
+          {
+            "book": "15:1",
+            "odd": 2.74,
+            "stake": 75395
+          },
+          {
+            "book": "8:5",
+            "odd": 19.07,
+            "stake": 10833
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
     {
       "id": "bJzty386",
       "sport": "baseball",
@@ -73,7 +148,7 @@
       "profit": 93908,
       "payout": 193908,
       "staked": 100000,
-      "mins": 28,
+      "mins": 22,
       "split": {
         "S": 0.5157077971783687,
         "payout": 193908,
@@ -148,7 +223,7 @@
       "profit": 66768,
       "payout": 166768,
       "staked": 100000,
-      "mins": 23,
+      "mins": 17,
       "split": {
         "S": 0.5996340394825008,
         "payout": 166768,
@@ -223,7 +298,7 @@
       "profit": 57926,
       "payout": 157926,
       "staked": 100000,
-      "mins": 28,
+      "mins": 22,
       "split": {
         "S": 0.6332076156669758,
         "payout": 157926,
@@ -298,7 +373,7 @@
       "profit": 51424,
       "payout": 151425,
       "staked": 100001,
-      "mins": 25,
+      "mins": 19,
       "split": {
         "S": 0.6603908481606323,
         "payout": 151425,
