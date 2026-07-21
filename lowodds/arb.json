@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T15:26:01.910Z",
+  "generatedAt": "2026-07-21T15:31:30.669Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 5,
@@ -73,7 +73,7 @@
       "profit": 241198,
       "payout": 341198,
       "staked": 100000,
-      "mins": 19,
+      "mins": 13,
       "split": {
         "S": 0.2930853609877592,
         "payout": 341198,
@@ -119,7 +119,7 @@
           "outcome": "Philadelphia Phillies",
           "book": "11:5",
           "odd": 11,
-          "stake": 17334,
+          "stake": 17086,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=11%3A5%20sportsbook"
@@ -127,8 +127,8 @@
         {
           "outcome": "Draw",
           "book": "6:1",
-          "odd": 2.59,
-          "stake": 73617,
+          "odd": 2.54,
+          "stake": 73994,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=6%3A1%20sportsbook"
@@ -137,38 +137,38 @@
           "outcome": "Los Angeles Dodgers",
           "book": "10:7",
           "odd": 21.07,
-          "stake": 9049,
+          "stake": 8920,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=10%3A7%20sportsbook"
         }
       ],
-      "S": 0.5244703218125145,
-      "roi": 90.66855804997786,
-      "profit": 90669,
-      "payout": 190669,
+      "S": 0.5320707231137032,
+      "roi": 87.94493975311259,
+      "profit": 87945,
+      "payout": 187945,
       "staked": 100000,
-      "mins": 14,
+      "mins": 8,
       "split": {
-        "S": 0.5244703218125145,
-        "payout": 190669,
-        "profit": 90669,
+        "S": 0.5320707231137032,
+        "payout": 187945,
+        "profit": 87945,
         "staked": 100000,
         "legs": [
           {
             "book": "11:5",
             "odd": 11,
-            "stake": 17334
+            "stake": 17086
           },
           {
             "book": "6:1",
-            "odd": 2.59,
-            "stake": 73617
+            "odd": 2.54,
+            "stake": 73994
           },
           {
             "book": "10:7",
             "odd": 21.07,
-            "stake": 9049
+            "stake": 8920
           }
         ]
       },
@@ -194,7 +194,7 @@
           "outcome": "Cleveland Guardians",
           "book": "13:4",
           "odd": 13,
-          "stake": 12614,
+          "stake": 12663,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=13%3A4%20sportsbook"
@@ -202,8 +202,8 @@
         {
           "outcome": "Draw",
           "book": "6:5",
-          "odd": 2.06,
-          "stake": 79603,
+          "odd": 2.07,
+          "stake": 79524,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=6%3A5%20sportsbook"
@@ -212,38 +212,38 @@
           "outcome": "Minnesota Twins",
           "book": "13:4",
           "odd": 21.07,
-          "stake": 7783,
+          "stake": 7813,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=13%3A4%20sportsbook"
         }
       ],
-      "S": 0.6098208149299978,
-      "roi": 63.9825954636841,
-      "profit": 63983,
-      "payout": 163983,
+      "S": 0.607475709165728,
+      "roi": 64.61563563971013,
+      "profit": 64616,
+      "payout": 164616,
       "staked": 100000,
-      "mins": 14,
+      "mins": 8,
       "split": {
-        "S": 0.6098208149299978,
-        "payout": 163983,
-        "profit": 63983,
+        "S": 0.607475709165728,
+        "payout": 164616,
+        "profit": 64616,
         "staked": 100000,
         "legs": [
           {
             "book": "13:4",
             "odd": 13,
-            "stake": 12614
+            "stake": 12663
           },
           {
             "book": "6:5",
-            "odd": 2.06,
-            "stake": 79603
+            "odd": 2.07,
+            "stake": 79524
           },
           {
             "book": "13:4",
             "odd": 21.07,
-            "stake": 7783
+            "stake": 7813
           }
         ]
       },
@@ -298,7 +298,7 @@
       "profit": 63476,
       "payout": 163475,
       "staked": 99999,
-      "mins": 9,
+      "mins": 3,
       "split": {
         "S": 0.6117158890028355,
         "payout": 163475,
@@ -373,7 +373,7 @@
       "profit": 54086,
       "payout": 154086,
       "staked": 100000,
-      "mins": 9,
+      "mins": 3,
       "split": {
         "S": 0.6489863892127398,
         "payout": 154086,
