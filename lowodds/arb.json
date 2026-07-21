@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-21T01:44:45.044Z",
+  "generatedAt": "2026-07-21T01:50:12.961Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 4,
-  "arbCount": 4,
+  "scanned": 5,
+  "arbCount": 5,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,7 @@
       "count": 16,
       "profit": 3024442
     },
-    "pending": 4
+    "pending": 5
   },
   "opps": [
     {
@@ -73,7 +73,7 @@
       "profit": 113342,
       "payout": 213343,
       "staked": 100001,
-      "mins": 15,
+      "mins": 10,
       "split": {
         "S": 0.468729413495718,
         "payout": 213343,
@@ -94,6 +94,81 @@
             "book": "2:4",
             "odd": 20.07,
             "stake": 10630
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "nehqPWFM",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Meralco Bolts - Blackwater Bossing",
+      "url": "https://www.betexplorer.com/basketball/philippines/pba-governors-cup/meralco-bolts-blackwater-bossing/nehqPWFM/",
+      "kickoff": "2026-07-21T11:15:00+09:00",
+      "width": 3,
+      "books": 2,
+      "labels": [
+        "Meralco Bolts",
+        "Draw",
+        "Blackwater Bossing"
+      ],
+      "legs": [
+        {
+          "outcome": "Meralco Bolts",
+          "book": "114:122",
+          "odd": 114,
+          "stake": 1630,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=114%3A122%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "114:122",
+          "odd": 2.11,
+          "stake": 88084,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=114%3A122%20sportsbook"
+        },
+        {
+          "outcome": "Blackwater Bossing",
+          "book": "114:122",
+          "odd": 18.07,
+          "stake": 10285,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=114%3A122%20sportsbook"
+        }
+      ],
+      "S": 0.5380459222237882,
+      "roi": 85.85774163419313,
+      "profit": 85859,
+      "payout": 185858,
+      "staked": 99999,
+      "mins": 25,
+      "split": {
+        "S": 0.5380459222237882,
+        "payout": 185858,
+        "profit": 85859,
+        "staked": 99999,
+        "legs": [
+          {
+            "book": "114:122",
+            "odd": 114,
+            "stake": 1630
+          },
+          {
+            "book": "114:122",
+            "odd": 2.11,
+            "stake": 88084
+          },
+          {
+            "book": "114:122",
+            "odd": 18.07,
+            "stake": 10285
           }
         ]
       },
@@ -148,7 +223,7 @@
       "profit": 84292,
       "payout": 184292,
       "staked": 100000,
-      "mins": 15,
+      "mins": 10,
       "split": {
         "S": 0.5426161107878151,
         "payout": 184292,
@@ -194,7 +269,7 @@
           "outcome": "Hanshin Tigers",
           "book": "6:5",
           "odd": 6,
-          "stake": 30048,
+          "stake": 30351,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=6%3A5%20sportsbook"
@@ -202,8 +277,8 @@
         {
           "outcome": "Draw",
           "book": "3:0",
-          "odd": 2.98,
-          "stake": 60499,
+          "odd": 3.03,
+          "stake": 60100,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=3%3A0%20sportsbook"
@@ -212,38 +287,38 @@
           "outcome": "Yokohama BayStars",
           "book": "2:4",
           "odd": 19.07,
-          "stake": 9454,
+          "stake": 9549,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=2%3A4%20sportsbook"
         }
       ],
-      "S": 0.5546755213630695,
-      "roi": 80.285583460143,
-      "profit": 80285,
-      "payout": 180286,
-      "staked": 100001,
-      "mins": 15,
+      "S": 0.5491380548647418,
+      "roi": 82.10356961079852,
+      "profit": 82104,
+      "payout": 182104,
+      "staked": 100000,
+      "mins": 10,
       "split": {
-        "S": 0.5546755213630695,
-        "payout": 180286,
-        "profit": 80285,
-        "staked": 100001,
+        "S": 0.5491380548647418,
+        "payout": 182104,
+        "profit": 82104,
+        "staked": 100000,
         "legs": [
           {
             "book": "6:5",
             "odd": 6,
-            "stake": 30048
+            "stake": 30351
           },
           {
             "book": "3:0",
-            "odd": 2.98,
-            "stake": 60499
+            "odd": 3.03,
+            "stake": 60100
           },
           {
             "book": "2:4",
             "odd": 19.07,
-            "stake": 9454
+            "stake": 9549
           }
         ]
       },
@@ -298,7 +373,7 @@
       "profit": 72613,
       "payout": 172613,
       "staked": 100000,
-      "mins": 15,
+      "mins": 10,
       "split": {
         "S": 0.5793311925008882,
         "payout": 172613,
