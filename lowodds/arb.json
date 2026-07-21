@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-21T15:31:30.669Z",
+  "generatedAt": "2026-07-21T15:36:59.049Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 5,
-  "arbCount": 5,
+  "scanned": 8,
+  "arbCount": 8,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,7 @@
       "count": 28,
       "profit": 3974522
     },
-    "pending": 5
+    "pending": 10
   },
   "opps": [
     {
@@ -73,7 +73,7 @@
       "profit": 241198,
       "payout": 341198,
       "staked": 100000,
-      "mins": 13,
+      "mins": 8,
       "split": {
         "S": 0.2930853609877592,
         "payout": 341198,
@@ -148,7 +148,7 @@
       "profit": 87945,
       "payout": 187945,
       "staked": 100000,
-      "mins": 8,
+      "mins": 3,
       "split": {
         "S": 0.5320707231137032,
         "payout": 187945,
@@ -169,6 +169,81 @@
             "book": "10:7",
             "odd": 21.07,
             "stake": 8920
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "QRVCfl5d",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "New York Yankees - Pittsburgh Pirates",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/new-york-yankees-pittsburgh-pirates/QRVCfl5d/",
+      "kickoff": "2026-07-22T01:05:00+09:00",
+      "width": 3,
+      "books": 9,
+      "labels": [
+        "New York Yankees",
+        "Draw",
+        "Pittsburgh Pirates"
+      ],
+      "legs": [
+        {
+          "outcome": "New York Yankees",
+          "book": "8:5",
+          "odd": 8,
+          "stake": 22498,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=8%3A5%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "2:4",
+          "odd": 2.61,
+          "stake": 68960,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=2%3A4%20sportsbook"
+        },
+        {
+          "outcome": "Pittsburgh Pirates",
+          "book": "8:5",
+          "odd": 21.07,
+          "stake": 8542,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=8%3A5%20sportsbook"
+        }
+      ],
+      "S": 0.5556026072551448,
+      "roi": 79.98475654034833,
+      "profit": 79985,
+      "payout": 179985,
+      "staked": 100000,
+      "mins": 28,
+      "split": {
+        "S": 0.5556026072551448,
+        "payout": 179985,
+        "profit": 79985,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "8:5",
+            "odd": 8,
+            "stake": 22498
+          },
+          {
+            "book": "2:4",
+            "odd": 2.61,
+            "stake": 68960
+          },
+          {
+            "book": "8:5",
+            "odd": 21.07,
+            "stake": 8542
           }
         ]
       },
@@ -223,7 +298,7 @@
       "profit": 64616,
       "payout": 164616,
       "staked": 100000,
-      "mins": 8,
+      "mins": 3,
       "split": {
         "S": 0.607475709165728,
         "payout": 164616,
@@ -251,74 +326,74 @@
       "allJp": false
     },
     {
-      "id": "2BHwR0FL",
+      "id": "2ZaQHdx8",
       "sport": "baseball",
       "sportLabel": "野球",
-      "teams": "Buffalo Bisons - Rochester Red Wings",
-      "url": "https://www.betexplorer.com/baseball/usa/il/buffalo-bisons-rochester-red-wings/2BHwR0FL/",
-      "kickoff": "2026-07-22T00:35:00+09:00",
+      "teams": "Charlotte Knights - Norfolk Tides",
+      "url": "https://www.betexplorer.com/baseball/usa/il/charlotte-knights-norfolk-tides/2ZaQHdx8/",
+      "kickoff": "2026-07-22T01:04:00+09:00",
       "width": 3,
-      "books": 7,
+      "books": 10,
       "labels": [
-        "Buffalo Bisons",
+        "Charlotte Knights",
         "Draw",
-        "Rochester Red Wings"
+        "Norfolk Tides"
       ],
       "legs": [
         {
-          "outcome": "Buffalo Bisons",
-          "book": "15:2",
-          "odd": 15,
-          "stake": 10898,
+          "outcome": "Charlotte Knights",
+          "book": "12:4",
+          "odd": 12,
+          "stake": 13415,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=15%3A2%20sportsbook"
+          "url": "https://www.google.com/search?q=12%3A4%20sportsbook"
         },
         {
           "outcome": "Draw",
-          "book": "15:2",
-          "odd": 2.03,
-          "stake": 80529,
+          "book": "2:4",
+          "odd": 2.06,
+          "stake": 78144,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=15%3A2%20sportsbook"
+          "url": "https://www.google.com/search?q=2%3A4%20sportsbook"
         },
         {
-          "outcome": "Rochester Red Wings",
-          "book": "3:7",
+          "outcome": "Norfolk Tides",
+          "book": "3:2",
           "odd": 19.07,
-          "stake": 8572,
+          "stake": 8441,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=3%3A7%20sportsbook"
+          "url": "https://www.google.com/search?q=3%3A2%20sportsbook"
         }
       ],
-      "S": 0.6117158890028355,
-      "roi": 63.47458321380381,
-      "profit": 63476,
-      "payout": 163475,
-      "staked": 99999,
-      "mins": 3,
+      "S": 0.621208611434962,
+      "roi": 60.976519254948535,
+      "profit": 60977,
+      "payout": 160977,
+      "staked": 100000,
+      "mins": 27,
       "split": {
-        "S": 0.6117158890028355,
-        "payout": 163475,
-        "profit": 63476,
-        "staked": 99999,
+        "S": 0.621208611434962,
+        "payout": 160977,
+        "profit": 60977,
+        "staked": 100000,
         "legs": [
           {
-            "book": "15:2",
-            "odd": 15,
-            "stake": 10898
+            "book": "12:4",
+            "odd": 12,
+            "stake": 13415
           },
           {
-            "book": "15:2",
-            "odd": 2.03,
-            "stake": 80529
+            "book": "2:4",
+            "odd": 2.06,
+            "stake": 78144
           },
           {
-            "book": "3:7",
+            "book": "3:2",
             "odd": 19.07,
-            "stake": 8572
+            "stake": 8441
           }
         ]
       },
@@ -326,74 +401,224 @@
       "allJp": false
     },
     {
-      "id": "U7Mq5Jh2",
+      "id": "roi3P8eE",
       "sport": "baseball",
       "sportLabel": "野球",
-      "teams": "Gwinnett Stripers - Iowa Cubs",
-      "url": "https://www.betexplorer.com/baseball/usa/il/gwinnett-stripers-iowa-cubs/U7Mq5Jh2/",
-      "kickoff": "2026-07-22T00:35:00+09:00",
+      "teams": "Indianapolis Indians - Lehigh Valley IronPigs",
+      "url": "https://www.betexplorer.com/baseball/usa/il/indianapolis-indians-lehigh-valley-ironpigs/roi3P8eE/",
+      "kickoff": "2026-07-22T01:05:00+09:00",
       "width": 3,
       "books": 8,
       "labels": [
-        "Gwinnett Stripers",
+        "Indianapolis Indians",
         "Draw",
-        "Iowa Cubs"
+        "Lehigh Valley IronPigs"
       ],
       "legs": [
         {
-          "outcome": "Gwinnett Stripers",
-          "book": "9:2",
-          "odd": 9,
-          "stake": 17121,
+          "outcome": "Indianapolis Indians",
+          "book": "13:3",
+          "odd": 13,
+          "stake": 12271,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=9%3A2%20sportsbook"
+          "url": "https://www.google.com/search?q=13%3A3%20sportsbook"
         },
         {
           "outcome": "Draw",
-          "book": "3:7",
-          "odd": 2.06,
-          "stake": 74799,
+          "book": "3:4",
+          "odd": 2.01,
+          "stake": 79364,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=3%3A7%20sportsbook"
+          "url": "https://www.google.com/search?q=3%3A4%20sportsbook"
         },
         {
-          "outcome": "Iowa Cubs",
+          "outcome": "Lehigh Valley IronPigs",
+          "book": "6:13",
+          "odd": 19.07,
+          "stake": 8365,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=6%3A13%20sportsbook"
+        }
+      ],
+      "S": 0.6268738996317674,
+      "roi": 59.52171570509013,
+      "profit": 59522,
+      "payout": 159522,
+      "staked": 100000,
+      "mins": 28,
+      "split": {
+        "S": 0.6268738996317674,
+        "payout": 159522,
+        "profit": 59522,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "13:3",
+            "odd": 13,
+            "stake": 12271
+          },
+          {
+            "book": "3:4",
+            "odd": 2.01,
+            "stake": 79364
+          },
+          {
+            "book": "6:13",
+            "odd": 19.07,
+            "stake": 8365
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "tdTUSMp9",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Toledo Mud Hens - Louisville Bats",
+      "url": "https://www.betexplorer.com/baseball/usa/il/toledo-mud-hens-louisville-bats/tdTUSMp9/",
+      "kickoff": "2026-07-22T01:05:00+09:00",
+      "width": 3,
+      "books": 7,
+      "labels": [
+        "Toledo Mud Hens",
+        "Draw",
+        "Louisville Bats"
+      ],
+      "legs": [
+        {
+          "outcome": "Toledo Mud Hens",
+          "book": "9:3",
+          "odd": 9,
+          "stake": 16871,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=9%3A3%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "6:2",
+          "odd": 2.02,
+          "stake": 75167,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=6%3A2%20sportsbook"
+        },
+        {
+          "outcome": "Louisville Bats",
           "book": "6:5",
           "odd": 19.07,
-          "stake": 8080,
+          "stake": 7962,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=6%3A5%20sportsbook"
         }
       ],
-      "S": 0.6489863892127398,
-      "roi": 54.086436421734696,
-      "profit": 54086,
-      "payout": 154086,
+      "S": 0.6585990009593513,
+      "roi": 51.837460813536815,
+      "profit": 51837,
+      "payout": 151837,
       "staked": 100000,
-      "mins": 3,
+      "mins": 28,
       "split": {
-        "S": 0.6489863892127398,
-        "payout": 154086,
-        "profit": 54086,
+        "S": 0.6585990009593513,
+        "payout": 151837,
+        "profit": 51837,
         "staked": 100000,
         "legs": [
           {
-            "book": "9:2",
+            "book": "9:3",
             "odd": 9,
-            "stake": 17121
+            "stake": 16871
           },
           {
-            "book": "3:7",
-            "odd": 2.06,
-            "stake": 74799
+            "book": "6:2",
+            "odd": 2.02,
+            "stake": 75167
           },
           {
             "book": "6:5",
             "odd": 19.07,
-            "stake": 8080
+            "stake": 7962
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "Yg89Lvwq",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Scranton/WB - Syracuse Mets",
+      "url": "https://www.betexplorer.com/baseball/usa/il/scranton-wilkes-barre-railriders-syracuse-mets/Yg89Lvwq/",
+      "kickoff": "2026-07-22T01:05:00+09:00",
+      "width": 3,
+      "books": 7,
+      "labels": [
+        "Scranton/WB",
+        "Draw",
+        "Syracuse Mets"
+      ],
+      "legs": [
+        {
+          "outcome": "Scranton/WB",
+          "book": "7:6",
+          "odd": 7,
+          "stake": 21632,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=7%3A6%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "CAN.",
+          "odd": 2.15,
+          "stake": 70428,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=CAN.%20sportsbook"
+        },
+        {
+          "outcome": "Syracuse Mets",
+          "book": "5:4",
+          "odd": 19.07,
+          "stake": 7940,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=5%3A4%20sportsbook"
+        }
+      ],
+      "S": 0.6604118068246554,
+      "roi": 51.42067262669456,
+      "profit": 51421,
+      "payout": 151421,
+      "staked": 100000,
+      "mins": 28,
+      "split": {
+        "S": 0.6604118068246554,
+        "payout": 151421,
+        "profit": 51421,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "7:6",
+            "odd": 7,
+            "stake": 21632
+          },
+          {
+            "book": "CAN.",
+            "odd": 2.15,
+            "stake": 70428
+          },
+          {
+            "book": "5:4",
+            "odd": 19.07,
+            "stake": 7940
           }
         ]
       },
