@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-21T17:57:13.497Z",
+  "generatedAt": "2026-07-21T18:02:36.877Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 2,
+  "arbCount": 2,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,158 @@
       "count": 28,
       "profit": 3974522
     },
-    "pending": 10
+    "pending": 12
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "URhGPk0t",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Saskatoon Mamba - Edmonton Stingers",
+      "url": "https://www.betexplorer.com/basketball/canada/cebl/saskatoon-mamba-edmonton-stingers/URhGPk0t/",
+      "kickoff": "2026-07-22T03:30:00+09:00",
+      "width": 3,
+      "books": 9,
+      "labels": [
+        "Saskatoon Mamba",
+        "Draw",
+        "Edmonton Stingers"
+      ],
+      "legs": [
+        {
+          "outcome": "Saskatoon Mamba",
+          "book": "108:115",
+          "odd": 108,
+          "stake": 3515,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=108%3A115%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "107:96",
+          "odd": 4.55,
+          "stake": 83424,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=107%3A96%20sportsbook"
+        },
+        {
+          "outcome": "Edmonton Stingers",
+          "book": "105:103",
+          "odd": 29.06,
+          "stake": 13062,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=105%3A103%20sportsbook"
+        }
+      ],
+      "S": 0.2634510413244068,
+      "roi": 279.57716734496637,
+      "profit": 279576,
+      "payout": 379577,
+      "staked": 100001,
+      "mins": 27,
+      "split": {
+        "S": 0.2634510413244068,
+        "payout": 379577,
+        "profit": 279576,
+        "staked": 100001,
+        "legs": [
+          {
+            "book": "108:115",
+            "odd": 108,
+            "stake": 3515
+          },
+          {
+            "book": "107:96",
+            "odd": 4.55,
+            "stake": 83424
+          },
+          {
+            "book": "105:103",
+            "odd": 29.06,
+            "stake": 13062
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "jssPNTUh",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Calgary Surge - Vancouver Bandits",
+      "url": "https://www.betexplorer.com/basketball/canada/cebl/calgary-surge-vancouver-bandits/jssPNTUh/",
+      "kickoff": "2026-07-22T03:30:00+09:00",
+      "width": 3,
+      "books": 10,
+      "labels": [
+        "Calgary Surge",
+        "Draw",
+        "Vancouver Bandits"
+      ],
+      "legs": [
+        {
+          "outcome": "Calgary Surge",
+          "book": "102:99",
+          "odd": 102,
+          "stake": 3026,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=102%3A99%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "96:92",
+          "odd": 3.75,
+          "stake": 82316,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=96%3A92%20sportsbook"
+        },
+        {
+          "outcome": "Vancouver Bandits",
+          "book": "88:93",
+          "odd": 21.06,
+          "stake": 14657,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=88%3A93%20sportsbook"
+        }
+      ],
+      "S": 0.3239539690520083,
+      "roi": 208.68583055991445,
+      "profit": 208687,
+      "payout": 308686,
+      "staked": 99999,
+      "mins": 27,
+      "split": {
+        "S": 0.3239539690520083,
+        "payout": 308686,
+        "profit": 208687,
+        "staked": 99999,
+        "legs": [
+          {
+            "book": "102:99",
+            "odd": 102,
+            "stake": 3026
+          },
+          {
+            "book": "96:92",
+            "odd": 3.75,
+            "stake": 82316
+          },
+          {
+            "book": "88:93",
+            "odd": 21.06,
+            "stake": 14657
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
