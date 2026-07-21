@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-21T15:04:19.134Z",
+  "generatedAt": "2026-07-21T15:09:39.789Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 2,
+  "arbCount": 2,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,158 @@
       "count": 28,
       "profit": 3974522
     },
-    "pending": 0
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "2BHwR0FL",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Buffalo Bisons - Rochester Red Wings",
+      "url": "https://www.betexplorer.com/baseball/usa/il/buffalo-bisons-rochester-red-wings/2BHwR0FL/",
+      "kickoff": "2026-07-22T00:35:00+09:00",
+      "width": 3,
+      "books": 7,
+      "labels": [
+        "Buffalo Bisons",
+        "Draw",
+        "Rochester Red Wings"
+      ],
+      "legs": [
+        {
+          "outcome": "Buffalo Bisons",
+          "book": "15:2",
+          "odd": 15,
+          "stake": 10898,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=15%3A2%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "15:2",
+          "odd": 2.03,
+          "stake": 80529,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=15%3A2%20sportsbook"
+        },
+        {
+          "outcome": "Rochester Red Wings",
+          "book": "3:7",
+          "odd": 19.07,
+          "stake": 8572,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=3%3A7%20sportsbook"
+        }
+      ],
+      "S": 0.6117158890028355,
+      "roi": 63.47458321380381,
+      "profit": 63476,
+      "payout": 163475,
+      "staked": 99999,
+      "mins": 25,
+      "split": {
+        "S": 0.6117158890028355,
+        "payout": 163475,
+        "profit": 63476,
+        "staked": 99999,
+        "legs": [
+          {
+            "book": "15:2",
+            "odd": 15,
+            "stake": 10898
+          },
+          {
+            "book": "15:2",
+            "odd": 2.03,
+            "stake": 80529
+          },
+          {
+            "book": "3:7",
+            "odd": 19.07,
+            "stake": 8572
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "U7Mq5Jh2",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Gwinnett Stripers - Iowa Cubs",
+      "url": "https://www.betexplorer.com/baseball/usa/il/gwinnett-stripers-iowa-cubs/U7Mq5Jh2/",
+      "kickoff": "2026-07-22T00:35:00+09:00",
+      "width": 3,
+      "books": 8,
+      "labels": [
+        "Gwinnett Stripers",
+        "Draw",
+        "Iowa Cubs"
+      ],
+      "legs": [
+        {
+          "outcome": "Gwinnett Stripers",
+          "book": "9:2",
+          "odd": 9,
+          "stake": 17121,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=9%3A2%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "3:7",
+          "odd": 2.06,
+          "stake": 74799,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=3%3A7%20sportsbook"
+        },
+        {
+          "outcome": "Iowa Cubs",
+          "book": "6:5",
+          "odd": 19.07,
+          "stake": 8080,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=6%3A5%20sportsbook"
+        }
+      ],
+      "S": 0.6489863892127398,
+      "roi": 54.086436421734696,
+      "profit": 54086,
+      "payout": 154086,
+      "staked": 100000,
+      "mins": 25,
+      "split": {
+        "S": 0.6489863892127398,
+        "payout": 154086,
+        "profit": 54086,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "9:2",
+            "odd": 9,
+            "stake": 17121
+          },
+          {
+            "book": "3:7",
+            "odd": 2.06,
+            "stake": 74799
+          },
+          {
+            "book": "6:5",
+            "odd": 19.07,
+            "stake": 8080
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
