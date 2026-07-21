@@ -1,101 +1,101 @@
 {
-  "generatedAt": "2026-07-21T01:05:46.929Z",
+  "generatedAt": "2026-07-21T04:06:23.505Z",
   "windowDays": 400,
   "total": 300,
-  "hits": 202,
-  "hitRate": 0.6733333333333333,
+  "hits": 204,
+  "hitRate": 0.68,
   "sim": {
     "stake": 10000,
-    "asOf": "2026-07-21T01:05:46.929Z",
+    "asOf": "2026-07-21T04:06:23.505Z",
     "byMinStars": {
       "1": {
         "all": {
-          "n": 1094,
-          "hits": 730,
-          "staked": 10940000,
-          "returns": 9240600,
-          "profit": -1699400
+          "n": 1099,
+          "hits": 734,
+          "staked": 10990000,
+          "returns": 9296600,
+          "profit": -1693400
         },
         "year": {
-          "n": 1094,
-          "hits": 730,
-          "staked": 10940000,
-          "returns": 9240600,
-          "profit": -1699400
+          "n": 1099,
+          "hits": 734,
+          "staked": 10990000,
+          "returns": 9296600,
+          "profit": -1693400
         },
         "month": {
-          "n": 1094,
-          "hits": 730,
-          "staked": 10940000,
-          "returns": 9240600,
-          "profit": -1699400
+          "n": 1099,
+          "hits": 734,
+          "staked": 10990000,
+          "returns": 9296600,
+          "profit": -1693400
         },
         "week": {
-          "n": 23,
-          "hits": 14,
-          "staked": 230000,
-          "returns": 182500,
-          "profit": -47500
+          "n": 28,
+          "hits": 18,
+          "staked": 280000,
+          "returns": 238500,
+          "profit": -41500
         }
       },
       "2": {
         "all": {
-          "n": 658,
-          "hits": 480,
-          "staked": 6580000,
-          "returns": 5526100,
-          "profit": -1053900
+          "n": 661,
+          "hits": 482,
+          "staked": 6610000,
+          "returns": 5551500,
+          "profit": -1058500
         },
         "year": {
-          "n": 658,
-          "hits": 480,
-          "staked": 6580000,
-          "returns": 5526100,
-          "profit": -1053900
+          "n": 661,
+          "hits": 482,
+          "staked": 6610000,
+          "returns": 5551500,
+          "profit": -1058500
         },
         "month": {
-          "n": 658,
-          "hits": 480,
-          "staked": 6580000,
-          "returns": 5526100,
-          "profit": -1053900
+          "n": 661,
+          "hits": 482,
+          "staked": 6610000,
+          "returns": 5551500,
+          "profit": -1058500
         },
         "week": {
-          "n": 13,
-          "hits": 8,
-          "staked": 130000,
-          "returns": 93300,
-          "profit": -36700
+          "n": 16,
+          "hits": 10,
+          "staked": 160000,
+          "returns": 118700,
+          "profit": -41300
         }
       },
       "3": {
         "all": {
-          "n": 397,
-          "hits": 317,
-          "staked": 3970000,
-          "returns": 3445800,
-          "profit": -524200
+          "n": 398,
+          "hits": 318,
+          "staked": 3980000,
+          "returns": 3457700,
+          "profit": -522300
         },
         "year": {
-          "n": 397,
-          "hits": 317,
-          "staked": 3970000,
-          "returns": 3445800,
-          "profit": -524200
+          "n": 398,
+          "hits": 318,
+          "staked": 3980000,
+          "returns": 3457700,
+          "profit": -522300
         },
         "month": {
-          "n": 397,
-          "hits": 317,
-          "staked": 3970000,
-          "returns": 3445800,
-          "profit": -524200
+          "n": 398,
+          "hits": 318,
+          "staked": 3980000,
+          "returns": 3457700,
+          "profit": -522300
         },
         "week": {
-          "n": 8,
-          "hits": 6,
-          "staked": 80000,
-          "returns": 66800,
-          "profit": -13200
+          "n": 9,
+          "hits": 7,
+          "staked": 90000,
+          "returns": 78700,
+          "profit": -11300
         }
       },
       "4": {
@@ -161,6 +161,91 @@
     }
   },
   "settled": [
+    {
+      "id": "4reGEqhD",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "USA: WNBA",
+      "favTeam": "Golden State Valkyries W",
+      "underTeam": "Washington Mystics W",
+      "favIsHome": true,
+      "favOdd": 1.31,
+      "prob": 76,
+      "stars": 2,
+      "kickoff": "2026-07-21T04:00:00+09:00",
+      "homeScore": 82,
+      "awayScore": 90,
+      "isDraw": false,
+      "favWon": false
+    },
+    {
+      "id": "AidAk3BG",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "USA: WNBA",
+      "favTeam": "Las Vegas Aces W",
+      "underTeam": "Toronto Tempo W",
+      "favIsHome": false,
+      "favOdd": 1.19,
+      "prob": 84,
+      "stars": 3,
+      "kickoff": "2026-07-21T02:00:00+09:00",
+      "homeScore": 83,
+      "awayScore": 109,
+      "isDraw": false,
+      "favWon": true
+    },
+    {
+      "id": "8GRILKZo",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "BRAZIL: LBF WOMEN",
+      "favTeam": "Sampaio W",
+      "underTeam": "Cerrado W",
+      "favIsHome": true,
+      "favOdd": 1.35,
+      "prob": 74,
+      "stars": 2,
+      "kickoff": "2026-07-21T02:00:00+09:00",
+      "homeScore": 61,
+      "awayScore": 46,
+      "isDraw": false,
+      "favWon": true
+    },
+    {
+      "id": "S0ddI6yi",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "USA: WNBA",
+      "favTeam": "New York Liberty W",
+      "underTeam": "Dallas Wings W",
+      "favIsHome": false,
+      "favOdd": 1.54,
+      "prob": 65,
+      "stars": 1,
+      "kickoff": "2026-07-21T02:00:00+09:00",
+      "homeScore": 98,
+      "awayScore": 99,
+      "isDraw": false,
+      "favWon": true
+    },
+    {
+      "id": "UHVZhyUi",
+      "sport": "野球",
+      "sportKey": "baseball",
+      "league": "USA: MLB",
+      "favTeam": "Milwaukee Brewers",
+      "underTeam": "New York Mets",
+      "favIsHome": true,
+      "favOdd": 1.52,
+      "prob": 66,
+      "stars": 1,
+      "kickoff": "2026-07-21T01:40:00+09:00",
+      "homeScore": 8,
+      "awayScore": 3,
+      "isDraw": false,
+      "favWon": true
+    },
     {
       "id": "nZEUxLMt",
       "sport": "サッカー",
@@ -5173,91 +5258,6 @@
       "kickoff": "2026-07-16T20:30:00+09:00",
       "homeScore": 6,
       "awayScore": 11,
-      "isDraw": false,
-      "favWon": false
-    },
-    {
-      "id": "MeLdMMz9",
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "WORLD: NATIONS LEAGUE",
-      "favTeam": "Ukraine",
-      "underTeam": "Serbia",
-      "favIsHome": false,
-      "favOdd": 1.32,
-      "prob": 76,
-      "stars": 2,
-      "kickoff": "2026-07-16T20:00:00+09:00",
-      "homeScore": 0,
-      "awayScore": 1,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "h0JQbkPM",
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U20",
-      "favTeam": "Czech Republic U20",
-      "underTeam": "Latvia U20",
-      "favIsHome": true,
-      "favOdd": 1.2,
-      "prob": 83,
-      "stars": 3,
-      "kickoff": "2026-07-16T18:30:00+09:00",
-      "homeScore": 34,
-      "awayScore": 40,
-      "isDraw": false,
-      "favWon": false
-    },
-    {
-      "id": "nNK4QYug",
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U20",
-      "favTeam": "Germany U20",
-      "underTeam": "Hungary U20",
-      "favIsHome": true,
-      "favOdd": 1.32,
-      "prob": 76,
-      "stars": 2,
-      "kickoff": "2026-07-16T18:30:00+09:00",
-      "homeScore": 25,
-      "awayScore": 27,
-      "isDraw": false,
-      "favWon": false
-    },
-    {
-      "id": "jNsnrgof",
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "EUROPE: EUROBASKET U20",
-      "favTeam": "Slovenia U20",
-      "underTeam": "Turkey U20",
-      "favIsHome": false,
-      "favOdd": 1.17,
-      "prob": 85,
-      "stars": 3,
-      "kickoff": "2026-07-16T18:30:00+09:00",
-      "homeScore": 70,
-      "awayScore": 88,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "S0MKMjuI",
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U20",
-      "favTeam": "Spain U20",
-      "underTeam": "Slovenia U20",
-      "favIsHome": true,
-      "favOdd": 1.33,
-      "prob": 75,
-      "stars": 2,
-      "kickoff": "2026-07-16T18:30:00+09:00",
-      "homeScore": 23,
-      "awayScore": 30,
       "isDraw": false,
       "favWon": false
     }
