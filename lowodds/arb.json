@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-21T01:28:29.208Z",
+  "generatedAt": "2026-07-21T01:33:50.509Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 4,
+  "arbCount": 4,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,308 @@
       "count": 16,
       "profit": 3024442
     },
-    "pending": 0
+    "pending": 4
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "h29dl9D5",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Yakult Swallows - Chunichi Dragons",
+      "url": "https://www.betexplorer.com/baseball/japan/npb/yakult-swallows-chunichi-dragons/h29dl9D5/",
+      "kickoff": "2026-07-21T11:00:00+09:00",
+      "width": 3,
+      "books": 8,
+      "labels": [
+        "Yakult Swallows",
+        "Draw",
+        "Chunichi Dragons"
+      ],
+      "legs": [
+        {
+          "outcome": "Yakult Swallows",
+          "book": "12:4",
+          "odd": 12,
+          "stake": 17779,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=12%3A4%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "3:0",
+          "odd": 2.98,
+          "stake": 71592,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=3%3A0%20sportsbook"
+        },
+        {
+          "outcome": "Chunichi Dragons",
+          "book": "2:4",
+          "odd": 20.07,
+          "stake": 10630,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=2%3A4%20sportsbook"
+        }
+      ],
+      "S": 0.468729413495718,
+      "roi": 113.34270289166209,
+      "profit": 113342,
+      "payout": 213343,
+      "staked": 100001,
+      "mins": 26,
+      "split": {
+        "S": 0.468729413495718,
+        "payout": 213343,
+        "profit": 113342,
+        "staked": 100001,
+        "legs": [
+          {
+            "book": "12:4",
+            "odd": 12,
+            "stake": 17779
+          },
+          {
+            "book": "3:0",
+            "odd": 2.98,
+            "stake": 71592
+          },
+          {
+            "book": "2:4",
+            "odd": 20.07,
+            "stake": 10630
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "0YeDpRCU",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Fukuoka S. Hawks - Orix Buffaloes",
+      "url": "https://www.betexplorer.com/baseball/japan/npb/fukuoka-s-hawks-orix-buffaloes/0YeDpRCU/",
+      "kickoff": "2026-07-21T11:00:00+09:00",
+      "width": 3,
+      "books": 9,
+      "labels": [
+        "Fukuoka S. Hawks",
+        "Draw",
+        "Orix Buffaloes"
+      ],
+      "legs": [
+        {
+          "outcome": "Fukuoka S. Hawks",
+          "book": "9:2",
+          "odd": 9,
+          "stake": 20477,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=9%3A2%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "9:2",
+          "odd": 2.62,
+          "stake": 70341,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=9%3A2%20sportsbook"
+        },
+        {
+          "outcome": "Orix Buffaloes",
+          "book": "4:5",
+          "odd": 20.07,
+          "stake": 9182,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=4%3A5%20sportsbook"
+        }
+      ],
+      "S": 0.5426161107878151,
+      "roi": 84.29235330814578,
+      "profit": 84292,
+      "payout": 184292,
+      "staked": 100000,
+      "mins": 26,
+      "split": {
+        "S": 0.5426161107878151,
+        "payout": 184292,
+        "profit": 84292,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "9:2",
+            "odd": 9,
+            "stake": 20477
+          },
+          {
+            "book": "9:2",
+            "odd": 2.62,
+            "stake": 70341
+          },
+          {
+            "book": "4:5",
+            "odd": 20.07,
+            "stake": 9182
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "EHc5nmrI",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Hanshin Tigers - Yokohama BayStars",
+      "url": "https://www.betexplorer.com/baseball/japan/npb/hanshin-tigers-yokohama-baystars/EHc5nmrI/",
+      "kickoff": "2026-07-21T11:00:00+09:00",
+      "width": 3,
+      "books": 7,
+      "labels": [
+        "Hanshin Tigers",
+        "Draw",
+        "Yokohama BayStars"
+      ],
+      "legs": [
+        {
+          "outcome": "Hanshin Tigers",
+          "book": "6:5",
+          "odd": 6,
+          "stake": 30048,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=6%3A5%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "3:0",
+          "odd": 2.98,
+          "stake": 60499,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=3%3A0%20sportsbook"
+        },
+        {
+          "outcome": "Yokohama BayStars",
+          "book": "2:4",
+          "odd": 19.07,
+          "stake": 9454,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=2%3A4%20sportsbook"
+        }
+      ],
+      "S": 0.5546755213630695,
+      "roi": 80.285583460143,
+      "profit": 80285,
+      "payout": 180286,
+      "staked": 100001,
+      "mins": 26,
+      "split": {
+        "S": 0.5546755213630695,
+        "payout": 180286,
+        "profit": 80285,
+        "staked": 100001,
+        "legs": [
+          {
+            "book": "6:5",
+            "odd": 6,
+            "stake": 30048
+          },
+          {
+            "book": "3:0",
+            "odd": 2.98,
+            "stake": 60499
+          },
+          {
+            "book": "2:4",
+            "odd": 19.07,
+            "stake": 9454
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "px6ljVrg",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Yomiuri Giants - Hiroshima Carp",
+      "url": "https://www.betexplorer.com/baseball/japan/npb/yomiuri-giants-hiroshima-carp/px6ljVrg/",
+      "kickoff": "2026-07-21T11:00:00+09:00",
+      "width": 3,
+      "books": 8,
+      "labels": [
+        "Yomiuri Giants",
+        "Draw",
+        "Hiroshima Carp"
+      ],
+      "legs": [
+        {
+          "outcome": "Yomiuri Giants",
+          "book": "11:6",
+          "odd": 11,
+          "stake": 15692,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=11%3A6%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "3:1",
+          "odd": 2.28,
+          "stake": 75707,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=3%3A1%20sportsbook"
+        },
+        {
+          "outcome": "Hiroshima Carp",
+          "book": "3:1",
+          "odd": 20.07,
+          "stake": 8601,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=3%3A1%20sportsbook"
+        }
+      ],
+      "S": 0.5793311925008882,
+      "roi": 72.61283579141424,
+      "profit": 72613,
+      "payout": 172613,
+      "staked": 100000,
+      "mins": 26,
+      "split": {
+        "S": 0.5793311925008882,
+        "payout": 172613,
+        "profit": 72613,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "11:6",
+            "odd": 11,
+            "stake": 15692
+          },
+          {
+            "book": "3:1",
+            "odd": 2.28,
+            "stake": 75707
+          },
+          {
+            "book": "3:1",
+            "odd": 20.07,
+            "stake": 8601
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
