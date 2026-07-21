@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-07-21T04:06:23.505Z",
+  "generatedAt": "2026-07-21T07:06:59.347Z",
   "windowDays": 400,
   "total": 300,
-  "hits": 204,
-  "hitRate": 0.68,
+  "hits": 205,
+  "hitRate": 0.6833333333333333,
   "sim": {
     "stake": 10000,
-    "asOf": "2026-07-21T04:06:23.505Z",
+    "asOf": "2026-07-21T07:06:59.347Z",
     "byMinStars": {
       "1": {
         "all": {
-          "n": 1099,
-          "hits": 734,
-          "staked": 10990000,
-          "returns": 9296600,
-          "profit": -1693400
+          "n": 1100,
+          "hits": 735,
+          "staked": 11000000,
+          "returns": 9308800,
+          "profit": -1691200
         },
         "year": {
-          "n": 1099,
-          "hits": 734,
-          "staked": 10990000,
-          "returns": 9296600,
-          "profit": -1693400
+          "n": 1100,
+          "hits": 735,
+          "staked": 11000000,
+          "returns": 9308800,
+          "profit": -1691200
         },
         "month": {
-          "n": 1099,
-          "hits": 734,
-          "staked": 10990000,
-          "returns": 9296600,
-          "profit": -1693400
+          "n": 1100,
+          "hits": 735,
+          "staked": 11000000,
+          "returns": 9308800,
+          "profit": -1691200
         },
         "week": {
-          "n": 28,
-          "hits": 18,
-          "staked": 280000,
-          "returns": 238500,
-          "profit": -41500
+          "n": 29,
+          "hits": 19,
+          "staked": 290000,
+          "returns": 250700,
+          "profit": -39300
         }
       },
       "2": {
         "all": {
-          "n": 661,
-          "hits": 482,
-          "staked": 6610000,
-          "returns": 5551500,
-          "profit": -1058500
+          "n": 662,
+          "hits": 483,
+          "staked": 6620000,
+          "returns": 5563700,
+          "profit": -1056300
         },
         "year": {
-          "n": 661,
-          "hits": 482,
-          "staked": 6610000,
-          "returns": 5551500,
-          "profit": -1058500
+          "n": 662,
+          "hits": 483,
+          "staked": 6620000,
+          "returns": 5563700,
+          "profit": -1056300
         },
         "month": {
-          "n": 661,
-          "hits": 482,
-          "staked": 6610000,
-          "returns": 5551500,
-          "profit": -1058500
+          "n": 662,
+          "hits": 483,
+          "staked": 6620000,
+          "returns": 5563700,
+          "profit": -1056300
         },
         "week": {
-          "n": 16,
-          "hits": 10,
-          "staked": 160000,
-          "returns": 118700,
-          "profit": -41300
+          "n": 17,
+          "hits": 11,
+          "staked": 170000,
+          "returns": 130900,
+          "profit": -39100
         }
       },
       "3": {
@@ -161,6 +161,23 @@
     }
   },
   "settled": [
+    {
+      "id": "Wlm2xmpK",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "USA: WNBA",
+      "favTeam": "Minnesota Lynx W",
+      "underTeam": "Seattle Storm W",
+      "favIsHome": false,
+      "favOdd": 1.22,
+      "prob": 82,
+      "stars": 2,
+      "kickoff": "2026-07-21T04:00:00+09:00",
+      "homeScore": 102,
+      "awayScore": 105,
+      "isDraw": false,
+      "favWon": true
+    },
     {
       "id": "4reGEqhD",
       "sport": "バスケ",
@@ -5243,23 +5260,6 @@
       "awayScore": 5,
       "isDraw": false,
       "favWon": true
-    },
-    {
-      "id": "hhDdLGLj",
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "EUROPE: EUROBASKET U20",
-      "favTeam": "Italy U20",
-      "underTeam": "Israel U20",
-      "favIsHome": true,
-      "favOdd": 1.54,
-      "prob": 65,
-      "stars": 1,
-      "kickoff": "2026-07-16T20:30:00+09:00",
-      "homeScore": 6,
-      "awayScore": 11,
-      "isDraw": false,
-      "favWon": false
     }
   ]
 }
