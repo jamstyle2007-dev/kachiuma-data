@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-21T15:09:39.789Z",
+  "generatedAt": "2026-07-21T15:15:05.235Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 2,
+  "scanned": 5,
+  "arbCount": 5,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,9 +22,234 @@
       "count": 28,
       "profit": 3974522
     },
-    "pending": 2
+    "pending": 5
   },
   "opps": [
+    {
+      "id": "UL1IJI7e",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Worcester - Jacksonville Jumbo Shrimp",
+      "url": "https://www.betexplorer.com/baseball/usa/il/worcester-red-sox-jacksonville-jumbo-shrimp/UL1IJI7e/",
+      "kickoff": "2026-07-22T00:45:00+09:00",
+      "width": 3,
+      "books": 10,
+      "labels": [
+        "Worcester",
+        "Draw",
+        "Jacksonville Jumbo Shrimp"
+      ],
+      "legs": [
+        {
+          "outcome": "Worcester",
+          "book": "10:2",
+          "odd": 10,
+          "stake": 34120,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=10%3A2%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "10:2",
+          "odd": 7.11,
+          "stake": 47988,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=10%3A2%20sportsbook"
+        },
+        {
+          "outcome": "Jacksonville Jumbo Shrimp",
+          "book": "5:4",
+          "odd": 19.07,
+          "stake": 17892,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=5%3A4%20sportsbook"
+        }
+      ],
+      "S": 0.2930853609877592,
+      "roi": 241.19752574123456,
+      "profit": 241198,
+      "payout": 341198,
+      "staked": 100000,
+      "mins": 30,
+      "split": {
+        "S": 0.2930853609877592,
+        "payout": 341198,
+        "profit": 241198,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "10:2",
+            "odd": 10,
+            "stake": 34120
+          },
+          {
+            "book": "10:2",
+            "odd": 7.11,
+            "stake": 47988
+          },
+          {
+            "book": "5:4",
+            "odd": 19.07,
+            "stake": 17892
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "KQjY1WCM",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Philadelphia Phillies - Los Angeles Dodgers",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/philadelphia-phillies-los-angeles-dodgers/KQjY1WCM/",
+      "kickoff": "2026-07-22T00:40:00+09:00",
+      "width": 3,
+      "books": 5,
+      "labels": [
+        "Philadelphia Phillies",
+        "Draw",
+        "Los Angeles Dodgers"
+      ],
+      "legs": [
+        {
+          "outcome": "Philadelphia Phillies",
+          "book": "11:5",
+          "odd": 11,
+          "stake": 17334,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=11%3A5%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "6:1",
+          "odd": 2.59,
+          "stake": 73617,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=6%3A1%20sportsbook"
+        },
+        {
+          "outcome": "Los Angeles Dodgers",
+          "book": "10:7",
+          "odd": 21.07,
+          "stake": 9049,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=10%3A7%20sportsbook"
+        }
+      ],
+      "S": 0.5244703218125145,
+      "roi": 90.66855804997786,
+      "profit": 90669,
+      "payout": 190669,
+      "staked": 100000,
+      "mins": 25,
+      "split": {
+        "S": 0.5244703218125145,
+        "payout": 190669,
+        "profit": 90669,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "11:5",
+            "odd": 11,
+            "stake": 17334
+          },
+          {
+            "book": "6:1",
+            "odd": 2.59,
+            "stake": 73617
+          },
+          {
+            "book": "10:7",
+            "odd": 21.07,
+            "stake": 9049
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "bB2P3hrA",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Cleveland Guardians - Minnesota Twins",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/cleveland-guardians-minnesota-twins/bB2P3hrA/",
+      "kickoff": "2026-07-22T00:40:00+09:00",
+      "width": 3,
+      "books": 7,
+      "labels": [
+        "Cleveland Guardians",
+        "Draw",
+        "Minnesota Twins"
+      ],
+      "legs": [
+        {
+          "outcome": "Cleveland Guardians",
+          "book": "13:4",
+          "odd": 13,
+          "stake": 12614,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=13%3A4%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "6:5",
+          "odd": 2.06,
+          "stake": 79603,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=6%3A5%20sportsbook"
+        },
+        {
+          "outcome": "Minnesota Twins",
+          "book": "13:4",
+          "odd": 21.07,
+          "stake": 7783,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=13%3A4%20sportsbook"
+        }
+      ],
+      "S": 0.6098208149299978,
+      "roi": 63.9825954636841,
+      "profit": 63983,
+      "payout": 163983,
+      "staked": 100000,
+      "mins": 25,
+      "split": {
+        "S": 0.6098208149299978,
+        "payout": 163983,
+        "profit": 63983,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "13:4",
+            "odd": 13,
+            "stake": 12614
+          },
+          {
+            "book": "6:5",
+            "odd": 2.06,
+            "stake": 79603
+          },
+          {
+            "book": "13:4",
+            "odd": 21.07,
+            "stake": 7783
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
     {
       "id": "2BHwR0FL",
       "sport": "baseball",
@@ -73,7 +298,7 @@
       "profit": 63476,
       "payout": 163475,
       "staked": 99999,
-      "mins": 25,
+      "mins": 20,
       "split": {
         "S": 0.6117158890028355,
         "payout": 163475,
@@ -148,7 +373,7 @@
       "profit": 54086,
       "payout": 154086,
       "staked": 100000,
-      "mins": 25,
+      "mins": 20,
       "split": {
         "S": 0.6489863892127398,
         "payout": 154086,
