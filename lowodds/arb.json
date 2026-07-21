@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-21T15:36:59.049Z",
+  "generatedAt": "2026-07-21T15:42:33.057Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 8,
-  "arbCount": 8,
+  "scanned": 6,
+  "arbCount": 6,
   "track": {
     "stake": 100000,
     "all": {
@@ -73,7 +73,7 @@
       "profit": 241198,
       "payout": 341198,
       "staked": 100000,
-      "mins": 8,
+      "mins": 2,
       "split": {
         "S": 0.2930853609877592,
         "payout": 341198,
@@ -94,81 +94,6 @@
             "book": "5:4",
             "odd": 19.07,
             "stake": 17892
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    },
-    {
-      "id": "KQjY1WCM",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Philadelphia Phillies - Los Angeles Dodgers",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/philadelphia-phillies-los-angeles-dodgers/KQjY1WCM/",
-      "kickoff": "2026-07-22T00:40:00+09:00",
-      "width": 3,
-      "books": 5,
-      "labels": [
-        "Philadelphia Phillies",
-        "Draw",
-        "Los Angeles Dodgers"
-      ],
-      "legs": [
-        {
-          "outcome": "Philadelphia Phillies",
-          "book": "11:5",
-          "odd": 11,
-          "stake": 17086,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=11%3A5%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "6:1",
-          "odd": 2.54,
-          "stake": 73994,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=6%3A1%20sportsbook"
-        },
-        {
-          "outcome": "Los Angeles Dodgers",
-          "book": "10:7",
-          "odd": 21.07,
-          "stake": 8920,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=10%3A7%20sportsbook"
-        }
-      ],
-      "S": 0.5320707231137032,
-      "roi": 87.94493975311259,
-      "profit": 87945,
-      "payout": 187945,
-      "staked": 100000,
-      "mins": 3,
-      "split": {
-        "S": 0.5320707231137032,
-        "payout": 187945,
-        "profit": 87945,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "11:5",
-            "odd": 11,
-            "stake": 17086
-          },
-          {
-            "book": "6:1",
-            "odd": 2.54,
-            "stake": 73994
-          },
-          {
-            "book": "10:7",
-            "odd": 21.07,
-            "stake": 8920
           }
         ]
       },
@@ -223,7 +148,7 @@
       "profit": 79985,
       "payout": 179985,
       "staked": 100000,
-      "mins": 28,
+      "mins": 22,
       "split": {
         "S": 0.5556026072551448,
         "payout": 179985,
@@ -244,81 +169,6 @@
             "book": "8:5",
             "odd": 21.07,
             "stake": 8542
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    },
-    {
-      "id": "bB2P3hrA",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Cleveland Guardians - Minnesota Twins",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/cleveland-guardians-minnesota-twins/bB2P3hrA/",
-      "kickoff": "2026-07-22T00:40:00+09:00",
-      "width": 3,
-      "books": 7,
-      "labels": [
-        "Cleveland Guardians",
-        "Draw",
-        "Minnesota Twins"
-      ],
-      "legs": [
-        {
-          "outcome": "Cleveland Guardians",
-          "book": "13:4",
-          "odd": 13,
-          "stake": 12663,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=13%3A4%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "6:5",
-          "odd": 2.07,
-          "stake": 79524,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=6%3A5%20sportsbook"
-        },
-        {
-          "outcome": "Minnesota Twins",
-          "book": "13:4",
-          "odd": 21.07,
-          "stake": 7813,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=13%3A4%20sportsbook"
-        }
-      ],
-      "S": 0.607475709165728,
-      "roi": 64.61563563971013,
-      "profit": 64616,
-      "payout": 164616,
-      "staked": 100000,
-      "mins": 3,
-      "split": {
-        "S": 0.607475709165728,
-        "payout": 164616,
-        "profit": 64616,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "13:4",
-            "odd": 13,
-            "stake": 12663
-          },
-          {
-            "book": "6:5",
-            "odd": 2.07,
-            "stake": 79524
-          },
-          {
-            "book": "13:4",
-            "odd": 21.07,
-            "stake": 7813
           }
         ]
       },
@@ -373,7 +223,7 @@
       "profit": 60977,
       "payout": 160977,
       "staked": 100000,
-      "mins": 27,
+      "mins": 21,
       "split": {
         "S": 0.621208611434962,
         "payout": 160977,
@@ -448,7 +298,7 @@
       "profit": 59522,
       "payout": 159522,
       "staked": 100000,
-      "mins": 28,
+      "mins": 22,
       "split": {
         "S": 0.6268738996317674,
         "payout": 159522,
@@ -523,7 +373,7 @@
       "profit": 51837,
       "payout": 151837,
       "staked": 100000,
-      "mins": 28,
+      "mins": 22,
       "split": {
         "S": 0.6585990009593513,
         "payout": 151837,
@@ -598,7 +448,7 @@
       "profit": 51421,
       "payout": 151421,
       "staked": 100000,
-      "mins": 28,
+      "mins": 22,
       "split": {
         "S": 0.6604118068246554,
         "payout": 151421,
