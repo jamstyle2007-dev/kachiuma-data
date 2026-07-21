@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-21T01:55:40.941Z",
+  "generatedAt": "2026-07-21T02:01:09.477Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 5,
-  "arbCount": 5,
+  "scanned": 10,
+  "arbCount": 6,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,78 +22,78 @@
       "count": 16,
       "profit": 3024442
     },
-    "pending": 5
+    "pending": 10
   },
   "opps": [
     {
-      "id": "h29dl9D5",
+      "id": "KWiEGccK",
       "sport": "baseball",
       "sportLabel": "野球",
-      "teams": "Yakult Swallows - Chunichi Dragons",
-      "url": "https://www.betexplorer.com/baseball/japan/npb/yakult-swallows-chunichi-dragons/h29dl9D5/",
-      "kickoff": "2026-07-21T11:00:00+09:00",
+      "teams": "Lotte Giants - SSG Landers",
+      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/lotte-giants-ssg-landers/KWiEGccK/",
+      "kickoff": "2026-07-21T11:30:00+09:00",
       "width": 3,
       "books": 8,
       "labels": [
-        "Yakult Swallows",
+        "Lotte Giants",
         "Draw",
-        "Chunichi Dragons"
+        "SSG Landers"
       ],
       "legs": [
         {
-          "outcome": "Yakult Swallows",
-          "book": "12:4",
-          "odd": 12,
-          "stake": 17779,
+          "outcome": "Lotte Giants",
+          "book": "11:3",
+          "odd": 11,
+          "stake": 18440,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=12%3A4%20sportsbook"
+          "url": "https://www.google.com/search?q=11%3A3%20sportsbook"
         },
         {
           "outcome": "Draw",
-          "book": "3:0",
-          "odd": 2.98,
-          "stake": 71592,
+          "book": "POSTP.",
+          "odd": 2.86,
+          "stake": 70923,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=3%3A0%20sportsbook"
+          "url": "https://www.google.com/search?q=POSTP.%20sportsbook"
         },
         {
-          "outcome": "Chunichi Dragons",
-          "book": "2:4",
-          "odd": 20.07,
-          "stake": 10630,
+          "outcome": "SSG Landers",
+          "book": "8:11",
+          "odd": 19.07,
+          "stake": 10637,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=2%3A4%20sportsbook"
+          "url": "https://www.google.com/search?q=8%3A11%20sportsbook"
         }
       ],
-      "S": 0.468729413495718,
-      "roi": 113.34270289166209,
-      "profit": 113342,
-      "payout": 213343,
-      "staked": 100001,
-      "mins": 4,
+      "S": 0.4929978254571858,
+      "roi": 102.84065128941316,
+      "profit": 102841,
+      "payout": 202841,
+      "staked": 100000,
+      "mins": 29,
       "split": {
-        "S": 0.468729413495718,
-        "payout": 213343,
-        "profit": 113342,
-        "staked": 100001,
+        "S": 0.4929978254571858,
+        "payout": 202841,
+        "profit": 102841,
+        "staked": 100000,
         "legs": [
           {
-            "book": "12:4",
-            "odd": 12,
-            "stake": 17779
+            "book": "11:3",
+            "odd": 11,
+            "stake": 18440
           },
           {
-            "book": "3:0",
-            "odd": 2.98,
-            "stake": 71592
+            "book": "POSTP.",
+            "odd": 2.86,
+            "stake": 70923
           },
           {
-            "book": "2:4",
-            "odd": 20.07,
-            "stake": 10630
+            "book": "8:11",
+            "odd": 19.07,
+            "stake": 10637
           }
         ]
       },
@@ -148,7 +148,7 @@
       "profit": 85859,
       "payout": 185858,
       "staked": 99999,
-      "mins": 19,
+      "mins": 14,
       "split": {
         "S": 0.5380459222237882,
         "payout": 185858,
@@ -176,149 +176,74 @@
       "allJp": false
     },
     {
-      "id": "0YeDpRCU",
+      "id": "4xk07gK6",
       "sport": "baseball",
       "sportLabel": "野球",
-      "teams": "Fukuoka S. Hawks - Orix Buffaloes",
-      "url": "https://www.betexplorer.com/baseball/japan/npb/fukuoka-s-hawks-orix-buffaloes/0YeDpRCU/",
-      "kickoff": "2026-07-21T11:00:00+09:00",
-      "width": 3,
-      "books": 9,
-      "labels": [
-        "Fukuoka S. Hawks",
-        "Draw",
-        "Orix Buffaloes"
-      ],
-      "legs": [
-        {
-          "outcome": "Fukuoka S. Hawks",
-          "book": "9:2",
-          "odd": 9,
-          "stake": 20477,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=9%3A2%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "9:2",
-          "odd": 2.62,
-          "stake": 70341,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=9%3A2%20sportsbook"
-        },
-        {
-          "outcome": "Orix Buffaloes",
-          "book": "4:5",
-          "odd": 20.07,
-          "stake": 9182,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=4%3A5%20sportsbook"
-        }
-      ],
-      "S": 0.5426161107878151,
-      "roi": 84.29235330814578,
-      "profit": 84292,
-      "payout": 184292,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.5426161107878151,
-        "payout": 184292,
-        "profit": 84292,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "9:2",
-            "odd": 9,
-            "stake": 20477
-          },
-          {
-            "book": "9:2",
-            "odd": 2.62,
-            "stake": 70341
-          },
-          {
-            "book": "4:5",
-            "odd": 20.07,
-            "stake": 9182
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    },
-    {
-      "id": "EHc5nmrI",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Hanshin Tigers - Yokohama BayStars",
-      "url": "https://www.betexplorer.com/baseball/japan/npb/hanshin-tigers-yokohama-baystars/EHc5nmrI/",
-      "kickoff": "2026-07-21T11:00:00+09:00",
+      "teams": "Kiwoom Heroes - Samsung Lions",
+      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/kiwoom-heroes-samsung-lions/4xk07gK6/",
+      "kickoff": "2026-07-21T11:30:00+09:00",
       "width": 3,
       "books": 7,
       "labels": [
-        "Hanshin Tigers",
+        "Kiwoom Heroes",
         "Draw",
-        "Yokohama BayStars"
+        "Samsung Lions"
       ],
       "legs": [
         {
-          "outcome": "Hanshin Tigers",
-          "book": "6:5",
-          "odd": 6,
-          "stake": 30351,
+          "outcome": "Kiwoom Heroes",
+          "book": "7:3",
+          "odd": 7,
+          "stake": 25959,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=6%3A5%20sportsbook"
+          "url": "https://www.google.com/search?q=7%3A3%20sportsbook"
         },
         {
           "outcome": "Draw",
-          "book": "3:0",
-          "odd": 3.03,
-          "stake": 60100,
+          "book": "7:3",
+          "odd": 2.84,
+          "stake": 63984,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=3%3A0%20sportsbook"
+          "url": "https://www.google.com/search?q=7%3A3%20sportsbook"
         },
         {
-          "outcome": "Yokohama BayStars",
+          "outcome": "Samsung Lions",
           "book": "2:4",
-          "odd": 19.07,
-          "stake": 9549,
+          "odd": 18.07,
+          "stake": 10056,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=2%3A4%20sportsbook"
         }
       ],
-      "S": 0.5491380548647418,
-      "roi": 82.10356961079852,
-      "profit": 82104,
-      "payout": 182104,
-      "staked": 100000,
-      "mins": 4,
+      "S": 0.5503101620236082,
+      "roi": 81.71570670670265,
+      "profit": 81717,
+      "payout": 181716,
+      "staked": 99999,
+      "mins": 29,
       "split": {
-        "S": 0.5491380548647418,
-        "payout": 182104,
-        "profit": 82104,
-        "staked": 100000,
+        "S": 0.5503101620236082,
+        "payout": 181716,
+        "profit": 81717,
+        "staked": 99999,
         "legs": [
           {
-            "book": "6:5",
-            "odd": 6,
-            "stake": 30351
+            "book": "7:3",
+            "odd": 7,
+            "stake": 25959
           },
           {
-            "book": "3:0",
-            "odd": 3.03,
-            "stake": 60100
+            "book": "7:3",
+            "odd": 2.84,
+            "stake": 63984
           },
           {
             "book": "2:4",
-            "odd": 19.07,
-            "stake": 9549
+            "odd": 18.07,
+            "stake": 10056
           }
         ]
       },
@@ -326,74 +251,224 @@
       "allJp": false
     },
     {
-      "id": "px6ljVrg",
+      "id": "jFrpByLs",
       "sport": "baseball",
       "sportLabel": "野球",
-      "teams": "Yomiuri Giants - Hiroshima Carp",
-      "url": "https://www.betexplorer.com/baseball/japan/npb/yomiuri-giants-hiroshima-carp/px6ljVrg/",
-      "kickoff": "2026-07-21T11:00:00+09:00",
+      "teams": "KT Wiz Suwon - Doosan Bears",
+      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/kt-wiz-suwon-doosan-bears/jFrpByLs/",
+      "kickoff": "2026-07-21T11:30:00+09:00",
       "width": 3,
-      "books": 8,
+      "books": 5,
       "labels": [
-        "Yomiuri Giants",
+        "KT Wiz Suwon",
         "Draw",
-        "Hiroshima Carp"
+        "Doosan Bears"
       ],
       "legs": [
         {
-          "outcome": "Yomiuri Giants",
-          "book": "11:6",
-          "odd": 11,
-          "stake": 15692,
+          "outcome": "KT Wiz Suwon",
+          "book": "7:3",
+          "odd": 7,
+          "stake": 25959,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=11%3A6%20sportsbook"
+          "url": "https://www.google.com/search?q=7%3A3%20sportsbook"
         },
         {
           "outcome": "Draw",
-          "book": "3:1",
-          "odd": 2.28,
-          "stake": 75707,
+          "book": "7:3",
+          "odd": 2.84,
+          "stake": 63984,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=3%3A1%20sportsbook"
+          "url": "https://www.google.com/search?q=7%3A3%20sportsbook"
         },
         {
-          "outcome": "Hiroshima Carp",
-          "book": "3:1",
-          "odd": 20.07,
-          "stake": 8601,
+          "outcome": "Doosan Bears",
+          "book": "2:8",
+          "odd": 18.07,
+          "stake": 10056,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=3%3A1%20sportsbook"
+          "url": "https://www.google.com/search?q=2%3A8%20sportsbook"
         }
       ],
-      "S": 0.5793311925008882,
-      "roi": 72.61283579141424,
-      "profit": 72613,
-      "payout": 172613,
-      "staked": 100000,
-      "mins": 4,
+      "S": 0.5503101620236082,
+      "roi": 81.71570670670265,
+      "profit": 81717,
+      "payout": 181716,
+      "staked": 99999,
+      "mins": 29,
       "split": {
-        "S": 0.5793311925008882,
-        "payout": 172613,
-        "profit": 72613,
+        "S": 0.5503101620236082,
+        "payout": 181716,
+        "profit": 81717,
+        "staked": 99999,
+        "legs": [
+          {
+            "book": "7:3",
+            "odd": 7,
+            "stake": 25959
+          },
+          {
+            "book": "7:3",
+            "odd": 2.84,
+            "stake": 63984
+          },
+          {
+            "book": "2:8",
+            "odd": 18.07,
+            "stake": 10056
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "WOjh9Fkf",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "KIA Tigers - Hanwha Eagles",
+      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/kia-tigers-hanwha-eagles/WOjh9Fkf/",
+      "kickoff": "2026-07-21T11:30:00+09:00",
+      "width": 3,
+      "books": 10,
+      "labels": [
+        "KIA Tigers",
+        "Draw",
+        "Hanwha Eagles"
+      ],
+      "legs": [
+        {
+          "outcome": "KIA Tigers",
+          "book": "11:3",
+          "odd": 11,
+          "stake": 15518,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=11%3A3%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "5:9",
+          "odd": 2.26,
+          "stake": 75531,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=5%3A9%20sportsbook"
+        },
+        {
+          "outcome": "Hanwha Eagles",
+          "book": "5:9",
+          "odd": 19.07,
+          "stake": 8951,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=5%3A9%20sportsbook"
+        }
+      ],
+      "S": 0.5858253519130308,
+      "roi": 70.69933841792081,
+      "profit": 70699,
+      "payout": 170699,
+      "staked": 100000,
+      "mins": 29,
+      "split": {
+        "S": 0.5858253519130308,
+        "payout": 170699,
+        "profit": 70699,
         "staked": 100000,
         "legs": [
           {
-            "book": "11:6",
+            "book": "11:3",
             "odd": 11,
-            "stake": 15692
+            "stake": 15518
           },
           {
-            "book": "3:1",
-            "odd": 2.28,
-            "stake": 75707
+            "book": "5:9",
+            "odd": 2.26,
+            "stake": 75531
           },
           {
-            "book": "3:1",
-            "odd": 20.07,
-            "stake": 8601
+            "book": "5:9",
+            "odd": 19.07,
+            "stake": 8951
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "vyFRhf5D",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "LG Twins - NC Dinos",
+      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/lg-twins-nc-dinos/vyFRhf5D/",
+      "kickoff": "2026-07-21T11:30:00+09:00",
+      "width": 3,
+      "books": 7,
+      "labels": [
+        "LG Twins",
+        "Draw",
+        "NC Dinos"
+      ],
+      "legs": [
+        {
+          "outcome": "LG Twins",
+          "book": "9:2",
+          "odd": 9,
+          "stake": 16421,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=9%3A2%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "POSTP.",
+          "odd": 1.96,
+          "stake": 75401,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=POSTP.%20sportsbook"
+        },
+        {
+          "outcome": "NC Dinos",
+          "book": "2:8",
+          "odd": 18.07,
+          "stake": 8179,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=2%3A8%20sportsbook"
+        }
+      ],
+      "S": 0.6766555358538914,
+      "roi": 47.78568222870901,
+      "profit": 47785,
+      "payout": 147786,
+      "staked": 100001,
+      "mins": 29,
+      "split": {
+        "S": 0.6766555358538914,
+        "payout": 147786,
+        "profit": 47785,
+        "staked": 100001,
+        "legs": [
+          {
+            "book": "9:2",
+            "odd": 9,
+            "stake": 16421
+          },
+          {
+            "book": "POSTP.",
+            "odd": 1.96,
+            "stake": 75401
+          },
+          {
+            "book": "2:8",
+            "odd": 18.07,
+            "stake": 8179
           }
         ]
       },
