@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-21T23:25:51.065Z",
+  "generatedAt": "2026-07-21T23:31:12.008Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 1,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 40,
       "profit": 5279939
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "x02yWUnn",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Tauranga Whai - Otago Nuggets",
+      "url": "https://www.betexplorer.com/basketball/new-zealand/nbl/tauranga-whai-otago-nuggets/x02yWUnn/",
+      "kickoff": "2026-07-22T09:00:00+09:00",
+      "width": 3,
+      "books": 9,
+      "labels": [
+        "Tauranga Whai",
+        "Draw",
+        "Otago Nuggets"
+      ],
+      "legs": [
+        {
+          "outcome": "Tauranga Whai",
+          "book": "107:95",
+          "odd": 107,
+          "stake": 5740,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=107%3A95%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "59:109",
+          "odd": 8.32,
+          "stake": 73821,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=59%3A109%20sportsbook"
+        },
+        {
+          "outcome": "Otago Nuggets",
+          "book": "94:88",
+          "odd": 30.05,
+          "stake": 20439,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=94%3A88%20sportsbook"
+        }
+      ],
+      "S": 0.1628159723011372,
+      "roi": 514.1903560606722,
+      "profit": 514190,
+      "payout": 614190,
+      "staked": 100000,
+      "mins": 29,
+      "split": {
+        "S": 0.1628159723011372,
+        "payout": 614190,
+        "profit": 514190,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "107:95",
+            "odd": 107,
+            "stake": 5740
+          },
+          {
+            "book": "59:109",
+            "odd": 8.32,
+            "stake": 73821
+          },
+          {
+            "book": "94:88",
+            "odd": 30.05,
+            "stake": 20439
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
