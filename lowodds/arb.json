@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-21T15:42:33.057Z",
+  "generatedAt": "2026-07-21T15:48:04.744Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 6,
-  "arbCount": 6,
+  "scanned": 5,
+  "arbCount": 5,
   "track": {
     "stake": 100000,
     "all": {
@@ -25,81 +25,6 @@
     "pending": 10
   },
   "opps": [
-    {
-      "id": "UL1IJI7e",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Worcester - Jacksonville Jumbo Shrimp",
-      "url": "https://www.betexplorer.com/baseball/usa/il/worcester-red-sox-jacksonville-jumbo-shrimp/UL1IJI7e/",
-      "kickoff": "2026-07-22T00:45:00+09:00",
-      "width": 3,
-      "books": 10,
-      "labels": [
-        "Worcester",
-        "Draw",
-        "Jacksonville Jumbo Shrimp"
-      ],
-      "legs": [
-        {
-          "outcome": "Worcester",
-          "book": "10:2",
-          "odd": 10,
-          "stake": 34120,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=10%3A2%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "10:2",
-          "odd": 7.11,
-          "stake": 47988,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=10%3A2%20sportsbook"
-        },
-        {
-          "outcome": "Jacksonville Jumbo Shrimp",
-          "book": "5:4",
-          "odd": 19.07,
-          "stake": 17892,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=5%3A4%20sportsbook"
-        }
-      ],
-      "S": 0.2930853609877592,
-      "roi": 241.19752574123456,
-      "profit": 241198,
-      "payout": 341198,
-      "staked": 100000,
-      "mins": 2,
-      "split": {
-        "S": 0.2930853609877592,
-        "payout": 341198,
-        "profit": 241198,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "10:2",
-            "odd": 10,
-            "stake": 34120
-          },
-          {
-            "book": "10:2",
-            "odd": 7.11,
-            "stake": 47988
-          },
-          {
-            "book": "5:4",
-            "odd": 19.07,
-            "stake": 17892
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    },
     {
       "id": "QRVCfl5d",
       "sport": "baseball",
@@ -148,7 +73,7 @@
       "profit": 79985,
       "payout": 179985,
       "staked": 100000,
-      "mins": 22,
+      "mins": 17,
       "split": {
         "S": 0.5556026072551448,
         "payout": 179985,
@@ -223,7 +148,7 @@
       "profit": 60977,
       "payout": 160977,
       "staked": 100000,
-      "mins": 21,
+      "mins": 16,
       "split": {
         "S": 0.621208611434962,
         "payout": 160977,
@@ -298,7 +223,7 @@
       "profit": 59522,
       "payout": 159522,
       "staked": 100000,
-      "mins": 22,
+      "mins": 17,
       "split": {
         "S": 0.6268738996317674,
         "payout": 159522,
@@ -373,7 +298,7 @@
       "profit": 51837,
       "payout": 151837,
       "staked": 100000,
-      "mins": 22,
+      "mins": 17,
       "split": {
         "S": 0.6585990009593513,
         "payout": 151837,
@@ -448,7 +373,7 @@
       "profit": 51421,
       "payout": 151421,
       "staked": 100000,
-      "mins": 22,
+      "mins": 17,
       "split": {
         "S": 0.6604118068246554,
         "payout": 151421,
