@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-21T03:01:38.711Z",
+  "generatedAt": "2026-07-21T03:07:04.332Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 4,
-  "arbCount": 0,
+  "scanned": 5,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 16,
       "profit": 3024442
     },
-    "pending": 10
+    "pending": 11
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "C0ntArOp",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Chinatrust Brothers - TSG Hawks",
+      "url": "https://www.betexplorer.com/baseball/taiwan/cpbl/chinatrust-brothers-tsg-hawks/C0ntArOp/",
+      "kickoff": "2026-07-21T12:35:00+09:00",
+      "width": 3,
+      "books": 8,
+      "labels": [
+        "Chinatrust Brothers",
+        "Draw",
+        "TSG Hawks"
+      ],
+      "legs": [
+        {
+          "outcome": "Chinatrust Brothers",
+          "book": "9:1",
+          "odd": 9,
+          "stake": 21872,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=9%3A1%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "5:0",
+          "odd": 2.75,
+          "stake": 71580,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=5%3A0%20sportsbook"
+        },
+        {
+          "outcome": "TSG Hawks",
+          "book": "9:1",
+          "odd": 30.06,
+          "stake": 6548,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=9%3A1%20sportsbook"
+        }
+      ],
+      "S": 0.5080142744813404,
+      "roi": 96.84486248362899,
+      "profit": 96845,
+      "payout": 196845,
+      "staked": 100000,
+      "mins": 28,
+      "split": {
+        "S": 0.5080142744813404,
+        "payout": 196845,
+        "profit": 96845,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "9:1",
+            "odd": 9,
+            "stake": 21872
+          },
+          {
+            "book": "5:0",
+            "odd": 2.75,
+            "stake": 71580
+          },
+          {
+            "book": "9:1",
+            "odd": 30.06,
+            "stake": 6548
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
