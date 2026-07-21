@@ -1,41 +1,41 @@
 {
-  "generatedAt": "2026-07-21T14:04:50.142Z",
+  "generatedAt": "2026-07-21T17:05:11.610Z",
   "windowDays": 400,
   "total": 300,
   "hits": 205,
   "hitRate": 0.6833333333333333,
   "sim": {
     "stake": 10000,
-    "asOf": "2026-07-21T14:04:50.142Z",
+    "asOf": "2026-07-21T17:05:11.610Z",
     "byMinStars": {
       "1": {
         "all": {
-          "n": 1100,
-          "hits": 735,
-          "staked": 11000000,
-          "returns": 9308800,
-          "profit": -1691200
+          "n": 1101,
+          "hits": 736,
+          "staked": 11010000,
+          "returns": 9323800,
+          "profit": -1686200
         },
         "year": {
-          "n": 1100,
-          "hits": 735,
-          "staked": 11000000,
-          "returns": 9308800,
-          "profit": -1691200
+          "n": 1101,
+          "hits": 736,
+          "staked": 11010000,
+          "returns": 9323800,
+          "profit": -1686200
         },
         "month": {
-          "n": 1100,
-          "hits": 735,
-          "staked": 11000000,
-          "returns": 9308800,
-          "profit": -1691200
+          "n": 1101,
+          "hits": 736,
+          "staked": 11010000,
+          "returns": 9323800,
+          "profit": -1686200
         },
         "week": {
-          "n": 29,
-          "hits": 19,
-          "staked": 290000,
-          "returns": 250700,
-          "profit": -39300
+          "n": 30,
+          "hits": 20,
+          "staked": 300000,
+          "returns": 265700,
+          "profit": -34300
         }
       },
       "2": {
@@ -161,6 +161,23 @@
     }
   },
   "settled": [
+    {
+      "id": "nehqPWFM",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "PHILIPPINES: PBA GOVERNORS' CUP",
+      "favTeam": "Meralco Bolts",
+      "underTeam": "Blackwater Bossing",
+      "favIsHome": true,
+      "favOdd": 1.5,
+      "prob": 67,
+      "stars": 1,
+      "kickoff": "2026-07-21T11:15:00+09:00",
+      "homeScore": 116,
+      "awayScore": 114,
+      "isDraw": false,
+      "favWon": true
+    },
     {
       "id": "Wlm2xmpK",
       "sport": "バスケ",
@@ -5243,23 +5260,6 @@
       "awayScore": 0,
       "isDraw": true,
       "favWon": false
-    },
-    {
-      "id": "0UAfXaQH",
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "EUROPE: EUROPEAN CHAMPIONSHIP U20 B",
-      "favTeam": "Estonia U20",
-      "underTeam": "Georgia U20",
-      "favIsHome": false,
-      "favOdd": 1.01,
-      "prob": 99,
-      "stars": 5,
-      "kickoff": "2026-07-16T20:30:00+09:00",
-      "homeScore": 3,
-      "awayScore": 5,
-      "isDraw": false,
-      "favWon": true
     }
   ]
 }
