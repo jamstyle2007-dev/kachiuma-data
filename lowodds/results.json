@@ -1,41 +1,41 @@
 {
-  "generatedAt": "2026-07-21T23:06:03.030Z",
+  "generatedAt": "2026-07-22T14:03:08.350Z",
   "windowDays": 400,
   "total": 300,
   "hits": 205,
   "hitRate": 0.6833333333333333,
   "sim": {
     "stake": 10000,
-    "asOf": "2026-07-21T23:06:03.030Z",
+    "asOf": "2026-07-22T14:03:08.350Z",
     "byMinStars": {
       "1": {
         "all": {
-          "n": 1101,
+          "n": 1102,
           "hits": 736,
-          "staked": 11010000,
+          "staked": 11020000,
           "returns": 9323800,
-          "profit": -1686200
+          "profit": -1696200
         },
         "year": {
-          "n": 1101,
+          "n": 1102,
           "hits": 736,
-          "staked": 11010000,
+          "staked": 11020000,
           "returns": 9323800,
-          "profit": -1686200
+          "profit": -1696200
         },
         "month": {
-          "n": 1101,
+          "n": 1102,
           "hits": 736,
-          "staked": 11010000,
+          "staked": 11020000,
           "returns": 9323800,
-          "profit": -1686200
+          "profit": -1696200
         },
         "week": {
-          "n": 30,
+          "n": 31,
           "hits": 20,
-          "staked": 300000,
+          "staked": 310000,
           "returns": 265700,
-          "profit": -34300
+          "profit": -44300
         }
       },
       "2": {
@@ -161,6 +161,23 @@
     }
   },
   "settled": [
+    {
+      "id": "d4OptlEN",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF WOMEN - SINGLES: W75 CORDENONS, CLAY",
+      "favTeam": "Martinez Cirez C.",
+      "underTeam": "Tanasie L.",
+      "favIsHome": false,
+      "favOdd": 1.46,
+      "prob": 68,
+      "stars": 1,
+      "kickoff": "2026-07-22T16:00:00+09:00",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isDraw": true,
+      "favWon": false
+    },
     {
       "id": "nehqPWFM",
       "sport": "バスケ",
@@ -5243,23 +5260,6 @@
       "awayScore": 0,
       "isDraw": false,
       "favWon": true
-    },
-    {
-      "id": "SvDyV4kf",
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "WTA - DOUBLES: IASI, CLAY",
-      "favTeam": "Charaeva A. / Kulambayeva Z.",
-      "underTeam": "Garcia-Perez G. / Ibragimova A.",
-      "favIsHome": true,
-      "favOdd": 1.55,
-      "prob": 65,
-      "stars": 1,
-      "kickoff": "2026-07-16T20:40:00+09:00",
-      "homeScore": 0,
-      "awayScore": 0,
-      "isDraw": true,
-      "favWon": false
     }
   ]
 }
