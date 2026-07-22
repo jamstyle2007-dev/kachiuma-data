@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-22T16:36:52.224Z",
+  "generatedAt": "2026-07-22T16:42:54.559Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 1,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 42,
       "profit": 5868996
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "t2VskQTP",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Indiana Fever W - Connecticut Sun W",
+      "url": "https://www.betexplorer.com/basketball/usa/wnba/indiana-fever-connecticut-sun/t2VskQTP/",
+      "kickoff": "2026-07-23T02:00:00+09:00",
+      "width": 3,
+      "books": 10,
+      "labels": [
+        "Indiana Fever W",
+        "Draw",
+        "Connecticut Sun W"
+      ],
+      "legs": [
+        {
+          "outcome": "Indiana Fever W",
+          "book": "111:87",
+          "odd": 111,
+          "stake": 3045,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=111%3A87%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "110:107",
+          "odd": 3.98,
+          "stake": 84912,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=110%3A107%20sportsbook"
+        },
+        {
+          "outcome": "Connecticut Sun W",
+          "book": "111:87",
+          "odd": 28.06,
+          "stake": 12044,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=111%3A87%20sportsbook"
+        }
+      ],
+      "S": 0.29590320916158946,
+      "roi": 237.9483456206489,
+      "profit": 237947,
+      "payout": 337948,
+      "staked": 100001,
+      "mins": 17,
+      "split": {
+        "S": 0.29590320916158946,
+        "payout": 337948,
+        "profit": 237947,
+        "staked": 100001,
+        "legs": [
+          {
+            "book": "111:87",
+            "odd": 111,
+            "stake": 3045
+          },
+          {
+            "book": "110:107",
+            "odd": 3.98,
+            "stake": 84912
+          },
+          {
+            "book": "111:87",
+            "odd": 28.06,
+            "stake": 12044
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
