@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-22T18:30:14.365Z",
+  "generatedAt": "2026-07-22T18:35:38.079Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 42,
       "profit": 5868996
     },
-    "pending": 2
+    "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "CpMDq4im",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Portland Fire W - Dallas Wings W",
+      "url": "https://www.betexplorer.com/basketball/usa/wnba/portland-fire-dallas-wings/CpMDq4im/",
+      "kickoff": "2026-07-23T04:00:00+09:00",
+      "width": 2,
+      "books": 18,
+      "labels": [
+        "Portland Fire W",
+        "Dallas Wings W"
+      ],
+      "legs": [
+        {
+          "outcome": "Portland Fire W",
+          "book": "BetInAsia",
+          "odd": 3.1,
+          "stake": 32314,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.betinasia.com/"
+        },
+        {
+          "outcome": "Dallas Wings W",
+          "book": "bwin",
+          "odd": 1.48,
+          "stake": 67686,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        }
+      ],
+      "S": 0.9982563208369659,
+      "roi": 0.17467248908298316,
+      "profit": 175,
+      "payout": 100175,
+      "staked": 100000,
+      "mins": 24,
+      "split": {
+        "S": 0.9982563208369659,
+        "payout": 100175,
+        "profit": 175,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "BetInAsia",
+            "odd": 3.1,
+            "stake": 32314
+          },
+          {
+            "book": "bwin",
+            "odd": 1.48,
+            "stake": 67686
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    }
+  ]
 }
