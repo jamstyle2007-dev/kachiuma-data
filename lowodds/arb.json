@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-22T18:02:34.704Z",
+  "generatedAt": "2026-07-22T18:07:58.512Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "Gf2huaSH",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Ancud - Naviera Ulloa",
-      "url": "https://www.betexplorer.com/basketball/chile/lnb/ancud-naviera-ulloa/Gf2huaSH/",
-      "kickoff": "2026-07-23T03:30:00+09:00",
-      "width": 2,
-      "books": 11,
-      "labels": [
-        "Ancud",
-        "Naviera Ulloa"
-      ],
-      "legs": [
-        {
-          "outcome": "Ancud",
-          "book": "William Hill",
-          "odd": 1.36,
-          "stake": 74046,
-          "jp": false,
-          "exch": false,
-          "url": "https://sports.williamhill.com/"
-        },
-        {
-          "outcome": "Naviera Ulloa",
-          "book": "1xBet",
-          "odd": 3.88,
-          "stake": 25954,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        }
-      ],
-      "S": 0.9930260764099454,
-      "roi": 0.7022900763358653,
-      "profit": 702,
-      "payout": 100702,
-      "staked": 100000,
-      "mins": 27,
-      "split": {
-        "S": 0.9930260764099454,
-        "payout": 100702,
-        "profit": 702,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "William Hill",
-            "odd": 1.36,
-            "stake": 74046
-          },
-          {
-            "book": "1xBet",
-            "odd": 3.88,
-            "stake": 25954
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
