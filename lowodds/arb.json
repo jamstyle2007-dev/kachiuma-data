@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-22T00:57:37.498Z",
+  "generatedAt": "2026-07-22T01:03:04.094Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "zyDbV8q3",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "Italy W - Netherlands W",
-      "url": "https://www.betexplorer.com/volleyball/world/nations-league-women/italy-netherlands/zyDbV8q3/",
-      "kickoff": "2026-07-22T10:00:00+09:00",
-      "width": 3,
-      "books": 6,
-      "labels": [
-        "Italy W",
-        "Draw",
-        "Netherlands W"
-      ],
-      "legs": [
-        {
-          "outcome": "Italy W",
-          "book": "3:0",
-          "odd": 3,
-          "stake": 58289,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=3%3A0%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "2:3",
-          "odd": 5.3,
-          "stake": 32994,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=2%3A3%20sportsbook"
-        },
-        {
-          "outcome": "Netherlands W",
-          "book": "3:0",
-          "odd": 20.06,
-          "stake": 8717,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=3%3A0%20sportsbook"
-        }
-      ],
-      "S": 0.5718630272703901,
-      "roi": 74.86704898080023,
-      "profit": 74867,
-      "payout": 174867,
-      "staked": 100000,
-      "mins": 2,
-      "split": {
-        "S": 0.5718630272703901,
-        "payout": 174867,
-        "profit": 74867,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "3:0",
-            "odd": 3,
-            "stake": 58289
-          },
-          {
-            "book": "2:3",
-            "odd": 5.3,
-            "stake": 32994
-          },
-          {
-            "book": "3:0",
-            "odd": 20.06,
-            "stake": 8717
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
