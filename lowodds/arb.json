@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-23T17:28:28.857Z",
+  "generatedAt": "2026-07-23T17:33:53.528Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 1,
+  "scanned": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "K6Vav9aL",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Leones Quilpue - U. De Concepcion",
-      "url": "https://www.betexplorer.com/basketball/chile/lnb/leones-de-quilpue-universidad-de-concepcion/K6Vav9aL/",
-      "kickoff": "2026-07-24T02:30:00+09:00",
-      "width": 2,
-      "books": 14,
-      "labels": [
-        "Leones Quilpue",
-        "U. De Concepcion"
-      ],
-      "legs": [
-        {
-          "outcome": "Leones Quilpue",
-          "book": "William Hill",
-          "odd": 2.38,
-          "stake": 45413,
-          "jp": false,
-          "exch": false,
-          "url": "https://sports.williamhill.com/"
-        },
-        {
-          "outcome": "U. De Concepcion",
-          "book": "bwin",
-          "odd": 1.98,
-          "stake": 54587,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        }
-      ],
-      "S": 0.9252185722773958,
-      "roi": 8.082568807339442,
-      "profit": 8083,
-      "payout": 108083,
-      "staked": 100000,
-      "mins": 2,
-      "split": {
-        "S": 0.9252185722773958,
-        "payout": 108083,
-        "profit": 8083,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "William Hill",
-            "odd": 2.38,
-            "stake": 45413
-          },
-          {
-            "book": "bwin",
-            "odd": 1.98,
-            "stake": 54587
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
