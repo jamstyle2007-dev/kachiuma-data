@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T16:54:21.235Z",
+  "generatedAt": "2026-07-24T16:59:46.897Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
@@ -63,7 +63,7 @@
       "profit": 9466,
       "payout": 109466,
       "staked": 100000,
-      "mins": 6,
+      "mins": 0,
       "split": {
         "S": 0.9135243841126195,
         "payout": 109466,
@@ -103,42 +103,42 @@
           "outcome": "Vaqueros de Bayamon",
           "book": "William Hill",
           "odd": 1.91,
-          "stake": 52488,
+          "stake": 52605,
           "jp": false,
           "exch": false,
           "url": "https://sports.williamhill.com/"
         },
         {
           "outcome": "Criollos de Caguas",
-          "book": "1xBet",
-          "odd": 2.11,
-          "stake": 47512,
-          "jp": true,
+          "book": "Bets.io",
+          "odd": 2.12,
+          "stake": 47395,
+          "jp": false,
           "exch": false,
-          "url": "https://1xbet.com/ja"
+          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
         }
       ],
-      "S": 0.9974938587131833,
-      "roi": 0.2512437810945345,
-      "profit": 251,
-      "payout": 100251,
+      "S": 0.9952583226316309,
+      "roi": 0.47642679900743445,
+      "profit": 476,
+      "payout": 100476,
       "staked": 100000,
-      "mins": 6,
+      "mins": 0,
       "split": {
-        "S": 0.9974938587131833,
-        "payout": 100251,
-        "profit": 251,
+        "S": 0.9952583226316309,
+        "payout": 100476,
+        "profit": 476,
         "staked": 100000,
         "legs": [
           {
             "book": "William Hill",
             "odd": 1.91,
-            "stake": 52488
+            "stake": 52605
           },
           {
-            "book": "1xBet",
-            "odd": 2.11,
-            "stake": 47512
+            "book": "Bets.io",
+            "odd": 2.12,
+            "stake": 47395
           }
         ]
       },
