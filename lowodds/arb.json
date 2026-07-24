@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T16:27:15.293Z",
+  "generatedAt": "2026-07-24T16:32:40.141Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
@@ -22,68 +22,68 @@
       "count": 49,
       "profit": 6194922
     },
-    "pending": 2
+    "pending": 3
   },
   "opps": [
     {
-      "id": "CU80NKzA",
+      "id": "jkMVYnNr",
       "sport": "basketball",
       "sportLabel": "バスケ",
-      "teams": "Montreal Alliance - Ottawa Blackjacks",
-      "url": "https://www.betexplorer.com/basketball/canada/cebl/montreal-alliance-ottawa-blackjacks/CU80NKzA/",
-      "kickoff": "2026-07-25T01:30:00+09:00",
+      "teams": "U. De Concepcion - Espanol de Talca",
+      "url": "https://www.betexplorer.com/basketball/chile/lnb/universidad-de-concepcion-espanol-de-talca/jkMVYnNr/",
+      "kickoff": "2026-07-25T02:00:00+09:00",
       "width": 2,
-      "books": 13,
+      "books": 2,
       "labels": [
-        "Montreal Alliance",
-        "Ottawa Blackjacks"
+        "U. De Concepcion",
+        "Espanol de Talca"
       ],
       "legs": [
         {
-          "outcome": "Montreal Alliance",
-          "book": "Unibet",
-          "odd": 2.15,
-          "stake": 49412,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.unibet.com/"
-        },
-        {
-          "outcome": "Ottawa Blackjacks",
+          "outcome": "U. De Concepcion",
           "book": "Betfair",
-          "odd": 2.1,
-          "stake": 50588,
+          "odd": 1.17,
+          "stake": 93561,
           "jp": true,
           "exch": true,
           "url": "https://www.betfair.com/exchange/plus/"
+        },
+        {
+          "outcome": "Espanol de Talca",
+          "book": "bwin",
+          "odd": 17,
+          "stake": 6439,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
         }
       ],
-      "S": 0.9413067552602437,
-      "roi": 6.23529411764705,
-      "profit": 6235,
-      "payout": 106235,
+      "S": 0.9135243841126195,
+      "roi": 9.46615299944964,
+      "profit": 9466,
+      "payout": 109466,
       "staked": 100000,
-      "mins": 3,
+      "mins": 27,
       "split": {
-        "S": 0.9413067552602437,
-        "payout": 106235,
-        "profit": 6235,
+        "S": 0.9135243841126195,
+        "payout": 109466,
+        "profit": 9466,
         "staked": 100000,
         "legs": [
           {
-            "book": "Unibet",
-            "odd": 2.15,
-            "stake": 49412
+            "book": "Betfair",
+            "odd": 1.17,
+            "stake": 93561
           },
           {
-            "book": "Betfair",
-            "odd": 2.1,
-            "stake": 50588
+            "book": "bwin",
+            "odd": 17,
+            "stake": 6439
           }
         ]
       },
       "hasExch": true,
-      "allJp": false
+      "allJp": true
     }
   ]
 }
