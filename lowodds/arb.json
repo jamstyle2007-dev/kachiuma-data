@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-24T16:59:46.897Z",
+  "generatedAt": "2026-07-24T17:05:12.934Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 2,
+  "scanned": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,126 +24,5 @@
     },
     "pending": 4
   },
-  "opps": [
-    {
-      "id": "jkMVYnNr",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "U. De Concepcion - Espanol de Talca",
-      "url": "https://www.betexplorer.com/basketball/chile/lnb/universidad-de-concepcion-espanol-de-talca/jkMVYnNr/",
-      "kickoff": "2026-07-25T02:00:00+09:00",
-      "width": 2,
-      "books": 2,
-      "labels": [
-        "U. De Concepcion",
-        "Espanol de Talca"
-      ],
-      "legs": [
-        {
-          "outcome": "U. De Concepcion",
-          "book": "Betfair",
-          "odd": 1.17,
-          "stake": 93561,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        },
-        {
-          "outcome": "Espanol de Talca",
-          "book": "bwin",
-          "odd": 17,
-          "stake": 6439,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        }
-      ],
-      "S": 0.9135243841126195,
-      "roi": 9.46615299944964,
-      "profit": 9466,
-      "payout": 109466,
-      "staked": 100000,
-      "mins": 0,
-      "split": {
-        "S": 0.9135243841126195,
-        "payout": 109466,
-        "profit": 9466,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betfair",
-            "odd": 1.17,
-            "stake": 93561
-          },
-          {
-            "book": "bwin",
-            "odd": 17,
-            "stake": 6439
-          }
-        ]
-      },
-      "hasExch": true,
-      "allJp": true
-    },
-    {
-      "id": "SWKhWrSk",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Vaqueros de Bayamon - Criollos de Caguas",
-      "url": "https://www.betexplorer.com/basketball/puerto-rico/bsn/vaqueros-de-bayamon-criollos-de-caguas/SWKhWrSk/",
-      "kickoff": "2026-07-25T02:00:00+09:00",
-      "width": 2,
-      "books": 15,
-      "labels": [
-        "Vaqueros de Bayamon",
-        "Criollos de Caguas"
-      ],
-      "legs": [
-        {
-          "outcome": "Vaqueros de Bayamon",
-          "book": "William Hill",
-          "odd": 1.91,
-          "stake": 52605,
-          "jp": false,
-          "exch": false,
-          "url": "https://sports.williamhill.com/"
-        },
-        {
-          "outcome": "Criollos de Caguas",
-          "book": "Bets.io",
-          "odd": 2.12,
-          "stake": 47395,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
-        }
-      ],
-      "S": 0.9952583226316309,
-      "roi": 0.47642679900743445,
-      "profit": 476,
-      "payout": 100476,
-      "staked": 100000,
-      "mins": 0,
-      "split": {
-        "S": 0.9952583226316309,
-        "payout": 100476,
-        "profit": 476,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "William Hill",
-            "odd": 1.91,
-            "stake": 52605
-          },
-          {
-            "book": "Bets.io",
-            "odd": 2.12,
-            "stake": 47395
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
