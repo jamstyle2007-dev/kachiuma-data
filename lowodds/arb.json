@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-24T09:42:11.153Z",
+  "generatedAt": "2026-07-24T09:47:44.203Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "rcq7h8rn",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Eagles Prague - Draci Brno",
-      "url": "https://www.betexplorer.com/baseball/czech-republic/extraliga/eagles-prague-draci-brno/rcq7h8rn/",
-      "kickoff": "2026-07-24T19:00:00+09:00",
-      "width": 3,
-      "books": 7,
-      "labels": [
-        "Eagles Prague",
-        "Draw",
-        "Draci Brno"
-      ],
-      "legs": [
-        {
-          "outcome": "Eagles Prague",
-          "book": "10:0",
-          "odd": 10,
-          "stake": 17368,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=10%3A0%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "2:0",
-          "odd": 2.26,
-          "stake": 76852,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=2%3A0%20sportsbook"
-        },
-        {
-          "outcome": "Draci Brno",
-          "book": "4:6",
-          "odd": 30.05,
-          "stake": 5780,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=4%3A6%20sportsbook"
-        }
-      ],
-      "S": 0.5757557463225008,
-      "roi": 73.68476239920412,
-      "profit": 73685,
-      "payout": 173685,
-      "staked": 100000,
-      "mins": 18,
-      "split": {
-        "S": 0.5757557463225008,
-        "payout": 173685,
-        "profit": 73685,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "10:0",
-            "odd": 10,
-            "stake": 17368
-          },
-          {
-            "book": "2:0",
-            "odd": 2.26,
-            "stake": 76852
-          },
-          {
-            "book": "4:6",
-            "odd": 30.05,
-            "stake": 5780
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
