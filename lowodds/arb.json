@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-24T16:43:30.310Z",
+  "generatedAt": "2026-07-24T16:48:56.264Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
-  "arbCount": 1,
+  "arbCount": 2,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,7 @@
       "count": 49,
       "profit": 6194922
     },
-    "pending": 3
+    "pending": 4
   },
   "opps": [
     {
@@ -63,7 +63,7 @@
       "profit": 9466,
       "payout": 109466,
       "staked": 100000,
-      "mins": 16,
+      "mins": 11,
       "split": {
         "S": 0.9135243841126195,
         "payout": 109466,
@@ -84,6 +84,66 @@
       },
       "hasExch": true,
       "allJp": true
+    },
+    {
+      "id": "SWKhWrSk",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Vaqueros de Bayamon - Criollos de Caguas",
+      "url": "https://www.betexplorer.com/basketball/puerto-rico/bsn/vaqueros-de-bayamon-criollos-de-caguas/SWKhWrSk/",
+      "kickoff": "2026-07-25T02:00:00+09:00",
+      "width": 2,
+      "books": 15,
+      "labels": [
+        "Vaqueros de Bayamon",
+        "Criollos de Caguas"
+      ],
+      "legs": [
+        {
+          "outcome": "Vaqueros de Bayamon",
+          "book": "William Hill",
+          "odd": 1.91,
+          "stake": 52488,
+          "jp": false,
+          "exch": false,
+          "url": "https://sports.williamhill.com/"
+        },
+        {
+          "outcome": "Criollos de Caguas",
+          "book": "BetInAsia",
+          "odd": 2.11,
+          "stake": 47512,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.betinasia.com/"
+        }
+      ],
+      "S": 0.9974938587131833,
+      "roi": 0.2512437810945345,
+      "profit": 251,
+      "payout": 100251,
+      "staked": 100000,
+      "mins": 11,
+      "split": {
+        "S": 0.9974938587131833,
+        "payout": 100251,
+        "profit": 251,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "William Hill",
+            "odd": 1.91,
+            "stake": 52488
+          },
+          {
+            "book": "BetInAsia",
+            "odd": 2.11,
+            "stake": 47512
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
     }
   ]
 }
