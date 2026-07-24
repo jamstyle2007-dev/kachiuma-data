@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-24T15:04:59.756Z",
+  "generatedAt": "2026-07-24T15:10:23.035Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 0,
+  "scanned": 3,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 49,
       "profit": 6194922
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "GATZOBX1",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Pittsburgh Pirates - Chicago Cubs",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/pittsburgh-pirates-chicago-cubs/GATZOBX1/",
+      "kickoff": "2026-07-25T00:40:00+09:00",
+      "width": 2,
+      "books": 19,
+      "labels": [
+        "Pittsburgh Pirates",
+        "Chicago Cubs"
+      ],
+      "legs": [
+        {
+          "outcome": "Pittsburgh Pirates",
+          "book": "BetInAsia",
+          "odd": 1.96,
+          "stake": 51244,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.betinasia.com/"
+        },
+        {
+          "outcome": "Chicago Cubs",
+          "book": "1xBet",
+          "odd": 2.06,
+          "stake": 48756,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        }
+      ],
+      "S": 0.9956409748365366,
+      "roi": 0.4378109452736201,
+      "profit": 438,
+      "payout": 100438,
+      "staked": 100000,
+      "mins": 30,
+      "split": {
+        "S": 0.9956409748365366,
+        "payout": 100438,
+        "profit": 438,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "BetInAsia",
+            "odd": 1.96,
+            "stake": 51244
+          },
+          {
+            "book": "1xBet",
+            "odd": 2.06,
+            "stake": 48756
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    }
+  ]
 }
