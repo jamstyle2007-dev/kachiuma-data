@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-24T02:00:11.555Z",
+  "generatedAt": "2026-07-24T02:06:53.206Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 5,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "OfxHwWUF",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Magnolia Hotshots - Meralco Bolts",
-      "url": "https://www.betexplorer.com/basketball/philippines/pba-governors-cup/magnolia-hotshots-meralco-bolts/OfxHwWUF/",
-      "kickoff": "2026-07-24T11:15:00+09:00",
-      "width": 2,
-      "books": 14,
-      "labels": [
-        "Magnolia Hotshots",
-        "Meralco Bolts"
-      ],
-      "legs": [
-        {
-          "outcome": "Magnolia Hotshots",
-          "book": "Mozzartbet",
-          "odd": 2.18,
-          "stake": 46699,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.mozzartbet.com/"
-        },
-        {
-          "outcome": "Meralco Bolts",
-          "book": "bwin",
-          "odd": 1.91,
-          "stake": 53301,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        }
-      ],
-      "S": 0.982275805754359,
-      "roi": 1.804400977995102,
-      "profit": 1804,
-      "payout": 101804,
-      "staked": 100000,
-      "mins": 15,
-      "split": {
-        "S": 0.982275805754359,
-        "payout": 101804,
-        "profit": 1804,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Mozzartbet",
-            "odd": 2.18,
-            "stake": 46699
-          },
-          {
-            "book": "bwin",
-            "odd": 1.91,
-            "stake": 53301
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
