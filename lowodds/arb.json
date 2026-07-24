@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-24T15:59:33.419Z",
+  "generatedAt": "2026-07-24T16:04:58.487Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 0,
+  "scanned": 2,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 49,
       "profit": 6194922
     },
-    "pending": 1
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "CU80NKzA",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Montreal Alliance - Ottawa Blackjacks",
+      "url": "https://www.betexplorer.com/basketball/canada/cebl/montreal-alliance-ottawa-blackjacks/CU80NKzA/",
+      "kickoff": "2026-07-25T01:30:00+09:00",
+      "width": 2,
+      "books": 13,
+      "labels": [
+        "Montreal Alliance",
+        "Ottawa Blackjacks"
+      ],
+      "legs": [
+        {
+          "outcome": "Montreal Alliance",
+          "book": "Unibet",
+          "odd": 2.15,
+          "stake": 49412,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.unibet.com/"
+        },
+        {
+          "outcome": "Ottawa Blackjacks",
+          "book": "Betfair",
+          "odd": 2.1,
+          "stake": 50588,
+          "jp": true,
+          "exch": true,
+          "url": "https://www.betfair.com/exchange/plus/"
+        }
+      ],
+      "S": 0.9413067552602437,
+      "roi": 6.23529411764705,
+      "profit": 6235,
+      "payout": 106235,
+      "staked": 100000,
+      "mins": 25,
+      "split": {
+        "S": 0.9413067552602437,
+        "payout": 106235,
+        "profit": 6235,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Unibet",
+            "odd": 2.15,
+            "stake": 49412
+          },
+          {
+            "book": "Betfair",
+            "odd": 2.1,
+            "stake": 50588
+          }
+        ]
+      },
+      "hasExch": true,
+      "allJp": false
+    }
+  ]
 }
