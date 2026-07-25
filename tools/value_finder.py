@@ -66,7 +66,7 @@ def score_horse(h, race):
 
     # 2) 惜敗の連続(着順は悪いが着差僅少)＝ "足りないだけ" の馬を拾う最重要シグナル
     near = sum(1 for r in rec if (to_f(r.get("margin")) is not None
-               and 0 < to_f(r.get("margin")) <= 0.6 and (r.get("finish") or 99) >= 4))
+               and 0 < to_f(r.get("margin")) <= 0.6 and 4 <= (r.get("finish") or 99) <= 8))
     parts["惜敗継続"] = 8.0 if near >= 2 else (3.0 if near == 1 else 0.0)
 
     # 3) 斤量(軽いほど有利。ハンデ戦で効く)
