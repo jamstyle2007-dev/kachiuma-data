@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-25T16:18:45.408Z",
+  "generatedAt": "2026-07-25T16:24:09.221Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 53,
       "profit": 6211312
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "OEf9ctrn",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Las Animas - Espanol Osorno",
+      "url": "https://www.betexplorer.com/basketball/chile/lnb/las-animas-espanol-osorno/OEf9ctrn/",
+      "kickoff": "2026-07-26T01:30:00+09:00",
+      "width": 3,
+      "books": 8,
+      "labels": [
+        "Las Animas",
+        "Draw",
+        "Espanol Osorno"
+      ],
+      "legs": [
+        {
+          "outcome": "Las Animas",
+          "book": "112:71",
+          "odd": 112,
+          "stake": 5732,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=112%3A71%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "112:71",
+          "odd": 9.5,
+          "stake": 67575,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=112%3A71%20sportsbook"
+        },
+        {
+          "outcome": "Espanol Osorno",
+          "book": "79:72",
+          "odd": 24.05,
+          "stake": 26693,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=79%3A72%20sportsbook"
+        }
+      ],
+      "S": 0.15577177090334984,
+      "roi": 541.9648400995968,
+      "profit": 541965,
+      "payout": 641965,
+      "staked": 100000,
+      "mins": 6,
+      "split": {
+        "S": 0.15577177090334984,
+        "payout": 641965,
+        "profit": 541965,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "112:71",
+            "odd": 112,
+            "stake": 5732
+          },
+          {
+            "book": "112:71",
+            "odd": 9.5,
+            "stake": 67575
+          },
+          {
+            "book": "79:72",
+            "odd": 24.05,
+            "stake": 26693
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
