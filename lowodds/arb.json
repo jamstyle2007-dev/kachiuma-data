@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-25T17:24:01.365Z",
+  "generatedAt": "2026-07-25T17:30:53.970Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "WvbHeKCb",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "CD Puerto Varas - Valdivia",
-      "url": "https://www.betexplorer.com/basketball/chile/lnb/cd-puerto-varas-valdivia/WvbHeKCb/",
-      "kickoff": "2026-07-26T02:30:00+09:00",
-      "width": 3,
-      "books": 9,
-      "labels": [
-        "CD Puerto Varas",
-        "Draw",
-        "Valdivia"
-      ],
-      "legs": [
-        {
-          "outcome": "CD Puerto Varas",
-          "book": "90:84",
-          "odd": 90,
-          "stake": 3774,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=90%3A84%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "69:55",
-          "odd": 4,
-          "stake": 84922,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=69%3A55%20sportsbook"
-        },
-        {
-          "outcome": "Valdivia",
-          "book": "60:63",
-          "odd": 30.05,
-          "stake": 11304,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=60%3A63%20sportsbook"
-        }
-      ],
-      "S": 0.2943889813274173,
-      "roi": 239.686626683832,
-      "profit": 239687,
-      "payout": 339687,
-      "staked": 100000,
-      "mins": 6,
-      "split": {
-        "S": 0.2943889813274173,
-        "payout": 339687,
-        "profit": 239687,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "90:84",
-            "odd": 90,
-            "stake": 3774
-          },
-          {
-            "book": "69:55",
-            "odd": 4,
-            "stake": 84922
-          },
-          {
-            "book": "60:63",
-            "odd": 30.05,
-            "stake": 11304
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
