@@ -12,12 +12,15 @@ JACK指摘(2026-07-19)「人気馬を集めるだけの予想なら誰でもで�
 import sys, json
 
 CLASS = {"GI":100,"GII":90,"GIII":80,"G3":80,"L":72,"OP":68,
+         "JpnI":92,"JpnII":84,"JpnIII":74,
          "3勝":60,"2勝":50,"1勝":42,"新馬":35,"未勝利":33,"地方重賞":45,"地方認定":30}
 
 def cls_base(g):
+    """最長一致で採点。'GIII'が'GI'に先食いされる不具合を防ぐため長いキーから照合。"""
     if not g: return 55
-    for k,v in CLASS.items():
-        if k in str(g): return v
+    s = str(g)
+    for k in sorted(CLASS, key=len, reverse=True):
+        if k in s: return CLASS[k]
     return 55
 
 def to_f(x):
