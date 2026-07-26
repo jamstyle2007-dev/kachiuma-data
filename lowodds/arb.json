@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-26T04:08:00.141Z",
+  "generatedAt": "2026-07-26T04:13:24.209Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
-  "arbCount": 1,
+  "arbCount": 2,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,7 @@
       "count": 55,
       "profit": 6992964
     },
-    "pending": 1
+    "pending": 2
   },
   "opps": [
     {
@@ -63,7 +63,7 @@
       "profit": 1081,
       "payout": 101081,
       "staked": 100000,
-      "mins": 22,
+      "mins": 17,
       "split": {
         "S": 0.9893048128342246,
         "payout": 101081,
@@ -83,6 +83,66 @@
         ]
       },
       "hasExch": true,
+      "allJp": false
+    },
+    {
+      "id": "61ClhVq9",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Barangay Ginebra San Miguel - Rain or Shine Elasto Painters",
+      "url": "https://www.betexplorer.com/basketball/philippines/pba-governors-cup/barangay-ginebra-san-miguel-rain-or-shine-elasto-painters/61ClhVq9/",
+      "kickoff": "2026-07-26T13:30:00+09:00",
+      "width": 2,
+      "books": 12,
+      "labels": [
+        "Barangay Ginebra San Miguel",
+        "Rain or Shine Elasto Painters"
+      ],
+      "legs": [
+        {
+          "outcome": "Barangay Ginebra San Miguel",
+          "book": "Betsson",
+          "odd": 1.68,
+          "stake": 59615,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.betsson.com/"
+        },
+        {
+          "outcome": "Rain or Shine Elasto Painters",
+          "book": "Bets.io",
+          "odd": 2.48,
+          "stake": 40385,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
+        }
+      ],
+      "S": 0.9984639016897081,
+      "roi": 0.15384615384614886,
+      "profit": 154,
+      "payout": 100154,
+      "staked": 100000,
+      "mins": 17,
+      "split": {
+        "S": 0.9984639016897081,
+        "payout": 100154,
+        "profit": 154,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Betsson",
+            "odd": 1.68,
+            "stake": 59615
+          },
+          {
+            "book": "Bets.io",
+            "odd": 2.48,
+            "stake": 40385
+          }
+        ]
+      },
+      "hasExch": false,
       "allJp": false
     }
   ]
