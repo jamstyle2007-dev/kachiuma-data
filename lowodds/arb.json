@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T04:24:13.180Z",
+  "generatedAt": "2026-07-26T04:29:36.936Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
@@ -43,7 +43,7 @@
           "outcome": "Turkey W",
           "book": "bet365",
           "odd": 2.2,
-          "stake": 45946,
+          "stake": 46078,
           "jp": false,
           "exch": false,
           "url": "https://www.bet365.com/"
@@ -51,34 +51,34 @@
         {
           "outcome": "Brazil W",
           "book": "Betfair Exchange",
-          "odd": 1.87,
-          "stake": 54054,
+          "odd": 1.88,
+          "stake": 53922,
           "jp": true,
           "exch": true,
           "url": "https://www.betfair.com/exchange/plus/"
         }
       ],
-      "S": 0.9893048128342246,
-      "roi": 1.0810810810810922,
-      "profit": 1081,
-      "payout": 101081,
+      "S": 0.9864603481624759,
+      "roi": 1.3725490196078383,
+      "profit": 1373,
+      "payout": 101373,
       "staked": 100000,
-      "mins": 6,
+      "mins": 0,
       "split": {
-        "S": 0.9893048128342246,
-        "payout": 101081,
-        "profit": 1081,
+        "S": 0.9864603481624759,
+        "payout": 101373,
+        "profit": 1373,
         "staked": 100000,
         "legs": [
           {
             "book": "bet365",
             "odd": 2.2,
-            "stake": 45946
+            "stake": 46078
           },
           {
             "book": "Betfair Exchange",
-            "odd": 1.87,
-            "stake": 54054
+            "odd": 1.88,
+            "stake": 53922
           }
         ]
       },
