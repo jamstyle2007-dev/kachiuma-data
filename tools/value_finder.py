@@ -83,9 +83,9 @@ def score_horse(h, race):
         if r.get("track")==track and (r.get("surface") or surface)==surface \
            and r.get("distance") and abs(r["distance"]-dist)<=200:
             f=r.get("finish")
-            if f==1: cb=max(cb,14.0)
-            elif f in (2,3): cb=max(cb,9.0)
-            elif f in (4,5): cb=max(cb,4.0)
+            if f==1: cb=max(cb,8.0)
+            elif f in (2,3): cb=max(cb,5.0)
+            elif f in (4,5): cb=max(cb,2.0)
     parts["コース相性"] = cb
 
     # 5) 脚質×今日のバイアス
@@ -93,13 +93,13 @@ def score_horse(h, race):
     st = h.get("style") or ""
     sb = 0.0
     if bias=="前":
-        if "逃" in st: sb=7.0
-        elif "先" in st: sb=5.0
-        elif "追" in st: sb=-5.0
-        elif "差" in st: sb=-2.0
+        if "逃" in st: sb=4.0
+        elif "先" in st: sb=3.0
+        elif "追" in st: sb=-4.0
+        elif "差" in st: sb=-1.0
     elif bias=="差":
-        if "追" in st or "差" in st: sb=5.0
-        elif "逃" in st: sb=-3.0
+        if "追" in st or "差" in st: sb=3.0
+        elif "逃" in st: sb=-2.0
     parts["脚質×馬場"] = sb
 
     return round(sum(parts.values()),1), parts
