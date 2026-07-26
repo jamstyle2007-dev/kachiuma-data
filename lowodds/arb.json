@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-26T03:43:50.334Z",
+  "generatedAt": "2026-07-26T04:08:00.141Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 2,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 55,
       "profit": 6992964
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "IcabTrS7",
+      "sport": "volleyball",
+      "sportLabel": "バレー",
+      "teams": "Turkey W - Brazil W",
+      "url": "https://www.betexplorer.com/volleyball/world/nations-league-women/turkey-brazil/IcabTrS7/",
+      "kickoff": "2026-07-26T13:30:00+09:00",
+      "width": 2,
+      "books": 18,
+      "labels": [
+        "Turkey W",
+        "Brazil W"
+      ],
+      "legs": [
+        {
+          "outcome": "Turkey W",
+          "book": "bet365",
+          "odd": 2.2,
+          "stake": 45946,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.bet365.com/"
+        },
+        {
+          "outcome": "Brazil W",
+          "book": "Betfair Exchange",
+          "odd": 1.87,
+          "stake": 54054,
+          "jp": true,
+          "exch": true,
+          "url": "https://www.betfair.com/exchange/plus/"
+        }
+      ],
+      "S": 0.9893048128342246,
+      "roi": 1.0810810810810922,
+      "profit": 1081,
+      "payout": 101081,
+      "staked": 100000,
+      "mins": 22,
+      "split": {
+        "S": 0.9893048128342246,
+        "payout": 101081,
+        "profit": 1081,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "bet365",
+            "odd": 2.2,
+            "stake": 45946
+          },
+          {
+            "book": "Betfair Exchange",
+            "odd": 1.87,
+            "stake": 54054
+          }
+        ]
+      },
+      "hasExch": true,
+      "allJp": false
+    }
+  ]
 }
