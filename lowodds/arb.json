@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-26T14:51:13.333Z",
+  "generatedAt": "2026-07-26T14:56:38.289Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "fDQjYykS",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Edmonton Stingers - Calgary Surge",
-      "url": "https://www.betexplorer.com/basketball/canada/cebl/edmonton-stingers-calgary-surge/fDQjYykS/",
-      "kickoff": "2026-07-27T00:00:00+09:00",
-      "width": 3,
-      "books": 10,
-      "labels": [
-        "Edmonton Stingers",
-        "Draw",
-        "Calgary Surge"
-      ],
-      "legs": [
-        {
-          "outcome": "Edmonton Stingers",
-          "book": "107:97",
-          "odd": 107,
-          "stake": 3579,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=107%3A97%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "107:97",
-          "odd": 4.6,
-          "stake": 83244,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=107%3A97%20sportsbook"
-        },
-        {
-          "outcome": "Calgary Surge",
-          "book": "105:103",
-          "odd": 29.06,
-          "stake": 13177,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=105%3A103%20sportsbook"
-        }
-      ],
-      "S": 0.26114866102527723,
-      "roi": 282.9236558494962,
-      "profit": 282924,
-      "payout": 382924,
-      "staked": 100000,
-      "mins": 9,
-      "split": {
-        "S": 0.26114866102527723,
-        "payout": 382924,
-        "profit": 282924,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "107:97",
-            "odd": 107,
-            "stake": 3579
-          },
-          {
-            "book": "107:97",
-            "odd": 4.6,
-            "stake": 83244
-          },
-          {
-            "book": "105:103",
-            "odd": 29.06,
-            "stake": 13177
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
