@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-27T17:59:25.047Z",
+  "generatedAt": "2026-07-27T18:04:48.238Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "Q3ZW0hhL",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Campeche - Quintana Roo",
-      "url": "https://www.betexplorer.com/baseball/mexico/lmb/piratas-de-campeche-tigres-de-quintana-roo/Q3ZW0hhL/",
-      "kickoff": "2026-07-28T03:00:00+09:00",
-      "width": 2,
-      "books": 15,
-      "labels": [
-        "Campeche",
-        "Quintana Roo"
-      ],
-      "legs": [
-        {
-          "outcome": "Campeche",
-          "book": "BetInAsia",
-          "odd": 1.96,
-          "stake": 54839,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        },
-        {
-          "outcome": "Quintana Roo",
-          "book": "William Hill",
-          "odd": 2.38,
-          "stake": 45161,
-          "jp": false,
-          "exch": false,
-          "url": "https://sports.williamhill.com/"
-        }
-      ],
-      "S": 0.9303721488595438,
-      "roi": 7.483870967741946,
-      "profit": 7484,
-      "payout": 107484,
-      "staked": 100000,
-      "mins": 1,
-      "split": {
-        "S": 0.9303721488595438,
-        "payout": 107484,
-        "profit": 7484,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "BetInAsia",
-            "odd": 1.96,
-            "stake": 54839
-          },
-          {
-            "book": "William Hill",
-            "odd": 2.38,
-            "stake": 45161
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
