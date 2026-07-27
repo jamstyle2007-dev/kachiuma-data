@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T17:25:52.292Z",
+  "generatedAt": "2026-07-27T17:31:16.236Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
@@ -22,63 +22,63 @@
       "count": 1,
       "profit": 282924
     },
-    "pending": 1
+    "pending": 2
   },
   "opps": [
     {
-      "id": "SUqScsj5",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Mexico W - Dominican Republic W",
-      "url": "https://www.betexplorer.com/basketball/north-central-america/central-american-caribbean-games-women/mexico-dominican-republic/SUqScsj5/",
-      "kickoff": "2026-07-28T02:30:00+09:00",
+      "id": "Q3ZW0hhL",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Campeche - Quintana Roo",
+      "url": "https://www.betexplorer.com/baseball/mexico/lmb/piratas-de-campeche-tigres-de-quintana-roo/Q3ZW0hhL/",
+      "kickoff": "2026-07-28T03:00:00+09:00",
       "width": 2,
-      "books": 2,
+      "books": 15,
       "labels": [
-        "Mexico W",
-        "Dominican Republic W"
+        "Campeche",
+        "Quintana Roo"
       ],
       "legs": [
         {
-          "outcome": "Mexico W",
-          "book": "Unibet",
-          "odd": 5,
-          "stake": 25373,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.unibet.com/"
-        },
-        {
-          "outcome": "Dominican Republic W",
-          "book": "bwin",
-          "odd": 1.7,
-          "stake": 74627,
+          "outcome": "Campeche",
+          "book": "BetInAsia",
+          "odd": 1.96,
+          "stake": 54839,
           "jp": true,
           "exch": false,
-          "url": "https://sports.bwin.com/"
+          "url": "https://www.betinasia.com/"
+        },
+        {
+          "outcome": "Quintana Roo",
+          "book": "William Hill",
+          "odd": 2.38,
+          "stake": 45161,
+          "jp": false,
+          "exch": false,
+          "url": "https://sports.williamhill.com/"
         }
       ],
-      "S": 0.7882352941176471,
-      "roi": 26.86567164179103,
-      "profit": 26866,
-      "payout": 126866,
+      "S": 0.9303721488595438,
+      "roi": 7.483870967741946,
+      "profit": 7484,
+      "payout": 107484,
       "staked": 100000,
-      "mins": 4,
+      "mins": 29,
       "split": {
-        "S": 0.7882352941176471,
-        "payout": 126866,
-        "profit": 26866,
+        "S": 0.9303721488595438,
+        "payout": 107484,
+        "profit": 7484,
         "staked": 100000,
         "legs": [
           {
-            "book": "Unibet",
-            "odd": 5,
-            "stake": 25373
+            "book": "BetInAsia",
+            "odd": 1.96,
+            "stake": 54839
           },
           {
-            "book": "bwin",
-            "odd": 1.7,
-            "stake": 74627
+            "book": "William Hill",
+            "odd": 2.38,
+            "stake": 45161
           }
         ]
       },
