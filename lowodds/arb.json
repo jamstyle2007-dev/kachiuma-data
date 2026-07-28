@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-28T17:26:46.015Z",
+  "generatedAt": "2026-07-28T17:32:09.162Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 3
   },
-  "opps": [
-    {
-      "id": "zLzpYdBD",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Belize - Dominican Republic",
-      "url": "https://www.betexplorer.com/basketball/north-central-america/central-american-caribbean-games/belize-dominican-republic/zLzpYdBD/",
-      "kickoff": "2026-07-29T02:30:00+09:00",
-      "width": 2,
-      "books": 5,
-      "labels": [
-        "Belize",
-        "Dominican Republic"
-      ],
-      "legs": [
-        {
-          "outcome": "Belize",
-          "book": "Unibet",
-          "odd": 5.8,
-          "stake": 18994,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.unibet.com/"
-        },
-        {
-          "outcome": "Dominican Republic",
-          "book": "Betsson",
-          "odd": 1.36,
-          "stake": 81006,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.betsson.com/"
-        }
-      ],
-      "S": 0.907707910750507,
-      "roi": 10.167597765363134,
-      "profit": 10168,
-      "payout": 110168,
-      "staked": 100000,
-      "mins": 3,
-      "split": {
-        "S": 0.907707910750507,
-        "payout": 110168,
-        "profit": 10168,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Unibet",
-            "odd": 5.8,
-            "stake": 18994
-          },
-          {
-            "book": "Betsson",
-            "odd": 1.36,
-            "stake": 81006
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
