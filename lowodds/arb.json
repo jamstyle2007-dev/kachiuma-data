@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-28T16:27:11.123Z",
+  "generatedAt": "2026-07-28T16:32:35.863Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 4,
       "profit": 318186
     },
-    "pending": 1
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "UJcpxZF8",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Vaqueros de Bayamon - Criollos de Caguas",
+      "url": "https://www.betexplorer.com/basketball/puerto-rico/bsn/vaqueros-de-bayamon-criollos-de-caguas/UJcpxZF8/",
+      "kickoff": "2026-07-29T02:00:00+09:00",
+      "width": 3,
+      "books": 10,
+      "labels": [
+        "Vaqueros de Bayamon",
+        "Draw",
+        "Criollos de Caguas"
+      ],
+      "legs": [
+        {
+          "outcome": "Vaqueros de Bayamon",
+          "book": "107:99",
+          "odd": 107,
+          "stake": 3914,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=107%3A99%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "104:83",
+          "odd": 5.16,
+          "stake": 81161,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=104%3A83%20sportsbook"
+        },
+        {
+          "outcome": "Criollos de Caguas",
+          "book": "81:77",
+          "odd": 28.06,
+          "stake": 14925,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=81%3A77%20sportsbook"
+        }
+      ],
+      "S": 0.2387821627504717,
+      "roi": 318.7917508080384,
+      "profit": 318792,
+      "payout": 418792,
+      "staked": 100000,
+      "mins": 27,
+      "split": {
+        "S": 0.2387821627504717,
+        "payout": 418792,
+        "profit": 318792,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "107:99",
+            "odd": 107,
+            "stake": 3914
+          },
+          {
+            "book": "104:83",
+            "odd": 5.16,
+            "stake": 81161
+          },
+          {
+            "book": "81:77",
+            "odd": 28.06,
+            "stake": 14925
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
