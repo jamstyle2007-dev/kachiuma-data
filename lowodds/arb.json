@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-28T03:58:25.454Z",
+  "generatedAt": "2026-07-28T04:03:49.738Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 0,
+  "scanned": 2,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 3,
       "profit": 317274
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "48dTX0bf",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "TNT Tropang 5G - Converge FiberXers",
+      "url": "https://www.betexplorer.com/basketball/philippines/pba-governors-cup/tnt-tropang-5g-converge-fiberxers/48dTX0bf/",
+      "kickoff": "2026-07-28T13:30:00+09:00",
+      "width": 2,
+      "books": 12,
+      "labels": [
+        "TNT Tropang 5G",
+        "Converge FiberXers"
+      ],
+      "legs": [
+        {
+          "outcome": "TNT Tropang 5G",
+          "book": "Mozzartbet",
+          "odd": 2.55,
+          "stake": 39573,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.mozzartbet.com/"
+        },
+        {
+          "outcome": "Converge FiberXers",
+          "book": "bwin",
+          "odd": 1.67,
+          "stake": 60427,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        }
+      ],
+      "S": 0.990959257954679,
+      "roi": 0.9123222748815163,
+      "profit": 912,
+      "payout": 100912,
+      "staked": 100000,
+      "mins": 26,
+      "split": {
+        "S": 0.990959257954679,
+        "payout": 100912,
+        "profit": 912,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Mozzartbet",
+            "odd": 2.55,
+            "stake": 39573
+          },
+          {
+            "book": "bwin",
+            "odd": 1.67,
+            "stake": 60427
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
