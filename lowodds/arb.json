@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-29T23:51:11.533Z",
+  "generatedAt": "2026-07-29T23:56:36.523Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 10,
       "profit": 2553006
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "tIok1rY8",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Wellington Saints - Otago Nuggets",
+      "url": "https://www.betexplorer.com/basketball/new-zealand/nbl/wellington-saints-otago-nuggets/tIok1rY8/",
+      "kickoff": "2026-07-30T09:00:00+09:00",
+      "width": 2,
+      "books": 16,
+      "labels": [
+        "Wellington Saints",
+        "Otago Nuggets"
+      ],
+      "legs": [
+        {
+          "outcome": "Wellington Saints",
+          "book": "1xBet",
+          "odd": 1.23,
+          "stake": 81642,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        },
+        {
+          "outcome": "Otago Nuggets",
+          "book": "Betfair Exchange",
+          "odd": 5.47,
+          "stake": 18358,
+          "jp": true,
+          "exch": true,
+          "url": "https://www.betfair.com/exchange/plus/"
+        }
+      ],
+      "S": 0.995823486571246,
+      "roi": 0.419402985074635,
+      "profit": 419,
+      "payout": 100419,
+      "staked": 100000,
+      "mins": 3,
+      "split": {
+        "S": 0.995823486571246,
+        "payout": 100419,
+        "profit": 419,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "1xBet",
+            "odd": 1.23,
+            "stake": 81642
+          },
+          {
+            "book": "Betfair Exchange",
+            "odd": 5.47,
+            "stake": 18358
+          }
+        ]
+      },
+      "hasExch": true,
+      "allJp": true
+    }
+  ]
 }
