@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-29T04:28:42.523Z",
+  "generatedAt": "2026-07-29T04:34:05.876Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "QBbo6VtA",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "Japan - China",
-      "url": "https://www.betexplorer.com/volleyball/world/nations-league/japan-china/QBbo6VtA/",
-      "kickoff": "2026-07-29T13:30:00+09:00",
-      "width": 2,
-      "books": 18,
-      "labels": [
-        "Japan",
-        "China"
-      ],
-      "legs": [
-        {
-          "outcome": "Japan",
-          "book": "Betfair Exchange",
-          "odd": 1.06,
-          "stake": 94716,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        },
-        {
-          "outcome": "China",
-          "book": "1xBet",
-          "odd": 19,
-          "stake": 5284,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        }
-      ],
-      "S": 0.9960278053624627,
-      "roi": 0.3988035892322994,
-      "profit": 399,
-      "payout": 100399,
-      "staked": 100000,
-      "mins": 1,
-      "split": {
-        "S": 0.9960278053624627,
-        "payout": 100399,
-        "profit": 399,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betfair Exchange",
-            "odd": 1.06,
-            "stake": 94716
-          },
-          {
-            "book": "1xBet",
-            "odd": 19,
-            "stake": 5284
-          }
-        ]
-      },
-      "hasExch": true,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
