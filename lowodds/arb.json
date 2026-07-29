@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-29T10:08:23.961Z",
+  "generatedAt": "2026-07-29T11:36:39.176Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 3,
-  "arbCount": 1,
+  "scanned": 2,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "M3hSJY8l",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "New York Mets - Atlanta Braves",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/new-york-mets-atlanta-braves/M3hSJY8l/",
-      "kickoff": "2026-07-29T19:10:00+09:00",
-      "width": 2,
-      "books": 16,
-      "labels": [
-        "New York Mets",
-        "Atlanta Braves"
-      ],
-      "legs": [
-        {
-          "outcome": "New York Mets",
-          "book": "Stake.com",
-          "odd": 2.34,
-          "stake": 44941,
-          "jp": true,
-          "exch": false,
-          "url": "https://stake.com/"
-        },
-        {
-          "outcome": "Atlanta Braves",
-          "book": "Betfair",
-          "odd": 1.91,
-          "stake": 55059,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        }
-      ],
-      "S": 0.9509106367745112,
-      "roi": 5.162352941176462,
-      "profit": 5162,
-      "payout": 105162,
-      "staked": 100000,
-      "mins": 2,
-      "split": {
-        "S": 0.9509106367745112,
-        "payout": 105162,
-        "profit": 5162,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Stake.com",
-            "odd": 2.34,
-            "stake": 44941
-          },
-          {
-            "book": "Betfair",
-            "odd": 1.91,
-            "stake": 55059
-          }
-        ]
-      },
-      "hasExch": true,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
