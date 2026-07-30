@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-30T14:52:13.923Z",
+  "generatedAt": "2026-07-30T14:57:39.139Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "4fH9lIef",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Mexico - Puerto Rico",
-      "url": "https://www.betexplorer.com/basketball/north-central-america/central-american-caribbean-games/mexico-puerto-rico/4fH9lIef/",
-      "kickoff": "2026-07-31T00:00:00+09:00",
-      "width": 2,
-      "books": 2,
-      "labels": [
-        "Mexico",
-        "Puerto Rico"
-      ],
-      "legs": [
-        {
-          "outcome": "Mexico",
-          "book": "95:63",
-          "odd": 95,
-          "stake": 23430,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=95%3A63%20sportsbook"
-        },
-        {
-          "outcome": "Puerto Rico",
-          "book": "95:63",
-          "odd": 29.07,
-          "stake": 76570,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=95%3A63%20sportsbook"
-        }
-      ],
-      "S": 0.044926040591675265,
-      "roi": 2125.8805513016846,
-      "profit": 2125881,
-      "payout": 2225881,
-      "staked": 100000,
-      "mins": 8,
-      "split": {
-        "S": 0.044926040591675265,
-        "payout": 2225881,
-        "profit": 2125881,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "95:63",
-            "odd": 95,
-            "stake": 23430
-          },
-          {
-            "book": "95:63",
-            "odd": 29.07,
-            "stake": 76570
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
