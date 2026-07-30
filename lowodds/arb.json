@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-30T08:42:18.517Z",
+  "generatedAt": "2026-07-30T08:47:43.789Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "IXrasT6C",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Tampa Bay Rays - Texas Rangers",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/tampa-bay-rays-texas-rangers/IXrasT6C/",
-      "kickoff": "2026-07-30T18:10:00+09:00",
-      "width": 2,
-      "books": 19,
-      "labels": [
-        "Tampa Bay Rays",
-        "Texas Rangers"
-      ],
-      "legs": [
-        {
-          "outcome": "Tampa Bay Rays",
-          "book": "1xBet",
-          "odd": 1.78,
-          "stake": 56585,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "Texas Rangers",
-          "book": "BetInAsia",
-          "odd": 2.32,
-          "stake": 43415,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        }
-      ],
-      "S": 0.9928322355676096,
-      "roi": 0.7219512195121736,
-      "profit": 722,
-      "payout": 100722,
-      "staked": 100000,
-      "mins": 28,
-      "split": {
-        "S": 0.9928322355676096,
-        "payout": 100722,
-        "profit": 722,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 1.78,
-            "stake": 56585
-          },
-          {
-            "book": "BetInAsia",
-            "odd": 2.32,
-            "stake": 43415
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
