@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-07-31T17:16:57.236Z",
+  "generatedAt": "2026-07-31T20:19:00.079Z",
   "windowDays": 400,
   "total": 300,
-  "hits": 184,
-  "hitRate": 0.6133333333333333,
+  "hits": 182,
+  "hitRate": 0.6066666666666667,
   "sim": {
     "stake": 10000,
-    "asOf": "2026-07-31T17:16:57.236Z",
+    "asOf": "2026-07-31T20:19:00.079Z",
     "byMinStars": {
       "1": {
         "all": {
-          "n": 1845,
-          "hits": 1180,
-          "staked": 18450000,
-          "returns": 15038100,
-          "profit": -3411900
+          "n": 1852,
+          "hits": 1183,
+          "staked": 18520000,
+          "returns": 15080800,
+          "profit": -3439200
         },
         "year": {
-          "n": 1845,
-          "hits": 1180,
-          "staked": 18450000,
-          "returns": 15038100,
-          "profit": -3411900
+          "n": 1852,
+          "hits": 1183,
+          "staked": 18520000,
+          "returns": 15080800,
+          "profit": -3439200
         },
         "month": {
           "n": 0,
@@ -31,27 +31,27 @@
           "profit": 0
         },
         "week": {
-          "n": 372,
-          "hits": 229,
-          "staked": 3720000,
-          "returns": 2943000,
-          "profit": -777000
+          "n": 379,
+          "hits": 232,
+          "staked": 3790000,
+          "returns": 2985700,
+          "profit": -804300
         }
       },
       "2": {
         "all": {
-          "n": 1071,
+          "n": 1072,
           "hits": 753,
-          "staked": 10710000,
+          "staked": 10720000,
           "returns": 8699400,
-          "profit": -2010600
+          "profit": -2020600
         },
         "year": {
-          "n": 1071,
+          "n": 1072,
           "hits": 753,
-          "staked": 10710000,
+          "staked": 10720000,
           "returns": 8699400,
-          "profit": -2010600
+          "profit": -2020600
         },
         "month": {
           "n": 0,
@@ -61,11 +61,11 @@
           "profit": 0
         },
         "week": {
-          "n": 214,
+          "n": 215,
           "hits": 143,
-          "staked": 2140000,
+          "staked": 2150000,
           "returns": 1673400,
-          "profit": -466600
+          "profit": -476600
         }
       },
       "3": {
@@ -162,6 +162,74 @@
   },
   "settled": [
     {
+      "id": "jX4ESLun",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "NORTH & CENTRAL AMERICA: CENTRAL AMERICAN & CARIBBEAN GAMES WOMEN",
+      "favTeam": "El Salvador W",
+      "underTeam": "Nicaragua W",
+      "favIsHome": true,
+      "favOdd": 1.37,
+      "prob": 73,
+      "stars": 1,
+      "kickoff": "2026-07-31T21:00:00+09:00",
+      "homeScore": 62,
+      "awayScore": 43,
+      "isDraw": false,
+      "favWon": true
+    },
+    {
+      "id": "vFxUPvPF",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF WOMEN - DOUBLES: W35 PERGAMINO, CLAY",
+      "favTeam": "Egorova D. / Gomez Pezuela Cano M.",
+      "underTeam": "Pereira R. / Urrutia M. F.",
+      "favIsHome": false,
+      "favOdd": 1.37,
+      "prob": 73,
+      "stars": 1,
+      "kickoff": "2026-07-31T19:40:00+09:00",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isDraw": true,
+      "favWon": false
+    },
+    {
+      "id": "hdFtiHNE",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "WTA - SINGLES: MEMPHIS, HARD",
+      "favTeam": "Stearns P.",
+      "underTeam": "Kalieva E.",
+      "favIsHome": false,
+      "favOdd": 1.31,
+      "prob": 76,
+      "stars": 2,
+      "kickoff": "2026-07-31T19:30:00+09:00",
+      "homeScore": 1,
+      "awayScore": 0,
+      "isDraw": false,
+      "favWon": false
+    },
+    {
+      "id": "GjChve0K",
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "AUSTRIA: BUNDESLIGA",
+      "favTeam": "LASK",
+      "underTeam": "Grazer AK",
+      "favIsHome": true,
+      "favOdd": 1.54,
+      "prob": 65,
+      "stars": 1,
+      "kickoff": "2026-07-31T19:30:00+09:00",
+      "homeScore": 3,
+      "awayScore": 0,
+      "isDraw": false,
+      "favWon": true
+    },
+    {
       "id": "WxqEVI75",
       "sport": "ハンドボール",
       "sportKey": "handball",
@@ -177,6 +245,23 @@
       "awayScore": 6,
       "isDraw": false,
       "favWon": true
+    },
+    {
+      "id": "Cde8EXrp",
+      "sport": "野球",
+      "sportKey": "baseball",
+      "league": "CZECH REPUBLIC: EXTRALIGA",
+      "favTeam": "Hrosi Brno",
+      "underTeam": "Trebic",
+      "favIsHome": false,
+      "favOdd": 1.42,
+      "prob": 70,
+      "stars": 1,
+      "kickoff": "2026-07-31T19:00:00+09:00",
+      "homeScore": 6,
+      "awayScore": 3,
+      "isDraw": false,
+      "favWon": false
     },
     {
       "id": "dU7MQaAb",
@@ -230,6 +315,23 @@
       "favWon": true
     },
     {
+      "id": "OGDcaGL8",
+      "sport": "アイスホッケー",
+      "sportKey": "hockey",
+      "league": "WORLD: CLUB FRIENDLY",
+      "favTeam": "Trinec U20",
+      "underTeam": "Vitkovice U20",
+      "favIsHome": true,
+      "favOdd": 1.55,
+      "prob": 65,
+      "stars": 1,
+      "kickoff": "2026-07-31T18:00:00+09:00",
+      "homeScore": 4,
+      "awayScore": 5,
+      "isDraw": false,
+      "favWon": false
+    },
+    {
       "id": "t6ySJOnC",
       "sport": "ハンドボール",
       "sportKey": "handball",
@@ -260,6 +362,23 @@
       "kickoff": "2026-07-31T17:00:00+09:00",
       "homeScore": 30,
       "awayScore": 34,
+      "isDraw": false,
+      "favWon": true
+    },
+    {
+      "id": "A5uCpcGl",
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "WORLD: CLUB FRIENDLY",
+      "favTeam": "Gyongyosi",
+      "underTeam": "Dabas",
+      "favIsHome": true,
+      "favOdd": 1.36,
+      "prob": 74,
+      "stars": 1,
+      "kickoff": "2026-07-31T17:00:00+09:00",
+      "homeScore": 38,
+      "awayScore": 27,
       "isDraw": false,
       "favWon": true
     },
@@ -5137,125 +5256,6 @@
       "prob": 64,
       "stars": 1,
       "kickoff": "2026-07-28T11:10:00+09:00",
-      "homeScore": 0,
-      "awayScore": 0,
-      "isDraw": true,
-      "favWon": false
-    },
-    {
-      "id": "rVL6bxAk",
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "BHUTAN: PREMIER LEAGUE",
-      "favTeam": "Paro",
-      "underTeam": "Thimphu FC",
-      "favIsHome": true,
-      "favOdd": 1.07,
-      "prob": 93,
-      "stars": 4,
-      "kickoff": "2026-07-28T11:00:00+09:00",
-      "homeScore": 2,
-      "awayScore": 0,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "CrHkfwIE",
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - SINGLES: W15 KURSUMLIJSKA BANJA 11, CLAY",
-      "favTeam": "Zozaya Menendez E.",
-      "underTeam": "Yemshanova M.",
-      "favIsHome": true,
-      "favOdd": 1.01,
-      "prob": 99,
-      "stars": 5,
-      "kickoff": "2026-07-28T09:00:00+09:00",
-      "homeScore": 2,
-      "awayScore": 0,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "vel9aYgf",
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - SINGLES: W15 KURSUMLIJSKA BANJA 11, CLAY",
-      "favTeam": "Argyrokastriti M.",
-      "underTeam": "Antici A.",
-      "favIsHome": true,
-      "favOdd": 1.01,
-      "prob": 99,
-      "stars": 5,
-      "kickoff": "2026-07-28T09:00:00+09:00",
-      "homeScore": 2,
-      "awayScore": 0,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "0daJbUXQ",
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25 BOLZANO, CLAY",
-      "favTeam": "Carboni L.",
-      "underTeam": "Crivellaro G.",
-      "favIsHome": true,
-      "favOdd": 1.06,
-      "prob": 94,
-      "stars": 4,
-      "kickoff": "2026-07-28T09:00:00+09:00",
-      "homeScore": 0,
-      "awayScore": 2,
-      "isDraw": false,
-      "favWon": false
-    },
-    {
-      "id": "nXqp23vJ",
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25 BOLZANO, CLAY",
-      "favTeam": "Arnaboldi F.",
-      "underTeam": "Buldorini P.",
-      "favIsHome": false,
-      "favOdd": 1.1,
-      "prob": 91,
-      "stars": 4,
-      "kickoff": "2026-07-28T09:00:00+09:00",
-      "homeScore": 0,
-      "awayScore": 2,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "G6piIFUG",
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25 BOLZANO, CLAY",
-      "favTeam": "Castagnola L.",
-      "underTeam": "Parenti L.",
-      "favIsHome": true,
-      "favOdd": 1.1,
-      "prob": 91,
-      "stars": 4,
-      "kickoff": "2026-07-28T09:00:00+09:00",
-      "homeScore": 2,
-      "awayScore": 0,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "ba7XpOrK",
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - DOUBLES: M15 BALI 2, HARD",
-      "favTeam": "Chang A. / Nirundorn T.",
-      "underTeam": "Alcantara F. C. / Ryan Ziegann S.",
-      "favIsHome": true,
-      "favOdd": 1.17,
-      "prob": 85,
-      "stars": 3,
-      "kickoff": "2026-07-28T09:00:00+09:00",
       "homeScore": 0,
       "awayScore": 0,
       "isDraw": true,
