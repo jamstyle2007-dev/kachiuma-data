@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-31T13:56:09.601Z",
+  "generatedAt": "2026-07-31T14:01:33.142Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "4jsMTdxI",
-      "sport": "handball",
-      "sportLabel": "ハンドボール",
-      "teams": "Costa Rica W - Cuba W",
-      "url": "https://www.betexplorer.com/handball/north-central-america/central-american-caribbean-games-women/costa-rica-cuba/4jsMTdxI/",
-      "kickoff": "2026-07-31T23:00:00+09:00",
-      "width": 2,
-      "books": 4,
-      "labels": [
-        "Costa Rica W",
-        "Cuba W"
-      ],
-      "legs": [
-        {
-          "outcome": "Costa Rica W",
-          "book": "1xBet",
-          "odd": 65,
-          "stake": 43478,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "Cuba W",
-          "book": "1xBet",
-          "odd": 50,
-          "stake": 56522,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        }
-      ],
-      "S": 0.03538461538461539,
-      "roi": 2726.0869565217386,
-      "profit": 2726087,
-      "payout": 2826087,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.03538461538461539,
-        "payout": 2826087,
-        "profit": 2726087,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 65,
-            "stake": 43478
-          },
-          {
-            "book": "1xBet",
-            "odd": 50,
-            "stake": 56522
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
