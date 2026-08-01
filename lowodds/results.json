@@ -1,41 +1,41 @@
 {
-  "generatedAt": "2026-08-01T09:40:35.644Z",
+  "generatedAt": "2026-08-01T12:43:20.823Z",
   "windowDays": 400,
   "total": 300,
-  "hits": 188,
-  "hitRate": 0.6266666666666667,
+  "hits": 189,
+  "hitRate": 0.63,
   "sim": {
     "stake": 10000,
-    "asOf": "2026-08-01T09:40:35.644Z",
+    "asOf": "2026-08-01T12:43:20.823Z",
     "byMinStars": {
       "1": {
         "all": {
-          "n": 1872,
-          "hits": 1198,
-          "staked": 18720000,
-          "returns": 15277400,
-          "profit": -3442600
+          "n": 1873,
+          "hits": 1199,
+          "staked": 18730000,
+          "returns": 15291700,
+          "profit": -3438300
         },
         "year": {
-          "n": 1872,
-          "hits": 1198,
-          "staked": 18720000,
-          "returns": 15277400,
-          "profit": -3442600
+          "n": 1873,
+          "hits": 1199,
+          "staked": 18730000,
+          "returns": 15291700,
+          "profit": -3438300
         },
         "month": {
-          "n": 18,
-          "hits": 14,
-          "staked": 180000,
-          "returns": 182400,
-          "profit": 2400
+          "n": 19,
+          "hits": 15,
+          "staked": 190000,
+          "returns": 196700,
+          "profit": 6700
         },
         "week": {
-          "n": 399,
-          "hits": 247,
-          "staked": 3990000,
-          "returns": 3182300,
-          "profit": -807700
+          "n": 400,
+          "hits": 248,
+          "staked": 4000000,
+          "returns": 3196600,
+          "profit": -803400
         }
       },
       "2": {
@@ -161,6 +161,23 @@
     }
   },
   "settled": [
+    {
+      "id": "6c0EVeee",
+      "sport": "アイスホッケー",
+      "sportKey": "hockey",
+      "league": "WORLD: CLUB FRIENDLY",
+      "favTeam": "Din. St. Petersburg",
+      "underTeam": "Amurskie Tigry",
+      "favIsHome": true,
+      "favOdd": 1.43,
+      "prob": 70,
+      "stars": 1,
+      "kickoff": "2026-08-01T15:00:00+09:00",
+      "homeScore": 3,
+      "awayScore": 2,
+      "isDraw": false,
+      "favWon": true
+    },
     {
       "id": "bPtvz8K7",
       "sport": "バレー",
@@ -5243,23 +5260,6 @@
       "awayScore": 1,
       "isDraw": false,
       "favWon": true
-    },
-    {
-      "id": "Kx437bGb",
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25 BOLZANO, CLAY",
-      "favTeam": "Tabacco G.",
-      "underTeam": "Spiridon D. C.",
-      "favIsHome": true,
-      "favOdd": 1.27,
-      "prob": 79,
-      "stars": 2,
-      "kickoff": "2026-07-28T14:35:00+09:00",
-      "homeScore": 1,
-      "awayScore": 1,
-      "isDraw": true,
-      "favWon": false
     }
   ]
 }
