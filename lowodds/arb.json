@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T15:44:44.047Z",
+  "generatedAt": "2026-08-01T15:50:09.501Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
@@ -44,7 +44,7 @@
           "outcome": "Venezuela",
           "book": "Duelbits",
           "odd": 12.75,
-          "stake": 8121,
+          "stake": 8133,
           "jp": false,
           "exch": false,
           "url": "https://duelbits.com/"
@@ -52,8 +52,8 @@
         {
           "outcome": "Draw",
           "book": "Duelbits",
-          "odd": 18.5,
-          "stake": 5597,
+          "odd": 19,
+          "stake": 5457,
           "jp": false,
           "exch": false,
           "url": "https://duelbits.com/"
@@ -62,38 +62,38 @@
           "outcome": "Dominican Republic",
           "book": "Mozzartbet",
           "odd": 1.2,
-          "stake": 86283,
+          "stake": 86410,
           "jp": false,
           "exch": false,
           "url": "https://www.mozzartbet.com/"
         }
       ],
-      "S": 0.965818759936407,
-      "roi": 3.539094650205765,
-      "profit": 3538,
-      "payout": 103539,
-      "staked": 100001,
-      "mins": 15,
+      "S": 0.9643962848297214,
+      "roi": 3.6918138041733606,
+      "profit": 3692,
+      "payout": 103692,
+      "staked": 100000,
+      "mins": 10,
       "split": {
-        "S": 0.965818759936407,
-        "payout": 103539,
-        "profit": 3538,
-        "staked": 100001,
+        "S": 0.9643962848297214,
+        "payout": 103692,
+        "profit": 3692,
+        "staked": 100000,
         "legs": [
           {
             "book": "Duelbits",
             "odd": 12.75,
-            "stake": 8121
+            "stake": 8133
           },
           {
             "book": "Duelbits",
-            "odd": 18.5,
-            "stake": 5597
+            "odd": 19,
+            "stake": 5457
           },
           {
             "book": "Mozzartbet",
             "odd": 1.2,
-            "stake": 86283
+            "stake": 86410
           }
         ]
       },
