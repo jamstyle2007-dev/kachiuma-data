@@ -1,89 +1,28 @@
 {
-  "generatedAt": "2026-08-01T16:55:13.204Z",
+  "generatedAt": "2026-08-01T17:00:42.646Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 4,
-  "arbCount": 1,
+  "scanned": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
-      "count": 112,
-      "profit": 27276692
+      "count": 113,
+      "profit": 30426692
     },
     "year": {
-      "count": 112,
-      "profit": 27276692
+      "count": 113,
+      "profit": 30426692
     },
     "month": {
-      "count": 5,
-      "profit": 3322970
+      "count": 6,
+      "profit": 6472970
     },
     "week": {
-      "count": 22,
-      "profit": 13887466
+      "count": 23,
+      "profit": 17037466
     },
-    "pending": 3
+    "pending": 2
   },
-  "opps": [
-    {
-      "id": "t4GjIERO",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Naviera Ulloa - Valdivia",
-      "url": "https://www.betexplorer.com/basketball/chile/lnb/naviera-ulloa-valdivia/t4GjIERO/",
-      "kickoff": "2026-08-02T02:00:00+09:00",
-      "width": 2,
-      "books": 13,
-      "labels": [
-        "Naviera Ulloa",
-        "Valdivia"
-      ],
-      "legs": [
-        {
-          "outcome": "Naviera Ulloa",
-          "book": "Betway",
-          "odd": 3.8,
-          "stake": 26641,
-          "jp": true,
-          "exch": false,
-          "url": "https://betway.com/"
-        },
-        {
-          "outcome": "Valdivia",
-          "book": "Unibet",
-          "odd": 1.38,
-          "stake": 73359,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.unibet.com/"
-        }
-      ],
-      "S": 0.9877955758962624,
-      "roi": 1.235521235521242,
-      "profit": 1236,
-      "payout": 101236,
-      "staked": 100000,
-      "mins": 5,
-      "split": {
-        "S": 0.9877955758962624,
-        "payout": 101236,
-        "profit": 1236,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betway",
-            "odd": 3.8,
-            "stake": 26641
-          },
-          {
-            "book": "Unibet",
-            "odd": 1.38,
-            "stake": 73359
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
