@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-01T23:40:59.255Z",
+  "generatedAt": "2026-08-01T23:46:22.811Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "tO7swqWG",
-      "sport": "hockey",
-      "sportLabel": "アイスホッケー",
-      "teams": "Adelaide - Sydney Ice Dogs",
-      "url": "https://www.betexplorer.com/hockey/australia/aihl/adelaide-adrenaline-sydney-ice-dogs/tO7swqWG/",
-      "kickoff": "2026-08-02T08:45:00+09:00",
-      "width": 3,
-      "books": 15,
-      "labels": [
-        "Adelaide",
-        "Draw",
-        "Sydney Ice Dogs"
-      ],
-      "legs": [
-        {
-          "outcome": "Adelaide",
-          "book": "William Hill",
-          "odd": 8.5,
-          "stake": 11808,
-          "jp": false,
-          "exch": false,
-          "url": "https://sports.williamhill.com/"
-        },
-        {
-          "outcome": "Draw",
-          "book": "bwin",
-          "odd": 7.25,
-          "stake": 13844,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        },
-        {
-          "outcome": "Sydney Ice Dogs",
-          "book": "Betsson",
-          "odd": 1.35,
-          "stake": 74348,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.betsson.com/"
-        }
-      ],
-      "S": 0.9963188340470287,
-      "roi": 0.3694767003468602,
-      "profit": 369,
-      "payout": 100369,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.9963188340470287,
-        "payout": 100369,
-        "profit": 369,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "William Hill",
-            "odd": 8.5,
-            "stake": 11808
-          },
-          {
-            "book": "bwin",
-            "odd": 7.25,
-            "stake": 13844
-          },
-          {
-            "book": "Betsson",
-            "odd": 1.35,
-            "stake": 74348
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
