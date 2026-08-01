@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-01T12:44:28.100Z",
+  "generatedAt": "2026-08-01T12:49:58.738Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 4,
-  "arbCount": 0,
+  "arbCount": 2,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,158 @@
       "count": 19,
       "profit": 10572508
     },
-    "pending": 1
+    "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "jHFHVpQj",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Tampa Bay Rays - Chicago White Sox",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/tampa-bay-rays-chicago-white-sox/jHFHVpQj/",
+      "kickoff": "2026-08-01T22:10:00+09:00",
+      "width": 3,
+      "books": 7,
+      "labels": [
+        "Tampa Bay Rays",
+        "Draw",
+        "Chicago White Sox"
+      ],
+      "legs": [
+        {
+          "outcome": "Tampa Bay Rays",
+          "book": "11:3",
+          "odd": 11,
+          "stake": 17238,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=11%3A3%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "3:2",
+          "odd": 2.48,
+          "stake": 76457,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=3%3A2%20sportsbook"
+        },
+        {
+          "outcome": "Chicago White Sox",
+          "book": "3:2",
+          "odd": 30.07,
+          "stake": 6306,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=3%3A2%20sportsbook"
+        }
+      ],
+      "S": 0.5273906339752699,
+      "roi": 89.61277193384734,
+      "profit": 89612,
+      "payout": 189613,
+      "staked": 100001,
+      "mins": 20,
+      "split": {
+        "S": 0.5273906339752699,
+        "payout": 189613,
+        "profit": 89612,
+        "staked": 100001,
+        "legs": [
+          {
+            "book": "11:3",
+            "odd": 11,
+            "stake": 17238
+          },
+          {
+            "book": "3:2",
+            "odd": 2.48,
+            "stake": 76457
+          },
+          {
+            "book": "3:2",
+            "odd": 30.07,
+            "stake": 6306
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "UuEJocGl",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Seattle Mariners - Minnesota Twins",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/seattle-mariners-minnesota-twins/UuEJocGl/",
+      "kickoff": "2026-08-01T22:10:00+09:00",
+      "width": 3,
+      "books": 10,
+      "labels": [
+        "Seattle Mariners",
+        "Draw",
+        "Minnesota Twins"
+      ],
+      "legs": [
+        {
+          "outcome": "Seattle Mariners",
+          "book": "7:3",
+          "odd": 7,
+          "stake": 25049,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=7%3A3%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "4:2",
+          "odd": 2.53,
+          "stake": 69307,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=4%3A2%20sportsbook"
+        },
+        {
+          "outcome": "Minnesota Twins",
+          "book": "6:2",
+          "odd": 31.07,
+          "stake": 5644,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=6%3A2%20sportsbook"
+        }
+      ],
+      "S": 0.5702994476871138,
+      "roi": 75.3464787762928,
+      "profit": 75346,
+      "payout": 175346,
+      "staked": 100000,
+      "mins": 20,
+      "split": {
+        "S": 0.5702994476871138,
+        "payout": 175346,
+        "profit": 75346,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "7:3",
+            "odd": 7,
+            "stake": 25049
+          },
+          {
+            "book": "4:2",
+            "odd": 2.53,
+            "stake": 69307
+          },
+          {
+            "book": "6:2",
+            "odd": 31.07,
+            "stake": 5644
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
