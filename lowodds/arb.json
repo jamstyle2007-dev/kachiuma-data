@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-01T15:55:37.423Z",
+  "generatedAt": "2026-08-01T16:01:03.902Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 4
   },
-  "opps": [
-    {
-      "id": "MiuZDgt3",
-      "sport": "handball",
-      "sportLabel": "ハンドボール",
-      "teams": "Venezuela - Dominican Republic",
-      "url": "https://www.betexplorer.com/handball/north-central-america/central-american-caribbean-games/venezuela-dominican-republic/MiuZDgt3/",
-      "kickoff": "2026-08-02T01:00:00+09:00",
-      "width": 3,
-      "books": 11,
-      "labels": [
-        "Venezuela",
-        "Draw",
-        "Dominican Republic"
-      ],
-      "legs": [
-        {
-          "outcome": "Venezuela",
-          "book": "Duelbits",
-          "odd": 12.75,
-          "stake": 8133,
-          "jp": false,
-          "exch": false,
-          "url": "https://duelbits.com/"
-        },
-        {
-          "outcome": "Draw",
-          "book": "Duelbits",
-          "odd": 19,
-          "stake": 5457,
-          "jp": false,
-          "exch": false,
-          "url": "https://duelbits.com/"
-        },
-        {
-          "outcome": "Dominican Republic",
-          "book": "Mozzartbet",
-          "odd": 1.2,
-          "stake": 86410,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.mozzartbet.com/"
-        }
-      ],
-      "S": 0.9643962848297214,
-      "roi": 3.6918138041733606,
-      "profit": 3692,
-      "payout": 103692,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.9643962848297214,
-        "payout": 103692,
-        "profit": 3692,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Duelbits",
-            "odd": 12.75,
-            "stake": 8133
-          },
-          {
-            "book": "Duelbits",
-            "odd": 19,
-            "stake": 5457
-          },
-          {
-            "book": "Mozzartbet",
-            "odd": 1.2,
-            "stake": 86410
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
