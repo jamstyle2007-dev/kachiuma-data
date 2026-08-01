@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-01T11:55:42.439Z",
+  "generatedAt": "2026-08-01T12:01:13.134Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 5,
-  "arbCount": 1,
+  "scanned": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "Uchmjjld",
-      "sport": "handball",
-      "sportLabel": "ハンドボール",
-      "teams": "Nicaragua - Puerto Rico",
-      "url": "https://www.betexplorer.com/handball/north-central-america/central-american-caribbean-games/nicaragua-puerto-rico/Uchmjjld/",
-      "kickoff": "2026-08-01T21:00:00+09:00",
-      "width": 2,
-      "books": 4,
-      "labels": [
-        "Nicaragua",
-        "Puerto Rico"
-      ],
-      "legs": [
-        {
-          "outcome": "Nicaragua",
-          "book": "1xBet",
-          "odd": 65,
-          "stake": 50000,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "Puerto Rico",
-          "book": "1xBet",
-          "odd": 65,
-          "stake": 50000,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        }
-      ],
-      "S": 0.03076923076923077,
-      "roi": 3150,
-      "profit": 3150000,
-      "payout": 3250000,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.03076923076923077,
-        "payout": 3250000,
-        "profit": 3150000,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 65,
-            "stake": 50000
-          },
-          {
-            "book": "1xBet",
-            "odd": 65,
-            "stake": 50000
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
