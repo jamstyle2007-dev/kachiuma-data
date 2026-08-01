@@ -72,6 +72,15 @@ def score_horse(h, race):
                and 0 < to_f(r.get("margin")) <= 0.6 and 4 <= (r.get("finish") or 99) <= 8))
     parts["惜敗継続"] = 8.0 if near >= 2 else (3.0 if near == 1 else 0.0)
 
+    # 2.5) 勢い(前走勝ち＝昇級/連勝の上昇度。過去クラス基準の地力では拾えない"上がり馬"を評価)
+    last = rec[0] if rec else None
+    mom = 0.0
+    if last and last.get("finish") == 1:
+        mom = 5.0
+        m0 = to_f(last.get("margin"))
+        if m0 is not None and m0 <= -0.3: mom += 3.0   # 楽勝はさらに上積み
+    parts["勢い"] = mom
+
     # 3) 斤量(軽いほど有利。ハンデ戦で効く)
     parts["斤量"] = 0.0
     w = to_f(h.get("weight")); avg = race.get("_avg_weight")
@@ -128,7 +137,7 @@ def main():
         gap = (r["pop"] - r["rank"]) if r["pop"] else 0
         flag = "★妙味" if gap >= 3 else ("・" if gap >= 0 else "  人気先行")
         pt = r["parts"]
-        det = f"地力{pt['近走地力']:.0f} 惜敗{pt['惜敗継続']:.0f} 斤{pt['斤量']:+.0f} コース{pt['コース相性']:.0f} 脚質{pt['脚質×馬場']:+.0f}"
+        det = f"地力{pt['近走地力']:.0f} 惜敗{pt['惜敗継続']:.0f} 勢い{pt.get('勢い',0):.0f} 斤{pt['斤量']:+.0f} コース{pt['コース相性']:.0f} 脚質{pt['脚質×馬場']:+.0f}"
         print(f"{r['rank']:>3} {str(r['pop']):>3} {gap:>+4}  {r['num']:>3} {r['name']:<12} {r['weight']:>4} {str(r['style'] or '-'):<3} {r['score']:>6.1f}  {det} {flag}")
     print("\n★妙味 = 地力順位が人気順位より3つ以上上（＝市場が過小評価）。ここから印を検討する。")
 
