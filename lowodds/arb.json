@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-01T15:28:19.176Z",
+  "generatedAt": "2026-08-01T15:33:46.299Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 0,
+  "scanned": 4,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 20,
       "profit": 13722508
     },
-    "pending": 3
+    "pending": 4
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "MiuZDgt3",
+      "sport": "handball",
+      "sportLabel": "ハンドボール",
+      "teams": "Venezuela - Dominican Republic",
+      "url": "https://www.betexplorer.com/handball/north-central-america/central-american-caribbean-games/venezuela-dominican-republic/MiuZDgt3/",
+      "kickoff": "2026-08-02T01:00:00+09:00",
+      "width": 3,
+      "books": 11,
+      "labels": [
+        "Venezuela",
+        "Draw",
+        "Dominican Republic"
+      ],
+      "legs": [
+        {
+          "outcome": "Venezuela",
+          "book": "Duelbits",
+          "odd": 12.75,
+          "stake": 8121,
+          "jp": false,
+          "exch": false,
+          "url": "https://duelbits.com/"
+        },
+        {
+          "outcome": "Draw",
+          "book": "Duelbits",
+          "odd": 18.5,
+          "stake": 5597,
+          "jp": false,
+          "exch": false,
+          "url": "https://duelbits.com/"
+        },
+        {
+          "outcome": "Dominican Republic",
+          "book": "Mozzartbet",
+          "odd": 1.2,
+          "stake": 86283,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.mozzartbet.com/"
+        }
+      ],
+      "S": 0.965818759936407,
+      "roi": 3.539094650205765,
+      "profit": 3538,
+      "payout": 103539,
+      "staked": 100001,
+      "mins": 26,
+      "split": {
+        "S": 0.965818759936407,
+        "payout": 103539,
+        "profit": 3538,
+        "staked": 100001,
+        "legs": [
+          {
+            "book": "Duelbits",
+            "odd": 12.75,
+            "stake": 8121
+          },
+          {
+            "book": "Duelbits",
+            "odd": 18.5,
+            "stake": 5597
+          },
+          {
+            "book": "Mozzartbet",
+            "odd": 1.2,
+            "stake": 86283
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
