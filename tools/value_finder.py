@@ -41,14 +41,17 @@ def finish_adj(f):
     if f is None: return -5.0
     return {1:12.0,2:8.0,3:5.0,4:2.0,5:1.0}.get(f, -3.0 if f<=9 else -8.0)
 
-def margin_adj(m):
+def margin_adj(m, finish=None):
+    """着差評価。データにより勝ち馬の着差符号が±混在するため、符号に依存せず
+    finish==1は勝ちとして扱い、それ以外は着差の絶対値(=着順差)で近さを見る。"""
     m=to_f(m)
     if m is None: return 0.0
-    if m <= 0: return 6.0          # 勝ち
-    if m <= 0.3: return 5.0
-    if m <= 0.6: return 3.0
-    if m <= 1.0: return 1.0
-    if m <= 2.0: return -2.0
+    if finish == 1: return 6.0     # 勝ち(勝ち幅の符号は問わない)
+    a = abs(m)
+    if a <= 0.3: return 5.0
+    if a <= 0.6: return 3.0
+    if a <= 1.0: return 1.0
+    if a <= 2.0: return -2.0
     return -5.0
 
 def score_horse(h, race):
@@ -61,7 +64,7 @@ def score_horse(h, race):
     W=[1.0,0.8,0.6]; num=den=0.0
     for i,r in enumerate(rec[:3]):
         v = cls_base(r.get("grade")) + finish_adj(r.get("finish")) \
-            + margin_adj(r.get("margin")) + agari_adj(to_f(r.get("last3f")), r.get("surface") or surface)
+            + margin_adj(r.get("margin"), r.get("finish")) + agari_adj(to_f(r.get("last3f")), r.get("surface") or surface)
         fld = r.get("field")
         if isinstance(fld,int): v += (fld-8)*0.5      # 少頭数の勝ちは割引/多頭数は加点
         num += v*W[i]; den += W[i]
@@ -69,7 +72,7 @@ def score_horse(h, race):
 
     # 2) 惜敗の連続(着順は悪いが着差僅少)＝ "足りないだけ" の馬を拾う最重要シグナル
     near = sum(1 for r in rec if (to_f(r.get("margin")) is not None
-               and 0 < to_f(r.get("margin")) <= 0.6 and 4 <= (r.get("finish") or 99) <= 8))
+               and 0 < abs(to_f(r.get("margin"))) <= 0.6 and 4 <= (r.get("finish") or 99) <= 8))
     parts["惜敗継続"] = 8.0 if near >= 2 else (3.0 if near == 1 else 0.0)
 
     # 2.5) 勢い(前走勝ち＝昇級/連勝の上昇度。過去クラス基準の地力では拾えない"上がり馬"を評価)
@@ -78,7 +81,7 @@ def score_horse(h, race):
     if last and last.get("finish") == 1:
         mom = 5.0
         m0 = to_f(last.get("margin"))
-        if m0 is not None and m0 <= -0.3: mom += 3.0   # 楽勝はさらに上積み
+        if m0 is not None and abs(m0) >= 0.3: mom += 3.0   # 楽勝はさらに上積み(符号非依存)
     parts["勢い"] = mom
 
     # 3) 斤量(軽いほど有利。ハンデ戦で効く)
