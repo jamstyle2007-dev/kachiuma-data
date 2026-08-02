@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-02T12:25:30.247Z",
+  "generatedAt": "2026-08-02T12:30:53.572Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 26,
       "profit": 17042609
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "ruLZjOmQ",
+      "sport": "volleyball",
+      "sportLabel": "バレー",
+      "teams": "Puerto Rico W - Cuba W",
+      "url": "https://www.betexplorer.com/volleyball/north-central-america/central-american-caribbean-games-women/puerto-rico-cuba/ruLZjOmQ/",
+      "kickoff": "2026-08-02T22:00:00+09:00",
+      "width": 2,
+      "books": 11,
+      "labels": [
+        "Puerto Rico W",
+        "Cuba W"
+      ],
+      "legs": [
+        {
+          "outcome": "Puerto Rico W",
+          "book": "Unibet",
+          "odd": 1.28,
+          "stake": 78947,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.unibet.com/"
+        },
+        {
+          "outcome": "Cuba W",
+          "book": "Bets.io",
+          "odd": 4.8,
+          "stake": 21053,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
+        }
+      ],
+      "S": 0.9895833333333334,
+      "roi": 1.0526315789473717,
+      "profit": 1053,
+      "payout": 101053,
+      "staked": 100000,
+      "mins": 29,
+      "split": {
+        "S": 0.9895833333333334,
+        "payout": 101053,
+        "profit": 1053,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Unibet",
+            "odd": 1.28,
+            "stake": 78947
+          },
+          {
+            "book": "Bets.io",
+            "odd": 4.8,
+            "stake": 21053
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
