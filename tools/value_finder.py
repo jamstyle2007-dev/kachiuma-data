@@ -136,9 +136,18 @@ def main():
           f"({race['surface']}{race['distance']}m / 馬場{race.get('trackCondition','?')} / バイアス想定={race.get('bias','なし')})")
     print(f"{'地力':>3} {'人気':>3} {'ズレ':>4}  {'馬番':>3} {'馬名':<12} {'斤':>4} {'脚質':<3} {'点':>6}  内訳")
     print("-"*112)
+    n = len(rows)
     for r in rows:
         gap = (r["pop"] - r["rank"]) if r["pop"] else 0
-        flag = "★妙味" if gap >= 3 else ("・" if gap >= 0 else "  人気先行")
+        # 人気≤5なのにスクリーナー下位=地力を取りこぼしている疑い(finish破損等)。押さえ必須。
+        if r["pop"] and r["pop"] <= 5 and gap <= -5:
+            flag = "⚠人気地力乖離:データ要確認/押さえ"
+        elif gap >= 3:
+            flag = "★妙味"
+        elif gap >= 0:
+            flag = "・"
+        else:
+            flag = "  人気先行"
         pt = r["parts"]
         det = f"地力{pt['近走地力']:.0f} 惜敗{pt['惜敗継続']:.0f} 勢い{pt.get('勢い',0):.0f} 斤{pt['斤量']:+.0f} コース{pt['コース相性']:.0f} 脚質{pt['脚質×馬場']:+.0f}"
         print(f"{r['rank']:>3} {str(r['pop']):>3} {gap:>+4}  {r['num']:>3} {r['name']:<12} {r['weight']:>4} {str(r['style'] or '-'):<3} {r['score']:>6.1f}  {det} {flag}")
