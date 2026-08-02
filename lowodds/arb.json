@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-02T14:56:49.290Z",
+  "generatedAt": "2026-08-02T15:02:15.409Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 3,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -19,71 +19,10 @@
       "profit": 6478113
     },
     "week": {
-      "count": 26,
-      "profit": 17042609
+      "count": 0,
+      "profit": 0
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "Ao1l29vQ",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Panama W - Dominican Republic W",
-      "url": "https://www.betexplorer.com/basketball/north-central-america/central-american-caribbean-games-women/panama-dominican-republic/Ao1l29vQ/",
-      "kickoff": "2026-08-03T00:00:00+09:00",
-      "width": 2,
-      "books": 6,
-      "labels": [
-        "Panama W",
-        "Dominican Republic W"
-      ],
-      "legs": [
-        {
-          "outcome": "Panama W",
-          "book": "Unibet",
-          "odd": 1.8,
-          "stake": 56098,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.unibet.com/"
-        },
-        {
-          "outcome": "Dominican Republic W",
-          "book": "bwin",
-          "odd": 2.3,
-          "stake": 43902,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        }
-      ],
-      "S": 0.9903381642512078,
-      "roi": 0.9756097560975618,
-      "profit": 976,
-      "payout": 100976,
-      "staked": 100000,
-      "mins": 3,
-      "split": {
-        "S": 0.9903381642512078,
-        "payout": 100976,
-        "profit": 976,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Unibet",
-            "odd": 1.8,
-            "stake": 56098
-          },
-          {
-            "book": "bwin",
-            "odd": 2.3,
-            "stake": 43902
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
