@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updatedAt": "2026-08-02",
-    "note": "8/2重賞2鞍＋名鉄杯(L)を発走前確定版で更新。アイビス=◎ピューロマジック(着順破損を訂正し地力最上位を本命)、クイーンS=◎エリカエクスプレス(GI2勝)、名鉄杯=◎タイトニット。"
+    "updatedAt": "2026-08-03",
+    "note": "8/2結果確定。アイビス=◎ピューロマジック1着(訂正した本命的中)、クイーンS=1着ココナッツ(○)3着ヴーレヴー(▲)、名鉄杯=1着クールミラボー(○)。"
   },
   "races": [
     {
@@ -9129,6 +9129,19 @@
             }
           }
         }
+      },
+      "result": {
+        "first": 6,
+        "second": 11,
+        "third": 4,
+        "tanshoPay": 270,
+        "fukushoPay": [
+          160,
+          1280,
+          720
+        ],
+        "sanrenpukuPay": 92420,
+        "sanrentanPay": 462350
       }
     },
     {
@@ -9436,6 +9449,19 @@
             }
           }
         }
+      },
+      "result": {
+        "first": 7,
+        "second": 11,
+        "third": 14,
+        "tanshoPay": 290,
+        "fukushoPay": [
+          130,
+          230,
+          320
+        ],
+        "sanrenpukuPay": 5560,
+        "sanrentanPay": 22210
       }
     },
     {
@@ -9718,6 +9744,19 @@
             }
           }
         }
+      },
+      "result": {
+        "first": 9,
+        "second": 8,
+        "third": 7,
+        "tanshoPay": 450,
+        "fukushoPay": [
+          170,
+          210,
+          310
+        ],
+        "sanrenpukuPay": 4060,
+        "sanrentanPay": 16820
       }
     }
   ]
