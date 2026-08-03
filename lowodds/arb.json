@@ -1,89 +1,28 @@
 {
-  "generatedAt": "2026-08-03T14:59:37.868Z",
+  "generatedAt": "2026-08-03T15:05:05.877Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 3,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
-      "count": 119,
-      "profit": 30443736
+      "count": 120,
+      "profit": 30447239
     },
     "year": {
-      "count": 119,
-      "profit": 30443736
+      "count": 120,
+      "profit": 30447239
     },
     "month": {
-      "count": 12,
-      "profit": 6490014
+      "count": 13,
+      "profit": 6493517
     },
     "week": {
-      "count": 2,
-      "profit": 10848
+      "count": 3,
+      "profit": 14351
     },
-    "pending": 2
+    "pending": 1
   },
-  "opps": [
-    {
-      "id": "jBHbIqdc",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Belize - Mexico",
-      "url": "https://www.betexplorer.com/basketball/north-central-america/central-american-caribbean-games/belize-mexico/jBHbIqdc/",
-      "kickoff": "2026-08-04T00:00:00+09:00",
-      "width": 2,
-      "books": 7,
-      "labels": [
-        "Belize",
-        "Mexico"
-      ],
-      "legs": [
-        {
-          "outcome": "Belize",
-          "book": "Duelbits",
-          "odd": 1.84,
-          "stake": 56086,
-          "jp": false,
-          "exch": false,
-          "url": "https://duelbits.com/"
-        },
-        {
-          "outcome": "Mexico",
-          "book": "Bets.io",
-          "odd": 2.35,
-          "stake": 43914,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
-        }
-      ],
-      "S": 0.9690101757631822,
-      "roi": 3.1980906921241115,
-      "profit": 3198,
-      "payout": 103198,
-      "staked": 100000,
-      "mins": 0,
-      "split": {
-        "S": 0.9690101757631822,
-        "payout": 103198,
-        "profit": 3198,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Duelbits",
-            "odd": 1.84,
-            "stake": 56086
-          },
-          {
-            "book": "Bets.io",
-            "odd": 2.35,
-            "stake": 43914
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
