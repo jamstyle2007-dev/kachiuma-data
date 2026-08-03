@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-03T00:56:04.228Z",
+  "generatedAt": "2026-08-03T01:01:29.262Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "WzSzfSRh",
-      "sport": "hockey",
-      "sportLabel": "アイスホッケー",
-      "teams": "SKA-Akademiya - Irbis",
-      "url": "https://www.betexplorer.com/hockey/world/club-friendly/ska-akademiya-mhl-irbis-mhl/WzSzfSRh/",
-      "kickoff": "2026-08-03T10:00:00+09:00",
-      "width": 3,
-      "books": 6,
-      "labels": [
-        "SKA-Akademiya",
-        "Draw",
-        "Irbis"
-      ],
-      "legs": [
-        {
-          "outcome": "SKA-Akademiya",
-          "book": "Rainbet",
-          "odd": 7.6,
-          "stake": 14457,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "Rainbet",
-          "odd": 6.2,
-          "stake": 17721,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
-        },
-        {
-          "outcome": "Irbis",
-          "book": "Bets.io",
-          "odd": 1.62,
-          "stake": 67822,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
-        }
-      ],
-      "S": 0.9101532205663501,
-      "roi": 9.871610340261405,
-      "profit": 9872,
-      "payout": 109872,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.9101532205663501,
-        "payout": 109872,
-        "profit": 9872,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Rainbet",
-            "odd": 7.6,
-            "stake": 14457
-          },
-          {
-            "book": "Rainbet",
-            "odd": 6.2,
-            "stake": 17721
-          },
-          {
-            "book": "Bets.io",
-            "odd": 1.62,
-            "stake": 67822
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
