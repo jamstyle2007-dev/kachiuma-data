@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-03T16:32:01.151Z",
+  "generatedAt": "2026-08-03T16:37:25.922Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
+  "scanned": 4,
   "arbCount": 1,
   "track": {
     "stake": 100000,
@@ -43,7 +43,7 @@
           "outcome": "Dominican Republic W",
           "book": "Unibet",
           "odd": 1.11,
-          "stake": 91660,
+          "stake": 91784,
           "jp": false,
           "exch": false,
           "url": "https://www.unibet.com/"
@@ -51,34 +51,34 @@
         {
           "outcome": "Cuba W",
           "book": "1xBet",
-          "odd": 12.2,
-          "stake": 8340,
+          "odd": 12.4,
+          "stake": 8216,
           "jp": true,
           "exch": false,
           "url": "https://1xbet.com/ja"
         }
       ],
-      "S": 0.9828681140156549,
-      "roi": 1.7430503380916784,
-      "profit": 1743,
-      "payout": 101743,
+      "S": 0.9815460621912234,
+      "roi": 1.880088823094006,
+      "profit": 1880,
+      "payout": 101880,
       "staked": 100000,
-      "mins": 28,
+      "mins": 23,
       "split": {
-        "S": 0.9828681140156549,
-        "payout": 101743,
-        "profit": 1743,
+        "S": 0.9815460621912234,
+        "payout": 101880,
+        "profit": 1880,
         "staked": 100000,
         "legs": [
           {
             "book": "Unibet",
             "odd": 1.11,
-            "stake": 91660
+            "stake": 91784
           },
           {
             "book": "1xBet",
-            "odd": 12.2,
-            "stake": 8340
+            "odd": 12.4,
+            "stake": 8216
           }
         ]
       },
