@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T11:50:38.608Z",
+  "generatedAt": "2026-08-03T11:56:03.721Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
@@ -33,7 +33,7 @@
       "url": "https://www.betexplorer.com/handball/north-central-america/central-american-caribbean-games/venezuela-nicaragua/UHrsCXAF/",
       "kickoff": "2026-08-03T21:00:00+09:00",
       "width": 3,
-      "books": 8,
+      "books": 10,
       "labels": [
         "Venezuela",
         "Draw",
@@ -42,18 +42,18 @@
       "legs": [
         {
           "outcome": "Venezuela",
-          "book": "1xBet",
-          "odd": 1.16,
-          "stake": 89227,
-          "jp": true,
+          "book": "Rainbet",
+          "odd": 1.2,
+          "stake": 88897,
+          "jp": false,
           "exch": false,
-          "url": "https://1xbet.com/ja"
+          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
         },
         {
           "outcome": "Draw",
           "book": "Duelbits",
           "odd": 23,
-          "stake": 4500,
+          "stake": 4638,
           "jp": false,
           "exch": false,
           "url": "https://duelbits.com/"
@@ -62,38 +62,38 @@
           "outcome": "Nicaragua",
           "book": "Duelbits",
           "odd": 16.5,
-          "stake": 6273,
+          "stake": 6465,
           "jp": false,
           "exch": false,
           "url": "https://duelbits.com/"
         }
       ],
-      "S": 0.9661532869928673,
-      "roi": 3.503244615818679,
-      "profit": 3503,
-      "payout": 103503,
+      "S": 0.9374176548089592,
+      "roi": 6.676036542515806,
+      "profit": 6676,
+      "payout": 106676,
       "staked": 100000,
-      "mins": 9,
+      "mins": 4,
       "split": {
-        "S": 0.9661532869928673,
-        "payout": 103503,
-        "profit": 3503,
+        "S": 0.9374176548089592,
+        "payout": 106676,
+        "profit": 6676,
         "staked": 100000,
         "legs": [
           {
-            "book": "1xBet",
-            "odd": 1.16,
-            "stake": 89227
+            "book": "Rainbet",
+            "odd": 1.2,
+            "stake": 88897
           },
           {
             "book": "Duelbits",
             "odd": 23,
-            "stake": 4500
+            "stake": 4638
           },
           {
             "book": "Duelbits",
             "odd": 16.5,
-            "stake": 6273
+            "stake": 6465
           }
         ]
       },
