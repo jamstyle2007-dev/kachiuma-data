@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-03T14:48:45.219Z",
+  "generatedAt": "2026-08-03T14:54:10.821Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 3,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 2,
       "profit": 10848
     },
-    "pending": 1
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "jBHbIqdc",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Belize - Mexico",
+      "url": "https://www.betexplorer.com/basketball/north-central-america/central-american-caribbean-games/belize-mexico/jBHbIqdc/",
+      "kickoff": "2026-08-04T00:00:00+09:00",
+      "width": 2,
+      "books": 7,
+      "labels": [
+        "Belize",
+        "Mexico"
+      ],
+      "legs": [
+        {
+          "outcome": "Belize",
+          "book": "Duelbits",
+          "odd": 1.84,
+          "stake": 54791,
+          "jp": false,
+          "exch": false,
+          "url": "https://duelbits.com/"
+        },
+        {
+          "outcome": "Mexico",
+          "book": "Bets.io",
+          "odd": 2.23,
+          "stake": 45209,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
+        }
+      ],
+      "S": 0.9919087541431078,
+      "roi": 0.8157248157248276,
+      "profit": 816,
+      "payout": 100816,
+      "staked": 100000,
+      "mins": 6,
+      "split": {
+        "S": 0.9919087541431078,
+        "payout": 100816,
+        "profit": 816,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Duelbits",
+            "odd": 1.84,
+            "stake": 54791
+          },
+          {
+            "book": "Bets.io",
+            "odd": 2.23,
+            "stake": 45209
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
