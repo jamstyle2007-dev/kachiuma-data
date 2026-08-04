@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-04T02:28:27.133Z",
+  "generatedAt": "2026-08-04T02:33:59.931Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 8,
-  "arbCount": 1,
+  "scanned": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "hhx4e8r9",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "SSG Landers - LG Twins",
-      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/ssg-landers-lg-twins/hhx4e8r9/",
-      "kickoff": "2026-08-04T11:30:00+09:00",
-      "width": 2,
-      "books": 19,
-      "labels": [
-        "SSG Landers",
-        "LG Twins"
-      ],
-      "legs": [
-        {
-          "outcome": "SSG Landers",
-          "book": "bet365",
-          "odd": 3.1,
-          "stake": 32609,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.bet365.com/"
-        },
-        {
-          "outcome": "LG Twins",
-          "book": "1xBet",
-          "odd": 1.5,
-          "stake": 67391,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        }
-      ],
-      "S": 0.989247311827957,
-      "roi": 1.0869565217391353,
-      "profit": 1087,
-      "payout": 101087,
-      "staked": 100000,
-      "mins": 2,
-      "split": {
-        "S": 0.989247311827957,
-        "payout": 101087,
-        "profit": 1087,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "bet365",
-            "odd": 3.1,
-            "stake": 32609
-          },
-          {
-            "book": "1xBet",
-            "odd": 1.5,
-            "stake": 67391
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
