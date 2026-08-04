@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-04T18:25:11.401Z",
+  "generatedAt": "2026-08-04T18:30:31.163Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 1,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 9,
       "profit": 245140
     },
-    "pending": 1
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "SAyr42Q9",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Golden State Valkyries W - Toronto Tempo W",
+      "url": "https://www.betexplorer.com/basketball/usa/wnba/golden-state-valkyries-toronto-tempo/SAyr42Q9/",
+      "kickoff": "2026-08-05T04:00:00+09:00",
+      "width": 3,
+      "books": 10,
+      "labels": [
+        "Golden State Valkyries W",
+        "Draw",
+        "Toronto Tempo W"
+      ],
+      "legs": [
+        {
+          "outcome": "Golden State Valkyries W",
+          "book": "96:79",
+          "odd": 96,
+          "stake": 5645,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=96%3A79%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "96:79",
+          "odd": 7.1,
+          "stake": 76332,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=96%3A79%20sportsbook"
+        },
+        {
+          "outcome": "Toronto Tempo W",
+          "book": "91:89",
+          "odd": 30.07,
+          "stake": 18023,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=91%3A89%20sportsbook"
+        }
+      ],
+      "S": 0.1845174737037679,
+      "roi": 441.95409243757695,
+      "profit": 441954,
+      "payout": 541954,
+      "staked": 100000,
+      "mins": 29,
+      "split": {
+        "S": 0.1845174737037679,
+        "payout": 541954,
+        "profit": 441954,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "96:79",
+            "odd": 96,
+            "stake": 5645
+          },
+          {
+            "book": "96:79",
+            "odd": 7.1,
+            "stake": 76332
+          },
+          {
+            "book": "91:89",
+            "odd": 30.07,
+            "stake": 18023
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
