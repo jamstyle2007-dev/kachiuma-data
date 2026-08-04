@@ -1,89 +1,28 @@
 {
-  "generatedAt": "2026-08-04T12:58:57.656Z",
+  "generatedAt": "2026-08-04T13:04:21.586Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
-      "count": 123,
-      "profit": 30450885
+      "count": 124,
+      "profit": 30623654
     },
     "year": {
-      "count": 123,
-      "profit": 30450885
+      "count": 124,
+      "profit": 30623654
     },
     "month": {
-      "count": 16,
-      "profit": 6497163
+      "count": 17,
+      "profit": 6669932
     },
     "week": {
-      "count": 6,
-      "profit": 17997
+      "count": 7,
+      "profit": 190766
     },
-    "pending": 2
+    "pending": 1
   },
-  "opps": [
-    {
-      "id": "n9VSubuP",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "Cuba W - Costa Rica W",
-      "url": "https://www.betexplorer.com/volleyball/north-central-america/central-american-caribbean-games-women/cuba-costa-rica/n9VSubuP/",
-      "kickoff": "2026-08-04T22:00:00+09:00",
-      "width": 2,
-      "books": 10,
-      "labels": [
-        "Cuba W",
-        "Costa Rica W"
-      ],
-      "legs": [
-        {
-          "outcome": "Cuba W",
-          "book": "Unibet",
-          "odd": 1.2,
-          "stake": 90840,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.unibet.com/"
-        },
-        {
-          "outcome": "Costa Rica W",
-          "book": "1xBet",
-          "odd": 11.9,
-          "stake": 9160,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        }
-      ],
-      "S": 0.9173669467787116,
-      "roi": 9.007633587786245,
-      "profit": 9008,
-      "payout": 109008,
-      "staked": 100000,
-      "mins": 1,
-      "split": {
-        "S": 0.9173669467787116,
-        "payout": 109008,
-        "profit": 9008,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Unibet",
-            "odd": 1.2,
-            "stake": 90840
-          },
-          {
-            "book": "1xBet",
-            "odd": 11.9,
-            "stake": 9160
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
