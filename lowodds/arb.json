@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-05T17:29:54.294Z",
+  "generatedAt": "2026-08-05T17:35:18.286Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 1,
+  "scanned": 3,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "ri5CKieR",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Las Animas - Ancud",
-      "url": "https://www.betexplorer.com/basketball/chile/lnb/las-animas-ancud/ri5CKieR/",
-      "kickoff": "2026-08-06T02:30:00+09:00",
-      "width": 2,
-      "books": 14,
-      "labels": [
-        "Las Animas",
-        "Ancud"
-      ],
-      "legs": [
-        {
-          "outcome": "Las Animas",
-          "book": "bwin",
-          "odd": 1.45,
-          "stake": 69474,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        },
-        {
-          "outcome": "Ancud",
-          "book": "Mozzartbet",
-          "odd": 3.3,
-          "stake": 30526,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.mozzartbet.com/"
-        }
-      ],
-      "S": 0.9926854754440961,
-      "roi": 0.7368421052631691,
-      "profit": 737,
-      "payout": 100737,
-      "staked": 100000,
-      "mins": 0,
-      "split": {
-        "S": 0.9926854754440961,
-        "payout": 100737,
-        "profit": 737,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "bwin",
-            "odd": 1.45,
-            "stake": 69474
-          },
-          {
-            "book": "Mozzartbet",
-            "odd": 3.3,
-            "stake": 30526
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
