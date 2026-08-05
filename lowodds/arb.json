@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-05T02:13:04.665Z",
+  "generatedAt": "2026-08-05T02:18:35.543Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 7,
-  "arbCount": 1,
+  "scanned": 6,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "Y76vqnOh",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Blackwater Bossing - Phoenix Fuelmasters",
-      "url": "https://www.betexplorer.com/basketball/philippines/pba-governors-cup/blackwater-bossing-phoenix-fuelmasters/Y76vqnOh/",
-      "kickoff": "2026-08-05T11:15:00+09:00",
-      "width": 2,
-      "books": 14,
-      "labels": [
-        "Blackwater Bossing",
-        "Phoenix Fuelmasters"
-      ],
-      "legs": [
-        {
-          "outcome": "Blackwater Bossing",
-          "book": "Unibet",
-          "odd": 2.43,
-          "stake": 41304,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.unibet.com/"
-        },
-        {
-          "outcome": "Phoenix Fuelmasters",
-          "book": "Mozzartbet",
-          "odd": 1.71,
-          "stake": 58696,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.mozzartbet.com/"
-        }
-      ],
-      "S": 0.9963179553822827,
-      "roi": 0.36956521739131,
-      "profit": 370,
-      "payout": 100370,
-      "staked": 100000,
-      "mins": 2,
-      "split": {
-        "S": 0.9963179553822827,
-        "payout": 100370,
-        "profit": 370,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Unibet",
-            "odd": 2.43,
-            "stake": 41304
-          },
-          {
-            "book": "Mozzartbet",
-            "odd": 1.71,
-            "stake": 58696
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
