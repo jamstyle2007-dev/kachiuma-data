@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-05T16:25:06.546Z",
+  "generatedAt": "2026-08-05T16:30:31.202Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 1,
+  "scanned": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "APi5MDQE",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Colo Colo - Leones Quilpue",
-      "url": "https://www.betexplorer.com/basketball/chile/lnb/colo-colo-leones-de-quilpue/APi5MDQE/",
-      "kickoff": "2026-08-06T01:30:00+09:00",
-      "width": 2,
-      "books": 16,
-      "labels": [
-        "Colo Colo",
-        "Leones Quilpue"
-      ],
-      "legs": [
-        {
-          "outcome": "Colo Colo",
-          "book": "Betfair",
-          "odd": 2.75,
-          "stake": 42589,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        },
-        {
-          "outcome": "Leones Quilpue",
-          "book": "Mozzartbet",
-          "odd": 2.04,
-          "stake": 57411,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.mozzartbet.com/"
-        }
-      ],
-      "S": 0.8538324420677361,
-      "roi": 17.118997912317347,
-      "profit": 17119,
-      "payout": 117119,
-      "staked": 100000,
-      "mins": 5,
-      "split": {
-        "S": 0.8538324420677361,
-        "payout": 117119,
-        "profit": 17119,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betfair",
-            "odd": 2.75,
-            "stake": 42589
-          },
-          {
-            "book": "Mozzartbet",
-            "odd": 2.04,
-            "stake": 57411
-          }
-        ]
-      },
-      "hasExch": true,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
