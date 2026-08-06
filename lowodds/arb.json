@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-06T13:30:45.810Z",
+  "generatedAt": "2026-08-06T13:36:10.588Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 0,
+  "scanned": 3,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 15,
       "profit": 705571
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "AkvdJjfA",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Philadelphia Phillies - Washington Nationals",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/philadelphia-phillies-washington-nationals/AkvdJjfA/",
+      "kickoff": "2026-08-06T23:05:00+09:00",
+      "width": 2,
+      "books": 19,
+      "labels": [
+        "Philadelphia Phillies",
+        "Washington Nationals"
+      ],
+      "legs": [
+        {
+          "outcome": "Philadelphia Phillies",
+          "book": "Mozzartbet",
+          "odd": 1.35,
+          "stake": 74335,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.mozzartbet.com/"
+        },
+        {
+          "outcome": "Washington Nationals",
+          "book": "1xBet",
+          "odd": 3.91,
+          "stake": 25665,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        }
+      ],
+      "S": 0.9964952164440655,
+      "roi": 0.3517110266159751,
+      "profit": 352,
+      "payout": 100352,
+      "staked": 100000,
+      "mins": 29,
+      "split": {
+        "S": 0.9964952164440655,
+        "payout": 100352,
+        "profit": 352,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Mozzartbet",
+            "odd": 1.35,
+            "stake": 74335
+          },
+          {
+            "book": "1xBet",
+            "odd": 3.91,
+            "stake": 25665
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
