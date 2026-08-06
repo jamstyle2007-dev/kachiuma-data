@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T15:35:10.633Z",
+  "generatedAt": "2026-08-06T15:40:38.160Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 4,
@@ -43,46 +43,46 @@
           "outcome": "Espanol de Talca",
           "book": "Mozzartbet",
           "odd": 3.7,
-          "stake": 30451,
+          "stake": 30320,
           "jp": false,
           "exch": false,
           "url": "https://www.mozzartbet.com/"
         },
         {
           "outcome": "Puente Alto",
-          "book": "Betfair",
-          "odd": 1.62,
-          "stake": 69549,
+          "book": "Stake.com",
+          "odd": 1.61,
+          "stake": 69680,
           "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
+          "exch": false,
+          "url": "https://stake.com/"
         }
       ],
-      "S": 0.8875542208875542,
-      "roi": 12.66917293233083,
-      "profit": 12669,
-      "payout": 112669,
+      "S": 0.8913882826926305,
+      "roi": 12.18455743879474,
+      "profit": 12185,
+      "payout": 112185,
       "staked": 100000,
-      "mins": 25,
+      "mins": 19,
       "split": {
-        "S": 0.8875542208875542,
-        "payout": 112669,
-        "profit": 12669,
+        "S": 0.8913882826926305,
+        "payout": 112185,
+        "profit": 12185,
         "staked": 100000,
         "legs": [
           {
             "book": "Mozzartbet",
             "odd": 3.7,
-            "stake": 30451
+            "stake": 30320
           },
           {
-            "book": "Betfair",
-            "odd": 1.62,
-            "stake": 69549
+            "book": "Stake.com",
+            "odd": 1.61,
+            "stake": 69680
           }
         ]
       },
-      "hasExch": true,
+      "hasExch": false,
       "allJp": false
     }
   ]
