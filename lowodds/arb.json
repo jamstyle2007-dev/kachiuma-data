@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-06T14:46:26.586Z",
+  "generatedAt": "2026-08-06T14:51:51.742Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 15,
       "profit": 705571
     },
-    "pending": 1
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "AggSZmPE",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Indiana Fever W - Las Vegas Aces W",
+      "url": "https://www.betexplorer.com/basketball/usa/wnba/indiana-fever-las-vegas-aces/AggSZmPE/",
+      "kickoff": "2026-08-07T00:00:00+09:00",
+      "width": 2,
+      "books": 19,
+      "labels": [
+        "Indiana Fever W",
+        "Las Vegas Aces W"
+      ],
+      "legs": [
+        {
+          "outcome": "Indiana Fever W",
+          "book": "Mozzartbet",
+          "odd": 2.04,
+          "stake": 49380,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.mozzartbet.com/"
+        },
+        {
+          "outcome": "Las Vegas Aces W",
+          "book": "Megapari",
+          "odd": 1.99,
+          "stake": 50620,
+          "jp": true,
+          "exch": false,
+          "url": "https://megapari.com/"
+        }
+      ],
+      "S": 0.9927086412454429,
+      "roi": 0.7344913151364763,
+      "profit": 734,
+      "payout": 100734,
+      "staked": 100000,
+      "mins": 8,
+      "split": {
+        "S": 0.9927086412454429,
+        "payout": 100734,
+        "profit": 734,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Mozzartbet",
+            "odd": 2.04,
+            "stake": 49380
+          },
+          {
+            "book": "Megapari",
+            "odd": 1.99,
+            "stake": 50620
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
