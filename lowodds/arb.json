@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-06T15:57:00.656Z",
+  "generatedAt": "2026-08-06T16:02:28.023Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 4,
-  "arbCount": 1,
+  "scanned": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 4
   },
-  "opps": [
-    {
-      "id": "zwCIvIg4",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Espanol de Talca - Puente Alto",
-      "url": "https://www.betexplorer.com/basketball/chile/lnb/espanol-de-talca-puente-alto/zwCIvIg4/",
-      "kickoff": "2026-08-07T01:00:00+09:00",
-      "width": 2,
-      "books": 15,
-      "labels": [
-        "Espanol de Talca",
-        "Puente Alto"
-      ],
-      "legs": [
-        {
-          "outcome": "Espanol de Talca",
-          "book": "Mozzartbet",
-          "odd": 3.7,
-          "stake": 30582,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.mozzartbet.com/"
-        },
-        {
-          "outcome": "Puente Alto",
-          "book": "BetInAsia",
-          "odd": 1.63,
-          "stake": 69418,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        }
-      ],
-      "S": 0.8837672027856076,
-      "roi": 13.151969981238288,
-      "profit": 13152,
-      "payout": 113152,
-      "staked": 100000,
-      "mins": 3,
-      "split": {
-        "S": 0.8837672027856076,
-        "payout": 113152,
-        "profit": 13152,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Mozzartbet",
-            "odd": 3.7,
-            "stake": 30582
-          },
-          {
-            "book": "BetInAsia",
-            "odd": 1.63,
-            "stake": 69418
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
