@@ -1,101 +1,101 @@
 {
-  "generatedAt": "2026-08-06T03:10:57.137Z",
+  "generatedAt": "2026-08-06T06:13:44.286Z",
   "windowDays": 400,
   "total": 300,
-  "hits": 192,
-  "hitRate": 0.64,
+  "hits": 191,
+  "hitRate": 0.6366666666666667,
   "sim": {
     "stake": 10000,
-    "asOf": "2026-08-06T03:10:57.137Z",
+    "asOf": "2026-08-06T06:13:44.286Z",
     "byMinStars": {
       "1": {
         "all": {
-          "n": 2239,
-          "hits": 1438,
-          "staked": 22390000,
-          "returns": 18348200,
-          "profit": -4041800
+          "n": 2241,
+          "hits": 1439,
+          "staked": 22410000,
+          "returns": 18361100,
+          "profit": -4048900
         },
         "year": {
-          "n": 2239,
-          "hits": 1438,
-          "staked": 22390000,
-          "returns": 18348200,
-          "profit": -4041800
+          "n": 2241,
+          "hits": 1439,
+          "staked": 22410000,
+          "returns": 18361100,
+          "profit": -4048900
         },
         "month": {
-          "n": 384,
-          "hits": 253,
-          "staked": 3840000,
-          "returns": 3238700,
-          "profit": -601300
+          "n": 386,
+          "hits": 254,
+          "staked": 3860000,
+          "returns": 3251600,
+          "profit": -608400
         },
         "week": {
-          "n": 275,
-          "hits": 173,
-          "staked": 2750000,
-          "returns": 2186900,
-          "profit": -563100
+          "n": 277,
+          "hits": 174,
+          "staked": 2770000,
+          "returns": 2199800,
+          "profit": -570200
         }
       },
       "2": {
         "all": {
-          "n": 1289,
-          "hits": 912,
-          "staked": 12890000,
-          "returns": 10547900,
-          "profit": -2342100
+          "n": 1291,
+          "hits": 913,
+          "staked": 12910000,
+          "returns": 10560800,
+          "profit": -2349200
         },
         "year": {
-          "n": 1289,
-          "hits": 912,
-          "staked": 12890000,
-          "returns": 10547900,
-          "profit": -2342100
+          "n": 1291,
+          "hits": 913,
+          "staked": 12910000,
+          "returns": 10560800,
+          "profit": -2349200
         },
         "month": {
-          "n": 216,
-          "hits": 159,
-          "staked": 2160000,
-          "returns": 1848500,
-          "profit": -311500
+          "n": 218,
+          "hits": 160,
+          "staked": 2180000,
+          "returns": 1861400,
+          "profit": -318600
         },
         "week": {
-          "n": 161,
-          "hits": 115,
-          "staked": 1610000,
-          "returns": 1331400,
-          "profit": -278600
+          "n": 163,
+          "hits": 116,
+          "staked": 1630000,
+          "returns": 1344300,
+          "profit": -285700
         }
       },
       "3": {
         "all": {
-          "n": 745,
+          "n": 746,
           "hits": 574,
-          "staked": 7450000,
+          "staked": 7460000,
           "returns": 6227900,
-          "profit": -1222100
+          "profit": -1232100
         },
         "year": {
-          "n": 745,
+          "n": 746,
           "hits": 574,
-          "staked": 7450000,
+          "staked": 7460000,
           "returns": 6227900,
-          "profit": -1222100
+          "profit": -1232100
         },
         "month": {
-          "n": 114,
+          "n": 115,
           "hits": 92,
-          "staked": 1140000,
+          "staked": 1150000,
           "returns": 985100,
-          "profit": -154900
+          "profit": -164900
         },
         "week": {
-          "n": 89,
+          "n": 90,
           "hits": 69,
-          "staked": 890000,
+          "staked": 900000,
           "returns": 737200,
-          "profit": -152800
+          "profit": -162800
         }
       },
       "4": {
@@ -161,6 +161,40 @@
     }
   },
   "settled": [
+    {
+      "id": "drZOf9kL",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M15 TIANJIN, HARD",
+      "favTeam": "Kim D. J.",
+      "underTeam": "Ann S.",
+      "favIsHome": false,
+      "favOdd": 1.12,
+      "prob": 89,
+      "stars": 3,
+      "kickoff": "2026-08-06T04:30:00+09:00",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isDraw": true,
+      "favWon": false
+    },
+    {
+      "id": "88mW5y36",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF WOMEN - SINGLES: W15 TIANJIN, HARD",
+      "favTeam": "Wang J.",
+      "underTeam": "Luo X.",
+      "favIsHome": false,
+      "favOdd": 1.29,
+      "prob": 78,
+      "stars": 2,
+      "kickoff": "2026-08-06T04:30:00+09:00",
+      "homeScore": 0,
+      "awayScore": 1,
+      "isDraw": false,
+      "favWon": true
+    },
     {
       "id": "4SrMIdpd",
       "sport": "バスケ",
@@ -5224,40 +5258,6 @@
       "kickoff": "2026-08-02T17:55:00+09:00",
       "homeScore": 0,
       "awayScore": 2,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "dGYRjAl2",
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: LEXINGTON, HARD",
-      "favTeam": "Pacheco Mendez R.",
-      "underTeam": "Pascual Ferra R.",
-      "favIsHome": true,
-      "favOdd": 1.46,
-      "prob": 68,
-      "stars": 1,
-      "kickoff": "2026-08-02T17:45:00+09:00",
-      "homeScore": 1,
-      "awayScore": 0,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "SprR1NGO",
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: PLOVDIV 2, CLAY",
-      "favTeam": "Campana Lee G.",
-      "underTeam": "Melnic V.",
-      "favIsHome": true,
-      "favOdd": 1.1,
-      "prob": 91,
-      "stars": 4,
-      "kickoff": "2026-08-02T17:40:00+09:00",
-      "homeScore": 2,
-      "awayScore": 0,
       "isDraw": false,
       "favWon": true
     }
