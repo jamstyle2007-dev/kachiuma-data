@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T15:13:32.511Z",
+  "generatedAt": "2026-08-06T15:18:57.895Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
@@ -33,7 +33,7 @@
       "url": "https://www.betexplorer.com/basketball/paraguay/lnb/felix-perez-cardozo-colonias-gold/fy2dKaLh/",
       "kickoff": "2026-08-07T00:30:00+09:00",
       "width": 2,
-      "books": 8,
+      "books": 9,
       "labels": [
         "Felix Perez Cardozo",
         "Colonias Gold"
@@ -41,44 +41,44 @@
       "legs": [
         {
           "outcome": "Felix Perez Cardozo",
-          "book": "bwin",
-          "odd": 2.65,
-          "stake": 40045,
+          "book": "1xBet",
+          "odd": 3.2,
+          "stake": 35614,
           "jp": true,
           "exch": false,
-          "url": "https://sports.bwin.com/"
+          "url": "https://1xbet.com/ja"
         },
         {
           "outcome": "Colonias Gold",
           "book": "Cloudbet",
           "odd": 1.77,
-          "stake": 59955,
+          "stake": 64386,
           "jp": true,
           "exch": false,
           "url": "https://www.cloudbet.com/"
         }
       ],
-      "S": 0.9423302419784672,
-      "roi": 6.119909502262444,
-      "profit": 6120,
-      "payout": 106120,
+      "S": 0.8774717514124294,
+      "roi": 13.963782696177063,
+      "profit": 13964,
+      "payout": 113964,
       "staked": 100000,
-      "mins": 16,
+      "mins": 11,
       "split": {
-        "S": 0.9423302419784672,
-        "payout": 106120,
-        "profit": 6120,
+        "S": 0.8774717514124294,
+        "payout": 113964,
+        "profit": 13964,
         "staked": 100000,
         "legs": [
           {
-            "book": "bwin",
-            "odd": 2.65,
-            "stake": 40045
+            "book": "1xBet",
+            "odd": 3.2,
+            "stake": 35614
           },
           {
             "book": "Cloudbet",
             "odd": 1.77,
-            "stake": 59955
+            "stake": 64386
           }
         ]
       },
