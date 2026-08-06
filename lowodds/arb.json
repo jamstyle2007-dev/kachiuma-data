@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-06T22:28:50.280Z",
+  "generatedAt": "2026-08-06T22:34:10.894Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 3,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 19,
       "profit": 723637
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "jPWASOLU",
+      "sport": "hockey",
+      "sportLabel": "アイスホッケー",
+      "teams": "Dunedin Thunder - West Auckland Admirals",
+      "url": "https://www.betexplorer.com/hockey/new-zealand/nzihl/dunedin-thunder-west-auckland-admirals/jPWASOLU/",
+      "kickoff": "2026-08-07T08:00:00+09:00",
+      "width": 3,
+      "books": 11,
+      "labels": [
+        "Dunedin Thunder",
+        "Draw",
+        "West Auckland Admirals"
+      ],
+      "legs": [
+        {
+          "outcome": "Dunedin Thunder",
+          "book": "Bets.io",
+          "odd": 1.48,
+          "stake": 68705,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "Stake.com",
+          "odd": 6.4,
+          "stake": 15888,
+          "jp": true,
+          "exch": false,
+          "url": "https://stake.com/"
+        },
+        {
+          "outcome": "West Auckland Admirals",
+          "book": "Stake.com",
+          "odd": 6.6,
+          "stake": 15407,
+          "jp": true,
+          "exch": false,
+          "url": "https://stake.com/"
+        }
+      ],
+      "S": 0.9834408271908271,
+      "roi": 1.683799609629144,
+      "profit": 1684,
+      "payout": 101684,
+      "staked": 100000,
+      "mins": 26,
+      "split": {
+        "S": 0.9834408271908271,
+        "payout": 101684,
+        "profit": 1684,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Bets.io",
+            "odd": 1.48,
+            "stake": 68705
+          },
+          {
+            "book": "Stake.com",
+            "odd": 6.4,
+            "stake": 15888
+          },
+          {
+            "book": "Stake.com",
+            "odd": 6.6,
+            "stake": 15407
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
