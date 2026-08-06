@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-06T15:02:41.579Z",
+  "generatedAt": "2026-08-06T15:08:06.474Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 15,
       "profit": 705571
     },
-    "pending": 2
+    "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "fy2dKaLh",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Felix Perez Cardozo - Colonias Gold",
+      "url": "https://www.betexplorer.com/basketball/paraguay/lnb/felix-perez-cardozo-colonias-gold/fy2dKaLh/",
+      "kickoff": "2026-08-07T00:30:00+09:00",
+      "width": 2,
+      "books": 8,
+      "labels": [
+        "Felix Perez Cardozo",
+        "Colonias Gold"
+      ],
+      "legs": [
+        {
+          "outcome": "Felix Perez Cardozo",
+          "book": "Megapari",
+          "odd": 2.54,
+          "stake": 41067,
+          "jp": true,
+          "exch": false,
+          "url": "https://megapari.com/"
+        },
+        {
+          "outcome": "Colonias Gold",
+          "book": "Cloudbet",
+          "odd": 1.77,
+          "stake": 58933,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.cloudbet.com/"
+        }
+      ],
+      "S": 0.9586725388140042,
+      "roi": 4.310904872389787,
+      "profit": 4311,
+      "payout": 104311,
+      "staked": 100000,
+      "mins": 22,
+      "split": {
+        "S": 0.9586725388140042,
+        "payout": 104311,
+        "profit": 4311,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Megapari",
+            "odd": 2.54,
+            "stake": 41067
+          },
+          {
+            "book": "Cloudbet",
+            "odd": 1.77,
+            "stake": 58933
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    }
+  ]
 }
