@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T15:08:06.474Z",
+  "generatedAt": "2026-08-06T15:13:32.511Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
@@ -41,44 +41,44 @@
       "legs": [
         {
           "outcome": "Felix Perez Cardozo",
-          "book": "Megapari",
-          "odd": 2.54,
-          "stake": 41067,
+          "book": "bwin",
+          "odd": 2.65,
+          "stake": 40045,
           "jp": true,
           "exch": false,
-          "url": "https://megapari.com/"
+          "url": "https://sports.bwin.com/"
         },
         {
           "outcome": "Colonias Gold",
           "book": "Cloudbet",
           "odd": 1.77,
-          "stake": 58933,
+          "stake": 59955,
           "jp": true,
           "exch": false,
           "url": "https://www.cloudbet.com/"
         }
       ],
-      "S": 0.9586725388140042,
-      "roi": 4.310904872389787,
-      "profit": 4311,
-      "payout": 104311,
+      "S": 0.9423302419784672,
+      "roi": 6.119909502262444,
+      "profit": 6120,
+      "payout": 106120,
       "staked": 100000,
-      "mins": 22,
+      "mins": 16,
       "split": {
-        "S": 0.9586725388140042,
-        "payout": 104311,
-        "profit": 4311,
+        "S": 0.9423302419784672,
+        "payout": 106120,
+        "profit": 6120,
         "staked": 100000,
         "legs": [
           {
-            "book": "Megapari",
-            "odd": 2.54,
-            "stake": 41067
+            "book": "bwin",
+            "odd": 2.65,
+            "stake": 40045
           },
           {
             "book": "Cloudbet",
             "odd": 1.77,
-            "stake": 58933
+            "stake": 59955
           }
         ]
       },
