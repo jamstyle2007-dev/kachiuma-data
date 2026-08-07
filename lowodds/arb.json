@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T16:10:30.323Z",
+  "generatedAt": "2026-08-07T16:15:55.964Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
@@ -32,53 +32,68 @@
       "teams": "CD Puerto Varas - Ancud",
       "url": "https://www.betexplorer.com/basketball/chile/lnb/cd-puerto-varas-ancud/dUBTeMiB/",
       "kickoff": "2026-08-08T01:30:00+09:00",
-      "width": 2,
-      "books": 14,
+      "width": 3,
+      "books": 9,
       "labels": [
         "CD Puerto Varas",
+        "Draw",
         "Ancud"
       ],
       "legs": [
         {
           "outcome": "CD Puerto Varas",
-          "book": "BetInAsia",
-          "odd": 2.25,
-          "stake": 49210,
-          "jp": true,
+          "book": "102:67",
+          "odd": 102,
+          "stake": 4034,
+          "jp": false,
           "exch": false,
-          "url": "https://www.betinasia.com/"
+          "url": "https://www.google.com/search?q=102%3A67%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "91:90",
+          "odd": 5,
+          "stake": 82284,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=91%3A90%20sportsbook"
         },
         {
           "outcome": "Ancud",
-          "book": "Mozzartbet",
-          "odd": 2.18,
-          "stake": 50790,
+          "book": "91:90",
+          "odd": 30.07,
+          "stake": 13682,
           "jp": false,
           "exch": false,
-          "url": "https://www.mozzartbet.com/"
+          "url": "https://www.google.com/search?q=91%3A90%20sportsbook"
         }
       ],
-      "S": 0.9031600407747196,
-      "roi": 10.722347629796847,
-      "profit": 10722,
-      "payout": 110722,
+      "S": 0.24305965818319347,
+      "roi": 311.42162688565224,
+      "profit": 311422,
+      "payout": 411422,
       "staked": 100000,
-      "mins": 19,
+      "mins": 14,
       "split": {
-        "S": 0.9031600407747196,
-        "payout": 110722,
-        "profit": 10722,
+        "S": 0.24305965818319347,
+        "payout": 411422,
+        "profit": 311422,
         "staked": 100000,
         "legs": [
           {
-            "book": "BetInAsia",
-            "odd": 2.25,
-            "stake": 49210
+            "book": "102:67",
+            "odd": 102,
+            "stake": 4034
           },
           {
-            "book": "Mozzartbet",
-            "odd": 2.18,
-            "stake": 50790
+            "book": "91:90",
+            "odd": 5,
+            "stake": 82284
+          },
+          {
+            "book": "91:90",
+            "odd": 30.07,
+            "stake": 13682
           }
         ]
       },
