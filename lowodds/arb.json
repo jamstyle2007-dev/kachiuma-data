@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-07T15:27:08.046Z",
+  "generatedAt": "2026-08-07T15:32:32.789Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "MFoEQqn1",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Washington Mystics W - Atlanta Dream W",
-      "url": "https://www.betexplorer.com/basketball/usa/wnba/washington-mystics-atlanta-dream/MFoEQqn1/",
-      "kickoff": "2026-08-08T00:30:00+09:00",
-      "width": 2,
-      "books": 19,
-      "labels": [
-        "Washington Mystics W",
-        "Atlanta Dream W"
-      ],
-      "legs": [
-        {
-          "outcome": "Washington Mystics W",
-          "book": "1xBet",
-          "odd": 2.95,
-          "stake": 34298,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "Atlanta Dream W",
-          "book": "Rainbet",
-          "odd": 1.54,
-          "stake": 65702,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
-        }
-      ],
-      "S": 0.988333700198107,
-      "roi": 1.1804008908685937,
-      "profit": 1180,
-      "payout": 101180,
-      "staked": 100000,
-      "mins": 3,
-      "split": {
-        "S": 0.988333700198107,
-        "payout": 101180,
-        "profit": 1180,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 2.95,
-            "stake": 34298
-          },
-          {
-            "book": "Rainbet",
-            "odd": 1.54,
-            "stake": 65702
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
