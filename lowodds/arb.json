@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-07T21:54:58.190Z",
+  "generatedAt": "2026-08-07T22:00:24.075Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "SbDHWzYo",
-      "sport": "hockey",
-      "sportLabel": "アイスホッケー",
-      "teams": "Dunedin Thunder - West Auckland Admirals",
-      "url": "https://www.betexplorer.com/hockey/new-zealand/nzihl/dunedin-thunder-west-auckland-admirals/SbDHWzYo/",
-      "kickoff": "2026-08-08T07:00:00+09:00",
-      "width": 3,
-      "books": 8,
-      "labels": [
-        "Dunedin Thunder",
-        "Draw",
-        "West Auckland Admirals"
-      ],
-      "legs": [
-        {
-          "outcome": "Dunedin Thunder",
-          "book": "BetInAsia",
-          "odd": 1.55,
-          "stake": 64926,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        },
-        {
-          "outcome": "Draw",
-          "book": "Bets.io",
-          "odd": 7.2,
-          "stake": 13977,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
-        },
-        {
-          "outcome": "West Auckland Admirals",
-          "book": "1xBet",
-          "odd": 4.77,
-          "stake": 21097,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        }
-      ],
-      "S": 0.9936937850814905,
-      "roi": 0.6346235644406617,
-      "profit": 635,
-      "payout": 100635,
-      "staked": 100000,
-      "mins": 5,
-      "split": {
-        "S": 0.9936937850814905,
-        "payout": 100635,
-        "profit": 635,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "BetInAsia",
-            "odd": 1.55,
-            "stake": 64926
-          },
-          {
-            "book": "Bets.io",
-            "odd": 7.2,
-            "stake": 13977
-          },
-          {
-            "book": "1xBet",
-            "odd": 4.77,
-            "stake": 21097
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
