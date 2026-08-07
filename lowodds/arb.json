@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-07T16:26:51.965Z",
+  "generatedAt": "2026-08-07T16:32:17.323Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "dUBTeMiB",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "CD Puerto Varas - Ancud",
-      "url": "https://www.betexplorer.com/basketball/chile/lnb/cd-puerto-varas-ancud/dUBTeMiB/",
-      "kickoff": "2026-08-08T01:30:00+09:00",
-      "width": 2,
-      "books": 14,
-      "labels": [
-        "CD Puerto Varas",
-        "Ancud"
-      ],
-      "legs": [
-        {
-          "outcome": "CD Puerto Varas",
-          "book": "Duelbits",
-          "odd": 2.09,
-          "stake": 51054,
-          "jp": false,
-          "exch": false,
-          "url": "https://duelbits.com/"
-        },
-        {
-          "outcome": "Ancud",
-          "book": "Mozzartbet",
-          "odd": 2.18,
-          "stake": 48946,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.mozzartbet.com/"
-        }
-      ],
-      "S": 0.9371844958518063,
-      "roi": 6.702576112412184,
-      "profit": 6703,
-      "payout": 106703,
-      "staked": 100000,
-      "mins": 3,
-      "split": {
-        "S": 0.9371844958518063,
-        "payout": 106703,
-        "profit": 6703,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Duelbits",
-            "odd": 2.09,
-            "stake": 51054
-          },
-          {
-            "book": "Mozzartbet",
-            "odd": 2.18,
-            "stake": 48946
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
