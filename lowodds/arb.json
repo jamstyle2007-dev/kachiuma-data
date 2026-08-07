@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T15:21:42.937Z",
+  "generatedAt": "2026-08-07T15:27:08.046Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
@@ -42,8 +42,8 @@
         {
           "outcome": "Washington Mystics W",
           "book": "1xBet",
-          "odd": 2.99,
-          "stake": 33996,
+          "odd": 2.95,
+          "stake": 34298,
           "jp": true,
           "exch": false,
           "url": "https://1xbet.com/ja"
@@ -52,33 +52,33 @@
           "outcome": "Atlanta Dream W",
           "book": "Rainbet",
           "odd": 1.54,
-          "stake": 66004,
+          "stake": 65702,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
         }
       ],
-      "S": 0.9837988098857664,
-      "roi": 1.646799116997788,
-      "profit": 1647,
-      "payout": 101647,
+      "S": 0.988333700198107,
+      "roi": 1.1804008908685937,
+      "profit": 1180,
+      "payout": 101180,
       "staked": 100000,
-      "mins": 8,
+      "mins": 3,
       "split": {
-        "S": 0.9837988098857664,
-        "payout": 101647,
-        "profit": 1647,
+        "S": 0.988333700198107,
+        "payout": 101180,
+        "profit": 1180,
         "staked": 100000,
         "legs": [
           {
             "book": "1xBet",
-            "odd": 2.99,
-            "stake": 33996
+            "odd": 2.95,
+            "stake": 34298
           },
           {
             "book": "Rainbet",
             "odd": 1.54,
-            "stake": 66004
+            "stake": 65702
           }
         ]
       },
