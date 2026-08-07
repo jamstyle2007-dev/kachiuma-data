@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T08:52:44.541Z",
+  "generatedAt": "2026-08-07T08:58:10.998Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 3,
+  "scanned": 2,
   "arbCount": 1,
   "track": {
     "stake": 100000,
@@ -42,8 +42,8 @@
         {
           "outcome": "Trinidad & Tobago W",
           "book": "1xBet",
-          "odd": 7.29,
-          "stake": 14336,
+          "odd": 7.65,
+          "stake": 13754,
           "jp": true,
           "exch": false,
           "url": "https://1xbet.com/ja"
@@ -52,33 +52,33 @@
           "outcome": "Costa Rica W",
           "book": "Bets.io",
           "odd": 1.22,
-          "stake": 85664,
+          "stake": 86246,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
         }
       ],
-      "S": 0.9568463423958263,
-      "roi": 4.509988249118679,
-      "profit": 4510,
-      "payout": 104510,
+      "S": 0.950391085395907,
+      "roi": 5.219842164599764,
+      "profit": 5220,
+      "payout": 105220,
       "staked": 100000,
-      "mins": 7,
+      "mins": 2,
       "split": {
-        "S": 0.9568463423958263,
-        "payout": 104510,
-        "profit": 4510,
+        "S": 0.950391085395907,
+        "payout": 105220,
+        "profit": 5220,
         "staked": 100000,
         "legs": [
           {
             "book": "1xBet",
-            "odd": 7.29,
-            "stake": 14336
+            "odd": 7.65,
+            "stake": 13754
           },
           {
             "book": "Bets.io",
             "odd": 1.22,
-            "stake": 85664
+            "stake": 86246
           }
         ]
       },
