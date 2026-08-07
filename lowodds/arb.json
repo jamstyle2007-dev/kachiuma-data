@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T16:15:55.964Z",
+  "generatedAt": "2026-08-07T16:21:27.065Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
@@ -32,68 +32,53 @@
       "teams": "CD Puerto Varas - Ancud",
       "url": "https://www.betexplorer.com/basketball/chile/lnb/cd-puerto-varas-ancud/dUBTeMiB/",
       "kickoff": "2026-08-08T01:30:00+09:00",
-      "width": 3,
-      "books": 9,
+      "width": 2,
+      "books": 14,
       "labels": [
         "CD Puerto Varas",
-        "Draw",
         "Ancud"
       ],
       "legs": [
         {
           "outcome": "CD Puerto Varas",
-          "book": "102:67",
-          "odd": 102,
-          "stake": 4034,
+          "book": "Duelbits",
+          "odd": 2.09,
+          "stake": 51054,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=102%3A67%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "91:90",
-          "odd": 5,
-          "stake": 82284,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=91%3A90%20sportsbook"
+          "url": "https://duelbits.com/"
         },
         {
           "outcome": "Ancud",
-          "book": "91:90",
-          "odd": 30.07,
-          "stake": 13682,
+          "book": "Mozzartbet",
+          "odd": 2.18,
+          "stake": 48946,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=91%3A90%20sportsbook"
+          "url": "https://www.mozzartbet.com/"
         }
       ],
-      "S": 0.24305965818319347,
-      "roi": 311.42162688565224,
-      "profit": 311422,
-      "payout": 411422,
+      "S": 0.9371844958518063,
+      "roi": 6.702576112412184,
+      "profit": 6703,
+      "payout": 106703,
       "staked": 100000,
-      "mins": 14,
+      "mins": 9,
       "split": {
-        "S": 0.24305965818319347,
-        "payout": 411422,
-        "profit": 311422,
+        "S": 0.9371844958518063,
+        "payout": 106703,
+        "profit": 6703,
         "staked": 100000,
         "legs": [
           {
-            "book": "102:67",
-            "odd": 102,
-            "stake": 4034
+            "book": "Duelbits",
+            "odd": 2.09,
+            "stake": 51054
           },
           {
-            "book": "91:90",
-            "odd": 5,
-            "stake": 82284
-          },
-          {
-            "book": "91:90",
-            "odd": 30.07,
-            "stake": 13682
+            "book": "Mozzartbet",
+            "odd": 2.18,
+            "stake": 48946
           }
         ]
       },
