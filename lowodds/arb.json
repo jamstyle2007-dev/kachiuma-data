@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-07T08:58:10.998Z",
+  "generatedAt": "2026-08-07T09:03:35.376Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "SvT6ID76",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "Trinidad & Tobago W - Costa Rica W",
-      "url": "https://www.betexplorer.com/volleyball/north-central-america/central-american-caribbean-games-women/trinidad-tobago-costa-rica/SvT6ID76/",
-      "kickoff": "2026-08-07T18:00:00+09:00",
-      "width": 2,
-      "books": 11,
-      "labels": [
-        "Trinidad & Tobago W",
-        "Costa Rica W"
-      ],
-      "legs": [
-        {
-          "outcome": "Trinidad & Tobago W",
-          "book": "1xBet",
-          "odd": 7.65,
-          "stake": 13754,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "Costa Rica W",
-          "book": "Bets.io",
-          "odd": 1.22,
-          "stake": 86246,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
-        }
-      ],
-      "S": 0.950391085395907,
-      "roi": 5.219842164599764,
-      "profit": 5220,
-      "payout": 105220,
-      "staked": 100000,
-      "mins": 2,
-      "split": {
-        "S": 0.950391085395907,
-        "payout": 105220,
-        "profit": 5220,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 7.65,
-            "stake": 13754
-          },
-          {
-            "book": "Bets.io",
-            "odd": 1.22,
-            "stake": 86246
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
