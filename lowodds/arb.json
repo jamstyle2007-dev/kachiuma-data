@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T22:48:10.799Z",
+  "generatedAt": "2026-08-08T22:53:37.705Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 3,
@@ -44,56 +44,56 @@
           "outcome": "Sydney Bears",
           "book": "Unibet",
           "odd": 1.46,
-          "stake": 70458,
+          "stake": 71264,
           "jp": false,
           "exch": false,
           "url": "https://www.unibet.com/"
         },
         {
           "outcome": "Draw",
-          "book": "bwin",
-          "odd": 6.5,
-          "stake": 15826,
-          "jp": true,
+          "book": "N1 Bet",
+          "odd": 7,
+          "stake": 14864,
+          "jp": false,
           "exch": false,
-          "url": "https://sports.bwin.com/"
+          "url": "https://www.google.com/search?q=N1%20Bet%20sportsbook"
         },
         {
           "outcome": "Central Coast Rhinos",
           "book": "William Hill",
           "odd": 7.5,
-          "stake": 13716,
+          "stake": 13873,
           "jp": false,
           "exch": false,
           "url": "https://sports.williamhill.com/"
         }
       ],
-      "S": 0.9721109940288022,
-      "roi": 2.8689116924411007,
-      "profit": 2869,
-      "payout": 102869,
-      "staked": 100000,
-      "mins": 12,
+      "S": 0.9611219830397912,
+      "roi": 4.045065834125161,
+      "profit": 4044,
+      "payout": 104045,
+      "staked": 100001,
+      "mins": 6,
       "split": {
-        "S": 0.9721109940288022,
-        "payout": 102869,
-        "profit": 2869,
-        "staked": 100000,
+        "S": 0.9611219830397912,
+        "payout": 104045,
+        "profit": 4044,
+        "staked": 100001,
         "legs": [
           {
             "book": "Unibet",
             "odd": 1.46,
-            "stake": 70458
+            "stake": 71264
           },
           {
-            "book": "bwin",
-            "odd": 6.5,
-            "stake": 15826
+            "book": "N1 Bet",
+            "odd": 7,
+            "stake": 14864
           },
           {
             "book": "William Hill",
             "odd": 7.5,
-            "stake": 13716
+            "stake": 13873
           }
         ]
       },
