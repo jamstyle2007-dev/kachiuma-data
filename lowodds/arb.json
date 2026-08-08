@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-08T22:26:32.311Z",
+  "generatedAt": "2026-08-08T22:31:54.152Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 2,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 30,
       "profit": 785778
     },
-    "pending": 1
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "YuB3rv8d",
+      "sport": "hockey",
+      "sportLabel": "アイスホッケー",
+      "teams": "Sydney Bears - Central Coast Rhinos",
+      "url": "https://www.betexplorer.com/hockey/australia/aihl/sydney-bears-central-coast-rhinos/YuB3rv8d/",
+      "kickoff": "2026-08-09T08:00:00+09:00",
+      "width": 3,
+      "books": 15,
+      "labels": [
+        "Sydney Bears",
+        "Draw",
+        "Central Coast Rhinos"
+      ],
+      "legs": [
+        {
+          "outcome": "Sydney Bears",
+          "book": "Unibet",
+          "odd": 1.46,
+          "stake": 70458,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.unibet.com/"
+        },
+        {
+          "outcome": "Draw",
+          "book": "bwin",
+          "odd": 6.5,
+          "stake": 15826,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        },
+        {
+          "outcome": "Central Coast Rhinos",
+          "book": "William Hill",
+          "odd": 7.5,
+          "stake": 13716,
+          "jp": false,
+          "exch": false,
+          "url": "https://sports.williamhill.com/"
+        }
+      ],
+      "S": 0.9721109940288022,
+      "roi": 2.8689116924411007,
+      "profit": 2869,
+      "payout": 102869,
+      "staked": 100000,
+      "mins": 28,
+      "split": {
+        "S": 0.9721109940288022,
+        "payout": 102869,
+        "profit": 2869,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Unibet",
+            "odd": 1.46,
+            "stake": 70458
+          },
+          {
+            "book": "bwin",
+            "odd": 6.5,
+            "stake": 15826
+          },
+          {
+            "book": "William Hill",
+            "odd": 7.5,
+            "stake": 13716
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
