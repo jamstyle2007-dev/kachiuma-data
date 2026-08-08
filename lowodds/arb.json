@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-08T02:25:43.099Z",
+  "generatedAt": "2026-08-08T02:31:09.407Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 1,
+  "scanned": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "xxkWI1Cj",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "South Adelaide Panthers - Forestville Eagles",
-      "url": "https://www.betexplorer.com/basketball/australia/nbl1-central/south-adelaide-panthers-forestville-eagles/xxkWI1Cj/",
-      "kickoff": "2026-08-08T11:30:00+09:00",
-      "width": 2,
-      "books": 11,
-      "labels": [
-        "South Adelaide Panthers",
-        "Forestville Eagles"
-      ],
-      "legs": [
-        {
-          "outcome": "South Adelaide Panthers",
-          "book": "Rainbet",
-          "odd": 2.78,
-          "stake": 38631,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
-        },
-        {
-          "outcome": "Forestville Eagles",
-          "book": "bwin",
-          "odd": 1.75,
-          "stake": 61369,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        }
-      ],
-      "S": 0.9311408016443987,
-      "roi": 7.395143487858724,
-      "profit": 7395,
-      "payout": 107395,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.9311408016443987,
-        "payout": 107395,
-        "profit": 7395,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Rainbet",
-            "odd": 2.78,
-            "stake": 38631
-          },
-          {
-            "book": "bwin",
-            "odd": 1.75,
-            "stake": 61369
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
