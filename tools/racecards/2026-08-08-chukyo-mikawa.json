@@ -1,0 +1,359 @@
+{
+ "date": "2026-08-08",
+ "track": "中京",
+ "raceNo": 11,
+ "name": "三河ステークス",
+ "grade": "3勝",
+ "surface": "ダ",
+ "distance": 1800,
+ "trackCondition": "良",
+ "conditionType": "定量",
+ "fieldSize": 8,
+ "bias": "前",
+ "horses": [
+  {
+   "num": 1,
+   "name": "タガノマカシヤ",
+   "jockey": "団野大成",
+   "weight": 58,
+   "popularity": 4,
+   "style": "先",
+   "recent3": [
+    {
+     "grade": "3勝",
+     "track": "京都",
+     "surface": "ダ",
+     "distance": 1900,
+     "field": 15,
+     "finish": 5,
+     "margin": "0.6",
+     "last3f": 36.6,
+     "pop": 1,
+     "cond": "良"
+    },
+    {
+     "grade": "3勝",
+     "track": "京都",
+     "surface": "ダ",
+     "distance": 1800,
+     "field": 11,
+     "finish": 2,
+     "margin": "0.1",
+     "last3f": 37.1,
+     "pop": 1,
+     "cond": "稍"
+    },
+    {
+     "grade": "3勝",
+     "track": "阪神",
+     "surface": "ダ",
+     "distance": 1800,
+     "field": 14,
+     "finish": 2,
+     "margin": "0.1",
+     "last3f": 36.8,
+     "pop": 1,
+     "cond": "良"
+    }
+   ]
+  },
+  {
+   "num": 2,
+   "name": "メイショウコガシラ",
+   "jockey": "太宰啓介",
+   "weight": 58,
+   "popularity": 7,
+   "style": "先",
+   "recent3": [
+    {
+     "grade": "3勝",
+     "track": "小倉",
+     "surface": "ダ",
+     "distance": 1700,
+     "field": 15,
+     "finish": 7,
+     "margin": "1.1",
+     "last3f": 37.5,
+     "pop": 15,
+     "cond": "重"
+    }
+   ]
+  },
+  {
+   "num": 3,
+   "name": "シンビリーブ",
+   "jockey": "川田将雅",
+   "weight": 58,
+   "popularity": 2,
+   "style": "先",
+   "recent3": [
+    {
+     "grade": "3勝",
+     "track": "小倉",
+     "surface": "ダ",
+     "distance": 1700,
+     "field": 15,
+     "finish": 2,
+     "margin": "0.1",
+     "last3f": 36.7,
+     "pop": 2,
+     "cond": "重"
+    },
+    {
+     "grade": "3勝",
+     "track": "阪神",
+     "surface": "ダ",
+     "distance": 2000,
+     "field": 13,
+     "finish": 6,
+     "margin": "0.7",
+     "last3f": 37.1,
+     "pop": 1,
+     "cond": "良"
+    },
+    {
+     "grade": "3勝",
+     "track": "中山",
+     "surface": "ダ",
+     "distance": 1800,
+     "field": 14,
+     "finish": 4,
+     "margin": "0.7",
+     "last3f": 39.8,
+     "pop": 1,
+     "cond": "重"
+    }
+   ]
+  },
+  {
+   "num": 4,
+   "name": "インザモーメント",
+   "jockey": "田山旺佑",
+   "weight": 58,
+   "popularity": 5,
+   "style": "差",
+   "recent3": [
+    {
+     "grade": "3勝",
+     "track": "小倉",
+     "surface": "ダ",
+     "distance": 1700,
+     "field": 16,
+     "finish": 6,
+     "margin": "0.8",
+     "last3f": 38.3,
+     "pop": 13,
+     "cond": "良"
+    },
+    {
+     "grade": "3勝",
+     "track": "京都",
+     "surface": "芝",
+     "distance": 2000,
+     "field": 9,
+     "finish": 9,
+     "margin": "0.7",
+     "last3f": 34.1,
+     "pop": 5,
+     "cond": "良"
+    },
+    {
+     "grade": "3勝",
+     "track": "京都",
+     "surface": "芝",
+     "distance": 2400,
+     "field": 16,
+     "finish": 14,
+     "margin": "2.1",
+     "last3f": 36.3,
+     "pop": 6,
+     "cond": "良"
+    }
+   ]
+  },
+  {
+   "num": 5,
+   "name": "ユウトザユウト",
+   "jockey": "松若風馬",
+   "weight": 58,
+   "popularity": 8,
+   "style": "先",
+   "recent3": [
+    {
+     "grade": "2勝",
+     "track": "中京",
+     "surface": "ダ",
+     "distance": 1800,
+     "field": 12,
+     "finish": 12,
+     "margin": "4.3",
+     "last3f": 43.4,
+     "pop": 5,
+     "cond": "良"
+    },
+    {
+     "grade": "2勝",
+     "track": "阪神",
+     "surface": "ダ",
+     "distance": 1800,
+     "field": 11,
+     "finish": 7,
+     "margin": "1.8",
+     "last3f": 37.9,
+     "pop": 2,
+     "cond": "良"
+    },
+    {
+     "grade": "2勝",
+     "track": "阪神",
+     "surface": "ダ",
+     "distance": 2000,
+     "field": 14,
+     "finish": 2,
+     "margin": "0.1",
+     "last3f": 37.5,
+     "pop": 4,
+     "cond": "良"
+    }
+   ]
+  },
+  {
+   "num": 6,
+   "name": "クァンタムウェーブ",
+   "jockey": "コレット",
+   "weight": 58,
+   "popularity": 3,
+   "style": "差",
+   "recent3": [
+    {
+     "grade": "3勝",
+     "track": "東京",
+     "surface": "ダ",
+     "distance": 1600,
+     "field": 15,
+     "finish": 14,
+     "margin": "3.4",
+     "last3f": 39.2,
+     "pop": 3,
+     "cond": "良"
+    },
+    {
+     "grade": "3勝",
+     "track": "阪神",
+     "surface": "ダ",
+     "distance": 1800,
+     "field": 16,
+     "finish": 4,
+     "margin": "0.3",
+     "last3f": 38.0,
+     "pop": 1,
+     "cond": "稍"
+    },
+    {
+     "grade": "3勝",
+     "track": "京都",
+     "surface": "ダ",
+     "distance": 1800,
+     "field": 14,
+     "finish": 13,
+     "margin": "2.2",
+     "last3f": 39.4,
+     "pop": 5,
+     "cond": "良"
+    }
+   ]
+  },
+  {
+   "num": 7,
+   "name": "ロードヴォイジャー",
+   "jockey": "西村淳也",
+   "weight": 58,
+   "popularity": 1,
+   "style": "逃",
+   "recent3": [
+    {
+     "grade": "3勝",
+     "track": "京都",
+     "surface": "ダ",
+     "distance": 1800,
+     "field": 16,
+     "finish": 3,
+     "margin": "0.3",
+     "last3f": 35.7,
+     "pop": 4,
+     "cond": "良"
+    },
+    {
+     "grade": "2勝",
+     "track": "京都",
+     "surface": "ダ",
+     "distance": 1800,
+     "field": 13,
+     "finish": 1,
+     "margin": "-0.1",
+     "last3f": 36.9,
+     "pop": 2,
+     "cond": "良"
+    },
+    {
+     "grade": "1勝",
+     "track": "京都",
+     "surface": "ダ",
+     "distance": 1800,
+     "field": 13,
+     "finish": 1,
+     "margin": "-1.1",
+     "last3f": 36.8,
+     "pop": 4,
+     "cond": "良"
+    }
+   ]
+  },
+  {
+   "num": 8,
+   "name": "メイショウシナノ",
+   "jockey": "田口貫太",
+   "weight": 58,
+   "popularity": 6,
+   "style": "追",
+   "recent3": [
+    {
+     "grade": "3勝",
+     "track": "小倉",
+     "surface": "ダ",
+     "distance": 1700,
+     "field": 16,
+     "finish": 4,
+     "margin": "0.6",
+     "last3f": 37.6,
+     "pop": 9,
+     "cond": "良"
+    },
+    {
+     "grade": "3勝",
+     "track": "阪神",
+     "surface": "ダ",
+     "distance": 1800,
+     "field": 16,
+     "finish": 9,
+     "margin": "1.9",
+     "last3f": 37.9,
+     "pop": 11,
+     "cond": "重"
+    },
+    {
+     "grade": "3勝",
+     "track": "京都",
+     "surface": "ダ",
+     "distance": 1900,
+     "field": 15,
+     "finish": 7,
+     "margin": "0.7",
+     "last3f": 36.0,
+     "pop": 12,
+     "cond": "良"
+    }
+   ]
+  }
+ ]
+}
