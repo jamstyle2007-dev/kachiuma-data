@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-08T22:59:04.876Z",
+  "generatedAt": "2026-08-08T23:04:32.565Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 3,
-  "arbCount": 1,
+  "scanned": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "YuB3rv8d",
-      "sport": "hockey",
-      "sportLabel": "アイスホッケー",
-      "teams": "Sydney Bears - Central Coast Rhinos",
-      "url": "https://www.betexplorer.com/hockey/australia/aihl/sydney-bears-central-coast-rhinos/YuB3rv8d/",
-      "kickoff": "2026-08-09T08:00:00+09:00",
-      "width": 3,
-      "books": 15,
-      "labels": [
-        "Sydney Bears",
-        "Draw",
-        "Central Coast Rhinos"
-      ],
-      "legs": [
-        {
-          "outcome": "Sydney Bears",
-          "book": "Unibet",
-          "odd": 1.46,
-          "stake": 72446,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.unibet.com/"
-        },
-        {
-          "outcome": "Draw",
-          "book": "Bets.io",
-          "odd": 7,
-          "stake": 15110,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
-        },
-        {
-          "outcome": "Central Coast Rhinos",
-          "book": "Betway",
-          "odd": 8.5,
-          "stake": 12444,
-          "jp": true,
-          "exch": false,
-          "url": "https://betway.com/"
-        }
-      ],
-      "S": 0.9454357085299874,
-      "roi": 5.771338122488734,
-      "profit": 5771,
-      "payout": 105771,
-      "staked": 100000,
-      "mins": 1,
-      "split": {
-        "S": 0.9454357085299874,
-        "payout": 105771,
-        "profit": 5771,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Unibet",
-            "odd": 1.46,
-            "stake": 72446
-          },
-          {
-            "book": "Bets.io",
-            "odd": 7,
-            "stake": 15110
-          },
-          {
-            "book": "Betway",
-            "odd": 8.5,
-            "stake": 12444
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
