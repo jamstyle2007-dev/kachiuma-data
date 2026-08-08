@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T21:54:16.251Z",
+  "generatedAt": "2026-08-08T21:59:40.132Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
@@ -43,8 +43,8 @@
         {
           "outcome": "Newcastle",
           "book": "Betsson",
-          "odd": 1.45,
-          "stake": 71856,
+          "odd": 1.47,
+          "stake": 71578,
           "jp": false,
           "exch": false,
           "url": "https://www.betsson.com/"
@@ -53,7 +53,7 @@
           "outcome": "Draw",
           "book": "bwin",
           "odd": 6.5,
-          "stake": 16029,
+          "stake": 16188,
           "jp": true,
           "exch": false,
           "url": "https://sports.bwin.com/"
@@ -62,38 +62,38 @@
           "outcome": "Sydney Ice Dogs",
           "book": "Duelbits",
           "odd": 8.6,
-          "stake": 12115,
+          "stake": 12235,
           "jp": false,
           "exch": false,
           "url": "https://duelbits.com/"
         }
       ],
-      "S": 0.9597803960273888,
-      "roi": 4.190500674850561,
-      "profit": 4191,
-      "payout": 104191,
-      "staked": 100000,
-      "mins": 6,
+      "S": 0.9503973324571331,
+      "roi": 5.219150543554818,
+      "profit": 5218,
+      "payout": 105219,
+      "staked": 100001,
+      "mins": 0,
       "split": {
-        "S": 0.9597803960273888,
-        "payout": 104191,
-        "profit": 4191,
-        "staked": 100000,
+        "S": 0.9503973324571331,
+        "payout": 105219,
+        "profit": 5218,
+        "staked": 100001,
         "legs": [
           {
             "book": "Betsson",
-            "odd": 1.45,
-            "stake": 71856
+            "odd": 1.47,
+            "stake": 71578
           },
           {
             "book": "bwin",
             "odd": 6.5,
-            "stake": 16029
+            "stake": 16188
           },
           {
             "book": "Duelbits",
             "odd": 8.6,
-            "stake": 12115
+            "stake": 12235
           }
         ]
       },
