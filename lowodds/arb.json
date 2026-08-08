@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-08T16:26:18.214Z",
+  "generatedAt": "2026-08-08T16:31:43.958Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 3
   },
-  "opps": [
-    {
-      "id": "SGhvj9Yp",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "Bolivia - Paraguay",
-      "url": "https://www.betexplorer.com/volleyball/south-america/copa-america/bolivia-paraguay/SGhvj9Yp/",
-      "kickoff": "2026-08-09T01:30:00+09:00",
-      "width": 2,
-      "books": 8,
-      "labels": [
-        "Bolivia",
-        "Paraguay"
-      ],
-      "legs": [
-        {
-          "outcome": "Bolivia",
-          "book": "Mozzartbet",
-          "odd": 3.8,
-          "stake": 35593,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.mozzartbet.com/"
-        },
-        {
-          "outcome": "Paraguay",
-          "book": "Unibet",
-          "odd": 2.1,
-          "stake": 64407,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.unibet.com/"
-        }
-      ],
-      "S": 0.7393483709273183,
-      "roi": 35.25423728813559,
-      "profit": 35254,
-      "payout": 135254,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.7393483709273183,
-        "payout": 135254,
-        "profit": 35254,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Mozzartbet",
-            "odd": 3.8,
-            "stake": 35593
-          },
-          {
-            "book": "Unibet",
-            "odd": 2.1,
-            "stake": 64407
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
