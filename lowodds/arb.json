@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-08T12:14:25.994Z",
+  "generatedAt": "2026-08-08T12:19:50.788Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "WlsdGjUa",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Venezuela W - Colombia W",
-      "url": "https://www.betexplorer.com/basketball/south-america/south-american-championship-women/venezuela-colombia/WlsdGjUa/",
-      "kickoff": "2026-08-08T21:30:00+09:00",
-      "width": 2,
-      "books": 13,
-      "labels": [
-        "Venezuela W",
-        "Colombia W"
-      ],
-      "legs": [
-        {
-          "outcome": "Venezuela W",
-          "book": "BetInAsia",
-          "odd": 2.97,
-          "stake": 34581,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        },
-        {
-          "outcome": "Colombia W",
-          "book": "Unibet",
-          "odd": 1.57,
-          "stake": 65419,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.unibet.com/"
-        }
-      ],
-      "S": 0.9736430118595722,
-      "roi": 2.7070484581497967,
-      "profit": 2707,
-      "payout": 102707,
-      "staked": 100000,
-      "mins": 16,
-      "split": {
-        "S": 0.9736430118595722,
-        "payout": 102707,
-        "profit": 2707,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "BetInAsia",
-            "odd": 2.97,
-            "stake": 34581
-          },
-          {
-            "book": "Unibet",
-            "odd": 1.57,
-            "stake": 65419
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
