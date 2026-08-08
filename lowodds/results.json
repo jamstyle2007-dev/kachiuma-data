@@ -1,41 +1,41 @@
 {
-  "generatedAt": "2026-08-08T00:53:23.795Z",
+  "generatedAt": "2026-08-08T03:55:50.502Z",
   "windowDays": 400,
   "total": 300,
   "hits": 199,
   "hitRate": 0.6633333333333333,
   "sim": {
     "stake": 10000,
-    "asOf": "2026-08-08T00:53:23.795Z",
+    "asOf": "2026-08-08T03:55:50.502Z",
     "byMinStars": {
       "1": {
         "all": {
-          "n": 2465,
+          "n": 2466,
           "hits": 1587,
-          "staked": 24650000,
+          "staked": 24660000,
           "returns": 20273500,
-          "profit": -4376500
+          "profit": -4386500
         },
         "year": {
-          "n": 2465,
+          "n": 2466,
           "hits": 1587,
-          "staked": 24650000,
+          "staked": 24660000,
           "returns": 20273500,
-          "profit": -4376500
+          "profit": -4386500
         },
         "month": {
-          "n": 610,
+          "n": 611,
           "hits": 402,
-          "staked": 6100000,
+          "staked": 6110000,
           "returns": 5164000,
-          "profit": -936000
+          "profit": -946000
         },
         "week": {
-          "n": 501,
+          "n": 502,
           "hits": 322,
-          "staked": 5010000,
+          "staked": 5020000,
           "returns": 4112200,
-          "profit": -897800
+          "profit": -907800
         }
       },
       "2": {
@@ -161,6 +161,23 @@
     }
   },
   "settled": [
+    {
+      "id": "xxRpoQc5",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ATP - SINGLES: MONTREAL, HARD",
+      "favTeam": "Paul T.",
+      "underTeam": "Tien L.",
+      "favIsHome": false,
+      "favOdd": 1.58,
+      "prob": 63,
+      "stars": 1,
+      "kickoff": "2026-08-08T02:15:00+09:00",
+      "homeScore": 2,
+      "awayScore": 0,
+      "isDraw": false,
+      "favWon": false
+    },
     {
       "id": "dUBTeMiB",
       "sport": "バスケ",
@@ -5243,23 +5260,6 @@
       "awayScore": 1,
       "isDraw": false,
       "favWon": true
-    },
-    {
-      "id": "fo7umLs2",
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "WORLD: CLUB FRIENDLY",
-      "favTeam": "UD Ibiza",
-      "underTeam": "Ilicitano",
-      "favIsHome": true,
-      "favOdd": 1.41,
-      "prob": 71,
-      "stars": 1,
-      "kickoff": "2026-08-05T10:30:00+09:00",
-      "homeScore": 0,
-      "awayScore": 0,
-      "isDraw": true,
-      "favWon": false
     }
   ]
 }
