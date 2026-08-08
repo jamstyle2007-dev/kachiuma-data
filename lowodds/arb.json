@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-08T00:26:47.207Z",
+  "generatedAt": "2026-08-08T00:32:11.916Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 0,
+  "scanned": 3,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 23,
       "profit": 737826
     },
-    "pending": 1
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "61ni6OSp",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Illawarra Hawks 2 - Sutherland Sharks",
+      "url": "https://www.betexplorer.com/basketball/australia/nbl1-east/illawarra-hawks-sutherland-sharks/61ni6OSp/",
+      "kickoff": "2026-08-08T10:00:00+09:00",
+      "width": 2,
+      "books": 10,
+      "labels": [
+        "Illawarra Hawks 2",
+        "Sutherland Sharks"
+      ],
+      "legs": [
+        {
+          "outcome": "Illawarra Hawks 2",
+          "book": "Mozzartbet",
+          "odd": 1.9,
+          "stake": 53086,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.mozzartbet.com/"
+        },
+        {
+          "outcome": "Sutherland Sharks",
+          "book": "Unibet",
+          "odd": 2.15,
+          "stake": 46914,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.unibet.com/"
+        }
+      ],
+      "S": 0.9914320685434517,
+      "roi": 0.8641975308641969,
+      "profit": 864,
+      "payout": 100864,
+      "staked": 100000,
+      "mins": 28,
+      "split": {
+        "S": 0.9914320685434517,
+        "payout": 100864,
+        "profit": 864,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Mozzartbet",
+            "odd": 1.9,
+            "stake": 53086
+          },
+          {
+            "book": "Unibet",
+            "odd": 2.15,
+            "stake": 46914
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
