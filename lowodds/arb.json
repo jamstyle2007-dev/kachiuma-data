@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-08T15:53:43.835Z",
+  "generatedAt": "2026-08-08T15:59:09.773Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
-  "arbCount": 2,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -63,7 +63,7 @@
       "profit": 1016,
       "payout": 101016,
       "staked": 100000,
-      "mins": 6,
+      "mins": 1,
       "split": {
         "S": 0.9899396378269618,
         "payout": 101016,
@@ -83,66 +83,6 @@
         ]
       },
       "hasExch": true,
-      "allJp": false
-    },
-    {
-      "id": "xjjnq1L0",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Argentina W - Brazil W",
-      "url": "https://www.betexplorer.com/basketball/south-america/south-american-championship-women/argentina-brazil/xjjnq1L0/",
-      "kickoff": "2026-08-09T01:00:00+09:00",
-      "width": 2,
-      "books": 13,
-      "labels": [
-        "Argentina W",
-        "Brazil W"
-      ],
-      "legs": [
-        {
-          "outcome": "Argentina W",
-          "book": "Unibet",
-          "odd": 1.4,
-          "stake": 71487,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.unibet.com/"
-        },
-        {
-          "outcome": "Brazil W",
-          "book": "BetInAsia",
-          "odd": 3.51,
-          "stake": 28513,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        }
-      ],
-      "S": 0.9991859991859993,
-      "roi": 0.08146639511201759,
-      "profit": 81,
-      "payout": 100081,
-      "staked": 100000,
-      "mins": 6,
-      "split": {
-        "S": 0.9991859991859993,
-        "payout": 100081,
-        "profit": 81,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Unibet",
-            "odd": 1.4,
-            "stake": 71487
-          },
-          {
-            "book": "BetInAsia",
-            "odd": 3.51,
-            "stake": 28513
-          }
-        ]
-      },
-      "hasExch": false,
       "allJp": false
     }
   ]
