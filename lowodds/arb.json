@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T15:59:09.773Z",
+  "generatedAt": "2026-08-08T16:04:35.093Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
@@ -22,67 +22,67 @@
       "count": 27,
       "profit": 749427
     },
-    "pending": 2
+    "pending": 3
   },
   "opps": [
     {
-      "id": "4fFyf0MN",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Colo Colo - U. De Concepcion",
-      "url": "https://www.betexplorer.com/basketball/chile/lnb/colo-colo-universidad-de-concepcion/4fFyf0MN/",
-      "kickoff": "2026-08-09T01:00:00+09:00",
+      "id": "SGhvj9Yp",
+      "sport": "volleyball",
+      "sportLabel": "バレー",
+      "teams": "Bolivia - Paraguay",
+      "url": "https://www.betexplorer.com/volleyball/south-america/copa-america/bolivia-paraguay/SGhvj9Yp/",
+      "kickoff": "2026-08-09T01:30:00+09:00",
       "width": 2,
-      "books": 15,
+      "books": 8,
       "labels": [
-        "Colo Colo",
-        "U. De Concepcion"
+        "Bolivia",
+        "Paraguay"
       ],
       "legs": [
         {
-          "outcome": "Colo Colo",
-          "book": "Betfair",
-          "odd": 3.5,
-          "stake": 28862,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
+          "outcome": "Bolivia",
+          "book": "Mozzartbet",
+          "odd": 3.8,
+          "stake": 35593,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.mozzartbet.com/"
         },
         {
-          "outcome": "U. De Concepcion",
+          "outcome": "Paraguay",
           "book": "Unibet",
-          "odd": 1.42,
-          "stake": 71138,
+          "odd": 2.1,
+          "stake": 64407,
           "jp": false,
           "exch": false,
           "url": "https://www.unibet.com/"
         }
       ],
-      "S": 0.9899396378269618,
-      "roi": 1.0162601626016121,
-      "profit": 1016,
-      "payout": 101016,
+      "S": 0.7393483709273183,
+      "roi": 35.25423728813559,
+      "profit": 35254,
+      "payout": 135254,
       "staked": 100000,
-      "mins": 1,
+      "mins": 25,
       "split": {
-        "S": 0.9899396378269618,
-        "payout": 101016,
-        "profit": 1016,
+        "S": 0.7393483709273183,
+        "payout": 135254,
+        "profit": 35254,
         "staked": 100000,
         "legs": [
           {
-            "book": "Betfair",
-            "odd": 3.5,
-            "stake": 28862
+            "book": "Mozzartbet",
+            "odd": 3.8,
+            "stake": 35593
           },
           {
             "book": "Unibet",
-            "odd": 1.42,
-            "stake": 71138
+            "odd": 2.1,
+            "stake": 64407
           }
         ]
       },
-      "hasExch": true,
+      "hasExch": false,
       "allJp": false
     }
   ]
