@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-08T21:27:15.718Z",
+  "generatedAt": "2026-08-08T21:32:36.459Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 2,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 30,
       "profit": 785778
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "nPCep0wp",
+      "sport": "hockey",
+      "sportLabel": "アイスホッケー",
+      "teams": "Newcastle - Sydney Ice Dogs",
+      "url": "https://www.betexplorer.com/hockey/australia/aihl/newcastle-north-stars-sydney-ice-dogs/nPCep0wp/",
+      "kickoff": "2026-08-09T07:00:00+09:00",
+      "width": 3,
+      "books": 14,
+      "labels": [
+        "Newcastle",
+        "Draw",
+        "Sydney Ice Dogs"
+      ],
+      "legs": [
+        {
+          "outcome": "Newcastle",
+          "book": "Betsson",
+          "odd": 1.45,
+          "stake": 71856,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.betsson.com/"
+        },
+        {
+          "outcome": "Draw",
+          "book": "bwin",
+          "odd": 6.5,
+          "stake": 16029,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        },
+        {
+          "outcome": "Sydney Ice Dogs",
+          "book": "Duelbits",
+          "odd": 8.6,
+          "stake": 12115,
+          "jp": false,
+          "exch": false,
+          "url": "https://duelbits.com/"
+        }
+      ],
+      "S": 0.9597803960273888,
+      "roi": 4.190500674850561,
+      "profit": 4191,
+      "payout": 104191,
+      "staked": 100000,
+      "mins": 27,
+      "split": {
+        "S": 0.9597803960273888,
+        "payout": 104191,
+        "profit": 4191,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Betsson",
+            "odd": 1.45,
+            "stake": 71856
+          },
+          {
+            "book": "bwin",
+            "odd": 6.5,
+            "stake": 16029
+          },
+          {
+            "book": "Duelbits",
+            "odd": 8.6,
+            "stake": 12115
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
