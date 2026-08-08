@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-08T18:36:30.829Z",
+  "generatedAt": "2026-08-08T21:38:55.354Z",
   "source": "betexplorer.com (Pinnacle / 1xBet odds)",
   "threshold": 1.6,
-  "count": 23,
+  "count": 22,
   "matches": [
     {
       "sport": "バスケ",
@@ -32,13 +32,13 @@
       "away": "CD Huachipato",
       "favTeam": "Sportiva Italiana",
       "underTeam": "CD Huachipato",
-      "favOdd": 1.03,
-      "prob": 97,
+      "favOdd": 1.04,
+      "prob": 96,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.03
+        "1xbet": 1.04
       },
-      "avgFavOdd": 1.05,
+      "avgFavOdd": 1.06,
       "time": "06:30",
       "kickoff": "2026-08-08T22:30:00+09:00",
       "niche": false,
@@ -58,11 +58,51 @@
       "books": {
         "1xbet": 1.06
       },
-      "avgFavOdd": 1.09,
+      "avgFavOdd": 1.1,
       "time": "07:00",
       "kickoff": "2026-08-08T23:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/volleyball/south-america/copa-america/brazil-chile/IN0haDBb/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M15 TIANJIN, HARD",
+      "home": "Dellavedova M.",
+      "away": "Mochizuki Y.",
+      "favTeam": "Dellavedova M.",
+      "underTeam": "Mochizuki Y.",
+      "favOdd": 1.15,
+      "prob": 87,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.15
+      },
+      "avgFavOdd": 1.17,
+      "time": "12:00",
+      "kickoff": "2026-08-09T04:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m15-tianjin/dellavedova-matthew-mochizuki-yuki/YHaSgeTr/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "WTA - SINGLES: TORONTO, HARD",
+      "home": "Sabalenka A.",
+      "away": "Alexandrova E.",
+      "favTeam": "Sabalenka A.",
+      "underTeam": "Alexandrova E.",
+      "favOdd": 1.17,
+      "prob": 85,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.17
+      },
+      "avgFavOdd": 1.16,
+      "time": "08:10",
+      "kickoff": "2026-08-09T00:10:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/tennis/wta-singles/toronto/sabalenka-aryna-alexandrova-ekaterina/AFGhOCE8/"
     },
     {
       "sport": "バスケ",
@@ -72,13 +112,13 @@
       "away": "Brazil W",
       "favTeam": "Argentina W",
       "underTeam": "Brazil W",
-      "favOdd": 1.22,
-      "prob": 82,
+      "favOdd": 1.18,
+      "prob": 85,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.22
+        "1xbet": 1.18
       },
-      "avgFavOdd": 1.22,
+      "avgFavOdd": 1.17,
       "time": "09:00",
       "kickoff": "2026-08-09T01:00:00+09:00",
       "niche": false,
@@ -98,7 +138,7 @@
       "books": {
         "1xbet": 1.24
       },
-      "avgFavOdd": 1.27,
+      "avgFavOdd": 1.26,
       "time": "09:00",
       "kickoff": "2026-08-09T01:00:00+09:00",
       "niche": false,
@@ -107,42 +147,42 @@
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "ATP - DOUBLES: MONTREAL, HARD",
-      "home": "Arnaldi M. / Musetti L.",
-      "away": "Andreozzi G. / Guinard M.",
-      "favTeam": "Andreozzi G. / Guinard M.",
-      "underTeam": "Arnaldi M. / Musetti L.",
-      "favOdd": 1.26,
-      "prob": 79,
+      "league": "WTA - DOUBLES: TORONTO, HARD",
+      "home": "Jiang X. / Wu F.",
+      "away": "Mertens E. / Shnaider D.",
+      "favTeam": "Mertens E. / Shnaider D.",
+      "underTeam": "Jiang X. / Wu F.",
+      "favOdd": 1.28,
+      "prob": 78,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.26
+        "1xbet": 1.28
       },
-      "avgFavOdd": 1.26,
-      "time": "04:05",
-      "kickoff": "2026-08-08T20:05:00+09:00",
+      "avgFavOdd": 1.29,
+      "time": "07:15",
+      "kickoff": "2026-08-08T23:15:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/tennis/atp-doubles/montreal/arnaldi-matteo-musetti-lorenzo-andreozzi-guido-guinard-manuel/KneAUtkA/"
+      "url": "https://www.betexplorer.com/tennis/wta-doubles/toronto/jiang-xinyu-wu-fang-hsien-mertens-elise-shnaider-diana/6JsLEasC/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "WTA - DOUBLES: TORONTO, HARD",
-      "home": "Hsieh S-W. / Ostapenko J.",
-      "away": "Eikeri U. / Gleason Q.",
-      "favTeam": "Hsieh S-W. / Ostapenko J.",
-      "underTeam": "Eikeri U. / Gleason Q.",
-      "favOdd": 1.27,
-      "prob": 79,
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "AUSTRALIA: NBL1 SOUTH WOMEN",
+      "home": "Knox W",
+      "away": "Sandringham W",
+      "favTeam": "Knox W",
+      "underTeam": "Sandringham W",
+      "favOdd": 1.29,
+      "prob": 78,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.27
+        "1xbet": 1.29
       },
-      "avgFavOdd": 1.25,
-      "time": "03:50",
-      "kickoff": "2026-08-08T19:50:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/wta-doubles/toronto/hsieh-su-wei-ostapenko-jelena-eikeri-ulrikke-gleason-quinn/A5oCRP3B/"
+      "avgFavOdd": 1.28,
+      "time": "12:00",
+      "kickoff": "2026-08-09T04:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/australia/nbl1-south-women/knox-sandringham-sabres/pSPsACCL/"
     },
     {
       "sport": "アイスホッケー",
@@ -165,26 +205,6 @@
       "url": "https://www.betexplorer.com/hockey/australia/aihl/sydney-bears-central-coast-rhinos/YuB3rv8d/"
     },
     {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "AUSTRALIA: NBL1 SOUTH WOMEN",
-      "home": "Knox W",
-      "away": "Sandringham W",
-      "favTeam": "Knox W",
-      "underTeam": "Sandringham W",
-      "favOdd": 1.3,
-      "prob": 77,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.3
-      },
-      "avgFavOdd": 1.29,
-      "time": "12:00",
-      "kickoff": "2026-08-09T04:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/australia/nbl1-south-women/knox-sandringham-sabres/pSPsACCL/"
-    },
-    {
       "sport": "アイスホッケー",
       "sportKey": "hockey",
       "league": "AUSTRALIA: AIHL",
@@ -192,13 +212,13 @@
       "away": "Sydney Ice Dogs",
       "favTeam": "Newcastle",
       "underTeam": "Sydney Ice Dogs",
-      "favOdd": 1.33,
+      "favOdd": 1.34,
       "prob": 75,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.33
+        "1xbet": 1.34
       },
-      "avgFavOdd": 1.35,
+      "avgFavOdd": 1.37,
       "time": "15:00",
       "kickoff": "2026-08-09T07:00:00+09:00",
       "niche": false,
@@ -207,42 +227,22 @@
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25+H TAUSTE, HARD",
-      "home": "Almazan Valiente I.",
-      "away": "Sanchez Quilez A.",
-      "favTeam": "Sanchez Quilez A.",
-      "underTeam": "Almazan Valiente I.",
-      "favOdd": 1.34,
-      "prob": 75,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.34
-      },
-      "avgFavOdd": 1.35,
-      "time": "04:30",
-      "kickoff": "2026-08-08T20:30:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-h-tauste/almazan-valiente-izan-sanchez-quilez-alejo/W8mdLxCd/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "WTA - SINGLES: TORONTO, HARD",
-      "home": "Pegula J.",
-      "away": "Shnaider D.",
-      "favTeam": "Pegula J.",
-      "underTeam": "Shnaider D.",
-      "favOdd": 1.36,
+      "league": "CHALLENGER MEN - DOUBLES: LEXINGTON, HARD",
+      "home": "Escobar G. / Kaliyanda Poonacha N.",
+      "away": "Ilagan A. / Poling K.",
+      "favTeam": "Escobar G. / Kaliyanda Poonacha N.",
+      "underTeam": "Ilagan A. / Poling K.",
+      "favOdd": 1.35,
       "prob": 74,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.36
+        "1xbet": 1.35
       },
-      "avgFavOdd": 1.34,
-      "time": "03:45",
-      "kickoff": "2026-08-08T19:45:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/tennis/wta-singles/toronto/pegula-jessica-shnaider-diana/js8EvbP1/"
+      "avgFavOdd": 1.35,
+      "time": "08:10",
+      "kickoff": "2026-08-09T00:10:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/challenger-men-doubles/lexington/escobar-gonzalo-kaliyanda-poonacha-niki-ilagan-andre-poling-karl/8AISw6qL/"
     },
     {
       "sport": "アイスホッケー",
@@ -265,46 +265,6 @@
       "url": "https://www.betexplorer.com/hockey/belarus/belarusian-cup/gomel-lokomotiv-orsha/hnY853zp/"
     },
     {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "CANADA: CEBL",
-      "home": "Vancouver Bandits",
-      "away": "Winnipeg Sea Bears",
-      "favTeam": "Vancouver Bandits",
-      "underTeam": "Winnipeg Sea Bears",
-      "favOdd": 1.38,
-      "prob": 72,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.38
-      },
-      "avgFavOdd": 1.39,
-      "time": "04:30",
-      "kickoff": "2026-08-08T20:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/canada/cebl/vancouver-bandits-winnipeg-sea-bears/tzuw9zAc/"
-    },
-    {
-      "sport": "野球",
-      "sportKey": "baseball",
-      "league": "USA: MLB",
-      "home": "Boston Red Sox",
-      "away": "Athletics",
-      "favTeam": "Boston Red Sox",
-      "underTeam": "Athletics",
-      "favOdd": 1.4,
-      "prob": 71,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.4
-      },
-      "avgFavOdd": 1.37,
-      "time": "05:10",
-      "kickoff": "2026-08-08T21:10:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/boston-red-sox-athletics/2TYGX1WH/"
-    },
-    {
       "sport": "アイスホッケー",
       "sportKey": "hockey",
       "league": "BELARUS: BELARUSIAN CUP",
@@ -312,37 +272,57 @@
       "away": "Zhlobin",
       "favTeam": "Zhlobin",
       "underTeam": "Novopolotsk",
-      "favOdd": 1.42,
-      "prob": 70,
+      "favOdd": 1.39,
+      "prob": 72,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.42
+        "1xbet": 1.39
       },
-      "avgFavOdd": 1.41,
+      "avgFavOdd": 1.39,
       "time": "19:00",
       "kickoff": "2026-08-09T11:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/hockey/belarus/belarusian-cup/novopolotsk-zhlobin/0CyH3s5d/"
     },
     {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ATP - SINGLES: MONTREAL, HARD",
+      "home": "Fils A.",
+      "away": "Norrie C.",
+      "favTeam": "Fils A.",
+      "underTeam": "Norrie C.",
+      "favOdd": 1.4,
+      "prob": 71,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.4
+      },
+      "avgFavOdd": 1.39,
+      "time": "08:40",
+      "kickoff": "2026-08-09T00:40:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/tennis/atp-singles/montreal/arthur-fils-norrie-cameron/ALmJCryo/"
+    },
+    {
       "sport": "バスケ",
       "sportKey": "basketball",
-      "league": "USA: WNBA",
-      "home": "Chicago Sky W",
-      "away": "Indiana Fever W",
-      "favTeam": "Indiana Fever W",
-      "underTeam": "Chicago Sky W",
+      "league": "AUSTRALIA: NBL1 WEST WOMEN",
+      "home": "Cockburn Cougars W",
+      "away": "East Perth Eagles W",
+      "favTeam": "Cockburn Cougars W",
+      "underTeam": "East Perth Eagles W",
       "favOdd": 1.42,
       "prob": 70,
       "book": "1xBet",
       "books": {
         "1xbet": 1.42
       },
-      "avgFavOdd": 1.42,
-      "time": "04:30",
-      "kickoff": "2026-08-08T20:30:00+09:00",
+      "avgFavOdd": 1.4,
+      "time": "16:00",
+      "kickoff": "2026-08-09T08:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/usa/wnba/chicago-sky-indiana-fever/W8Nws5Ws/"
+      "url": "https://www.betexplorer.com/basketball/australia/nbl1-west-women/cockburn-cougars-east-perth-eagles/M5UHJG4s/"
     },
     {
       "sport": "アイスホッケー",
@@ -365,33 +345,13 @@
       "url": "https://www.betexplorer.com/hockey/world/club-friendly/aktobe-kulager/IDcHTBKq/"
     },
     {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "WORLD: CLUB FRIENDLY",
-      "home": "Aguas Santas",
-      "away": "Anaitasuna",
-      "favTeam": "Anaitasuna",
-      "underTeam": "Aguas Santas",
-      "favOdd": 1.44,
-      "prob": 69,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.44
-      },
-      "avgFavOdd": 1.44,
-      "time": "05:00",
-      "kickoff": "2026-08-08T21:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/handball/world/club-friendly/aguas-santas-anaitasuna/YwFARulL/"
-    },
-    {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "ATP - SINGLES: MONTREAL, HARD",
-      "home": "Rinderknech A.",
-      "away": "Nakashima B.",
-      "favTeam": "Nakashima B.",
-      "underTeam": "Rinderknech A.",
+      "league": "ITF WOMEN - SINGLES: W15 TIANJIN, HARD",
+      "home": "Zhang J.",
+      "away": "Zhu C.",
+      "favTeam": "Zhu C.",
+      "underTeam": "Zhang J.",
       "favOdd": 1.44,
       "prob": 69,
       "book": "1xBet",
@@ -399,10 +359,10 @@
         "1xbet": 1.44
       },
       "avgFavOdd": 1.45,
-      "time": "03:50",
-      "kickoff": "2026-08-08T19:50:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/tennis/atp-singles/montreal/rinderknech-arthur-nakashima-brandon/4GO8PGeU/"
+      "time": "12:00",
+      "kickoff": "2026-08-09T04:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w15-tianjin/zhang-junhan-zhu-chenting/zmk6XMY1/"
     },
     {
       "sport": "野球",
@@ -425,24 +385,44 @@
       "url": "https://www.betexplorer.com/baseball/mexico/lmb/diablos-rojos-del-mexico-guerreros-de-oaxaca/OSP5JC4D/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: LEXINGTON, HARD",
-      "home": "Johnson S.",
-      "away": "Ilagan A.",
-      "favTeam": "Johnson S.",
-      "underTeam": "Ilagan A.",
-      "favOdd": 1.54,
-      "prob": 65,
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "AUSTRALIA: NBL1 SOUTH WOMEN",
+      "home": "Waverley W",
+      "away": "Diamond Valley W",
+      "favTeam": "Diamond Valley W",
+      "underTeam": "Waverley W",
+      "favOdd": 1.5,
+      "prob": 67,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.54
+        "1xbet": 1.5
       },
-      "avgFavOdd": 1.53,
-      "time": "04:05",
-      "kickoff": "2026-08-08T20:05:00+09:00",
+      "avgFavOdd": 1.5,
+      "time": "14:00",
+      "kickoff": "2026-08-09T06:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/lexington/johnson-spencer-ilagan-andre/f9mINYyQ/"
+      "url": "https://www.betexplorer.com/basketball/australia/nbl1-south-women/waverley-diamond-valley/QmlWNxyK/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "AUSTRALIA: NBL1 WEST",
+      "home": "Joondalup Wolves",
+      "away": "Geraldton Buccaneers",
+      "favTeam": "Geraldton Buccaneers",
+      "underTeam": "Joondalup Wolves",
+      "favOdd": 1.51,
+      "prob": 66,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.51
+      },
+      "avgFavOdd": 1.52,
+      "time": "13:00",
+      "kickoff": "2026-08-09T05:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/australia/nbl1-west/joondalup-wolves-geraldton-buccaneers/lMqFAwSQ/"
     },
     {
       "sport": "アイスホッケー",
