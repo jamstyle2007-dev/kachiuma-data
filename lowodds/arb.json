@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-08T15:32:05.412Z",
+  "generatedAt": "2026-08-08T15:37:25.726Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 2,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 27,
       "profit": 749427
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "4fFyf0MN",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Colo Colo - U. De Concepcion",
+      "url": "https://www.betexplorer.com/basketball/chile/lnb/colo-colo-universidad-de-concepcion/4fFyf0MN/",
+      "kickoff": "2026-08-09T01:00:00+09:00",
+      "width": 2,
+      "books": 15,
+      "labels": [
+        "Colo Colo",
+        "U. De Concepcion"
+      ],
+      "legs": [
+        {
+          "outcome": "Colo Colo",
+          "book": "Betfair",
+          "odd": 3.5,
+          "stake": 28862,
+          "jp": true,
+          "exch": true,
+          "url": "https://www.betfair.com/exchange/plus/"
+        },
+        {
+          "outcome": "U. De Concepcion",
+          "book": "Unibet",
+          "odd": 1.42,
+          "stake": 71138,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.unibet.com/"
+        }
+      ],
+      "S": 0.9899396378269618,
+      "roi": 1.0162601626016121,
+      "profit": 1016,
+      "payout": 101016,
+      "staked": 100000,
+      "mins": 23,
+      "split": {
+        "S": 0.9899396378269618,
+        "payout": 101016,
+        "profit": 1016,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Betfair",
+            "odd": 3.5,
+            "stake": 28862
+          },
+          {
+            "book": "Unibet",
+            "odd": 1.42,
+            "stake": 71138
+          }
+        ]
+      },
+      "hasExch": true,
+      "allJp": false
+    }
+  ]
 }
