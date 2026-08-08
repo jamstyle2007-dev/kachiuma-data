@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T22:53:37.705Z",
+  "generatedAt": "2026-08-08T22:59:04.876Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 3,
@@ -44,56 +44,56 @@
           "outcome": "Sydney Bears",
           "book": "Unibet",
           "odd": 1.46,
-          "stake": 71264,
+          "stake": 72446,
           "jp": false,
           "exch": false,
           "url": "https://www.unibet.com/"
         },
         {
           "outcome": "Draw",
-          "book": "N1 Bet",
+          "book": "Bets.io",
           "odd": 7,
-          "stake": 14864,
+          "stake": 15110,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=N1%20Bet%20sportsbook"
+          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
         },
         {
           "outcome": "Central Coast Rhinos",
-          "book": "William Hill",
-          "odd": 7.5,
-          "stake": 13873,
-          "jp": false,
+          "book": "Betway",
+          "odd": 8.5,
+          "stake": 12444,
+          "jp": true,
           "exch": false,
-          "url": "https://sports.williamhill.com/"
+          "url": "https://betway.com/"
         }
       ],
-      "S": 0.9611219830397912,
-      "roi": 4.045065834125161,
-      "profit": 4044,
-      "payout": 104045,
-      "staked": 100001,
-      "mins": 6,
+      "S": 0.9454357085299874,
+      "roi": 5.771338122488734,
+      "profit": 5771,
+      "payout": 105771,
+      "staked": 100000,
+      "mins": 1,
       "split": {
-        "S": 0.9611219830397912,
-        "payout": 104045,
-        "profit": 4044,
-        "staked": 100001,
+        "S": 0.9454357085299874,
+        "payout": 105771,
+        "profit": 5771,
+        "staked": 100000,
         "legs": [
           {
             "book": "Unibet",
             "odd": 1.46,
-            "stake": 71264
+            "stake": 72446
           },
           {
-            "book": "N1 Bet",
+            "book": "Bets.io",
             "odd": 7,
-            "stake": 14864
+            "stake": 15110
           },
           {
-            "book": "William Hill",
-            "odd": 7.5,
-            "stake": 13873
+            "book": "Betway",
+            "odd": 8.5,
+            "stake": 12444
           }
         ]
       },
