@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-09T03:07:07.751Z",
+  "generatedAt": "2026-08-09T03:12:29.658Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "IF2Rg3xB",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Barangay Ginebra San Miguel - Blackwater Bossing",
-      "url": "https://www.betexplorer.com/basketball/philippines/pba-governors-cup/barangay-ginebra-san-miguel-blackwater-bossing/IF2Rg3xB/",
-      "kickoff": "2026-08-09T12:30:00+09:00",
-      "width": 2,
-      "books": 14,
-      "labels": [
-        "Barangay Ginebra San Miguel",
-        "Blackwater Bossing"
-      ],
-      "legs": [
-        {
-          "outcome": "Barangay Ginebra San Miguel",
-          "book": "bwin",
-          "odd": 1.53,
-          "stake": 65848,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        },
-        {
-          "outcome": "Blackwater Bossing",
-          "book": "Bets.io",
-          "odd": 2.95,
-          "stake": 34152,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
-        }
-      ],
-      "S": 0.9925778220892877,
-      "roi": 0.7477678571428559,
-      "profit": 748,
-      "payout": 100748,
-      "staked": 100000,
-      "mins": 23,
-      "split": {
-        "S": 0.9925778220892877,
-        "payout": 100748,
-        "profit": 748,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "bwin",
-            "odd": 1.53,
-            "stake": 65848
-          },
-          {
-            "book": "Bets.io",
-            "odd": 2.95,
-            "stake": 34152
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
