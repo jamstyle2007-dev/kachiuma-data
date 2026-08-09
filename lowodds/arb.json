@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-09T15:58:25.181Z",
+  "generatedAt": "2026-08-09T16:03:50.978Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "4EgKErCs",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "Cuba - Dominican Republic",
-      "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup/cuba-dominican-republic/4EgKErCs/",
-      "kickoff": "2026-08-10T01:00:00+09:00",
-      "width": 2,
-      "books": 13,
-      "labels": [
-        "Cuba",
-        "Dominican Republic"
-      ],
-      "legs": [
-        {
-          "outcome": "Cuba",
-          "book": "Bets.io",
-          "odd": 1.23,
-          "stake": 85055,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
-        },
-        {
-          "outcome": "Dominican Republic",
-          "book": "1xBet",
-          "odd": 7,
-          "stake": 14945,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        }
-      ],
-      "S": 0.9558652729384436,
-      "roi": 4.617253948967193,
-      "profit": 4617,
-      "payout": 104617,
-      "staked": 100000,
-      "mins": 2,
-      "split": {
-        "S": 0.9558652729384436,
-        "payout": 104617,
-        "profit": 4617,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Bets.io",
-            "odd": 1.23,
-            "stake": 85055
-          },
-          {
-            "book": "1xBet",
-            "odd": 7,
-            "stake": 14945
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
