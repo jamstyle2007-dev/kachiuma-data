@@ -1,0 +1,751 @@
+{
+ "date": "2026-08-09",
+ "track": "札幌",
+ "raceNo": 11,
+ "name": "UHB賞",
+ "grade": "OP",
+ "surface": "芝",
+ "distance": 1200,
+ "trackCondition": "良",
+ "conditionType": "別定",
+ "fieldSize": 16,
+ "bias": "前",
+ "horses": [
+  {
+   "num": 1,
+   "name": "クファシル",
+   "jockey": "小沢",
+   "weight": 57,
+   "popularity": 13,
+   "style": "差",
+   "recent3": [
+    {
+     "grade": "OP",
+     "track": "函館",
+     "surface": "芝",
+     "distance": 1200,
+     "field": null,
+     "finish": 9,
+     "margin": null,
+     "last3f": null,
+     "pop": null,
+     "cond": null
+    },
+    {
+     "grade": "OP",
+     "track": "福島",
+     "surface": "芝",
+     "distance": 1200,
+     "field": null,
+     "finish": 8,
+     "margin": null,
+     "last3f": null,
+     "pop": null,
+     "cond": null
+    },
+    {
+     "grade": "OP",
+     "track": "小倉",
+     "surface": "芝",
+     "distance": 1200,
+     "field": null,
+     "finish": 10,
+     "margin": null,
+     "last3f": null,
+     "pop": null,
+     "cond": null
+    }
+   ]
+  },
+  {
+   "num": 2,
+   "name": "アスティスプマンテ",
+   "jockey": "舟山",
+   "weight": 55,
+   "popularity": 11,
+   "style": "差",
+   "recent3": [
+    {
+     "grade": "3勝",
+     "track": "函館",
+     "surface": "芝",
+     "distance": 1200,
+     "field": null,
+     "finish": 1,
+     "margin": null,
+     "last3f": null,
+     "pop": null,
+     "cond": null
+    },
+    {
+     "grade": "3勝",
+     "track": "京都",
+     "surface": "芝",
+     "distance": 1200,
+     "field": null,
+     "finish": 10,
+     "margin": null,
+     "last3f": null,
+     "pop": null,
+     "cond": null
+    },
+    {
+     "grade": "3勝",
+     "track": "中山",
+     "surface": "芝",
+     "distance": 1200,
+     "field": null,
+     "finish": 4,
+     "margin": null,
+     "last3f": null,
+     "pop": null,
+     "cond": null
+    }
+   ]
+  },
+  {
+   "num": 3,
+   "name": "ブラックチャリス",
+   "jockey": "吉田隼",
+   "weight": 55,
+   "popularity": 2,
+   "style": "先",
+   "recent3": [
+    {
+     "grade": "OP",
+     "track": "函館",
+     "surface": "芝",
+     "distance": 1200,
+     "field": 14,
+     "finish": 1,
+     "margin": "0.0",
+     "last3f": 34.1,
+     "pop": 1,
+     "cond": "稍"
+    },
+    {
+     "grade": "GI",
+     "track": "阪神",
+     "surface": "芝",
+     "distance": 1600,
+     "field": 18,
+     "finish": 15,
+     "margin": "2.0",
+     "last3f": 35.8,
+     "pop": 10,
+     "cond": "良"
+    },
+    {
+     "grade": "GIII",
+     "track": "中山",
+     "surface": "芝",
+     "distance": 1600,
+     "field": 16,
+     "finish": 1,
+     "margin": "0.0",
+     "last3f": 35.1,
+     "pop": 5,
+     "cond": "良"
+    }
+   ]
+  },
+  {
+   "num": 4,
+   "name": "ステークホルダー",
+   "jockey": "川又",
+   "weight": 57,
+   "popularity": 16,
+   "style": "差",
+   "recent3": [
+    {
+     "grade": "OP",
+     "track": "函館",
+     "surface": "芝",
+     "distance": 1200,
+     "field": null,
+     "finish": 11,
+     "margin": null,
+     "last3f": null,
+     "pop": null,
+     "cond": null
+    },
+    {
+     "grade": "L",
+     "track": "中山",
+     "surface": "芝",
+     "distance": 1200,
+     "field": null,
+     "finish": 11,
+     "margin": null,
+     "last3f": null,
+     "pop": null,
+     "cond": null
+    },
+    {
+     "grade": "OP",
+     "track": "阪神",
+     "surface": "芝",
+     "distance": 1200,
+     "field": null,
+     "finish": 8,
+     "margin": null,
+     "last3f": null,
+     "pop": null,
+     "cond": null
+    }
+   ]
+  },
+  {
+   "num": 5,
+   "name": "ダノンマッキンリー",
+   "jockey": "池添",
+   "weight": 60,
+   "popularity": 7,
+   "style": "差",
+   "recent3": [
+    {
+     "grade": "GIII",
+     "track": "函館",
+     "surface": "芝",
+     "distance": 1200,
+     "field": 12,
+     "finish": 4,
+     "margin": "0.3",
+     "last3f": 33.2,
+     "pop": 8,
+     "cond": "稍"
+    },
+    {
+     "grade": "GII",
+     "track": "東京",
+     "surface": "芝",
+     "distance": 1400,
+     "field": 18,
+     "finish": 15,
+     "margin": "0.9",
+     "last3f": 32.7,
+     "pop": 9,
+     "cond": "良"
+    },
+    {
+     "grade": "GI",
+     "track": "中京",
+     "surface": "芝",
+     "distance": 1200,
+     "field": 18,
+     "finish": 7,
+     "margin": "0.9",
+     "last3f": 33.0,
+     "pop": 14,
+     "cond": "良"
+    }
+   ]
+  },
+  {
+   "num": 6,
+   "name": "シンバーシア",
+   "jockey": "古川吉",
+   "weight": 55,
+   "popularity": 12,
+   "style": "差",
+   "recent3": [
+    {
+     "grade": "OP",
+     "track": "東京",
+     "surface": "ダ",
+     "distance": 1400,
+     "field": null,
+     "finish": 16,
+     "margin": null,
+     "last3f": null,
+     "pop": null,
+     "cond": null
+    },
+    {
+     "grade": "GIII",
+     "track": "中京",
+     "surface": "芝",
+     "distance": 1400,
+     "field": null,
+     "finish": 16,
+     "margin": null,
+     "last3f": null,
+     "pop": null,
+     "cond": null
+    },
+    {
+     "grade": "OP",
+     "track": "中山",
+     "surface": "芝",
+     "distance": 1200,
+     "field": null,
+     "finish": 12,
+     "margin": null,
+     "last3f": null,
+     "pop": null,
+     "cond": null
+    }
+   ]
+  },
+  {
+   "num": 7,
+   "name": "ジョーメッドヴィン",
+   "jockey": "横山琉",
+   "weight": 58,
+   "popularity": 9,
+   "style": "差",
+   "recent3": [
+    {
+     "grade": "OP",
+     "track": "函館",
+     "surface": "芝",
+     "distance": 1200,
+     "field": null,
+     "finish": 6,
+     "margin": null,
+     "last3f": null,
+     "pop": null,
+     "cond": null
+    },
+    {
+     "grade": "GIII",
+     "track": "函館",
+     "surface": "芝",
+     "distance": 1200,
+     "field": null,
+     "finish": 8,
+     "margin": null,
+     "last3f": null,
+     "pop": null,
+     "cond": null
+    },
+    {
+     "grade": "OP",
+     "track": "福島",
+     "surface": "芝",
+     "distance": 1200,
+     "field": null,
+     "finish": 3,
+     "margin": null,
+     "last3f": null,
+     "pop": null,
+     "cond": null
+    }
+   ]
+  },
+  {
+   "num": 8,
+   "name": "モズナナスター",
+   "jockey": "古川奈",
+   "weight": 55,
+   "popularity": 8,
+   "style": "差",
+   "recent3": [
+    {
+     "grade": "GIII",
+     "track": "函館",
+     "surface": "芝",
+     "distance": 1200,
+     "field": 12,
+     "finish": 11,
+     "margin": "0.7",
+     "last3f": 34.0,
+     "pop": 9,
+     "cond": "稍"
+    },
+    {
+     "grade": "OP",
+     "track": "新潟",
+     "surface": "芝",
+     "distance": 1000,
+     "field": 16,
+     "finish": 3,
+     "margin": "0.3",
+     "last3f": 32.7,
+     "pop": 8,
+     "cond": "稍"
+    },
+    {
+     "grade": "OP",
+     "track": "福島",
+     "surface": "芝",
+     "distance": 1200,
+     "field": 16,
+     "finish": 9,
+     "margin": "0.6",
+     "last3f": 33.3,
+     "pop": 8,
+     "cond": "良"
+    }
+   ]
+  },
+  {
+   "num": 9,
+   "name": "カンティーユ",
+   "jockey": "横山和",
+   "weight": 57,
+   "popularity": 5,
+   "style": "逃",
+   "recent3": [
+    {
+     "grade": "L",
+     "track": "中山",
+     "surface": "芝",
+     "distance": 1200,
+     "field": 16,
+     "finish": 9,
+     "margin": "0.4",
+     "last3f": 34.3,
+     "pop": 8,
+     "cond": "良"
+    },
+    {
+     "grade": "OP",
+     "track": "小倉",
+     "surface": "芝",
+     "distance": 1200,
+     "field": 18,
+     "finish": 9,
+     "margin": "0.6",
+     "last3f": 35.2,
+     "pop": 6,
+     "cond": "稍"
+    },
+    {
+     "grade": "OP",
+     "track": "中山",
+     "surface": "芝",
+     "distance": 1200,
+     "field": 16,
+     "finish": 4,
+     "margin": "0.3",
+     "last3f": 34.3,
+     "pop": 3,
+     "cond": "良"
+    }
+   ]
+  },
+  {
+   "num": 10,
+   "name": "ナムラクララ",
+   "jockey": "浜中",
+   "weight": 55,
+   "popularity": 3,
+   "style": "先",
+   "recent3": [
+    {
+     "grade": "OP",
+     "track": "函館",
+     "surface": "芝",
+     "distance": 1200,
+     "field": 14,
+     "finish": 2,
+     "margin": "0.0",
+     "last3f": 33.2,
+     "pop": 3,
+     "cond": "稍"
+    },
+    {
+     "grade": "L",
+     "track": "京都",
+     "surface": "ダ",
+     "distance": 1400,
+     "field": 16,
+     "finish": 12,
+     "margin": "1.9",
+     "last3f": 38.3,
+     "pop": 5,
+     "cond": "良"
+    },
+    {
+     "grade": "GIII",
+     "track": "中京",
+     "surface": "芝",
+     "distance": 1400,
+     "field": 18,
+     "finish": 8,
+     "margin": "0.3",
+     "last3f": 34.2,
+     "pop": 6,
+     "cond": "良"
+    }
+   ]
+  },
+  {
+   "num": 11,
+   "name": "ダンツエラン",
+   "jockey": "和田陽",
+   "weight": 55,
+   "popularity": 15,
+   "style": "差",
+   "recent3": [
+    {
+     "grade": "OP",
+     "track": "函館",
+     "surface": "芝",
+     "distance": 1200,
+     "field": null,
+     "finish": 10,
+     "margin": null,
+     "last3f": null,
+     "pop": null,
+     "cond": null
+    },
+    {
+     "grade": "OP",
+     "track": "福島",
+     "surface": "ダ",
+     "distance": 1700,
+     "field": null,
+     "finish": 15,
+     "margin": null,
+     "last3f": null,
+     "pop": null,
+     "cond": null
+    },
+    {
+     "grade": "OP",
+     "track": "小倉",
+     "surface": "芝",
+     "distance": 1200,
+     "field": null,
+     "finish": 18,
+     "margin": null,
+     "last3f": null,
+     "pop": null,
+     "cond": null
+    }
+   ]
+  },
+  {
+   "num": 12,
+   "name": "サウザンサニー",
+   "jockey": "長浜",
+   "weight": 57,
+   "popularity": 10,
+   "style": "差",
+   "recent3": [
+    {
+     "grade": "OP",
+     "track": "函館",
+     "surface": "芝",
+     "distance": 1200,
+     "field": null,
+     "finish": 7,
+     "margin": null,
+     "last3f": null,
+     "pop": null,
+     "cond": null
+    },
+    {
+     "grade": "L",
+     "track": "中山",
+     "surface": "芝",
+     "distance": 1200,
+     "field": null,
+     "finish": 15,
+     "margin": null,
+     "last3f": null,
+     "pop": null,
+     "cond": null
+    },
+    {
+     "grade": "OP",
+     "track": "小倉",
+     "surface": "芝",
+     "distance": 1200,
+     "field": null,
+     "finish": 12,
+     "margin": null,
+     "last3f": null,
+     "pop": null,
+     "cond": null
+    }
+   ]
+  },
+  {
+   "num": 13,
+   "name": "ルシード",
+   "jockey": "北村友",
+   "weight": 57,
+   "popularity": 1,
+   "style": "先",
+   "recent3": [
+    {
+     "grade": "GIII",
+     "track": "函館",
+     "surface": "芝",
+     "distance": 1200,
+     "field": 12,
+     "finish": 12,
+     "margin": "0.7",
+     "last3f": 34.1,
+     "pop": 3,
+     "cond": "稍"
+    },
+    {
+     "grade": "3勝",
+     "track": "京都",
+     "surface": "芝",
+     "distance": 1200,
+     "field": 18,
+     "finish": 1,
+     "margin": "-0.2",
+     "last3f": 33.3,
+     "pop": 1,
+     "cond": "良"
+    },
+    {
+     "grade": "3勝",
+     "track": "中山",
+     "surface": "芝",
+     "distance": 1200,
+     "field": 15,
+     "finish": 2,
+     "margin": "0.1",
+     "last3f": 34.4,
+     "pop": 3,
+     "cond": "良"
+    }
+   ]
+  },
+  {
+   "num": 14,
+   "name": "マーブルパレス",
+   "jockey": "斎藤",
+   "weight": 53,
+   "popularity": 4,
+   "style": "先",
+   "recent3": [
+    {
+     "grade": "3勝",
+     "track": "函館",
+     "surface": "芝",
+     "distance": 1200,
+     "field": 16,
+     "finish": 1,
+     "margin": "-0.1",
+     "last3f": 34.3,
+     "pop": 3,
+     "cond": "良"
+    },
+    {
+     "grade": "2勝",
+     "track": "函館",
+     "surface": "芝",
+     "distance": 1200,
+     "field": 16,
+     "finish": 1,
+     "margin": "-0.1",
+     "last3f": 34.6,
+     "pop": 1,
+     "cond": "良"
+    },
+    {
+     "grade": "L",
+     "track": "阪神",
+     "surface": "芝",
+     "distance": 1200,
+     "field": 9,
+     "finish": 5,
+     "margin": "0.5",
+     "last3f": 34.7,
+     "pop": 6,
+     "cond": "良"
+    }
+   ]
+  },
+  {
+   "num": 15,
+   "name": "ウインアイオライト",
+   "jockey": "黛",
+   "weight": 55,
+   "popularity": 14,
+   "style": "先",
+   "recent3": [
+    {
+     "grade": "GIII",
+     "track": "京都",
+     "surface": "芝",
+     "distance": 1200,
+     "field": null,
+     "finish": 14,
+     "margin": null,
+     "last3f": null,
+     "pop": null,
+     "cond": null
+    },
+    {
+     "grade": "3勝",
+     "track": "中山",
+     "surface": "芝",
+     "distance": 1200,
+     "field": null,
+     "finish": 1,
+     "margin": null,
+     "last3f": null,
+     "pop": null,
+     "cond": null
+    },
+    {
+     "grade": "3勝",
+     "track": "東京",
+     "surface": "芝",
+     "distance": null,
+     "field": null,
+     "finish": 7,
+     "margin": null,
+     "last3f": null,
+     "pop": null,
+     "cond": null
+    }
+   ]
+  },
+  {
+   "num": 16,
+   "name": "ロードフォアエース",
+   "jockey": "岩田康",
+   "weight": 58,
+   "popularity": 6,
+   "style": "先",
+   "recent3": [
+    {
+     "grade": "OP",
+     "track": "函館",
+     "surface": "芝",
+     "distance": 1200,
+     "field": 14,
+     "finish": 8,
+     "margin": "0.4",
+     "last3f": 33.4,
+     "pop": 5,
+     "cond": "稍"
+    },
+    {
+     "grade": "L",
+     "track": "中山",
+     "surface": "芝",
+     "distance": 1200,
+     "field": 16,
+     "finish": 12,
+     "margin": "0.5",
+     "last3f": 34.2,
+     "pop": 2,
+     "cond": "良"
+    },
+    {
+     "grade": "GIII",
+     "track": "京都",
+     "surface": "芝",
+     "distance": 1200,
+     "field": 18,
+     "finish": 9,
+     "margin": "0.4",
+     "last3f": 33.9,
+     "pop": 1,
+     "cond": "良"
+    }
+   ]
+  }
+ ]
+}
