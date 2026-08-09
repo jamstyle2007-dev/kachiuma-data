@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-09T00:41:24.470Z",
+  "generatedAt": "2026-08-09T00:46:44.472Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 1,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 30,
       "profit": 785778
     },
-    "pending": 2
+    "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "AkaJeP7b",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Phoenix Fuelmasters - Rain or Shine Elasto Painters",
+      "url": "https://www.betexplorer.com/basketball/philippines/pba-governors-cup/phoenix-fuelmasters-rain-or-shine-elasto-painters/AkaJeP7b/",
+      "kickoff": "2026-08-09T10:15:00+09:00",
+      "width": 2,
+      "books": 13,
+      "labels": [
+        "Phoenix Fuelmasters",
+        "Rain or Shine Elasto Painters"
+      ],
+      "legs": [
+        {
+          "outcome": "Phoenix Fuelmasters",
+          "book": "1xBet",
+          "odd": 2.08,
+          "stake": 49020,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        },
+        {
+          "outcome": "Rain or Shine Elasto Painters",
+          "book": "Bets.io",
+          "odd": 2,
+          "stake": 50980,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
+        }
+      ],
+      "S": 0.9807692307692307,
+      "roi": 1.9607843137255054,
+      "profit": 1961,
+      "payout": 101961,
+      "staked": 100000,
+      "mins": 28,
+      "split": {
+        "S": 0.9807692307692307,
+        "payout": 101961,
+        "profit": 1961,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "1xBet",
+            "odd": 2.08,
+            "stake": 49020
+          },
+          {
+            "book": "Bets.io",
+            "odd": 2,
+            "stake": 50980
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
