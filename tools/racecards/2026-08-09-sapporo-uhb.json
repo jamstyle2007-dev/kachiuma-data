@@ -55,14 +55,16 @@
      "pop": null,
      "cond": null
     }
-   ]
+   ],
+   "winOdds": 77.8,
+   "finish": 16
   },
   {
    "num": 2,
    "name": "アスティスプマンテ",
    "jockey": "舟山",
    "weight": 55,
-   "popularity": 11,
+   "popularity": 7,
    "style": "差",
    "recent3": [
     {
@@ -101,7 +103,9 @@
      "pop": null,
      "cond": null
     }
-   ]
+   ],
+   "winOdds": 20.2,
+   "finish": 3
   },
   {
    "num": 3,
@@ -147,7 +151,9 @@
      "pop": 5,
      "cond": "良"
     }
-   ]
+   ],
+   "winOdds": 4.5,
+   "finish": 6
   },
   {
    "num": 4,
@@ -193,14 +199,16 @@
      "pop": null,
      "cond": null
     }
-   ]
+   ],
+   "winOdds": 285.6,
+   "finish": 15
   },
   {
    "num": 5,
    "name": "ダノンマッキンリー",
    "jockey": "池添",
    "weight": 60,
-   "popularity": 7,
+   "popularity": 8,
    "style": "差",
    "recent3": [
     {
@@ -239,14 +247,16 @@
      "pop": 14,
      "cond": "良"
     }
-   ]
+   ],
+   "winOdds": 21.2,
+   "finish": 4
   },
   {
    "num": 6,
    "name": "シンバーシア",
    "jockey": "古川吉",
    "weight": 55,
-   "popularity": 12,
+   "popularity": 11,
    "style": "差",
    "recent3": [
     {
@@ -285,14 +295,16 @@
      "pop": null,
      "cond": null
     }
-   ]
+   ],
+   "winOdds": 32.3,
+   "finish": 7
   },
   {
    "num": 7,
    "name": "ジョーメッドヴィン",
    "jockey": "横山琉",
    "weight": 58,
-   "popularity": 9,
+   "popularity": 10,
    "style": "差",
    "recent3": [
     {
@@ -331,14 +343,16 @@
      "pop": null,
      "cond": null
     }
-   ]
+   ],
+   "winOdds": 28.5,
+   "finish": 8
   },
   {
    "num": 8,
    "name": "モズナナスター",
    "jockey": "古川奈",
    "weight": 55,
-   "popularity": 8,
+   "popularity": 9,
    "style": "差",
    "recent3": [
     {
@@ -377,14 +391,16 @@
      "pop": 8,
      "cond": "良"
     }
-   ]
+   ],
+   "winOdds": 27.9,
+   "finish": 11
   },
   {
    "num": 9,
    "name": "カンティーユ",
    "jockey": "横山和",
    "weight": 57,
-   "popularity": 5,
+   "popularity": 6,
    "style": "逃",
    "recent3": [
     {
@@ -423,14 +439,16 @@
      "pop": 3,
      "cond": "良"
     }
-   ]
+   ],
+   "winOdds": 16.2,
+   "finish": 14
   },
   {
    "num": 10,
    "name": "ナムラクララ",
    "jockey": "浜中",
    "weight": 55,
-   "popularity": 3,
+   "popularity": 1,
    "style": "先",
    "recent3": [
     {
@@ -469,7 +487,9 @@
      "pop": 6,
      "cond": "良"
     }
-   ]
+   ],
+   "winOdds": 3.6,
+   "finish": 1
   },
   {
    "num": 11,
@@ -515,14 +535,16 @@
      "pop": null,
      "cond": null
     }
-   ]
+   ],
+   "winOdds": 174.1,
+   "finish": 12
   },
   {
    "num": 12,
    "name": "サウザンサニー",
    "jockey": "長浜",
    "weight": 57,
-   "popularity": 10,
+   "popularity": 12,
    "style": "差",
    "recent3": [
     {
@@ -561,14 +583,16 @@
      "pop": null,
      "cond": null
     }
-   ]
+   ],
+   "winOdds": 33.6,
+   "finish": 10
   },
   {
    "num": 13,
    "name": "ルシード",
    "jockey": "北村友",
    "weight": 57,
-   "popularity": 1,
+   "popularity": 3,
    "style": "先",
    "recent3": [
     {
@@ -607,7 +631,9 @@
      "pop": 3,
      "cond": "良"
     }
-   ]
+   ],
+   "winOdds": 4.7,
+   "finish": 2
   },
   {
    "num": 14,
@@ -653,7 +679,9 @@
      "pop": 6,
      "cond": "良"
     }
-   ]
+   ],
+   "winOdds": 7.4,
+   "finish": 9
   },
   {
    "num": 15,
@@ -699,14 +727,16 @@
      "pop": null,
      "cond": null
     }
-   ]
+   ],
+   "winOdds": 139.7,
+   "finish": 13
   },
   {
    "num": 16,
    "name": "ロードフォアエース",
    "jockey": "岩田康",
    "weight": 58,
-   "popularity": 6,
+   "popularity": 5,
    "style": "先",
    "recent3": [
     {
@@ -745,7 +775,23 @@
      "pop": 1,
      "cond": "良"
     }
-   ]
+   ],
+   "winOdds": 11.0,
+   "finish": 5
   }
- ]
+ ],
+ "result": {
+  "first": 10,
+  "second": 13,
+  "third": 2,
+  "tanshoPay": 360,
+  "fukushoPay": [
+   170,
+   190,
+   450
+  ],
+  "sanrenpukuPay": 4590,
+  "sanrentanPay": 19480
+ },
+ "status": "結果確定"
 }

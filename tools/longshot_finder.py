@@ -17,8 +17,17 @@ value_finder(地力)は人気馬の序列付け用。こちらは"クラスが�
 """
 import sys, json
 
+HONSEN = 35          # ◆◆本線: 精度67%(ベース比4.3倍)。軸・単複の穴に使う
+THRESHOLD = 30       # ◆狙い : 精度47%(ベース比3.0倍)。三連複3列目・ワイド相手
 MIN_POP = 6          # これ以下の人気は"穴"として扱わない
 DIST_TOL = 100       # 同コース判定の距離許容
+W_ZENSOU = 20        # 前走1着の加点。25だと"前走1着だけ"で◆に届き穴が絞れなかった
+
+# 実質同一コースとみなす競馬場グループ。
+# 函館と札幌は同じ洋芝・同規模のローカルで、1200mの適性はそのまま横滑りする。
+# 2026-08-09 UHB賞で、前走「函館」芝1200を勝った2アスティスプマンテ(7人気)が
+# この同一視を欠いたため加点されず◆に届かないまま3着に来た取りこぼしへの対応。
+TRACK_GROUPS = [{"函館", "札幌"}]
 
 
 def to_f(x):
@@ -27,10 +36,11 @@ def to_f(x):
 
 
 def same_course(r, race):
-    """同競馬場×同馬場×距離±100m = 実質同じコース条件"""
-    return (r.get("track") == race["track"]
-            and (r.get("surface") or race["surface"]) == race["surface"]
-            and r.get("distance") and abs(r["distance"] - race["distance"]) <= DIST_TOL)
+    """同競馬場(またはグループ内)×同馬場×距離±100m = 実質同じコース条件"""
+    if (r.get("surface") or race["surface"]) != race["surface"]: return False
+    if not r.get("distance") or abs(r["distance"] - race["distance"]) > DIST_TOL: return False
+    if r.get("track") == race["track"]: return True
+    return any(r.get("track") in g and race["track"] in g for g in TRACK_GROUPS)
 
 
 def score(h, race):
@@ -49,9 +59,9 @@ def score(h, race):
         elif best <= 5: pts += 12; why.append(f"同コース{best}着")
         else:           pts += 8;  why.append(f"同コース経験({best}着)")
 
-    # 2) 前走1着(勢い)
+    # 2) 前走1着(勢い)。単独では◆に届かせない — 同コース実績や穴実績と重なって初めて買える
     if rec and rec[0].get("finish") == 1:
-        pts += 25; why.append("前走1着")
+        pts += W_ZENSOU; why.append("前走1着")
         m = to_f(rec[0].get("margin"))
         if m is not None and abs(m) >= 0.3:
             pts += 5; why.append("(楽勝)")
@@ -102,11 +112,13 @@ def main():
     print(f"{'順':>2} {'馬番':>3} {'馬名':<12} {'人気':>3} {'点':>6}  根拠")
     print("-" * 100)
     for i, r in enumerate(rows, 1):
-        mark = "◆狙い" if r["score"] >= 30 else ("△押さえ" if r["score"] >= 18 else "")
-        print(f"{i:>2} {r['num']:>3} {r['name']:<12} {r['pop']:>3} {r['score']:>6.1f}  "
+        s = r["score"]
+        mark = "◆◆本線" if s >= HONSEN else ("◆狙い" if s >= THRESHOLD else ("△押さえ" if s >= 18 else ""))
+        print(f"{i:>2} {r['num']:>3} {r['name']:<12} {r['pop']:>3} {s:>6.1f}  "
               f"{' / '.join(r['why']) or '-'} {mark}")
-    print("\n◆狙い(30点以上)=複勝圏率が跳ね上がる層。三連複の3列目・ワイド相手に必ず入れる。")
-    print("  該当ゼロなら『この race に妙味の穴は居ない』と判断し、穴買い目を薄くする。")
+    print(f"\n◆◆本線({HONSEN}点以上) 複勝圏率67%(ベース比4.3倍) … 穴の単複・三連複の軸に据える。")
+    print(f"◆狙い ({THRESHOLD}点以上) 複勝圏率47%(ベース比3.0倍) … 三連複3列目・ワイド相手に必ず入れる。")
+    print("  ◆がゼロなら『このレースに妙味の穴は居ない』と判断し、穴買い目を薄くして手堅い側へ寄せる。")
 
 
 if __name__ == "__main__":
