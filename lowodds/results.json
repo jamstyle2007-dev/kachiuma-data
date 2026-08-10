@@ -1,166 +1,183 @@
 {
-  "generatedAt": "2026-08-10T01:02:30.556Z",
+  "generatedAt": "2026-08-10T04:04:26.760Z",
   "windowDays": 400,
   "total": 300,
-  "hits": 178,
-  "hitRate": 0.5933333333333334,
+  "hits": 180,
+  "hitRate": 0.6,
   "sim": {
     "stake": 10000,
-    "asOf": "2026-08-10T01:02:30.556Z",
+    "asOf": "2026-08-10T04:04:26.760Z",
     "byMinStars": {
       "1": {
         "all": {
-          "n": 2674,
-          "hits": 1712,
-          "staked": 26740000,
-          "returns": 21900400,
-          "profit": -4839600
+          "n": 2676,
+          "hits": 1714,
+          "staked": 26760000,
+          "returns": 21924500,
+          "profit": -4835500
         },
         "year": {
-          "n": 2674,
-          "hits": 1712,
-          "staked": 26740000,
-          "returns": 21900400,
-          "profit": -4839600
+          "n": 2676,
+          "hits": 1714,
+          "staked": 26760000,
+          "returns": 21924500,
+          "profit": -4835500
         },
         "month": {
-          "n": 819,
-          "hits": 527,
-          "staked": 8190000,
-          "returns": 6790900,
-          "profit": -1399100
+          "n": 821,
+          "hits": 529,
+          "staked": 8210000,
+          "returns": 6815000,
+          "profit": -1395000
         },
         "week": {
-          "n": 12,
-          "hits": 7,
-          "staked": 120000,
-          "returns": 89500,
-          "profit": -30500
+          "n": 14,
+          "hits": 9,
+          "staked": 140000,
+          "returns": 113600,
+          "profit": -26400
         }
       },
       "2": {
         "all": {
-          "n": 1520,
-          "hits": 1072,
-          "staked": 15200000,
-          "returns": 12418100,
-          "profit": -2781900
+          "n": 1521,
+          "hits": 1073,
+          "staked": 15210000,
+          "returns": 12428500,
+          "profit": -2781500
         },
         "year": {
-          "n": 1520,
-          "hits": 1072,
-          "staked": 15200000,
-          "returns": 12418100,
-          "profit": -2781900
+          "n": 1521,
+          "hits": 1073,
+          "staked": 15210000,
+          "returns": 12428500,
+          "profit": -2781500
         },
         "month": {
-          "n": 447,
-          "hits": 319,
-          "staked": 4470000,
-          "returns": 3718700,
-          "profit": -751300
+          "n": 448,
+          "hits": 320,
+          "staked": 4480000,
+          "returns": 3729100,
+          "profit": -750900
         },
         "week": {
-          "n": 6,
-          "hits": 4,
-          "staked": 60000,
-          "returns": 46200,
-          "profit": -13800
+          "n": 7,
+          "hits": 5,
+          "staked": 70000,
+          "returns": 56600,
+          "profit": -13400
         }
       },
       "3": {
         "all": {
-          "n": 872,
-          "hits": 670,
-          "staked": 8720000,
-          "returns": 7278500,
-          "profit": -1441500
+          "n": 873,
+          "hits": 671,
+          "staked": 8730000,
+          "returns": 7288900,
+          "profit": -1441100
         },
         "year": {
-          "n": 872,
-          "hits": 670,
-          "staked": 8720000,
-          "returns": 7278500,
-          "profit": -1441500
+          "n": 873,
+          "hits": 671,
+          "staked": 8730000,
+          "returns": 7288900,
+          "profit": -1441100
         },
         "month": {
-          "n": 241,
-          "hits": 188,
-          "staked": 2410000,
-          "returns": 2035700,
-          "profit": -374300
+          "n": 242,
+          "hits": 189,
+          "staked": 2420000,
+          "returns": 2046100,
+          "profit": -373900
         },
         "week": {
-          "n": 4,
-          "hits": 3,
-          "staked": 40000,
-          "returns": 33900,
-          "profit": -6100
+          "n": 5,
+          "hits": 4,
+          "staked": 50000,
+          "returns": 44300,
+          "profit": -5700
         }
       },
       "4": {
         "all": {
-          "n": 513,
-          "hits": 414,
-          "staked": 5130000,
-          "returns": 4327700,
-          "profit": -802300
+          "n": 514,
+          "hits": 415,
+          "staked": 5140000,
+          "returns": 4338100,
+          "profit": -801900
         },
         "year": {
-          "n": 513,
-          "hits": 414,
-          "staked": 5130000,
-          "returns": 4327700,
-          "profit": -802300
+          "n": 514,
+          "hits": 415,
+          "staked": 5140000,
+          "returns": 4338100,
+          "profit": -801900
         },
         "month": {
-          "n": 144,
-          "hits": 121,
-          "staked": 1440000,
-          "returns": 1263400,
-          "profit": -176600
+          "n": 145,
+          "hits": 122,
+          "staked": 1450000,
+          "returns": 1273800,
+          "profit": -176200
+        },
+        "week": {
+          "n": 3,
+          "hits": 2,
+          "staked": 30000,
+          "returns": 21200,
+          "profit": -8800
+        }
+      },
+      "5": {
+        "all": {
+          "n": 312,
+          "hits": 265,
+          "staked": 3120000,
+          "returns": 2716700,
+          "profit": -403300
+        },
+        "year": {
+          "n": 312,
+          "hits": 265,
+          "staked": 3120000,
+          "returns": 2716700,
+          "profit": -403300
+        },
+        "month": {
+          "n": 90,
+          "hits": 77,
+          "staked": 900000,
+          "returns": 788300,
+          "profit": -111700
         },
         "week": {
           "n": 2,
           "hits": 1,
           "staked": 20000,
-          "returns": 10800,
-          "profit": -9200
-        }
-      },
-      "5": {
-        "all": {
-          "n": 311,
-          "hits": 264,
-          "staked": 3110000,
-          "returns": 2706300,
-          "profit": -403700
-        },
-        "year": {
-          "n": 311,
-          "hits": 264,
-          "staked": 3110000,
-          "returns": 2706300,
-          "profit": -403700
-        },
-        "month": {
-          "n": 89,
-          "hits": 76,
-          "staked": 890000,
-          "returns": 777900,
-          "profit": -112100
-        },
-        "week": {
-          "n": 1,
-          "hits": 0,
-          "staked": 10000,
-          "returns": 0,
-          "profit": -10000
+          "returns": 10400,
+          "profit": -9600
         }
       }
     }
   },
   "settled": [
+    {
+      "id": "xSiSCMtf",
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "WORLD: PAN-AMERICAN CUP",
+      "favTeam": "Mexico",
+      "underTeam": "Curacao",
+      "favIsHome": true,
+      "favOdd": 1.04,
+      "prob": 96,
+      "stars": 5,
+      "kickoff": "2026-08-10T03:00:00+09:00",
+      "homeScore": 1,
+      "awayScore": 0,
+      "isDraw": false,
+      "favWon": true
+    },
     {
       "id": "McEGxEmR",
       "sport": "バレー",
@@ -345,6 +362,23 @@
       "kickoff": "2026-08-10T00:00:00+09:00",
       "homeScore": 0,
       "awayScore": 2,
+      "isDraw": false,
+      "favWon": true
+    },
+    {
+      "id": "xrfGvxJi",
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "GUATEMALA: LIGA NACIONAL",
+      "favTeam": "Municipal",
+      "underTeam": "Coban Imperial",
+      "favIsHome": true,
+      "favOdd": 1.37,
+      "prob": 73,
+      "stars": 1,
+      "kickoff": "2026-08-10T00:00:00+09:00",
+      "homeScore": 2,
+      "awayScore": 0,
       "isDraw": false,
       "favWon": true
     },
@@ -5220,40 +5254,6 @@
       "favIsHome": true,
       "favOdd": 1.55,
       "prob": 65,
-      "stars": 1,
-      "kickoff": "2026-08-07T11:05:00+09:00",
-      "homeScore": 0,
-      "awayScore": 0,
-      "isDraw": true,
-      "favWon": false
-    },
-    {
-      "id": "tnodliA6",
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - DOUBLES: HAGEN, CLAY",
-      "favTeam": "Paulson A. / Vliegen J.",
-      "underTeam": "Bass F. / Jans J.",
-      "favIsHome": true,
-      "favOdd": 1.57,
-      "prob": 64,
-      "stars": 1,
-      "kickoff": "2026-08-07T11:05:00+09:00",
-      "homeScore": 0,
-      "awayScore": 0,
-      "isDraw": true,
-      "favWon": false
-    },
-    {
-      "id": "QRKllGDa",
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - DOUBLES: HAGEN, CLAY",
-      "favTeam": "Kolar Z. / Vocel M.",
-      "underTeam": "Kalender A. / Serdarusic N.",
-      "favIsHome": false,
-      "favOdd": 1.6,
-      "prob": 63,
       "stars": 1,
       "kickoff": "2026-08-07T11:05:00+09:00",
       "homeScore": 0,
