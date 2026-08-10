@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-10T17:28:02.636Z",
+  "generatedAt": "2026-08-10T17:33:33.507Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 4,
-  "arbCount": 0,
+  "scanned": 7,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 1,
       "profit": 3893
     },
-    "pending": 3
+    "pending": 4
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "CtnQOrYA",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Seattle Storm W - Chicago Sky W",
+      "url": "https://www.betexplorer.com/basketball/usa/wnba/seattle-storm-chicago-sky/CtnQOrYA/",
+      "kickoff": "2026-08-11T03:00:00+09:00",
+      "width": 2,
+      "books": 19,
+      "labels": [
+        "Seattle Storm W",
+        "Chicago Sky W"
+      ],
+      "legs": [
+        {
+          "outcome": "Seattle Storm W",
+          "book": "Mozzartbet",
+          "odd": 2.14,
+          "stake": 46766,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.mozzartbet.com/"
+        },
+        {
+          "outcome": "Chicago Sky W",
+          "book": "Rainbet",
+          "odd": 1.88,
+          "stake": 53234,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
+        }
+      ],
+      "S": 0.9992046132431895,
+      "roi": 0.0796019900497491,
+      "profit": 80,
+      "payout": 100080,
+      "staked": 100000,
+      "mins": 26,
+      "split": {
+        "S": 0.9992046132431895,
+        "payout": 100080,
+        "profit": 80,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Mozzartbet",
+            "odd": 2.14,
+            "stake": 46766
+          },
+          {
+            "book": "Rainbet",
+            "odd": 1.88,
+            "stake": 53234
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
