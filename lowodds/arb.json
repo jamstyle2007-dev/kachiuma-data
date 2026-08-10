@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-10T17:39:09.855Z",
+  "generatedAt": "2026-08-10T17:44:42.326Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 6,
+  "scanned": 4,
   "arbCount": 1,
   "track": {
     "stake": 100000,
@@ -41,44 +41,44 @@
       "legs": [
         {
           "outcome": "Seattle Storm W",
-          "book": "Mozzartbet",
-          "odd": 2.14,
-          "stake": 46766,
-          "jp": false,
+          "book": "BetInAsia",
+          "odd": 2.15,
+          "stake": 46650,
+          "jp": true,
           "exch": false,
-          "url": "https://www.mozzartbet.com/"
+          "url": "https://www.betinasia.com/"
         },
         {
           "outcome": "Chicago Sky W",
           "book": "Rainbet",
           "odd": 1.88,
-          "stake": 53234,
+          "stake": 53350,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
         }
       ],
-      "S": 0.9992046132431895,
-      "roi": 0.0796019900497491,
-      "profit": 80,
-      "payout": 100080,
+      "S": 0.9970311726867886,
+      "roi": 0.29776674937966874,
+      "profit": 298,
+      "payout": 100298,
       "staked": 100000,
-      "mins": 21,
+      "mins": 15,
       "split": {
-        "S": 0.9992046132431895,
-        "payout": 100080,
-        "profit": 80,
+        "S": 0.9970311726867886,
+        "payout": 100298,
+        "profit": 298,
         "staked": 100000,
         "legs": [
           {
-            "book": "Mozzartbet",
-            "odd": 2.14,
-            "stake": 46766
+            "book": "BetInAsia",
+            "odd": 2.15,
+            "stake": 46650
           },
           {
             "book": "Rainbet",
             "odd": 1.88,
-            "stake": 53234
+            "stake": 53350
           }
         ]
       },
