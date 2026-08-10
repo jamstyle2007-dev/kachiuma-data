@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-10T15:39:09.653Z",
+  "generatedAt": "2026-08-10T15:44:38.540Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 4,
+  "scanned": 3,
   "arbCount": 1,
   "track": {
     "stake": 100000,
@@ -42,8 +42,8 @@
         {
           "outcome": "St.Louis Cardinals",
           "book": "BetInAsia",
-          "odd": 2.07,
-          "stake": 48762,
+          "odd": 2.08,
+          "stake": 48642,
           "jp": true,
           "exch": false,
           "url": "https://www.betinasia.com/"
@@ -52,33 +52,33 @@
           "outcome": "Philadelphia Phillies",
           "book": "1xBet",
           "odd": 1.97,
-          "stake": 51238,
+          "stake": 51358,
           "jp": true,
           "exch": false,
           "url": "https://1xbet.com/ja"
         }
       ],
-      "S": 0.9907060006375831,
-      "roi": 0.9381188118811945,
-      "profit": 938,
-      "payout": 100938,
+      "S": 0.9883834439672002,
+      "roi": 1.1753086419753256,
+      "profit": 1175,
+      "payout": 101175,
       "staked": 100000,
-      "mins": 6,
+      "mins": 0,
       "split": {
-        "S": 0.9907060006375831,
-        "payout": 100938,
-        "profit": 938,
+        "S": 0.9883834439672002,
+        "payout": 101175,
+        "profit": 1175,
         "staked": 100000,
         "legs": [
           {
             "book": "BetInAsia",
-            "odd": 2.07,
-            "stake": 48762
+            "odd": 2.08,
+            "stake": 48642
           },
           {
             "book": "1xBet",
             "odd": 1.97,
-            "stake": 51238
+            "stake": 51358
           }
         ]
       },
