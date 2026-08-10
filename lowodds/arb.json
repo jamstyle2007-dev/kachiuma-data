@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-10T16:17:11.367Z",
+  "generatedAt": "2026-08-10T16:22:42.708Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "Cb7PLI2k",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Puerto Montt - Espanol Osorno",
-      "url": "https://www.betexplorer.com/basketball/chile/lnb/puerto-montt-espanol-osorno/Cb7PLI2k/",
-      "kickoff": "2026-08-11T01:30:00+09:00",
-      "width": 3,
-      "books": 10,
-      "labels": [
-        "Puerto Montt",
-        "Draw",
-        "Espanol Osorno"
-      ],
-      "legs": [
-        {
-          "outcome": "Puerto Montt",
-          "book": "86:81",
-          "odd": 86,
-          "stake": 7667,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=86%3A81%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "80:74",
-          "odd": 9.7,
-          "stake": 67975,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=80%3A74%20sportsbook"
-        },
-        {
-          "outcome": "Espanol Osorno",
-          "book": "69:64",
-          "odd": 27.07,
-          "stake": 24358,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=69%3A64%20sportsbook"
-        }
-      ],
-      "S": 0.15166195387310683,
-      "roi": 559.3611479097021,
-      "profit": 559361,
-      "payout": 659361,
-      "staked": 100000,
-      "mins": 13,
-      "split": {
-        "S": 0.15166195387310683,
-        "payout": 659361,
-        "profit": 559361,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "86:81",
-            "odd": 86,
-            "stake": 7667
-          },
-          {
-            "book": "80:74",
-            "odd": 9.7,
-            "stake": 67975
-          },
-          {
-            "book": "69:64",
-            "odd": 27.07,
-            "stake": 24358
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
