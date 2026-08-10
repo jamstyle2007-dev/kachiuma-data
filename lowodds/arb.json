@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-10T16:55:15.299Z",
+  "generatedAt": "2026-08-10T17:00:41.766Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 3
   },
-  "opps": [
-    {
-      "id": "Kf3cquNq",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Campeche - Puebla",
-      "url": "https://www.betexplorer.com/baseball/mexico/lmb/piratas-de-campeche-pericos-de-puebla/Kf3cquNq/",
-      "kickoff": "2026-08-11T02:00:00+09:00",
-      "width": 2,
-      "books": 17,
-      "labels": [
-        "Campeche",
-        "Puebla"
-      ],
-      "legs": [
-        {
-          "outcome": "Campeche",
-          "book": "BetInAsia",
-          "odd": 1.87,
-          "stake": 53713,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        },
-        {
-          "outcome": "Puebla",
-          "book": "Bets.io",
-          "odd": 2.17,
-          "stake": 46287,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
-        }
-      ],
-      "S": 0.9955888513763276,
-      "roi": 0.443069306930699,
-      "profit": 443,
-      "payout": 100443,
-      "staked": 100000,
-      "mins": 5,
-      "split": {
-        "S": 0.9955888513763276,
-        "payout": 100443,
-        "profit": 443,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "BetInAsia",
-            "odd": 1.87,
-            "stake": 53713
-          },
-          {
-            "book": "Bets.io",
-            "odd": 2.17,
-            "stake": 46287
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
