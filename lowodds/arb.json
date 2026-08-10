@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-10T17:55:43.572Z",
+  "generatedAt": "2026-08-10T18:01:13.449Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 5,
-  "arbCount": 1,
+  "scanned": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 4
   },
-  "opps": [
-    {
-      "id": "CtnQOrYA",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Seattle Storm W - Chicago Sky W",
-      "url": "https://www.betexplorer.com/basketball/usa/wnba/seattle-storm-chicago-sky/CtnQOrYA/",
-      "kickoff": "2026-08-11T03:00:00+09:00",
-      "width": 2,
-      "books": 19,
-      "labels": [
-        "Seattle Storm W",
-        "Chicago Sky W"
-      ],
-      "legs": [
-        {
-          "outcome": "Seattle Storm W",
-          "book": "BetInAsia",
-          "odd": 2.15,
-          "stake": 46650,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        },
-        {
-          "outcome": "Chicago Sky W",
-          "book": "Rainbet",
-          "odd": 1.88,
-          "stake": 53350,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
-        }
-      ],
-      "S": 0.9970311726867886,
-      "roi": 0.29776674937966874,
-      "profit": 298,
-      "payout": 100298,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.9970311726867886,
-        "payout": 100298,
-        "profit": 298,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "BetInAsia",
-            "odd": 2.15,
-            "stake": 46650
-          },
-          {
-            "book": "Rainbet",
-            "odd": 1.88,
-            "stake": 53350
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
