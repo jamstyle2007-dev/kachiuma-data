@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-11T15:25:42.271Z",
+  "generatedAt": "2026-08-11T15:31:08.524Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "pfpYMM2N",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Indiana Fever W - New York Liberty W",
-      "url": "https://www.betexplorer.com/basketball/usa/wnba/indiana-fever-new-york-liberty/pfpYMM2N/",
-      "kickoff": "2026-08-12T00:30:00+09:00",
-      "width": 3,
-      "books": 9,
-      "labels": [
-        "Indiana Fever W",
-        "Draw",
-        "New York Liberty W"
-      ],
-      "legs": [
-        {
-          "outcome": "Indiana Fever W",
-          "book": "123:88",
-          "odd": 123,
-          "stake": 3196,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=123%3A88%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "123:88",
-          "odd": 4.72,
-          "stake": 83282,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=123%3A88%20sportsbook"
-        },
-        {
-          "outcome": "New York Liberty W",
-          "book": "95:105",
-          "odd": 29.07,
-          "stake": 13522,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=95%3A105%20sportsbook"
-        }
-      ],
-      "S": 0.2543942128826756,
-      "roi": 293.09070307396945,
-      "profit": 293091,
-      "payout": 393091,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.2543942128826756,
-        "payout": 393091,
-        "profit": 293091,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "123:88",
-            "odd": 123,
-            "stake": 3196
-          },
-          {
-            "book": "123:88",
-            "odd": 4.72,
-            "stake": 83282
-          },
-          {
-            "book": "95:105",
-            "odd": 29.07,
-            "stake": 13522
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
