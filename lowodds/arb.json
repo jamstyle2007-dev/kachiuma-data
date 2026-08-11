@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-11T17:57:15.873Z",
+  "generatedAt": "2026-08-11T18:02:45.541Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 6,
-  "arbCount": 1,
+  "scanned": 2,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 3
   },
-  "opps": [
-    {
-      "id": "tdnaRLem",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "Mexico - Dominican Republic",
-      "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup/mexico-dominican-republic/tdnaRLem/",
-      "kickoff": "2026-08-12T03:00:00+09:00",
-      "width": 2,
-      "books": 13,
-      "labels": [
-        "Mexico",
-        "Dominican Republic"
-      ],
-      "legs": [
-        {
-          "outcome": "Mexico",
-          "book": "Unibet",
-          "odd": 1.4,
-          "stake": 74729,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.unibet.com/"
-        },
-        {
-          "outcome": "Dominican Republic",
-          "book": "1xBet",
-          "odd": 4.14,
-          "stake": 25271,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        }
-      ],
-      "S": 0.9558316080055211,
-      "roi": 4.620938628158844,
-      "profit": 4621,
-      "payout": 104621,
-      "staked": 100000,
-      "mins": 3,
-      "split": {
-        "S": 0.9558316080055211,
-        "payout": 104621,
-        "profit": 4621,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Unibet",
-            "odd": 1.4,
-            "stake": 74729
-          },
-          {
-            "book": "1xBet",
-            "odd": 4.14,
-            "stake": 25271
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
