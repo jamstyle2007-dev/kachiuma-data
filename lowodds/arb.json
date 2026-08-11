@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-11T15:14:55.075Z",
+  "generatedAt": "2026-08-11T15:20:18.875Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "pfpYMM2N",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Indiana Fever W - New York Liberty W",
-      "url": "https://www.betexplorer.com/basketball/usa/wnba/indiana-fever-new-york-liberty/pfpYMM2N/",
-      "kickoff": "2026-08-12T00:30:00+09:00",
-      "width": 2,
-      "books": 19,
-      "labels": [
-        "Indiana Fever W",
-        "New York Liberty W"
-      ],
-      "legs": [
-        {
-          "outcome": "Indiana Fever W",
-          "book": "BetInAsia",
-          "odd": 1.72,
-          "stake": 58252,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        },
-        {
-          "outcome": "New York Liberty W",
-          "book": "Rainbet",
-          "odd": 2.4,
-          "stake": 41748,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
-        }
-      ],
-      "S": 0.998062015503876,
-      "roi": 0.1941747572815622,
-      "profit": 194,
-      "payout": 100194,
-      "staked": 100000,
-      "mins": 15,
-      "split": {
-        "S": 0.998062015503876,
-        "payout": 100194,
-        "profit": 194,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "BetInAsia",
-            "odd": 1.72,
-            "stake": 58252
-          },
-          {
-            "book": "Rainbet",
-            "odd": 2.4,
-            "stake": 41748
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
