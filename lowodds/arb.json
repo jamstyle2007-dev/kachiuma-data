@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-11T01:12:56.152Z",
+  "generatedAt": "2026-08-11T01:18:23.697Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 4,
-  "arbCount": 1,
+  "scanned": 6,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "jT0Zis7N",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Converge FiberXers - Terrafirma Dyip",
-      "url": "https://www.betexplorer.com/basketball/philippines/pba-governors-cup/converge-fiberxers-terrafirma-dyip/jT0Zis7N/",
-      "kickoff": "2026-08-11T10:15:00+09:00",
-      "width": 2,
-      "books": 13,
-      "labels": [
-        "Converge FiberXers",
-        "Terrafirma Dyip"
-      ],
-      "legs": [
-        {
-          "outcome": "Converge FiberXers",
-          "book": "Bets.io",
-          "odd": 1.43,
-          "stake": 79944,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
-        },
-        {
-          "outcome": "Terrafirma Dyip",
-          "book": "Mozzartbet",
-          "odd": 5.7,
-          "stake": 20056,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.mozzartbet.com/"
-        }
-      ],
-      "S": 0.8747392957919274,
-      "roi": 14.319775596072915,
-      "profit": 14320,
-      "payout": 114320,
-      "staked": 100000,
-      "mins": 2,
-      "split": {
-        "S": 0.8747392957919274,
-        "payout": 114320,
-        "profit": 14320,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Bets.io",
-            "odd": 1.43,
-            "stake": 79944
-          },
-          {
-            "book": "Mozzartbet",
-            "odd": 5.7,
-            "stake": 20056
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
