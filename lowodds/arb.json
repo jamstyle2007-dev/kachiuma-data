@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T17:22:13.076Z",
+  "generatedAt": "2026-08-12T17:27:37.653Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
@@ -41,49 +41,49 @@
       "legs": [
         {
           "outcome": "U. De Concepcion",
-          "book": "Cloudbet",
-          "odd": 1.62,
-          "stake": 62061,
-          "jp": true,
+          "book": "Bets.io",
+          "odd": 1.65,
+          "stake": 61628,
+          "jp": false,
           "exch": false,
-          "url": "https://www.cloudbet.com/"
+          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
         },
         {
           "outcome": "Leones Quilpue",
           "book": "bwin",
           "odd": 2.65,
-          "stake": 37939,
+          "stake": 38372,
           "jp": true,
           "exch": false,
           "url": "https://sports.bwin.com/"
         }
       ],
-      "S": 0.9946424411833217,
-      "roi": 0.5386416861826726,
-      "profit": 539,
-      "payout": 100539,
+      "S": 0.9834190966266438,
+      "roi": 1.6860465116278922,
+      "profit": 1686,
+      "payout": 101686,
       "staked": 100000,
-      "mins": 8,
+      "mins": 2,
       "split": {
-        "S": 0.9946424411833217,
-        "payout": 100539,
-        "profit": 539,
+        "S": 0.9834190966266438,
+        "payout": 101686,
+        "profit": 1686,
         "staked": 100000,
         "legs": [
           {
-            "book": "Cloudbet",
-            "odd": 1.62,
-            "stake": 62061
+            "book": "Bets.io",
+            "odd": 1.65,
+            "stake": 61628
           },
           {
             "book": "bwin",
             "odd": 2.65,
-            "stake": 37939
+            "stake": 38372
           }
         ]
       },
       "hasExch": false,
-      "allJp": true
+      "allJp": false
     }
   ]
 }
