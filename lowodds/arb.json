@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-12T17:16:48.026Z",
+  "generatedAt": "2026-08-12T17:22:13.076Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,5 +24,66 @@
     },
     "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "pC5XJdX1",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "U. De Concepcion - Leones Quilpue",
+      "url": "https://www.betexplorer.com/basketball/chile/lnb/universidad-de-concepcion-leones-de-quilpue/pC5XJdX1/",
+      "kickoff": "2026-08-13T02:30:00+09:00",
+      "width": 2,
+      "books": 16,
+      "labels": [
+        "U. De Concepcion",
+        "Leones Quilpue"
+      ],
+      "legs": [
+        {
+          "outcome": "U. De Concepcion",
+          "book": "Cloudbet",
+          "odd": 1.62,
+          "stake": 62061,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.cloudbet.com/"
+        },
+        {
+          "outcome": "Leones Quilpue",
+          "book": "bwin",
+          "odd": 2.65,
+          "stake": 37939,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        }
+      ],
+      "S": 0.9946424411833217,
+      "roi": 0.5386416861826726,
+      "profit": 539,
+      "payout": 100539,
+      "staked": 100000,
+      "mins": 8,
+      "split": {
+        "S": 0.9946424411833217,
+        "payout": 100539,
+        "profit": 539,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Cloudbet",
+            "odd": 1.62,
+            "stake": 62061
+          },
+          {
+            "book": "bwin",
+            "odd": 2.65,
+            "stake": 37939
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    }
+  ]
 }
