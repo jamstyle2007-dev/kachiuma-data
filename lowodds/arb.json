@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-12T17:54:47.708Z",
+  "generatedAt": "2026-08-12T18:00:14.800Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 4,
+  "scanned": 2,
   "arbCount": 1,
   "track": {
     "stake": 100000,
@@ -22,63 +22,63 @@
       "count": 9,
       "profit": 588368
     },
-    "pending": 2
+    "pending": 3
   },
   "opps": [
     {
-      "id": "fmMcwrm4",
+      "id": "rX8TFlV7",
       "sport": "basketball",
       "sportLabel": "バスケ",
-      "teams": "Golden State Valkyries W - Chicago Sky W",
-      "url": "https://www.betexplorer.com/basketball/usa/wnba/golden-state-valkyries-chicago-sky/fmMcwrm4/",
-      "kickoff": "2026-08-13T03:00:00+09:00",
+      "teams": "Panteras - Lobos Plateados",
+      "url": "https://www.betexplorer.com/basketball/mexico/lnbp/panteras-lobos-plateados/rX8TFlV7/",
+      "kickoff": "2026-08-13T03:30:00+09:00",
       "width": 2,
-      "books": 19,
+      "books": 16,
       "labels": [
-        "Golden State Valkyries W",
-        "Chicago Sky W"
+        "Panteras",
+        "Lobos Plateados"
       ],
       "legs": [
         {
-          "outcome": "Golden State Valkyries W",
-          "book": "1xBet",
-          "odd": 1.3,
-          "stake": 77193,
+          "outcome": "Panteras",
+          "book": "Betway",
+          "odd": 1.67,
+          "stake": 66057,
           "jp": true,
           "exch": false,
-          "url": "https://1xbet.com/ja"
+          "url": "https://betway.com/"
         },
         {
-          "outcome": "Chicago Sky W",
-          "book": "Rainbet",
-          "odd": 4.4,
-          "stake": 22807,
+          "outcome": "Lobos Plateados",
+          "book": "William Hill",
+          "odd": 3.25,
+          "stake": 33943,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
+          "url": "https://sports.williamhill.com/"
         }
       ],
-      "S": 0.9965034965034965,
-      "roi": 0.35087719298245723,
-      "profit": 351,
-      "payout": 100351,
+      "S": 0.9064947029018886,
+      "roi": 10.315040650406493,
+      "profit": 10315,
+      "payout": 110315,
       "staked": 100000,
-      "mins": 5,
+      "mins": 30,
       "split": {
-        "S": 0.9965034965034965,
-        "payout": 100351,
-        "profit": 351,
+        "S": 0.9064947029018886,
+        "payout": 110315,
+        "profit": 10315,
         "staked": 100000,
         "legs": [
           {
-            "book": "1xBet",
-            "odd": 1.3,
-            "stake": 77193
+            "book": "Betway",
+            "odd": 1.67,
+            "stake": 66057
           },
           {
-            "book": "Rainbet",
-            "odd": 4.4,
-            "stake": 22807
+            "book": "William Hill",
+            "odd": 3.25,
+            "stake": 33943
           }
         ]
       },
