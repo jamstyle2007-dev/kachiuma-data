@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T18:05:40.393Z",
+  "generatedAt": "2026-08-12T18:11:05.212Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
@@ -43,42 +43,42 @@
           "outcome": "Panteras",
           "book": "Betway",
           "odd": 1.67,
-          "stake": 66057,
+          "stake": 66398,
           "jp": true,
           "exch": false,
           "url": "https://betway.com/"
         },
         {
           "outcome": "Lobos Plateados",
-          "book": "William Hill",
-          "odd": 3.25,
-          "stake": 33943,
+          "book": "Mozzartbet",
+          "odd": 3.3,
+          "stake": 33602,
           "jp": false,
           "exch": false,
-          "url": "https://sports.williamhill.com/"
+          "url": "https://www.mozzartbet.com/"
         }
       ],
-      "S": 0.9064947029018886,
-      "roi": 10.315040650406493,
-      "profit": 10315,
-      "payout": 110315,
+      "S": 0.9018326982398839,
+      "roi": 10.885311871227366,
+      "profit": 10885,
+      "payout": 110885,
       "staked": 100000,
-      "mins": 24,
+      "mins": 19,
       "split": {
-        "S": 0.9064947029018886,
-        "payout": 110315,
-        "profit": 10315,
+        "S": 0.9018326982398839,
+        "payout": 110885,
+        "profit": 10885,
         "staked": 100000,
         "legs": [
           {
             "book": "Betway",
             "odd": 1.67,
-            "stake": 66057
+            "stake": 66398
           },
           {
-            "book": "William Hill",
-            "odd": 3.25,
-            "stake": 33943
+            "book": "Mozzartbet",
+            "odd": 3.3,
+            "stake": 33602
           }
         ]
       },
