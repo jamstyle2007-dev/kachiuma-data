@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-12T18:27:22.152Z",
+  "generatedAt": "2026-08-12T18:32:47.041Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 3
   },
-  "opps": [
-    {
-      "id": "rX8TFlV7",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Panteras - Lobos Plateados",
-      "url": "https://www.betexplorer.com/basketball/mexico/lnbp/panteras-lobos-plateados/rX8TFlV7/",
-      "kickoff": "2026-08-13T03:30:00+09:00",
-      "width": 2,
-      "books": 16,
-      "labels": [
-        "Panteras",
-        "Lobos Plateados"
-      ],
-      "legs": [
-        {
-          "outcome": "Panteras",
-          "book": "Betway",
-          "odd": 1.67,
-          "stake": 66398,
-          "jp": true,
-          "exch": false,
-          "url": "https://betway.com/"
-        },
-        {
-          "outcome": "Lobos Plateados",
-          "book": "Duelbits",
-          "odd": 3.3,
-          "stake": 33602,
-          "jp": false,
-          "exch": false,
-          "url": "https://duelbits.com/"
-        }
-      ],
-      "S": 0.9018326982398839,
-      "roi": 10.885311871227366,
-      "profit": 10885,
-      "payout": 110885,
-      "staked": 100000,
-      "mins": 3,
-      "split": {
-        "S": 0.9018326982398839,
-        "payout": 110885,
-        "profit": 10885,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betway",
-            "odd": 1.67,
-            "stake": 66398
-          },
-          {
-            "book": "Duelbits",
-            "odd": 3.3,
-            "stake": 33602
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
