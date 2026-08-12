@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-12T17:00:35.702Z",
+  "generatedAt": "2026-08-12T17:06:01.088Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "pC5XJdX1",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "U. De Concepcion - Leones Quilpue",
-      "url": "https://www.betexplorer.com/basketball/chile/lnb/universidad-de-concepcion-leones-de-quilpue/pC5XJdX1/",
-      "kickoff": "2026-08-13T02:30:00+09:00",
-      "width": 2,
-      "books": 16,
-      "labels": [
-        "U. De Concepcion",
-        "Leones Quilpue"
-      ],
-      "legs": [
-        {
-          "outcome": "U. De Concepcion",
-          "book": "Betfair",
-          "odd": 1.57,
-          "stake": 64877,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        },
-        {
-          "outcome": "Leones Quilpue",
-          "book": "Mozzartbet",
-          "odd": 2.9,
-          "stake": 35123,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.mozzartbet.com/"
-        }
-      ],
-      "S": 0.9817702613661322,
-      "roi": 1.8568232662192319,
-      "profit": 1857,
-      "payout": 101857,
-      "staked": 100000,
-      "mins": 29,
-      "split": {
-        "S": 0.9817702613661322,
-        "payout": 101857,
-        "profit": 1857,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betfair",
-            "odd": 1.57,
-            "stake": 64877
-          },
-          {
-            "book": "Mozzartbet",
-            "odd": 2.9,
-            "stake": 35123
-          }
-        ]
-      },
-      "hasExch": true,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
