@@ -1,89 +1,28 @@
 {
-  "generatedAt": "2026-08-13T17:55:55.818Z",
+  "generatedAt": "2026-08-13T18:01:22.894Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
-      "count": 164,
-      "profit": 31932445
+      "count": 165,
+      "profit": 31951680
     },
     "year": {
-      "count": 164,
-      "profit": 31932445
+      "count": 165,
+      "profit": 31951680
     },
     "month": {
-      "count": 57,
-      "profit": 7978723
+      "count": 58,
+      "profit": 7997958
     },
     "week": {
-      "count": 13,
-      "profit": 704010
+      "count": 14,
+      "profit": 723245
     },
-    "pending": 4
+    "pending": 3
   },
-  "opps": [
-    {
-      "id": "Wn6Vis2c",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Las Vegas Aces W - Washington Mystics W",
-      "url": "https://www.betexplorer.com/basketball/usa/wnba/las-vegas-aces-washington-mystics/Wn6Vis2c/",
-      "kickoff": "2026-08-14T03:00:00+09:00",
-      "width": 2,
-      "books": 19,
-      "labels": [
-        "Las Vegas Aces W",
-        "Washington Mystics W"
-      ],
-      "legs": [
-        {
-          "outcome": "Las Vegas Aces W",
-          "book": "BetInAsia",
-          "odd": 1.46,
-          "stake": 69328,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        },
-        {
-          "outcome": "Washington Mystics W",
-          "book": "Rainbet",
-          "odd": 3.3,
-          "stake": 30672,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
-        }
-      ],
-      "S": 0.9879618098796181,
-      "roi": 1.2184873949579789,
-      "profit": 1218,
-      "payout": 101218,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.9879618098796181,
-        "payout": 101218,
-        "profit": 1218,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "BetInAsia",
-            "odd": 1.46,
-            "stake": 69328
-          },
-          {
-            "book": "Rainbet",
-            "odd": 3.3,
-            "stake": 30672
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
