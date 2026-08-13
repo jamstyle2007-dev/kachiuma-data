@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-13T09:50:45.332Z",
+  "generatedAt": "2026-08-13T10:00:10.251Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 1,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 12,
       "profit": 600891
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "dbDDv3RG",
+      "sport": "volleyball",
+      "sportLabel": "バレー",
+      "teams": "France W - Ukraine W",
+      "url": "https://www.betexplorer.com/volleyball/world/friendly-international-women/france-ukraine/dbDDv3RG/",
+      "kickoff": "2026-08-13T19:30:00+09:00",
+      "width": 3,
+      "books": 4,
+      "labels": [
+        "France W",
+        "Draw",
+        "Ukraine W"
+      ],
+      "legs": [
+        {
+          "outcome": "France W",
+          "book": "3:0",
+          "odd": 3,
+          "stake": 67706,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=3%3A0%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "3:0",
+          "odd": 8.8,
+          "stake": 23082,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=3%3A0%20sportsbook"
+        },
+        {
+          "outcome": "Ukraine W",
+          "book": "3:0",
+          "odd": 22.05,
+          "stake": 9212,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=3%3A0%20sportsbook"
+        }
+      ],
+      "S": 0.49232117089259947,
+      "roi": 103.11943891971107,
+      "profit": 103119,
+      "payout": 203119,
+      "staked": 100000,
+      "mins": 30,
+      "split": {
+        "S": 0.49232117089259947,
+        "payout": 203119,
+        "profit": 103119,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "3:0",
+            "odd": 3,
+            "stake": 67706
+          },
+          {
+            "book": "3:0",
+            "odd": 8.8,
+            "stake": 23082
+          },
+          {
+            "book": "3:0",
+            "odd": 22.05,
+            "stake": 9212
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
