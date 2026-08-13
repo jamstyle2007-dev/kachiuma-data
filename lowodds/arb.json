@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-13T14:26:44.036Z",
+  "generatedAt": "2026-08-13T14:33:12.978Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 0,
+  "scanned": 3,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 13,
       "profit": 704010
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "YuvoIUeM",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Dep. San Jose - Colonias Gold",
+      "url": "https://www.betexplorer.com/basketball/paraguay/lnb/deportivo-san-jose-colonias-gold/YuvoIUeM/",
+      "kickoff": "2026-08-14T00:00:00+09:00",
+      "width": 2,
+      "books": 11,
+      "labels": [
+        "Dep. San Jose",
+        "Colonias Gold"
+      ],
+      "legs": [
+        {
+          "outcome": "Dep. San Jose",
+          "book": "Betsson",
+          "odd": 2.05,
+          "stake": 58163,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.betsson.com/"
+        },
+        {
+          "outcome": "Colonias Gold",
+          "book": "bwin",
+          "odd": 2.85,
+          "stake": 41837,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        }
+      ],
+      "S": 0.8386820710312366,
+      "roi": 19.234693877551035,
+      "profit": 19235,
+      "payout": 119235,
+      "staked": 100000,
+      "mins": 27,
+      "split": {
+        "S": 0.8386820710312366,
+        "payout": 119235,
+        "profit": 19235,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Betsson",
+            "odd": 2.05,
+            "stake": 58163
+          },
+          {
+            "book": "bwin",
+            "odd": 2.85,
+            "stake": 41837
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
