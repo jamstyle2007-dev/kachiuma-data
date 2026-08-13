@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-13T17:28:47.868Z",
+  "generatedAt": "2026-08-13T17:34:09.763Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 2,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 13,
       "profit": 704010
     },
-    "pending": 3
+    "pending": 4
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "Wn6Vis2c",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Las Vegas Aces W - Washington Mystics W",
+      "url": "https://www.betexplorer.com/basketball/usa/wnba/las-vegas-aces-washington-mystics/Wn6Vis2c/",
+      "kickoff": "2026-08-14T03:00:00+09:00",
+      "width": 2,
+      "books": 19,
+      "labels": [
+        "Las Vegas Aces W",
+        "Washington Mystics W"
+      ],
+      "legs": [
+        {
+          "outcome": "Las Vegas Aces W",
+          "book": "BetInAsia",
+          "odd": 1.46,
+          "stake": 69328,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.betinasia.com/"
+        },
+        {
+          "outcome": "Washington Mystics W",
+          "book": "Rainbet",
+          "odd": 3.3,
+          "stake": 30672,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
+        }
+      ],
+      "S": 0.9879618098796181,
+      "roi": 1.2184873949579789,
+      "profit": 1218,
+      "payout": 101218,
+      "staked": 100000,
+      "mins": 26,
+      "split": {
+        "S": 0.9879618098796181,
+        "payout": 101218,
+        "profit": 1218,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "BetInAsia",
+            "odd": 1.46,
+            "stake": 69328
+          },
+          {
+            "book": "Rainbet",
+            "odd": 3.3,
+            "stake": 30672
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
