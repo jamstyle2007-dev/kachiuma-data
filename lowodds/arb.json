@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-13T14:33:12.978Z",
+  "generatedAt": "2026-08-13T14:38:52.323Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 3,
+  "scanned": 2,
   "arbCount": 1,
   "track": {
     "stake": 100000,
@@ -43,42 +43,42 @@
           "outcome": "Dep. San Jose",
           "book": "Betsson",
           "odd": 2.05,
-          "stake": 58163,
+          "stake": 52874,
           "jp": false,
           "exch": false,
           "url": "https://www.betsson.com/"
         },
         {
           "outcome": "Colonias Gold",
-          "book": "bwin",
-          "odd": 2.85,
-          "stake": 41837,
-          "jp": true,
+          "book": "Bets.io",
+          "odd": 2.3,
+          "stake": 47126,
+          "jp": false,
           "exch": false,
-          "url": "https://sports.bwin.com/"
+          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
         }
       ],
-      "S": 0.8386820710312366,
-      "roi": 19.234693877551035,
-      "profit": 19235,
-      "payout": 119235,
+      "S": 0.9225874867444328,
+      "roi": 8.390804597701141,
+      "profit": 8391,
+      "payout": 108391,
       "staked": 100000,
-      "mins": 27,
+      "mins": 21,
       "split": {
-        "S": 0.8386820710312366,
-        "payout": 119235,
-        "profit": 19235,
+        "S": 0.9225874867444328,
+        "payout": 108391,
+        "profit": 8391,
         "staked": 100000,
         "legs": [
           {
             "book": "Betsson",
             "odd": 2.05,
-            "stake": 58163
+            "stake": 52874
           },
           {
-            "book": "bwin",
-            "odd": 2.85,
-            "stake": 41837
+            "book": "Bets.io",
+            "odd": 2.3,
+            "stake": 47126
           }
         ]
       },
