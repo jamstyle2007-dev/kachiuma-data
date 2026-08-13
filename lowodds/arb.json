@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-13T16:29:42.960Z",
+  "generatedAt": "2026-08-13T16:35:08.491Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 2,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,126 +24,5 @@
     },
     "pending": 3
   },
-  "opps": [
-    {
-      "id": "x4Pt36EL",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Naviera Ulloa - Ancud",
-      "url": "https://www.betexplorer.com/basketball/chile/lnb/naviera-ulloa-ancud/x4Pt36EL/",
-      "kickoff": "2026-08-14T01:30:00+09:00",
-      "width": 2,
-      "books": 14,
-      "labels": [
-        "Naviera Ulloa",
-        "Ancud"
-      ],
-      "legs": [
-        {
-          "outcome": "Naviera Ulloa",
-          "book": "Duelbits",
-          "odd": 5.45,
-          "stake": 22695,
-          "jp": false,
-          "exch": false,
-          "url": "https://duelbits.com/"
-        },
-        {
-          "outcome": "Ancud",
-          "book": "William Hill",
-          "odd": 1.6,
-          "stake": 77305,
-          "jp": false,
-          "exch": false,
-          "url": "https://sports.williamhill.com/"
-        }
-      ],
-      "S": 0.8084862385321101,
-      "roi": 23.68794326241135,
-      "profit": 23688,
-      "payout": 123688,
-      "staked": 100000,
-      "mins": 0,
-      "split": {
-        "S": 0.8084862385321101,
-        "payout": 123688,
-        "profit": 23688,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Duelbits",
-            "odd": 5.45,
-            "stake": 22695
-          },
-          {
-            "book": "William Hill",
-            "odd": 1.6,
-            "stake": 77305
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    },
-    {
-      "id": "4jRY4Sq9",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Puente Alto - Colo Colo",
-      "url": "https://www.betexplorer.com/basketball/chile/lnb/puente-alto-colo-colo/4jRY4Sq9/",
-      "kickoff": "2026-08-14T01:30:00+09:00",
-      "width": 2,
-      "books": 16,
-      "labels": [
-        "Puente Alto",
-        "Colo Colo"
-      ],
-      "legs": [
-        {
-          "outcome": "Puente Alto",
-          "book": "BetInAsia",
-          "odd": 1.58,
-          "stake": 63510,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        },
-        {
-          "outcome": "Colo Colo",
-          "book": "Betfair",
-          "odd": 2.75,
-          "stake": 36490,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        }
-      ],
-      "S": 0.9965477560414269,
-      "roi": 0.34642032332563577,
-      "profit": 346,
-      "payout": 100346,
-      "staked": 100000,
-      "mins": 0,
-      "split": {
-        "S": 0.9965477560414269,
-        "payout": 100346,
-        "profit": 346,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "BetInAsia",
-            "odd": 1.58,
-            "stake": 63510
-          },
-          {
-            "book": "Betfair",
-            "odd": 2.75,
-            "stake": 36490
-          }
-        ]
-      },
-      "hasExch": true,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
