@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T16:07:58.902Z",
+  "generatedAt": "2026-08-13T16:13:23.933Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
@@ -63,7 +63,7 @@
       "profit": 23688,
       "payout": 123688,
       "staked": 100000,
-      "mins": 22,
+      "mins": 17,
       "split": {
         "S": 0.8084862385321101,
         "payout": 123688,
@@ -101,49 +101,49 @@
       "legs": [
         {
           "outcome": "Puente Alto",
-          "book": "Bets.io",
-          "odd": 1.55,
-          "stake": 65169,
-          "jp": false,
+          "book": "BetInAsia",
+          "odd": 1.58,
+          "stake": 64574,
+          "jp": true,
           "exch": false,
-          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
+          "url": "https://www.betinasia.com/"
         },
         {
           "outcome": "Colo Colo",
-          "book": "Mozzartbet",
-          "odd": 2.9,
-          "stake": 34831,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.mozzartbet.com/"
+          "book": "Betfair",
+          "odd": 2.88,
+          "stake": 35426,
+          "jp": true,
+          "exch": true,
+          "url": "https://www.betfair.com/exchange/plus/"
         }
       ],
-      "S": 0.9899888765294772,
-      "roi": 1.011235955056189,
-      "profit": 1011,
-      "payout": 101011,
+      "S": 0.9801336146272854,
+      "roi": 2.026905829596415,
+      "profit": 2027,
+      "payout": 102027,
       "staked": 100000,
-      "mins": 22,
+      "mins": 17,
       "split": {
-        "S": 0.9899888765294772,
-        "payout": 101011,
-        "profit": 1011,
+        "S": 0.9801336146272854,
+        "payout": 102027,
+        "profit": 2027,
         "staked": 100000,
         "legs": [
           {
-            "book": "Bets.io",
-            "odd": 1.55,
-            "stake": 65169
+            "book": "BetInAsia",
+            "odd": 1.58,
+            "stake": 64574
           },
           {
-            "book": "Mozzartbet",
-            "odd": 2.9,
-            "stake": 34831
+            "book": "Betfair",
+            "odd": 2.88,
+            "stake": 35426
           }
         ]
       },
-      "hasExch": false,
-      "allJp": false
+      "hasExch": true,
+      "allJp": true
     }
   ]
 }
