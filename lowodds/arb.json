@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-14T02:56:15.934Z",
+  "generatedAt": "2026-08-14T03:01:43.512Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 3,
+  "scanned": 2,
   "arbCount": 1,
   "track": {
     "stake": 100000,
@@ -22,82 +22,67 @@
       "count": 17,
       "profit": 749162
     },
-    "pending": 2
+    "pending": 3
   },
   "opps": [
     {
-      "id": "rDS3Y0mp",
-      "sport": "handball",
-      "sportLabel": "ハンドボール",
-      "teams": "Drammen - Elverum",
-      "url": "https://www.betexplorer.com/handball/world/club-friendly/drammen-elverum/rDS3Y0mp/",
-      "kickoff": "2026-08-14T12:00:00+09:00",
-      "width": 3,
-      "books": 10,
+      "id": "YRCvlY5k",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Meralco Bolts - Barangay Ginebra San Miguel",
+      "url": "https://www.betexplorer.com/basketball/philippines/pba-governors-cup/meralco-bolts-barangay-ginebra-san-miguel/YRCvlY5k/",
+      "kickoff": "2026-08-14T12:30:00+09:00",
+      "width": 2,
+      "books": 14,
       "labels": [
-        "Drammen",
-        "Draw",
-        "Elverum"
+        "Meralco Bolts",
+        "Barangay Ginebra San Miguel"
       ],
       "legs": [
         {
-          "outcome": "Drammen",
-          "book": "1xBet",
-          "odd": 4.6,
-          "stake": 22091,
+          "outcome": "Meralco Bolts",
+          "book": "Betfair",
+          "odd": 3.2,
+          "stake": 31478,
           "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
+          "exch": true,
+          "url": "https://www.betfair.com/exchange/plus/"
         },
         {
-          "outcome": "Draw",
-          "book": "1xBet",
-          "odd": 10,
-          "stake": 10162,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "Elverum",
-          "book": "Duelbits",
-          "odd": 1.5,
-          "stake": 67747,
+          "outcome": "Barangay Ginebra San Miguel",
+          "book": "Mozzartbet",
+          "odd": 1.47,
+          "stake": 68522,
           "jp": false,
           "exch": false,
-          "url": "https://duelbits.com/"
+          "url": "https://www.mozzartbet.com/"
         }
       ],
-      "S": 0.9840579710144928,
-      "roi": 1.6200294550809957,
-      "profit": 1620,
-      "payout": 101620,
+      "S": 0.9927721088435374,
+      "roi": 0.7280513918629605,
+      "profit": 728,
+      "payout": 100728,
       "staked": 100000,
-      "mins": 4,
+      "mins": 28,
       "split": {
-        "S": 0.9840579710144928,
-        "payout": 101620,
-        "profit": 1620,
+        "S": 0.9927721088435374,
+        "payout": 100728,
+        "profit": 728,
         "staked": 100000,
         "legs": [
           {
-            "book": "1xBet",
-            "odd": 4.6,
-            "stake": 22091
+            "book": "Betfair",
+            "odd": 3.2,
+            "stake": 31478
           },
           {
-            "book": "1xBet",
-            "odd": 10,
-            "stake": 10162
-          },
-          {
-            "book": "Duelbits",
-            "odd": 1.5,
-            "stake": 67747
+            "book": "Mozzartbet",
+            "odd": 1.47,
+            "stake": 68522
           }
         ]
       },
-      "hasExch": false,
+      "hasExch": true,
       "allJp": false
     }
   ]
