@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-14T01:56:14.102Z",
+  "generatedAt": "2026-08-14T02:01:55.926Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "Ch6sEi6t",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Japan W - South Korea W",
-      "url": "https://www.betexplorer.com/basketball/world/friendly-international-women/japan-south-korea/Ch6sEi6t/",
-      "kickoff": "2026-08-14T11:00:00+09:00",
-      "width": 2,
-      "books": 4,
-      "labels": [
-        "Japan W",
-        "South Korea W"
-      ],
-      "legs": [
-        {
-          "outcome": "Japan W",
-          "book": "N1 Bet",
-          "odd": 1.19,
-          "stake": 87719,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=N1%20Bet%20sportsbook"
-        },
-        {
-          "outcome": "South Korea W",
-          "book": "Unibet",
-          "odd": 8.5,
-          "stake": 12281,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.unibet.com/"
-        }
-      ],
-      "S": 0.957983193277311,
-      "roi": 4.385964912280693,
-      "profit": 4386,
-      "payout": 104386,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.957983193277311,
-        "payout": 104386,
-        "profit": 4386,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "N1 Bet",
-            "odd": 1.19,
-            "stake": 87719
-          },
-          {
-            "book": "Unibet",
-            "odd": 8.5,
-            "stake": 12281
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
