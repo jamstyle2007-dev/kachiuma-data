@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-14T22:24:58.695Z",
+  "generatedAt": "2026-08-14T22:30:20.292Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 5,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 21,
       "profit": 756643
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "f9voeHi2",
+      "sport": "hockey",
+      "sportLabel": "アイスホッケー",
+      "teams": "Sydney Bears - Perth",
+      "url": "https://www.betexplorer.com/hockey/australia/aihl/sydney-bears-perth-thunder/f9voeHi2/",
+      "kickoff": "2026-08-15T08:00:00+09:00",
+      "width": 3,
+      "books": 15,
+      "labels": [
+        "Sydney Bears",
+        "Draw",
+        "Perth"
+      ],
+      "legs": [
+        {
+          "outcome": "Sydney Bears",
+          "book": "Unibet",
+          "odd": 2.07,
+          "stake": 48324,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.unibet.com/"
+        },
+        {
+          "outcome": "Draw",
+          "book": "Bets.io",
+          "odd": 5.1,
+          "stake": 19614,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
+        },
+        {
+          "outcome": "Perth",
+          "book": "1xBet",
+          "odd": 3.12,
+          "stake": 32061,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        }
+      ],
+      "S": 0.9996830393249831,
+      "roi": 0.031706117093954767,
+      "profit": 33,
+      "payout": 100032,
+      "staked": 99999,
+      "mins": 30,
+      "split": {
+        "S": 0.9996830393249831,
+        "payout": 100032,
+        "profit": 33,
+        "staked": 99999,
+        "legs": [
+          {
+            "book": "Unibet",
+            "odd": 2.07,
+            "stake": 48324
+          },
+          {
+            "book": "Bets.io",
+            "odd": 5.1,
+            "stake": 19614
+          },
+          {
+            "book": "1xBet",
+            "odd": 3.12,
+            "stake": 32061
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
