@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T01:39:45.962Z",
+  "generatedAt": "2026-08-14T01:45:13.025Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
@@ -41,44 +41,44 @@
       "legs": [
         {
           "outcome": "Japan W",
-          "book": "1xBet",
-          "odd": 1.18,
-          "stake": 87810,
-          "jp": true,
+          "book": "N1 Bet",
+          "odd": 1.19,
+          "stake": 87719,
+          "jp": false,
           "exch": false,
-          "url": "https://1xbet.com/ja"
+          "url": "https://www.google.com/search?q=N1%20Bet%20sportsbook"
         },
         {
           "outcome": "South Korea W",
           "book": "Unibet",
           "odd": 8.5,
-          "stake": 12190,
+          "stake": 12281,
           "jp": false,
           "exch": false,
           "url": "https://www.unibet.com/"
         }
       ],
-      "S": 0.9651046859421736,
-      "roi": 3.6157024793388226,
-      "profit": 3616,
-      "payout": 103616,
+      "S": 0.957983193277311,
+      "roi": 4.385964912280693,
+      "profit": 4386,
+      "payout": 104386,
       "staked": 100000,
-      "mins": 20,
+      "mins": 15,
       "split": {
-        "S": 0.9651046859421736,
-        "payout": 103616,
-        "profit": 3616,
+        "S": 0.957983193277311,
+        "payout": 104386,
+        "profit": 4386,
         "staked": 100000,
         "legs": [
           {
-            "book": "1xBet",
-            "odd": 1.18,
-            "stake": 87810
+            "book": "N1 Bet",
+            "odd": 1.19,
+            "stake": 87719
           },
           {
             "book": "Unibet",
             "odd": 8.5,
-            "stake": 12190
+            "stake": 12281
           }
         ]
       },
