@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-14T14:24:40.415Z",
+  "generatedAt": "2026-08-14T14:30:07.749Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 0,
+  "scanned": 4,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 20,
       "profit": 755126
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "rZFAYkt3",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Olimpia Kings - Felix Perez Cardozo",
+      "url": "https://www.betexplorer.com/basketball/paraguay/lnb/olimpia-kings-felix-perez-cardozo/rZFAYkt3/",
+      "kickoff": "2026-08-15T00:00:00+09:00",
+      "width": 2,
+      "books": 9,
+      "labels": [
+        "Olimpia Kings",
+        "Felix Perez Cardozo"
+      ],
+      "legs": [
+        {
+          "outcome": "Olimpia Kings",
+          "book": "bwin",
+          "odd": 1.19,
+          "stake": 85309,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        },
+        {
+          "outcome": "Felix Perez Cardozo",
+          "book": "Cloudbet",
+          "odd": 6.91,
+          "stake": 14691,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.cloudbet.com/"
+        }
+      ],
+      "S": 0.9850539347432171,
+      "roi": 1.5172839506172764,
+      "profit": 1517,
+      "payout": 101517,
+      "staked": 100000,
+      "mins": 30,
+      "split": {
+        "S": 0.9850539347432171,
+        "payout": 101517,
+        "profit": 1517,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "bwin",
+            "odd": 1.19,
+            "stake": 85309
+          },
+          {
+            "book": "Cloudbet",
+            "odd": 6.91,
+            "stake": 14691
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    }
+  ]
 }
