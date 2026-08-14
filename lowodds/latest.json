@@ -1,9 +1,49 @@
 {
-  "generatedAt": "2026-08-14T11:51:45.464Z",
+  "generatedAt": "2026-08-14T14:55:21.400Z",
   "source": "betexplorer.com (Pinnacle / 1xBet odds)",
   "threshold": 1.6,
-  "count": 37,
+  "count": 33,
   "matches": [
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "WORLD: FRIENDLY INTERNATIONAL WOMEN",
+      "home": "Turkey W",
+      "away": "Portugal W",
+      "favTeam": "Turkey W",
+      "underTeam": "Portugal W",
+      "favOdd": 1.04,
+      "prob": 96,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.04
+      },
+      "avgFavOdd": 1.03,
+      "time": "01:00",
+      "kickoff": "2026-08-14T17:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/world/friendly-international-women/turkey-portugal/6HQxt7fc/"
+    },
+    {
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "WORLD: CLUB FRIENDLY WOMEN",
+      "home": "Bistrita W",
+      "away": "Alba Fehervar W",
+      "favTeam": "Bistrita W",
+      "underTeam": "Alba Fehervar W",
+      "favOdd": 1.05,
+      "prob": 95,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.05
+      },
+      "avgFavOdd": 1.05,
+      "time": "00:00",
+      "kickoff": "2026-08-14T16:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/handball/world/club-friendly-women/cs-gloria-bistrita-alba-fehervar-kc/dGhe13Tg/"
+    },
     {
       "sport": "バレー",
       "sportKey": "volleyball",
@@ -12,17 +52,37 @@
       "away": "Dominican Republic",
       "favTeam": "USA",
       "underTeam": "Dominican Republic",
-      "favOdd": 1.01,
-      "prob": 99,
+      "favOdd": 1.06,
+      "prob": 94,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.01
+        "1xbet": 1.06
       },
-      "avgFavOdd": 1.03,
+      "avgFavOdd": 1.04,
       "time": "09:00",
       "kickoff": "2026-08-15T01:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup/usa-dominican-republic/jRoP5A8T/"
+    },
+    {
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "WORLD: CLUB FRIENDLY WOMEN",
+      "home": "Larvik W",
+      "away": "Viborg W",
+      "favTeam": "Viborg W",
+      "underTeam": "Larvik W",
+      "favOdd": 1.06,
+      "prob": 94,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.06
+      },
+      "avgFavOdd": 1.07,
+      "time": "00:30",
+      "kickoff": "2026-08-14T16:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/handball/world/club-friendly-women/larvik-viborg/WbvXelce/"
     },
     {
       "sport": "バレー",
@@ -32,11 +92,11 @@
       "away": "Trinidad & Tobago",
       "favTeam": "Guatemala",
       "underTeam": "Trinidad & Tobago",
-      "favOdd": 1.01,
-      "prob": 99,
+      "favOdd": 1.07,
+      "prob": 93,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.01
+        "1xbet": 1.07
       },
       "avgFavOdd": 1.04,
       "time": "07:00",
@@ -45,84 +105,24 @@
       "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup/guatemala-trinidad-tobago/2Nt1BEvh/"
     },
     {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "WORLD: CLUB FRIENDLY WOMEN",
-      "home": "Gyor W",
-      "away": "Podravka W",
-      "favTeam": "Gyor W",
-      "underTeam": "Podravka W",
-      "favOdd": 1.02,
-      "prob": 98,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.02
-      },
-      "avgFavOdd": 1.01,
-      "time": "21:00",
-      "kickoff": "2026-08-14T13:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/handball/world/club-friendly-women/gyor-podravka/xCwl4R75/"
-    },
-    {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "WORLD: CLUB FRIENDLY",
-      "home": "Fjellhammer",
-      "away": "Asane",
-      "favTeam": "Fjellhammer",
-      "underTeam": "Asane",
-      "favOdd": 1.04,
-      "prob": 96,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.04
-      },
-      "avgFavOdd": 1.03,
-      "time": "22:00",
-      "kickoff": "2026-08-14T14:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/handball/world/club-friendly/fjellhammer-asane/2J6DjgLF/"
-    },
-    {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: HAMBURG, CLAY",
-      "home": "Purtseladze S.",
-      "away": "Dodig M.",
-      "favTeam": "Dodig M.",
-      "underTeam": "Purtseladze S.",
-      "favOdd": 1.07,
-      "prob": 93,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.07
-      },
-      "avgFavOdd": 1.08,
-      "time": "21:30",
-      "kickoff": "2026-08-14T13:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/hamburg/purtseladze-saba-dodig-matej/8OT19E2L/"
-    },
-    {
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "WORLD: CLUB FRIENDLY WOMEN",
-      "home": "Hoffenheim W",
-      "away": "Club Brugge W",
-      "favTeam": "Hoffenheim W",
-      "underTeam": "Club Brugge W",
+      "league": "ITF WOMEN - SINGLES: W15 CAMPOS DO JORDAO, HARD",
+      "home": "Mi L.",
+      "away": "Ayala L.",
+      "favTeam": "Mi L.",
+      "underTeam": "Ayala L.",
       "favOdd": 1.1,
       "prob": 91,
       "book": "1xBet",
       "books": {
         "1xbet": 1.1
       },
-      "avgFavOdd": 1.16,
-      "time": "21:00",
-      "kickoff": "2026-08-14T13:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/football/world/club-friendly-women/hoffenheim-club-brugge/6Xr8ima6/"
+      "avgFavOdd": 1.1,
+      "time": "00:00",
+      "kickoff": "2026-08-14T16:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w15-campos-do-jordao/mi-lan-ayala-lourdes/OdXmUUMr/"
     },
     {
       "sport": "バスケ",
@@ -145,66 +145,6 @@
       "url": "https://www.betexplorer.com/basketball/paraguay/lnb/olimpia-kings-felix-perez-cardozo/rZFAYkt3/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - DOUBLES: W35 BYDGOSZCZ, CLAY",
-      "home": "Maduzzi G. / Turini V.",
-      "away": "Heuser M. / Koskel A. A.",
-      "favTeam": "Maduzzi G. / Turini V.",
-      "underTeam": "Heuser M. / Koskel A. A.",
-      "favOdd": 1.14,
-      "prob": 88,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.14
-      },
-      "avgFavOdd": 1.14,
-      "time": "21:00",
-      "kickoff": "2026-08-14T13:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-doubles/w35-bydgoszcz/maduzzi-gaia-turini-viola-megan-heuser-koskel-anet-angelika/KAB27HzR/"
-    },
-    {
-      "sport": "アイスホッケー",
-      "sportKey": "hockey",
-      "league": "KAZAKHSTAN: KAZAKHSTAN CUP",
-      "home": "Torpedo",
-      "away": "Kokshetau",
-      "favTeam": "Torpedo",
-      "underTeam": "Kokshetau",
-      "favOdd": 1.19,
-      "prob": 84,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.19
-      },
-      "avgFavOdd": 1.21,
-      "time": "23:00",
-      "kickoff": "2026-08-14T15:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/hockey/kazakhstan/kazakhstan-cup/kazzinc-torpedo-arlan-kokshetau/MqyHM8yR/"
-    },
-    {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "WORLD: CLUB FRIENDLY WOMEN",
-      "home": "Corona Brasov W",
-      "away": "Baia Mare W",
-      "favTeam": "Corona Brasov W",
-      "underTeam": "Baia Mare W",
-      "favOdd": 1.22,
-      "prob": 82,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.22
-      },
-      "avgFavOdd": 1.27,
-      "time": "21:30",
-      "kickoff": "2026-08-14T13:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/handball/world/club-friendly-women/corona-brasov-baia-mare/tQeONWrS/"
-    },
-    {
       "sport": "ハンドボール",
       "sportKey": "handball",
       "league": "WORLD: CLUB FRIENDLY WOMEN",
@@ -212,97 +152,97 @@
       "away": "Gjerpen W",
       "favTeam": "Gjerpen W",
       "underTeam": "Fjellhammer W",
-      "favOdd": 1.23,
-      "prob": 81,
+      "favOdd": 1.12,
+      "prob": 89,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.23
+        "1xbet": 1.12
       },
-      "avgFavOdd": 1.22,
+      "avgFavOdd": 1.29,
       "time": "00:00",
       "kickoff": "2026-08-14T16:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/handball/world/club-friendly-women/fjellhammer-gjerpen/Euaaskr2/"
     },
     {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "WORLD: FRIENDLY INTERNATIONAL WOMEN",
-      "home": "Montenegro W",
-      "away": "Portugal W",
-      "favTeam": "Portugal W",
-      "underTeam": "Montenegro W",
-      "favOdd": 1.25,
-      "prob": 80,
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "WORLD: CLUB FRIENDLY WOMEN",
+      "home": "Blomberg-Lippe W",
+      "away": "Buxtehuder SV W",
+      "favTeam": "Blomberg-Lippe W",
+      "underTeam": "Buxtehuder SV W",
+      "favOdd": 1.13,
+      "prob": 88,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.25
+        "1xbet": 1.13
       },
-      "avgFavOdd": 1.28,
-      "time": "01:00",
-      "kickoff": "2026-08-14T17:00:00+09:00",
+      "avgFavOdd": 1.14,
+      "time": "00:30",
+      "kickoff": "2026-08-14T16:30:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/world/friendly-international-women/montenegro-portugal/hfCNZXFt/"
+      "url": "https://www.betexplorer.com/handball/world/club-friendly-women/blomberg-lippe-buxtehuder-sv/OYzPcASr/"
     },
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25 KOKSIJDE, CLAY",
-      "home": "Verwerft L. G.",
-      "away": "Kaouk M.",
-      "favTeam": "Kaouk M.",
-      "underTeam": "Verwerft L. G.",
-      "favOdd": 1.29,
+      "league": "ITF WOMEN - DOUBLES: W35 ALDERSHOT 2, HARD",
+      "home": "Burrage J. / Christie F.",
+      "away": "Britton D. / Dada-Mascoll S.",
+      "favTeam": "Burrage J. / Christie F.",
+      "underTeam": "Britton D. / Dada-Mascoll S.",
+      "favOdd": 1.17,
+      "prob": 85,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.17
+      },
+      "avgFavOdd": 1.15,
+      "time": "23:55",
+      "kickoff": "2026-08-14T15:55:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-women-doubles/w35-aldershot-2/burrage-jodie-christie-freya-britton-daniella-dada-mascoll-savannah/AR6sa1JP/"
+    },
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "WORLD: PAN-AMERICAN CUP",
+      "home": "Costa Rica",
+      "away": "Curacao",
+      "favTeam": "Costa Rica",
+      "underTeam": "Curacao",
+      "favOdd": 1.23,
+      "prob": 81,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.23
+      },
+      "avgFavOdd": 1.26,
+      "time": "05:00",
+      "kickoff": "2026-08-14T21:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup/costa-rica-curacao/Amp99h94/"
+    },
+    {
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "WORLD: CLUB FRIENDLY",
+      "home": "Csurgoi",
+      "away": "Budai Farkasok",
+      "favTeam": "Csurgoi",
+      "underTeam": "Budai Farkasok",
+      "favOdd": 1.28,
       "prob": 78,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.29
+        "1xbet": 1.28
       },
       "avgFavOdd": 1.29,
-      "time": "21:30",
-      "kickoff": "2026-08-14T13:30:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-koksijde/verwerft-lars-goran-kaouk-mickael/6FL12WF8/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25 MUTTENZ, CLAY",
-      "home": "Donald M.",
-      "away": "Sakellaridis D.",
-      "favTeam": "Donald M.",
-      "underTeam": "Sakellaridis D.",
-      "favOdd": 1.31,
-      "prob": 76,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.31
-      },
-      "avgFavOdd": 1.33,
-      "time": "21:00",
-      "kickoff": "2026-08-14T13:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-muttenz/donald-matthew-dimitris-sakellaridis/lUXjz8me/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "WORLD: WORLD TOUR LAUSANNE 3X3",
-      "home": "Liman 3x3",
-      "away": "Cibona 3x3",
-      "favTeam": "Liman 3x3",
-      "underTeam": "Cibona 3x3",
-      "favOdd": 1.31,
-      "prob": 76,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.31
-      },
-      "avgFavOdd": 1.36,
-      "time": "00:20",
-      "kickoff": "2026-08-14T16:20:00+09:00",
+      "time": "01:00",
+      "kickoff": "2026-08-14T17:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/world/world-tour-lausanne-3x3/liman-cibona/M9OLk1rK/"
+      "url": "https://www.betexplorer.com/handball/world/club-friendly/csurgoi-budai-farkasok/2ylYKeWN/"
     },
     {
       "sport": "バスケ",
@@ -312,37 +252,77 @@
       "away": "Dallas Wings W",
       "favTeam": "Indiana Fever W",
       "underTeam": "Dallas Wings W",
-      "favOdd": 1.32,
-      "prob": 76,
+      "favOdd": 1.29,
+      "prob": 78,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.32
+        "1xbet": 1.29
       },
-      "avgFavOdd": 1.31,
+      "avgFavOdd": 1.29,
       "time": "08:30",
       "kickoff": "2026-08-15T00:30:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/basketball/usa/wnba/indiana-fever-dallas-wings/vD9wjLW9/"
     },
     {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "WORLD: CLUB FRIENDLY WOMEN",
-      "home": "Baekkelaget W",
-      "away": "Asane W",
-      "favTeam": "Asane W",
-      "underTeam": "Baekkelaget W",
-      "favOdd": 1.32,
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "WORLD: FRIENDLY INTERNATIONAL WOMEN",
+      "home": "Montenegro W",
+      "away": "Portugal W",
+      "favTeam": "Portugal W",
+      "underTeam": "Montenegro W",
+      "favOdd": 1.3,
+      "prob": 77,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.3
+      },
+      "avgFavOdd": 1.3,
+      "time": "01:00",
+      "kickoff": "2026-08-14T17:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/volleyball/world/friendly-international-women/montenegro-portugal/hfCNZXFt/"
+    },
+    {
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "RUSSIA: YOUTH LEAGUE",
+      "home": "Spartak Moscow U19",
+      "away": "CSKA Moscow U19",
+      "favTeam": "CSKA Moscow U19",
+      "underTeam": "Spartak Moscow U19",
+      "favOdd": 1.31,
       "prob": 76,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.32
+        "1xbet": 1.31
       },
-      "avgFavOdd": 1.31,
-      "time": "22:00",
-      "kickoff": "2026-08-14T14:00:00+09:00",
+      "avgFavOdd": 1.29,
+      "time": "00:00",
+      "kickoff": "2026-08-14T16:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/football/russia/youth-league/spartak-moscow-cska-moscow/MayWbMDi/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "WORLD: WORLD TOUR LAUSANNE 3X3",
+      "home": "Liman 3x3",
+      "away": "Cibona 3x3",
+      "favTeam": "Liman 3x3",
+      "underTeam": "Cibona 3x3",
+      "favOdd": 1.33,
+      "prob": 75,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.33
+      },
+      "avgFavOdd": 1.36,
+      "time": "00:20",
+      "kickoff": "2026-08-14T16:20:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/handball/world/club-friendly-women/baekkelaget-asane/tS0iqBDk/"
+      "url": "https://www.betexplorer.com/basketball/world/world-tour-lausanne-3x3/liman-cibona/M9OLk1rK/"
     },
     {
       "sport": "野球",
@@ -365,44 +345,24 @@
       "url": "https://www.betexplorer.com/baseball/czech-republic/extraliga/arrows-ostrava-draci-brno/WpCY8lUI/"
     },
     {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "WORLD: PAN-AMERICAN CUP",
-      "home": "Costa Rica",
-      "away": "Curacao",
-      "favTeam": "Costa Rica",
-      "underTeam": "Curacao",
-      "favOdd": 1.34,
-      "prob": 75,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.34
-      },
-      "avgFavOdd": 1.34,
-      "time": "05:00",
-      "kickoff": "2026-08-14T21:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup/costa-rica-curacao/Amp99h94/"
-    },
-    {
       "sport": "バスケ",
       "sportKey": "basketball",
       "league": "WORLD: WORLD TOUR LAUSANNE 3X3",
-      "home": "Raudondvaris 3x3",
-      "away": "Shibuya 3x3",
-      "favTeam": "Raudondvaris 3x3",
-      "underTeam": "Shibuya 3x3",
+      "home": "Ulaanbaatar 3x3",
+      "away": "Bonn 3x3",
+      "favTeam": "Bonn 3x3",
+      "underTeam": "Ulaanbaatar 3x3",
       "favOdd": 1.35,
       "prob": 74,
       "book": "1xBet",
       "books": {
         "1xbet": 1.35
       },
-      "avgFavOdd": 1.37,
-      "time": "23:25",
-      "kickoff": "2026-08-14T15:25:00+09:00",
+      "avgFavOdd": 1.48,
+      "time": "01:15",
+      "kickoff": "2026-08-14T17:15:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/world/world-tour-lausanne-3x3/raudondvaris-shibuya/nwTRTJL0/"
+      "url": "https://www.betexplorer.com/basketball/world/world-tour-lausanne-3x3/ulaanbaatar-bonn/IuAipu6s/"
     },
     {
       "sport": "バレー",
@@ -418,111 +378,71 @@
       "books": {
         "1xbet": 1.36
       },
-      "avgFavOdd": 1.33,
+      "avgFavOdd": 1.35,
       "time": "11:00",
       "kickoff": "2026-08-15T03:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup/cuba-puerto-rico/nBnf0lWj/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - DOUBLES: W75 KURSUMLIJSKA BANJA 2, CLAY",
-      "home": "Bara I. / Kulambayeva Z.",
-      "away": "Dencheva R. / Panshina V.",
-      "favTeam": "Bara I. / Kulambayeva Z.",
-      "underTeam": "Dencheva R. / Panshina V.",
-      "favOdd": 1.36,
-      "prob": 74,
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "WORLD: CLUB FRIENDLY",
+      "home": "Lemgo",
+      "away": "SC Magdeburg",
+      "favTeam": "SC Magdeburg",
+      "underTeam": "Lemgo",
+      "favOdd": 1.4,
+      "prob": 71,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.36
+        "1xbet": 1.4
       },
       "avgFavOdd": 1.38,
-      "time": "20:55",
-      "kickoff": "2026-08-14T12:55:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-doubles/w75-kursumlijska-banja-2/bara-irina-kulambayeva-zhibek-dencheva-rositsa-panshina-varvara/Q1sa2ogo/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M15 TRIER, CLAY",
-      "home": "Vankan M.",
-      "away": "Sesko Z.",
-      "favTeam": "Sesko Z.",
-      "underTeam": "Vankan M.",
-      "favOdd": 1.37,
-      "prob": 73,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.37
-      },
-      "avgFavOdd": 1.37,
-      "time": "21:30",
-      "kickoff": "2026-08-14T13:30:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m15-trier/vankan-marlon-sesko-ziga/GvUeN1m1/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "PUERTO RICO: BSN",
-      "home": "Vaqueros de Bayamon",
-      "away": "Aguada Santeros",
-      "favTeam": "Vaqueros de Bayamon",
-      "underTeam": "Aguada Santeros",
-      "favOdd": 1.37,
-      "prob": 73,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.37
-      },
-      "avgFavOdd": 1.43,
-      "time": "09:00",
-      "kickoff": "2026-08-15T01:00:00+09:00",
+      "time": "00:30",
+      "kickoff": "2026-08-14T16:30:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/puerto-rico/bsn/vaqueros-de-bayamon-aguada-santeros/K273tTFD/"
+      "url": "https://www.betexplorer.com/handball/world/club-friendly/lemgo-sc-magdeburg/MPGVrVY8/"
     },
     {
       "sport": "バスケ",
       "sportKey": "basketball",
       "league": "WORLD: WORLD TOUR LAUSANNE 3X3",
-      "home": "Ulaanbaatar 3x3",
-      "away": "Utrecht 3x3",
-      "favTeam": "Ulaanbaatar 3x3",
-      "underTeam": "Utrecht 3x3",
+      "home": "Raudondvaris 3x3",
+      "away": "Vienna 3x3",
+      "favTeam": "Raudondvaris 3x3",
+      "underTeam": "Vienna 3x3",
       "favOdd": 1.41,
       "prob": 71,
       "book": "1xBet",
       "books": {
         "1xbet": 1.41
       },
-      "avgFavOdd": 1.41,
-      "time": "23:00",
-      "kickoff": "2026-08-14T15:00:00+09:00",
+      "avgFavOdd": 1.46,
+      "time": "01:40",
+      "kickoff": "2026-08-14T17:40:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/world/world-tour-lausanne-3x3/ulaanbaatar-utrecht/r5W11lOk/"
+      "url": "https://www.betexplorer.com/basketball/world/world-tour-lausanne-3x3/raudondvaris-vienna/j7NbrJzf/"
     },
     {
       "sport": "アイスホッケー",
       "sportKey": "hockey",
       "league": "WORLD: CLUB FRIENDLY",
-      "home": "Ilves U20",
-      "away": "KalPa U20",
-      "favTeam": "Ilves U20",
-      "underTeam": "KalPa U20",
-      "favOdd": 1.44,
-      "prob": 69,
+      "home": "Spisska Nova Ves",
+      "away": "Presov",
+      "favTeam": "Spisska Nova Ves",
+      "underTeam": "Presov",
+      "favOdd": 1.41,
+      "prob": 71,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.44
+        "1xbet": 1.41
       },
-      "avgFavOdd": 1.44,
-      "time": "22:00",
-      "kickoff": "2026-08-14T14:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/hockey/world/club-friendly/ilves-tampere-kalpa-kuopio/dYogIF9c/"
+      "avgFavOdd": 1.46,
+      "time": "00:30",
+      "kickoff": "2026-08-14T16:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/hockey/world/club-friendly/spisska-nova-ves-21-presov/UFTgnupn/"
     },
     {
       "sport": "ハンドボール",
@@ -532,6 +452,66 @@
       "away": "Celje",
       "favTeam": "Tatabanya",
       "underTeam": "Celje",
+      "favOdd": 1.43,
+      "prob": 70,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.43
+      },
+      "avgFavOdd": 1.43,
+      "time": "00:00",
+      "kickoff": "2026-08-14T16:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/handball/world/club-friendly/tatabanya-celje/ht3MwBne/"
+    },
+    {
+      "sport": "アイスホッケー",
+      "sportKey": "hockey",
+      "league": "WORLD: CLUB FRIENDLY",
+      "home": "Bytom",
+      "away": "Krakow",
+      "favTeam": "Krakow",
+      "underTeam": "Bytom",
+      "favOdd": 1.43,
+      "prob": 70,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.43
+      },
+      "avgFavOdd": 1.45,
+      "time": "00:00",
+      "kickoff": "2026-08-14T16:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/hockey/world/club-friendly/bytom-krakow/W4Vwdy0f/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF WOMEN - SINGLES: W15 CAMPOS DO JORDAO, HARD",
+      "home": "Laron M.",
+      "away": "Fullana L.",
+      "favTeam": "Fullana L.",
+      "underTeam": "Laron M.",
+      "favOdd": 1.45,
+      "prob": 69,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.45
+      },
+      "avgFavOdd": 1.45,
+      "time": "00:00",
+      "kickoff": "2026-08-14T16:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w15-campos-do-jordao/laron-maayan-fullana-luiza/plwAyDU8/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ATP - SINGLES: CINCINNATI, HARD",
+      "home": "Jacquet K.",
+      "away": "Vallejo D.",
+      "favTeam": "Jacquet K.",
+      "underTeam": "Vallejo D.",
       "favOdd": 1.46,
       "prob": 68,
       "book": "1xBet",
@@ -542,167 +522,87 @@
       "time": "00:00",
       "kickoff": "2026-08-14T16:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/handball/world/club-friendly/tatabanya-celje/ht3MwBne/"
+      "url": "https://www.betexplorer.com/tennis/atp-singles/cincinnati/jacquet-kyrian-vallejo-daniel/6aXXN8Ia/"
     },
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "ITF MEN - DOUBLES: M15 TURKU, HARD",
-      "home": "Klaassen S. / Vasa I.",
-      "away": "Alopaeus F. / Martikainen O.",
-      "favTeam": "Klaassen S. / Vasa I.",
-      "underTeam": "Alopaeus F. / Martikainen O.",
+      "league": "WTA - SINGLES: CINCINNATI, HARD",
+      "home": "Cocciaretto E.",
+      "away": "Stefanini L.",
+      "favTeam": "Cocciaretto E.",
+      "underTeam": "Stefanini L.",
       "favOdd": 1.46,
       "prob": 68,
       "book": "1xBet",
       "books": {
         "1xbet": 1.46
       },
-      "avgFavOdd": 1.44,
-      "time": "21:00",
-      "kickoff": "2026-08-14T13:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-doubles/m15-turku/klaassen-stian-vasa-iiro-alopaeus-felix-martikainen-otso/nTaBXiAF/"
+      "avgFavOdd": 1.45,
+      "time": "00:00",
+      "kickoff": "2026-08-14T16:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/tennis/wta-singles/cincinnati/cocciaretto-elisabetta-stefanini-lucrezia/8tmmFvzS/"
     },
     {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "WORLD: CLUB FRIENDLY WOMEN",
-      "home": "MTK Budapest W",
-      "away": "Budaors W",
-      "favTeam": "MTK Budapest W",
-      "underTeam": "Budaors W",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "PUERTO RICO: BSN",
+      "home": "Vaqueros de Bayamon",
+      "away": "Aguada Santeros",
+      "favTeam": "Vaqueros de Bayamon",
+      "underTeam": "Aguada Santeros",
       "favOdd": 1.46,
       "prob": 68,
       "book": "1xBet",
       "books": {
         "1xbet": 1.46
       },
-      "avgFavOdd": 1.44,
-      "time": "23:00",
-      "kickoff": "2026-08-14T15:00:00+09:00",
+      "avgFavOdd": 1.49,
+      "time": "09:00",
+      "kickoff": "2026-08-15T01:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/handball/world/club-friendly-women/mtk-budapest-budaors/S2kg3W4L/"
-    },
-    {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "WORLD: CLUB FRIENDLY",
-      "home": "Pontault",
-      "away": "Cherbourg",
-      "favTeam": "Pontault",
-      "underTeam": "Cherbourg",
-      "favOdd": 1.46,
-      "prob": 68,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.46
-      },
-      "avgFavOdd": 1.47,
-      "time": "23:00",
-      "kickoff": "2026-08-14T15:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/handball/world/club-friendly/pontault-cherbourg/80ViKWg4/"
+      "url": "https://www.betexplorer.com/basketball/puerto-rico/bsn/vaqueros-de-bayamon-aguada-santeros/K273tTFD/"
     },
     {
       "sport": "アイスホッケー",
       "sportKey": "hockey",
       "league": "WORLD: CLUB FRIENDLY",
-      "home": "Bytom",
-      "away": "Krakow",
-      "favTeam": "Krakow",
-      "underTeam": "Bytom",
-      "favOdd": 1.47,
+      "home": "Tychy",
+      "away": "AZ Havirov",
+      "favTeam": "Tychy",
+      "underTeam": "AZ Havirov",
+      "favOdd": 1.48,
       "prob": 68,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.47
-      },
-      "avgFavOdd": 1.47,
-      "time": "00:00",
-      "kickoff": "2026-08-14T16:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/hockey/world/club-friendly/bytom-krakow/W4Vwdy0f/"
-    },
-    {
-      "sport": "アイスホッケー",
-      "sportKey": "hockey",
-      "league": "WORLD: CLUB FRIENDLY",
-      "home": "Karpat",
-      "away": "Vaasan Sport",
-      "favTeam": "Karpat",
-      "underTeam": "Vaasan Sport",
-      "favOdd": 1.47,
-      "prob": 68,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.47
+        "1xbet": 1.48
       },
       "avgFavOdd": 1.5,
-      "time": "23:00",
-      "kickoff": "2026-08-14T15:00:00+09:00",
+      "time": "01:00",
+      "kickoff": "2026-08-14T17:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/hockey/world/club-friendly/karpat-oulu-vaasan-sport/x6UiN1WI/"
+      "url": "https://www.betexplorer.com/hockey/world/club-friendly/tychy-havirov/OlPOr00l/"
     },
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "ITF WOMEN - SINGLES: W35 ALDERSHOT 2, HARD",
-      "home": "Smith A.",
-      "away": "Avdeeva J.",
-      "favTeam": "Avdeeva J.",
-      "underTeam": "Smith A.",
-      "favOdd": 1.5,
-      "prob": 67,
+      "league": "ITF MEN - SINGLES: M25 KOKSIJDE, CLAY",
+      "home": "Blancaneaux G.",
+      "away": "Geerts M.",
+      "favTeam": "Blancaneaux G.",
+      "underTeam": "Geerts M.",
+      "favOdd": 1.51,
+      "prob": 66,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.5
+        "1xbet": 1.51
       },
-      "avgFavOdd": 1.5,
-      "time": "20:50",
-      "kickoff": "2026-08-14T12:50:00+09:00",
+      "avgFavOdd": 1.51,
+      "time": "23:55",
+      "kickoff": "2026-08-14T15:55:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w35-aldershot-2/smith-alana-julia-avdeeva/zcGfBzY8/"
-    },
-    {
-      "sport": "野球",
-      "sportKey": "baseball",
-      "league": "USA: MLB",
-      "home": "Atlanta Braves",
-      "away": "Arizona Diamondbacks",
-      "favTeam": "Atlanta Braves",
-      "underTeam": "Arizona Diamondbacks",
-      "favOdd": 1.53,
-      "prob": 65,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.53
-      },
-      "avgFavOdd": 1.47,
-      "time": "08:15",
-      "kickoff": "2026-08-15T00:15:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/atlanta-braves-arizona-diamondbacks/tndWKX5e/"
-    },
-    {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "WORLD: CLUB FRIENDLY",
-      "home": "PLER",
-      "away": "Szigetszentmiklosi",
-      "favTeam": "PLER",
-      "underTeam": "Szigetszentmiklosi",
-      "favOdd": 1.57,
-      "prob": 64,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.57
-      },
-      "avgFavOdd": 1.56,
-      "time": "00:00",
-      "kickoff": "2026-08-14T16:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/handball/world/club-friendly/pler-szigetszentmiklosi/U9zRMH1B/"
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-koksijde/blancaneaux-geoffrey-geerts-michael/WlmZMFnR/"
     },
     {
       "sport": "野球",
@@ -712,37 +612,57 @@
       "away": "St.Louis Cardinals",
       "favTeam": "Chicago Cubs",
       "underTeam": "St.Louis Cardinals",
-      "favOdd": 1.58,
-      "prob": 63,
+      "favOdd": 1.57,
+      "prob": 64,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.58
+        "1xbet": 1.57
       },
-      "avgFavOdd": 1.53,
+      "avgFavOdd": 1.54,
       "time": "03:20",
       "kickoff": "2026-08-14T19:20:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/baseball/usa/mlb/chicago-cubs-st-louis-cardinals/M5H5ZWKl/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - DOUBLES: W75 KURSUMLIJSKA BANJA 2, CLAY",
-      "home": "Milovanovic E. / Novak K.",
-      "away": "Feng S. / Li Z.",
-      "favTeam": "Feng S. / Li Z.",
-      "underTeam": "Milovanovic E. / Novak K.",
-      "favOdd": 1.58,
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "WORLD: CLUB FRIENDLY",
+      "home": "PLER",
+      "away": "Szigetszentmiklosi",
+      "favTeam": "PLER",
+      "underTeam": "Szigetszentmiklosi",
+      "favOdd": 1.59,
       "prob": 63,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.58
+        "1xbet": 1.59
       },
-      "avgFavOdd": 1.57,
-      "time": "20:55",
-      "kickoff": "2026-08-14T12:55:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-doubles/w75-kursumlijska-banja-2/milovanovic-elena-novak-kristina-feng-shuo-li-zongyu/pvExWhPs/"
+      "avgFavOdd": 1.56,
+      "time": "00:00",
+      "kickoff": "2026-08-14T16:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/handball/world/club-friendly/pler-szigetszentmiklosi/U9zRMH1B/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "WTA - SINGLES: CINCINNATI, HARD",
+      "home": "Bouzas Maneiro J.",
+      "away": "Bondar A.",
+      "favTeam": "Bouzas Maneiro J.",
+      "underTeam": "Bondar A.",
+      "favOdd": 1.59,
+      "prob": 63,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.59
+      },
+      "avgFavOdd": 1.58,
+      "time": "00:00",
+      "kickoff": "2026-08-14T16:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/tennis/wta-singles/cincinnati/bouzas-maneiro-jessica-bondar-anna/xGwGQWqp/"
     }
   ]
 }
