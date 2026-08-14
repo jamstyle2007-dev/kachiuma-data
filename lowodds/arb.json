@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-14T03:28:50.198Z",
+  "generatedAt": "2026-08-14T03:34:15.501Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 3
   },
-  "opps": [
-    {
-      "id": "YRCvlY5k",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Meralco Bolts - Barangay Ginebra San Miguel",
-      "url": "https://www.betexplorer.com/basketball/philippines/pba-governors-cup/meralco-bolts-barangay-ginebra-san-miguel/YRCvlY5k/",
-      "kickoff": "2026-08-14T12:30:00+09:00",
-      "width": 2,
-      "books": 14,
-      "labels": [
-        "Meralco Bolts",
-        "Barangay Ginebra San Miguel"
-      ],
-      "legs": [
-        {
-          "outcome": "Meralco Bolts",
-          "book": "Betfair",
-          "odd": 3.2,
-          "stake": 31478,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        },
-        {
-          "outcome": "Barangay Ginebra San Miguel",
-          "book": "Mozzartbet",
-          "odd": 1.47,
-          "stake": 68522,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.mozzartbet.com/"
-        }
-      ],
-      "S": 0.9927721088435374,
-      "roi": 0.7280513918629605,
-      "profit": 728,
-      "payout": 100728,
-      "staked": 100000,
-      "mins": 1,
-      "split": {
-        "S": 0.9927721088435374,
-        "payout": 100728,
-        "profit": 728,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betfair",
-            "odd": 3.2,
-            "stake": 31478
-          },
-          {
-            "book": "Mozzartbet",
-            "odd": 1.47,
-            "stake": 68522
-          }
-        ]
-      },
-      "hasExch": true,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
