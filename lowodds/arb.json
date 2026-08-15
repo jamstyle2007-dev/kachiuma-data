@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-15T14:20:57.665Z",
+  "generatedAt": "2026-08-15T14:26:21.842Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 24,
       "profit": 846505
     },
-    "pending": 2
+    "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "bsJi2sCk",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Cincinnati Reds - Miami Marlins",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/cincinnati-reds-miami-marlins/bsJi2sCk/",
+      "kickoff": "2026-08-15T23:40:00+09:00",
+      "width": 3,
+      "books": 9,
+      "labels": [
+        "Cincinnati Reds",
+        "Draw",
+        "Miami Marlins"
+      ],
+      "legs": [
+        {
+          "outcome": "Cincinnati Reds",
+          "book": "8:9",
+          "odd": 8,
+          "stake": 20336,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=8%3A9%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "6:5",
+          "odd": 2.42,
+          "stake": 67226,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=6%3A5%20sportsbook"
+        },
+        {
+          "outcome": "Miami Marlins",
+          "book": "8:9",
+          "odd": 13.08,
+          "stake": 12438,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=8%3A9%20sportsbook"
+        }
+      ],
+      "S": 0.614675739884247,
+      "roi": 62.68740331094173,
+      "profit": 62687,
+      "payout": 162687,
+      "staked": 100000,
+      "mins": 14,
+      "split": {
+        "S": 0.614675739884247,
+        "payout": 162687,
+        "profit": 62687,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "8:9",
+            "odd": 8,
+            "stake": 20336
+          },
+          {
+            "book": "6:5",
+            "odd": 2.42,
+            "stake": 67226
+          },
+          {
+            "book": "8:9",
+            "odd": 13.08,
+            "stake": 12438
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
