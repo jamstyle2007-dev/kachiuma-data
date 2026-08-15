@@ -1,101 +1,101 @@
 {
-  "generatedAt": "2026-08-15T03:05:17.079Z",
+  "generatedAt": "2026-08-15T06:07:24.472Z",
   "windowDays": 400,
   "total": 300,
-  "hits": 197,
-  "hitRate": 0.6566666666666666,
+  "hits": 196,
+  "hitRate": 0.6533333333333333,
   "sim": {
     "stake": 10000,
-    "asOf": "2026-08-15T03:05:17.079Z",
+    "asOf": "2026-08-15T06:07:24.472Z",
     "byMinStars": {
       "1": {
         "all": {
-          "n": 3092,
-          "hits": 1992,
-          "staked": 30920000,
-          "returns": 25504000,
-          "profit": -5416000
+          "n": 3097,
+          "hits": 1994,
+          "staked": 30970000,
+          "returns": 25533800,
+          "profit": -5436200
         },
         "year": {
-          "n": 3092,
-          "hits": 1992,
-          "staked": 30920000,
-          "returns": 25504000,
-          "profit": -5416000
+          "n": 3097,
+          "hits": 1994,
+          "staked": 30970000,
+          "returns": 25533800,
+          "profit": -5436200
         },
         "month": {
-          "n": 1237,
-          "hits": 807,
-          "staked": 12370000,
-          "returns": 10394500,
-          "profit": -1975500
+          "n": 1242,
+          "hits": 809,
+          "staked": 12420000,
+          "returns": 10424300,
+          "profit": -1995700
         },
         "week": {
-          "n": 430,
-          "hits": 287,
-          "staked": 4300000,
-          "returns": 3693100,
-          "profit": -606900
+          "n": 435,
+          "hits": 289,
+          "staked": 4350000,
+          "returns": 3722900,
+          "profit": -627100
         }
       },
       "2": {
         "all": {
-          "n": 1742,
+          "n": 1744,
           "hits": 1237,
-          "staked": 17420000,
+          "staked": 17440000,
           "returns": 14341000,
-          "profit": -3079000
+          "profit": -3099000
         },
         "year": {
-          "n": 1742,
+          "n": 1744,
           "hits": 1237,
-          "staked": 17420000,
+          "staked": 17440000,
           "returns": 14341000,
-          "profit": -3079000
+          "profit": -3099000
         },
         "month": {
-          "n": 669,
+          "n": 671,
           "hits": 484,
-          "staked": 6690000,
+          "staked": 6710000,
           "returns": 5641600,
-          "profit": -1048400
+          "profit": -1068400
         },
         "week": {
-          "n": 228,
+          "n": 230,
           "hits": 169,
-          "staked": 2280000,
+          "staked": 2300000,
           "returns": 1969100,
-          "profit": -310900
+          "profit": -330900
         }
       },
       "3": {
         "all": {
-          "n": 994,
+          "n": 995,
           "hits": 768,
-          "staked": 9940000,
+          "staked": 9950000,
           "returns": 8342300,
-          "profit": -1597700
+          "profit": -1607700
         },
         "year": {
-          "n": 994,
+          "n": 995,
           "hits": 768,
-          "staked": 9940000,
+          "staked": 9950000,
           "returns": 8342300,
-          "profit": -1597700
+          "profit": -1607700
         },
         "month": {
-          "n": 363,
+          "n": 364,
           "hits": 286,
-          "staked": 3630000,
+          "staked": 3640000,
           "returns": 3099500,
-          "profit": -530500
+          "profit": -540500
         },
         "week": {
-          "n": 126,
+          "n": 127,
           "hits": 101,
-          "staked": 1260000,
+          "staked": 1270000,
           "returns": 1097700,
-          "profit": -162300
+          "profit": -172300
         }
       },
       "4": {
@@ -161,6 +161,74 @@
     }
   },
   "settled": [
+    {
+      "id": "GxqBZL5L",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "AUSTRALIA: NBL1 SOUTH WOMEN",
+      "favTeam": "Knox W",
+      "underTeam": "Waverley W",
+      "favIsHome": true,
+      "favOdd": 1.21,
+      "prob": 83,
+      "stars": 2,
+      "kickoff": "2026-08-15T07:00:00+09:00",
+      "homeScore": 4,
+      "awayScore": 6,
+      "isDraw": false,
+      "favWon": false
+    },
+    {
+      "id": "SKcOyj36",
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "AUSTRALIA: VICTORIA PREMIER LEAGUE",
+      "favTeam": "Melbourne Knights",
+      "underTeam": "Port Melbourne Sharks",
+      "favIsHome": false,
+      "favOdd": 1.11,
+      "prob": 90,
+      "stars": 3,
+      "kickoff": "2026-08-15T05:00:00+09:00",
+      "homeScore": 1,
+      "awayScore": 1,
+      "isDraw": true,
+      "favWon": false
+    },
+    {
+      "id": "6ugmathS",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M15 TIANJIN 2, HARD",
+      "favTeam": "Jasika O.",
+      "underTeam": "Chung Y.",
+      "favIsHome": false,
+      "favOdd": 1.43,
+      "prob": 70,
+      "stars": 1,
+      "kickoff": "2026-08-15T04:00:00+09:00",
+      "homeScore": 0,
+      "awayScore": 2,
+      "isDraw": false,
+      "favWon": true
+    },
+    {
+      "id": "4YDwG8ft",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF WOMEN - SINGLES: W15 TIANJIN 2, HARD",
+      "favTeam": "Naklo T.",
+      "underTeam": "Leong S. L. X.",
+      "favIsHome": false,
+      "favOdd": 1.55,
+      "prob": 65,
+      "stars": 1,
+      "kickoff": "2026-08-15T04:00:00+09:00",
+      "homeScore": 0,
+      "awayScore": 2,
+      "isDraw": false,
+      "favWon": true
+    },
     {
       "id": "nBnf0lWj",
       "sport": "バレー",
@@ -262,6 +330,23 @@
       "awayScore": 1,
       "isDraw": false,
       "favWon": true
+    },
+    {
+      "id": "K273tTFD",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "PUERTO RICO: BSN",
+      "favTeam": "Vaqueros de Bayamon",
+      "underTeam": "Aguada Santeros",
+      "favIsHome": true,
+      "favOdd": 1.43,
+      "prob": 70,
+      "stars": 1,
+      "kickoff": "2026-08-15T01:00:00+09:00",
+      "homeScore": 93,
+      "awayScore": 95,
+      "isDraw": false,
+      "favWon": false
     },
     {
       "id": "0CqCal0m",
@@ -5175,91 +5260,6 @@
       "awayScore": 25,
       "isDraw": true,
       "favWon": false
-    },
-    {
-      "id": "fi4GuaPh",
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "WORLD: CLUB FRIENDLY",
-      "favTeam": "SC Magdeburg",
-      "underTeam": "Minden",
-      "favIsHome": true,
-      "favOdd": 1.02,
-      "prob": 98,
-      "stars": 5,
-      "kickoff": "2026-08-11T18:00:00+09:00",
-      "homeScore": 37,
-      "awayScore": 27,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "EBsD7qnJ",
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "GERMANY: REGIONALLIGA NORTH",
-      "favTeam": "VfB Oldenburg",
-      "underTeam": "VfB Lubeck",
-      "favIsHome": false,
-      "favOdd": 1.49,
-      "prob": 67,
-      "stars": 1,
-      "kickoff": "2026-08-11T18:00:00+09:00",
-      "homeScore": 1,
-      "awayScore": 1,
-      "isDraw": true,
-      "favWon": false
-    },
-    {
-      "id": "E7wqYrKj",
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25 MUTTENZ, CLAY",
-      "favTeam": "Casanova H.",
-      "underTeam": "Thomas F.",
-      "favIsHome": false,
-      "favOdd": 1.07,
-      "prob": 93,
-      "stars": 4,
-      "kickoff": "2026-08-11T17:45:00+09:00",
-      "homeScore": 1,
-      "awayScore": 0,
-      "isDraw": false,
-      "favWon": false
-    },
-    {
-      "id": "b9G9g8LG",
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25 EAST LANSING, MI, HARD",
-      "favTeam": "Fancutt T. J.",
-      "underTeam": "Battle L.",
-      "favIsHome": true,
-      "favOdd": 1.06,
-      "prob": 94,
-      "stars": 4,
-      "kickoff": "2026-08-11T17:40:00+09:00",
-      "homeScore": 2,
-      "awayScore": 0,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "0UWPToDb",
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - DOUBLES: W35 VIGO, HARD",
-      "favTeam": "Alvarez Sande E. / Tse E.",
-      "underTeam": "Franco Dias T. / Losciale V.",
-      "favIsHome": true,
-      "favOdd": 1.17,
-      "prob": 85,
-      "stars": 3,
-      "kickoff": "2026-08-11T17:30:00+09:00",
-      "homeScore": 2,
-      "awayScore": 0,
-      "isDraw": false,
-      "favWon": true
     }
   ]
 }
