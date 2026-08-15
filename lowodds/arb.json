@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-15T14:26:21.842Z",
+  "generatedAt": "2026-08-15T14:32:12.397Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
+  "scanned": 2,
   "arbCount": 1,
   "track": {
     "stake": 100000,
@@ -44,7 +44,7 @@
           "outcome": "Cincinnati Reds",
           "book": "8:9",
           "odd": 8,
-          "stake": 20336,
+          "stake": 20517,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=8%3A9%20sportsbook"
@@ -53,7 +53,7 @@
           "outcome": "Draw",
           "book": "6:5",
           "odd": 2.42,
-          "stake": 67226,
+          "stake": 67825,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=6%3A5%20sportsbook"
@@ -61,39 +61,39 @@
         {
           "outcome": "Miami Marlins",
           "book": "8:9",
-          "odd": 13.08,
-          "stake": 12438,
+          "odd": 14.08,
+          "stake": 11657,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=8%3A9%20sportsbook"
         }
       ],
-      "S": 0.614675739884247,
-      "roi": 62.68740331094173,
-      "profit": 62687,
-      "payout": 162687,
-      "staked": 100000,
-      "mins": 14,
+      "S": 0.609245867768595,
+      "roi": 64.13734633319204,
+      "profit": 64138,
+      "payout": 164137,
+      "staked": 99999,
+      "mins": 8,
       "split": {
-        "S": 0.614675739884247,
-        "payout": 162687,
-        "profit": 62687,
-        "staked": 100000,
+        "S": 0.609245867768595,
+        "payout": 164137,
+        "profit": 64138,
+        "staked": 99999,
         "legs": [
           {
             "book": "8:9",
             "odd": 8,
-            "stake": 20336
+            "stake": 20517
           },
           {
             "book": "6:5",
             "odd": 2.42,
-            "stake": 67226
+            "stake": 67825
           },
           {
             "book": "8:9",
-            "odd": 13.08,
-            "stake": 12438
+            "odd": 14.08,
+            "stake": 11657
           }
         ]
       },
