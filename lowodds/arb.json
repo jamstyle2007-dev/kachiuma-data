@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-15T15:49:05.047Z",
+  "generatedAt": "2026-08-15T15:54:35.905Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 4
   },
-  "opps": [
-    {
-      "id": "hYp9EbjK",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "Canada - Puerto Rico",
-      "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup/canada-puerto-rico/hYp9EbjK/",
-      "kickoff": "2026-08-16T01:00:00+09:00",
-      "width": 3,
-      "books": 2,
-      "labels": [
-        "Canada",
-        "Draw",
-        "Puerto Rico"
-      ],
-      "legs": [
-        {
-          "outcome": "Canada",
-          "book": "3:1",
-          "odd": 3,
-          "stake": 61572,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=3%3A1%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "3:0",
-          "odd": 8.49,
-          "stake": 21757,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=3%3A0%20sportsbook"
-        },
-        {
-          "outcome": "Puerto Rico",
-          "book": "3:1",
-          "odd": 11.08,
-          "stake": 16671,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=3%3A1%20sportsbook"
-        }
-      ],
-      "S": 0.5413716710676821,
-      "roi": 84.71598228031039,
-      "profit": 84716,
-      "payout": 184716,
-      "staked": 100000,
-      "mins": 11,
-      "split": {
-        "S": 0.5413716710676821,
-        "payout": 184716,
-        "profit": 84716,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "3:1",
-            "odd": 3,
-            "stake": 61572
-          },
-          {
-            "book": "3:0",
-            "odd": 8.49,
-            "stake": 21757
-          },
-          {
-            "book": "3:1",
-            "odd": 11.08,
-            "stake": 16671
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
