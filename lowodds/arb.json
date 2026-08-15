@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-15T07:32:33.642Z",
+  "generatedAt": "2026-08-15T07:38:01.270Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 4,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 23,
       "profit": 757154
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "UiwodRGD",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Finland W - Lithuania W",
+      "url": "https://www.betexplorer.com/basketball/world/friendly-international-women/finland-lithuania/UiwodRGD/",
+      "kickoff": "2026-08-15T17:00:00+09:00",
+      "width": 3,
+      "books": 2,
+      "labels": [
+        "Finland W",
+        "Draw",
+        "Lithuania W"
+      ],
+      "legs": [
+        {
+          "outcome": "Finland W",
+          "book": "81:70",
+          "odd": 81,
+          "stake": 2338,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=81%3A70%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "73:68",
+          "odd": 2.67,
+          "stake": 70918,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=73%3A68%20sportsbook"
+        },
+        {
+          "outcome": "Lithuania W",
+          "book": "73:68",
+          "odd": 7.08,
+          "stake": 26744,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=73%3A68%20sportsbook"
+        }
+      ],
+      "S": 0.5281204520714455,
+      "roi": 89.35074301283021,
+      "profit": 89351,
+      "payout": 189351,
+      "staked": 100000,
+      "mins": 22,
+      "split": {
+        "S": 0.5281204520714455,
+        "payout": 189351,
+        "profit": 89351,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "81:70",
+            "odd": 81,
+            "stake": 2338
+          },
+          {
+            "book": "73:68",
+            "odd": 2.67,
+            "stake": 70918
+          },
+          {
+            "book": "73:68",
+            "odd": 7.08,
+            "stake": 26744
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
