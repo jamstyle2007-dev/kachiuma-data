@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-15T19:40:11.239Z",
+  "generatedAt": "2026-08-15T19:45:36.985Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "IsQuHbEL",
-      "sport": "hockey",
-      "sportLabel": "アイスホッケー",
-      "teams": "CBR Brave - Brisbane Lightning",
-      "url": "https://www.betexplorer.com/hockey/australia/aihl/cbr-brave-brisbane-lightning/IsQuHbEL/",
-      "kickoff": "2026-08-16T05:00:00+09:00",
-      "width": 3,
-      "books": 15,
-      "labels": [
-        "CBR Brave",
-        "Draw",
-        "Brisbane Lightning"
-      ],
-      "legs": [
-        {
-          "outcome": "CBR Brave",
-          "book": "BetInAsia",
-          "odd": 1.19,
-          "stake": 84224,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        },
-        {
-          "outcome": "Draw",
-          "book": "Unibet",
-          "odd": 12,
-          "stake": 8352,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.unibet.com/"
-        },
-        {
-          "outcome": "Brisbane Lightning",
-          "book": "1xBet",
-          "odd": 13.5,
-          "stake": 7424,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        }
-      ],
-      "S": 0.997743541861189,
-      "roi": 0.22615612571161847,
-      "profit": 226,
-      "payout": 100226,
-      "staked": 100000,
-      "mins": 20,
-      "split": {
-        "S": 0.997743541861189,
-        "payout": 100226,
-        "profit": 226,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "BetInAsia",
-            "odd": 1.19,
-            "stake": 84224
-          },
-          {
-            "book": "Unibet",
-            "odd": 12,
-            "stake": 8352
-          },
-          {
-            "book": "1xBet",
-            "odd": 13.5,
-            "stake": 7424
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
