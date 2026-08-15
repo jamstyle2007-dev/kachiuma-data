@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-15T01:28:49.718Z",
+  "generatedAt": "2026-08-15T01:34:14.181Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 1,
+  "scanned": 3,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "rVsW5zJ0",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Eltham - Frankston",
-      "url": "https://www.betexplorer.com/basketball/australia/nbl1-south/eltham-frankston/rVsW5zJ0/",
-      "kickoff": "2026-08-15T10:30:00+09:00",
-      "width": 2,
-      "books": 10,
-      "labels": [
-        "Eltham",
-        "Frankston"
-      ],
-      "legs": [
-        {
-          "outcome": "Eltham",
-          "book": "1xBet",
-          "odd": 1.98,
-          "stake": 50746,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "Frankston",
-          "book": "Mozzartbet",
-          "odd": 2.04,
-          "stake": 49254,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.mozzartbet.com/"
-        }
-      ],
-      "S": 0.9952465834818776,
-      "roi": 0.47761194029851683,
-      "profit": 478,
-      "payout": 100478,
-      "staked": 100000,
-      "mins": 1,
-      "split": {
-        "S": 0.9952465834818776,
-        "payout": 100478,
-        "profit": 478,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 1.98,
-            "stake": 50746
-          },
-          {
-            "book": "Mozzartbet",
-            "odd": 2.04,
-            "stake": 49254
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
