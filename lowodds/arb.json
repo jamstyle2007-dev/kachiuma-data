@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T15:37:56.156Z",
+  "generatedAt": "2026-08-15T15:43:38.709Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
@@ -44,7 +44,7 @@
           "outcome": "Canada",
           "book": "3:1",
           "odd": 3,
-          "stake": 60570,
+          "stake": 61572,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=3%3A1%20sportsbook"
@@ -53,7 +53,7 @@
           "outcome": "Draw",
           "book": "3:0",
           "odd": 8.49,
-          "stake": 21403,
+          "stake": 21757,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=3%3A0%20sportsbook"
@@ -61,39 +61,39 @@
         {
           "outcome": "Puerto Rico",
           "book": "3:1",
-          "odd": 10.08,
-          "stake": 18027,
+          "odd": 11.08,
+          "stake": 16671,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=3%3A1%20sportsbook"
         }
       ],
-      "S": 0.5503253126928038,
-      "roi": 81.71070400285375,
-      "profit": 81711,
-      "payout": 181711,
+      "S": 0.5413716710676821,
+      "roi": 84.71598228031039,
+      "profit": 84716,
+      "payout": 184716,
       "staked": 100000,
-      "mins": 22,
+      "mins": 16,
       "split": {
-        "S": 0.5503253126928038,
-        "payout": 181711,
-        "profit": 81711,
+        "S": 0.5413716710676821,
+        "payout": 184716,
+        "profit": 84716,
         "staked": 100000,
         "legs": [
           {
             "book": "3:1",
             "odd": 3,
-            "stake": 60570
+            "stake": 61572
           },
           {
             "book": "3:0",
             "odd": 8.49,
-            "stake": 21403
+            "stake": 21757
           },
           {
             "book": "3:1",
-            "odd": 10.08,
-            "stake": 18027
+            "odd": 11.08,
+            "stake": 16671
           }
         ]
       },
