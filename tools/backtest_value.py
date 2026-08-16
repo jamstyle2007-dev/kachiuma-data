@@ -19,13 +19,15 @@ def load():
     base = os.path.dirname(os.path.abspath(__file__))
     rj = json.load(open(os.path.join(base, "..", "races.json"), encoding="utf-8"))
     rs = rj["races"] if isinstance(rj, dict) else rj
-    res = {(r["date"], r["track"]): r for r in rs if "result" in r}
+    # ⚠ (日付,競馬場)だけでは同日同開催の複数レースを区別できない。raceNoまで含める。
+    res = {(r["date"], r["track"], r["raceNo"]): r for r in rs if "result" in r}
     out = []
     for p in sorted(glob.glob(os.path.join(base, "racecards", "*.json"))):
         d = json.load(open(p, encoding="utf-8"))
         if not isinstance(d, dict) or not d.get("horses"): continue
-        if (d.get("date"), d.get("track")) not in res: continue
-        out.append((d, res[(d["date"], d["track"])]))
+        key = (d.get("date"), d.get("track"), d.get("raceNo"))
+        if key not in res: continue
+        out.append((d, res[key]))
     return out
 
 

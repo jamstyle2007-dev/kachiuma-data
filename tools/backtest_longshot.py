@@ -20,7 +20,8 @@ def load_races():
     """(日付, 競馬場) -> 結果 のマップ。"""
     rj = json.load(open(os.path.join(os.path.dirname(__file__), "..", "races.json"), encoding="utf-8"))
     rs = rj["races"] if isinstance(rj, dict) else rj
-    return {(r["date"], r["track"]): r for r in rs if "result" in r}
+    # ⚠ (日付,競馬場)だけでは同日同開催の複数レースを区別できない。raceNoまで含める。
+    return {(r["date"], r["track"], r["raceNo"]): r for r in rs if "result" in r}
 
 
 def load_cards(results):
@@ -30,7 +31,7 @@ def load_cards(results):
     for p in sorted(glob.glob(base)):
         d = json.load(open(p, encoding="utf-8"))
         if not isinstance(d, dict) or not d.get("horses"): continue
-        key = (d.get("date"), d.get("track"))
+        key = (d.get("date"), d.get("track"), d.get("raceNo"))
         if key not in results: continue
         r = results[key]
         top3 = [r["result"]["first"], r["result"]["second"], r["result"]["third"]]
