@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-16T15:58:42.790Z",
+  "generatedAt": "2026-08-16T16:04:07.929Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "fqt4dQD7",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "CD Puerto Varas - Espanol Osorno",
-      "url": "https://www.betexplorer.com/basketball/chile/lnb/cd-puerto-varas-espanol-osorno/fqt4dQD7/",
-      "kickoff": "2026-08-17T01:00:00+09:00",
-      "width": 2,
-      "books": 13,
-      "labels": [
-        "CD Puerto Varas",
-        "Espanol Osorno"
-      ],
-      "legs": [
-        {
-          "outcome": "CD Puerto Varas",
-          "book": "Unibet",
-          "odd": 2.5,
-          "stake": 53271,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.unibet.com/"
-        },
-        {
-          "outcome": "Espanol Osorno",
-          "book": "bwin",
-          "odd": 2.85,
-          "stake": 46729,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        }
-      ],
-      "S": 0.7508771929824561,
-      "roi": 33.177570093457945,
-      "profit": 33178,
-      "payout": 133178,
-      "staked": 100000,
-      "mins": 1,
-      "split": {
-        "S": 0.7508771929824561,
-        "payout": 133178,
-        "profit": 33178,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Unibet",
-            "odd": 2.5,
-            "stake": 53271
-          },
-          {
-            "book": "bwin",
-            "odd": 2.85,
-            "stake": 46729
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
