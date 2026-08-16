@@ -17,8 +17,8 @@
    "jockey": "菱田",
    "weight": 58.0,
    "sexAge": "牡5",
-   "popularity": 11,
-   "winOdds": 31.0,
+   "popularity": 12,
+   "winOdds": 48.9,
    "style": "差し",
    "recent3": [
     {
@@ -72,7 +72,7 @@
    "weight": 57.0,
    "sexAge": "牡6",
    "popularity": 13,
-   "winOdds": 38.9,
+   "winOdds": 55.7,
    "style": "差し",
    "recent3": [
     {
@@ -126,7 +126,7 @@
    "weight": 56.0,
    "sexAge": "牝5",
    "popularity": 2,
-   "winOdds": 6.0,
+   "winOdds": 5.8,
    "style": "差し",
    "recent3": [
     {
@@ -171,7 +171,8 @@
      "margin": 0.1,
      "last3f": 33.3
     }
-   ]
+   ],
+   "finish": 1
   },
   {
    "num": 4,
@@ -180,7 +181,7 @@
    "weight": 57.0,
    "sexAge": "牡5",
    "popularity": 8,
-   "winOdds": 15.8,
+   "winOdds": 20.2,
    "style": "差し",
    "recent3": [
     {
@@ -234,7 +235,7 @@
    "weight": 57.0,
    "sexAge": "牡4",
    "popularity": 5,
-   "winOdds": 8.1,
+   "winOdds": 9.6,
    "style": "差し",
    "recent3": [
     {
@@ -279,7 +280,8 @@
      "margin": 0.0,
      "last3f": 33.9
     }
-   ]
+   ],
+   "finish": 2
   },
   {
    "num": 6,
@@ -287,8 +289,8 @@
    "jockey": "柴田裕",
    "weight": 57.0,
    "sexAge": "牡5",
-   "popularity": 6,
-   "winOdds": 14.1,
+   "popularity": 7,
+   "winOdds": 17.3,
    "style": "差し",
    "recent3": [
     {
@@ -341,8 +343,8 @@
    "jockey": "石川",
    "weight": 55.0,
    "sexAge": "牝4",
-   "popularity": 10,
-   "winOdds": 17.7,
+   "popularity": 9,
+   "winOdds": 24.8,
    "style": "先行",
    "recent3": [
     {
@@ -395,8 +397,8 @@
    "jockey": "国分優",
    "weight": 57.0,
    "sexAge": "牡6",
-   "popularity": 9,
-   "winOdds": 17.4,
+   "popularity": 10,
+   "winOdds": 26.0,
    "style": "追込",
    "recent3": [
     {
@@ -504,7 +506,7 @@
    "weight": 52.0,
    "sexAge": "牝3",
    "popularity": 3,
-   "winOdds": 7.1,
+   "winOdds": 7.2,
    "style": "先行",
    "recent3": [
     {
@@ -557,8 +559,8 @@
    "jockey": "吉村",
    "weight": 55.0,
    "sexAge": "牝4",
-   "popularity": 7,
-   "winOdds": 15.1,
+   "popularity": 6,
+   "winOdds": 13.5,
    "style": "差し",
    "recent3": [
     {
@@ -612,7 +614,7 @@
    "weight": 57.0,
    "sexAge": "牡4",
    "popularity": 1,
-   "winOdds": 3.9,
+   "winOdds": 2.7,
    "style": "先行",
    "recent3": [
     {
@@ -657,7 +659,8 @@
      "margin": 0.4,
      "last3f": 34.5
     }
-   ]
+   ],
+   "finish": 3
   },
   {
    "num": 13,
@@ -666,7 +669,7 @@
    "weight": 57.0,
    "sexAge": "牡4",
    "popularity": 16,
-   "winOdds": 158.6,
+   "winOdds": 339.0,
    "style": "追込",
    "recent3": [
     {
@@ -719,8 +722,8 @@
    "jockey": "西塚",
    "weight": 57.0,
    "sexAge": "牡5",
-   "popularity": 12,
-   "winOdds": 35.1,
+   "popularity": 11,
+   "winOdds": 37.7,
    "style": "先行",
    "recent3": [
     {
@@ -773,8 +776,8 @@
    "jockey": "田山",
    "weight": 57.0,
    "sexAge": "牡7",
-   "popularity": 15,
-   "winOdds": 68.1,
+   "popularity": 14,
+   "winOdds": 107.9,
    "style": "差し",
    "recent3": [
     {
@@ -827,8 +830,8 @@
    "jockey": "団野",
    "weight": 57.0,
    "sexAge": "牡4",
-   "popularity": 14,
-   "winOdds": 67.3,
+   "popularity": 15,
+   "winOdds": 111.0,
    "style": "差し",
    "recent3": [
     {
@@ -876,5 +879,19 @@
    ]
   }
  ],
- "oddsUpdatedAt": "11:31"
+ "oddsUpdatedAt": "11:31",
+ "result": {
+  "first": 3,
+  "second": 5,
+  "third": 12,
+  "tanshoPay": 580,
+  "fukushoPay": [
+   170,
+   230,
+   150
+  ],
+  "sanrenpukuPay": 3260,
+  "sanrentanPay": 19590
+ },
+ "status": "結果確定"
 }
