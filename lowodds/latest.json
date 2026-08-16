@@ -1,28 +1,108 @@
 {
-  "generatedAt": "2026-08-16T11:04:32.111Z",
+  "generatedAt": "2026-08-16T14:07:02.360Z",
   "source": "betexplorer.com (Pinnacle / 1xBet odds)",
   "threshold": 1.6,
-  "count": 20,
+  "count": 21,
   "matches": [
     {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "WORLD: FRIENDLY INTERNATIONAL WOMEN",
-      "home": "Netherlands W",
-      "away": "Bulgaria W",
-      "favTeam": "Netherlands W",
-      "underTeam": "Bulgaria W",
-      "favOdd": 1.08,
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "CHALLENGER MEN - SINGLES: KINGSTON, HARD",
+      "home": "Marrero Curbelo I.",
+      "away": "Seidman L.",
+      "favTeam": "Marrero Curbelo I.",
+      "underTeam": "Seidman L.",
+      "favOdd": 1.03,
+      "prob": 97,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.03
+      },
+      "avgFavOdd": 1.05,
+      "time": "00:00",
+      "kickoff": "2026-08-16T16:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/kingston/marrero-curbelo-ivan-seidman-lev/EPjjFEiT/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "CHALLENGER MEN - SINGLES: ROEHAMPTON, HARD",
+      "home": "Ayeni A.",
+      "away": "Stephens Z.",
+      "favTeam": "Ayeni A.",
+      "underTeam": "Stephens Z.",
+      "favOdd": 1.05,
+      "prob": 95,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.05
+      },
+      "avgFavOdd": 1.06,
+      "time": "00:00",
+      "kickoff": "2026-08-16T16:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/roehampton/ayeni-alafia-stephens-zach/WIjlbLlI/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "PARAGUAY: LNB",
+      "home": "Deportivo Amambay",
+      "away": "Deportivo Campoalto",
+      "favTeam": "Deportivo Amambay",
+      "underTeam": "Deportivo Campoalto",
+      "favOdd": 1.07,
       "prob": 93,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.08
+        "1xbet": 1.07
+      },
+      "avgFavOdd": 1.07,
+      "time": "06:30",
+      "kickoff": "2026-08-16T22:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/paraguay/lnb/deportivo-amambay-deportivo-campoalto/jaJIWTAF/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "MEXICO: LNBP",
+      "home": "Fuerza Regia",
+      "away": "Freseros",
+      "favTeam": "Fuerza Regia",
+      "underTeam": "Freseros",
+      "favOdd": 1.1,
+      "prob": 91,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.1
+      },
+      "avgFavOdd": 1.11,
+      "time": "07:15",
+      "kickoff": "2026-08-16T23:15:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/mexico/lnbp/fuerza-regia-freseros/COAjhCg5/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "CHALLENGER MEN - SINGLES: SION, CLAY",
+      "home": "Tsitsipas Pe.",
+      "away": "Ovcharenko O.",
+      "favTeam": "Ovcharenko O.",
+      "underTeam": "Tsitsipas Pe.",
+      "favOdd": 1.11,
+      "prob": 90,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.11
       },
       "avgFavOdd": 1.12,
-      "time": "21:00",
-      "kickoff": "2026-08-16T13:00:00+09:00",
+      "time": "23:45",
+      "kickoff": "2026-08-16T15:45:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/world/friendly-international-women/netherlands-bulgaria/Qgeg8InI/"
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/sion/tsitsipas-petros-ovcharenko-oleksandr/QyIPt17U/"
     },
     {
       "sport": "バレー",
@@ -38,51 +118,71 @@
       "books": {
         "1xbet": 1.11
       },
-      "avgFavOdd": 1.12,
+      "avgFavOdd": 1.13,
       "time": "00:00",
       "kickoff": "2026-08-16T16:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/volleyball/world/friendly-international/netherlands-belgium/lWYAQa2n/"
     },
     {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "PARAGUAY: LNB",
-      "home": "Deportivo Amambay",
-      "away": "Deportivo Campoalto",
-      "favTeam": "Deportivo Amambay",
-      "underTeam": "Deportivo Campoalto",
-      "favOdd": 1.11,
-      "prob": 90,
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "WORLD: PAN-AMERICAN CUP",
+      "home": "Puerto Rico",
+      "away": "USA",
+      "favTeam": "USA",
+      "underTeam": "Puerto Rico",
+      "favOdd": 1.14,
+      "prob": 88,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.11
+        "1xbet": 1.14
       },
-      "avgFavOdd": 1.13,
-      "time": "06:30",
-      "kickoff": "2026-08-16T22:30:00+09:00",
+      "avgFavOdd": 1.18,
+      "time": "08:30",
+      "kickoff": "2026-08-17T00:30:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/paraguay/lnb/deportivo-amambay-deportivo-campoalto/jaJIWTAF/"
+      "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup/puerto-rico-usa/vNUvis4m/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "WORLD: FRIENDLY INTERNATIONAL WOMEN",
+      "home": "Belgium W",
+      "away": "Italy W",
+      "favTeam": "Belgium W",
+      "underTeam": "Italy W",
+      "favOdd": 1.14,
+      "prob": 88,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.14
+      },
+      "avgFavOdd": 1.2,
+      "time": "01:00",
+      "kickoff": "2026-08-16T17:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/world/friendly-international-women/belgium-italy/h6OXwGyA/"
     },
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: PRAGUE, CLAY",
-      "home": "Fatic N.",
-      "away": "Beckley A.",
-      "favTeam": "Fatic N.",
-      "underTeam": "Beckley A.",
-      "favOdd": 1.19,
-      "prob": 84,
+      "league": "CHALLENGER MEN - SINGLES: ROEHAMPTON, HARD",
+      "home": "Gusic Wan B.",
+      "away": "Rossi L.",
+      "favTeam": "Rossi L.",
+      "underTeam": "Gusic Wan B.",
+      "favOdd": 1.23,
+      "prob": 81,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.19
+        "1xbet": 1.23
       },
-      "avgFavOdd": 1.18,
-      "time": "21:30",
-      "kickoff": "2026-08-16T13:30:00+09:00",
+      "avgFavOdd": 1.23,
+      "time": "23:30",
+      "kickoff": "2026-08-16T15:30:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/prague/fatic-nerman-beckley-alec/f1VD28A7/"
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/roehampton/gusic-wan-benjamin-rossi-leonardo/A7vSoiae/"
     },
     {
       "sport": "アイスホッケー",
@@ -98,7 +198,7 @@
       "books": {
         "1xbet": 1.25
       },
-      "avgFavOdd": 1.25,
+      "avgFavOdd": 1.26,
       "time": "23:00",
       "kickoff": "2026-08-16T15:00:00+09:00",
       "niche": false,
@@ -108,141 +208,101 @@
       "sport": "テニス",
       "sportKey": "tennis",
       "league": "CHALLENGER MEN - SINGLES: SION, CLAY",
-      "home": "Karma N.",
-      "away": "Wehnelt K.",
-      "favTeam": "Wehnelt K.",
-      "underTeam": "Karma N.",
-      "favOdd": 1.29,
-      "prob": 78,
+      "home": "Hassan B.",
+      "away": "Thomas F.",
+      "favTeam": "Hassan B.",
+      "underTeam": "Thomas F.",
+      "favOdd": 1.26,
+      "prob": 79,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.29
+        "1xbet": 1.26
       },
-      "avgFavOdd": 1.29,
-      "time": "20:45",
-      "kickoff": "2026-08-16T12:45:00+09:00",
+      "avgFavOdd": 1.25,
+      "time": "23:15",
+      "kickoff": "2026-08-16T15:15:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/sion/karma-noah-wehnelt-kai/Uicce0MN/"
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/sion/hassan-benjamin-thomas-flynn/4EXzFx0U/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: SION, CLAY",
-      "home": "Berrut A.",
-      "away": "Raquillet L.",
-      "favTeam": "Raquillet L.",
-      "underTeam": "Berrut A.",
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "WORLD: PAN-AMERICAN CUP",
+      "home": "Dominican Republic",
+      "away": "Cuba",
+      "favTeam": "Cuba",
+      "underTeam": "Dominican Republic",
+      "favOdd": 1.3,
+      "prob": 77,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.3
+      },
+      "avgFavOdd": 1.33,
+      "time": "04:30",
+      "kickoff": "2026-08-16T20:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup/dominican-republic-cuba/AXZn7Grf/"
+    },
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "WORLD: FRIENDLY INTERNATIONAL WOMEN",
+      "home": "Spain W",
+      "away": "Hungary W",
+      "favTeam": "Hungary W",
+      "underTeam": "Spain W",
       "favOdd": 1.34,
       "prob": 75,
       "book": "1xBet",
       "books": {
         "1xbet": 1.34
       },
-      "avgFavOdd": 1.33,
-      "time": "21:30",
-      "kickoff": "2026-08-16T13:30:00+09:00",
+      "avgFavOdd": 1.35,
+      "time": "01:00",
+      "kickoff": "2026-08-16T17:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/sion/berrut-adrien-raquillet-leo/dvakcMiB/"
+      "url": "https://www.betexplorer.com/volleyball/world/friendly-international-women/spain-hungary/b7g16dHU/"
     },
     {
-      "sport": "アイスホッケー",
-      "sportKey": "hockey",
-      "league": "WORLD: CLUB FRIENDLY",
-      "home": "Adler Mannheim",
-      "away": "Graz99ers",
-      "favTeam": "Adler Mannheim",
-      "underTeam": "Graz99ers",
-      "favOdd": 1.37,
-      "prob": 73,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.37
-      },
-      "avgFavOdd": 1.37,
-      "time": "21:00",
-      "kickoff": "2026-08-16T13:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/hockey/world/club-friendly/adler-mannheim-graz-99ers/rmiVYomQ/"
-    },
-    {
-      "sport": "アイスホッケー",
-      "sportKey": "hockey",
-      "league": "KAZAKHSTAN: KAZAKHSTAN CUP",
-      "home": "Almaty",
-      "away": "Torpedo",
-      "favTeam": "Torpedo",
-      "underTeam": "Almaty",
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "CZECH REPUBLIC: 4. LIGA - GROUP F",
+      "home": "Bohumin",
+      "away": "Bridlicna",
+      "favTeam": "Bohumin",
+      "underTeam": "Bridlicna",
       "favOdd": 1.38,
       "prob": 72,
       "book": "1xBet",
       "books": {
         "1xbet": 1.38
       },
-      "avgFavOdd": 1.36,
-      "time": "21:00",
-      "kickoff": "2026-08-16T13:00:00+09:00",
+      "avgFavOdd": 1.42,
+      "time": "23:30",
+      "kickoff": "2026-08-16T15:30:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/hockey/kazakhstan/kazakhstan-cup/almaty-kazzinc-torpedo/MqHJVoEs/"
+      "url": "https://www.betexplorer.com/football/czech-republic/4-liga-group-f/bohumin-bridlicna/hUEq7oAl/"
     },
     {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "WORLD: FRIENDLY INTERNATIONAL WOMEN",
-      "home": "Finland W",
-      "away": "Czech Republic W",
-      "favTeam": "Czech Republic W",
-      "underTeam": "Finland W",
-      "favOdd": 1.38,
-      "prob": 72,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.38
-      },
-      "avgFavOdd": 1.37,
-      "time": "00:00",
-      "kickoff": "2026-08-16T16:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/world/friendly-international-women/finland-czech-republic/KvBQux7c/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: PRAGUE, CLAY",
-      "home": "Vrbensky M.",
-      "away": "Krutykh O.",
-      "favTeam": "Krutykh O.",
-      "underTeam": "Vrbensky M.",
-      "favOdd": 1.39,
-      "prob": 72,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.39
-      },
-      "avgFavOdd": 1.41,
-      "time": "20:45",
-      "kickoff": "2026-08-16T12:45:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/prague/vrbensky-michael-krutykh-oleksii/bwYYkVQ1/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: ROEHAMPTON, HARD",
-      "home": "Blaydes B.",
-      "away": "Gautier A.",
-      "favTeam": "Blaydes B.",
-      "underTeam": "Gautier A.",
-      "favOdd": 1.4,
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "WORLD: PAN-AMERICAN CUP",
+      "home": "Canada",
+      "away": "Mexico",
+      "favTeam": "Canada",
+      "underTeam": "Mexico",
+      "favOdd": 1.41,
       "prob": 71,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.4
+        "1xbet": 1.41
       },
       "avgFavOdd": 1.4,
-      "time": "20:30",
-      "kickoff": "2026-08-16T12:30:00+09:00",
+      "time": "06:30",
+      "kickoff": "2026-08-16T22:30:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/roehampton/blaydes-billy-gautier-alexis/CfJa0jEl/"
+      "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup/canada-mexico/riq9d3tQ/"
     },
     {
       "sport": "アイスホッケー",
@@ -265,26 +325,6 @@
       "url": "https://www.betexplorer.com/hockey/world/club-friendly/black-wings-linz-munchen/vJx1TPAm/"
     },
     {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "WORLD: CLUB FRIENDLY WOMEN",
-      "home": "Gran Canaria W",
-      "away": "Michalovce W",
-      "favTeam": "Gran Canaria W",
-      "underTeam": "Michalovce W",
-      "favOdd": 1.43,
-      "prob": 70,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.43
-      },
-      "avgFavOdd": 1.42,
-      "time": "20:00",
-      "kickoff": "2026-08-16T12:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/handball/world/club-friendly-women/gran-canaria-michalovce/f9w4AmCl/"
-    },
-    {
       "sport": "バスケ",
       "sportKey": "basketball",
       "league": "USA: WNBA",
@@ -292,117 +332,97 @@
       "away": "Portland Fire W",
       "favTeam": "Phoenix Mercury W",
       "underTeam": "Portland Fire W",
-      "favOdd": 1.47,
-      "prob": 68,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.47
-      },
-      "avgFavOdd": 1.46,
-      "time": "08:00",
-      "kickoff": "2026-08-17T00:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/usa/wnba/phoenix-mercury-portland-fire/Mi5Q0xoS/"
-    },
-    {
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "CHINA: LEAGUE TWO",
-      "home": "Guizhou Guiyang",
-      "away": "Chengdu Rongcheng B",
-      "favTeam": "Guizhou Guiyang",
-      "underTeam": "Chengdu Rongcheng B",
       "favOdd": 1.48,
       "prob": 68,
       "book": "1xBet",
       "books": {
         "1xbet": 1.48
       },
-      "avgFavOdd": 1.49,
-      "time": "20:30",
-      "kickoff": "2026-08-16T12:30:00+09:00",
+      "avgFavOdd": 1.48,
+      "time": "08:00",
+      "kickoff": "2026-08-17T00:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/football/china/league-two/guizhou-guiyang-chengdu-rongcheng/Q1Dil7Oa/"
+      "url": "https://www.betexplorer.com/basketball/usa/wnba/phoenix-mercury-portland-fire/Mi5Q0xoS/"
     },
     {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "WORLD: CLUB FRIENDLY",
-      "home": "Flensburg-H.",
-      "away": "SC Magdeburg",
-      "favTeam": "SC Magdeburg",
-      "underTeam": "Flensburg-H.",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "CHALLENGER MEN - SINGLES: KINGSTON, HARD",
+      "home": "Andrade da Silva L.",
+      "away": "Fellin P. O.",
+      "favTeam": "Andrade da Silva L.",
+      "underTeam": "Fellin P. O.",
       "favOdd": 1.49,
       "prob": 67,
       "book": "1xBet",
       "books": {
         "1xbet": 1.49
       },
-      "avgFavOdd": 1.56,
-      "time": "20:00",
-      "kickoff": "2026-08-16T12:00:00+09:00",
+      "avgFavOdd": 1.49,
+      "time": "00:00",
+      "kickoff": "2026-08-16T16:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/handball/world/club-friendly/flensburg-h-sc-magdeburg/SMyC8Rt1/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: SION, CLAY",
-      "home": "Sakellaridis D.",
-      "away": "Tanner G. L.",
-      "favTeam": "Sakellaridis D.",
-      "underTeam": "Tanner G. L.",
-      "favOdd": 1.55,
-      "prob": 65,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.55
-      },
-      "avgFavOdd": 1.53,
-      "time": "20:30",
-      "kickoff": "2026-08-16T12:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/sion/dimitris-sakellaridis-tanner-gian-luca/CEB9pq85/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: HAMBURG, CLAY",
-      "home": "Kumstat J.",
-      "away": "Moeller M.",
-      "favTeam": "Kumstat J.",
-      "underTeam": "Moeller M.",
-      "favOdd": 1.57,
-      "prob": 64,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.57
-      },
-      "avgFavOdd": 1.56,
-      "time": "20:05",
-      "kickoff": "2026-08-16T12:05:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/hamburg/kumstat-jan-moeller-marvin/8QpmaZ3F/"
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/kingston/andrade-da-silva-lucas-fellin-pietro-orlando/nVjSKINi/"
     },
     {
       "sport": "アイスホッケー",
       "sportKey": "hockey",
       "league": "WORLD: CLUB FRIENDLY",
-      "home": "Stalnye Lisy",
-      "away": "Mamonty Yugry",
-      "favTeam": "Stalnye Lisy",
-      "underTeam": "Mamonty Yugry",
-      "favOdd": 1.58,
+      "home": "Karlovy Vary U20",
+      "away": "Ceske Budejovice U20",
+      "favTeam": "Karlovy Vary U20",
+      "underTeam": "Ceske Budejovice U20",
+      "favOdd": 1.51,
+      "prob": 66,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.51
+      },
+      "avgFavOdd": 1.52,
+      "time": "00:00",
+      "kickoff": "2026-08-16T16:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/hockey/world/club-friendly/karlovy-vary-ceske-budejovice/25abukRH/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "WORLD: FRIENDLY INTERNATIONAL WOMEN",
+      "home": "Finland W",
+      "away": "Czech Republic W",
+      "favTeam": "Czech Republic W",
+      "underTeam": "Finland W",
+      "favOdd": 1.59,
       "prob": 63,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.58
+        "1xbet": 1.59
       },
-      "avgFavOdd": 1.58,
-      "time": "21:00",
-      "kickoff": "2026-08-16T13:00:00+09:00",
+      "avgFavOdd": 1.56,
+      "time": "00:00",
+      "kickoff": "2026-08-16T16:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/hockey/world/club-friendly/stalnye-lisy-mhl-mamonty-yugry-mhl/YTgjc2kT/"
+      "url": "https://www.betexplorer.com/basketball/world/friendly-international-women/finland-czech-republic/KvBQux7c/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "WTA - DOUBLES: CINCINNATI, HARD",
+      "home": "Aoyama S. / Liang E. S.",
+      "away": "Neel I. / Olmos G.",
+      "favTeam": "Aoyama S. / Liang E. S.",
+      "underTeam": "Neel I. / Olmos G.",
+      "favOdd": 1.6,
+      "prob": 63,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.6
+      },
+      "avgFavOdd": 1.6,
+      "time": "00:00",
+      "kickoff": "2026-08-16T16:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/wta-doubles/cincinnati/aoyama-shuko-liang-en-shuo-neel-ingrid-olmos-giuliana/0SXMRJl4/"
     }
   ]
 }
