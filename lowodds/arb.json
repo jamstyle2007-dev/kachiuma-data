@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-16T09:12:29.140Z",
+  "generatedAt": "2026-08-16T09:17:54.077Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 0,
+  "scanned": 6,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 31,
       "profit": 1131433
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "EX78TJAl",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Pittsburgh Pirates - Boston Red Sox",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/pittsburgh-pirates-boston-red-sox/EX78TJAl/",
+      "kickoff": "2026-08-16T18:35:00+09:00",
+      "width": 2,
+      "books": 19,
+      "labels": [
+        "Pittsburgh Pirates",
+        "Boston Red Sox"
+      ],
+      "legs": [
+        {
+          "outcome": "Pittsburgh Pirates",
+          "book": "Cloudbet",
+          "odd": 2.05,
+          "stake": 49383,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.cloudbet.com/"
+        },
+        {
+          "outcome": "Boston Red Sox",
+          "book": "BetInAsia",
+          "odd": 2,
+          "stake": 50617,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.betinasia.com/"
+        }
+      ],
+      "S": 0.9878048780487805,
+      "roi": 1.2345679012345734,
+      "profit": 1235,
+      "payout": 101235,
+      "staked": 100000,
+      "mins": 17,
+      "split": {
+        "S": 0.9878048780487805,
+        "payout": 101235,
+        "profit": 1235,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Cloudbet",
+            "odd": 2.05,
+            "stake": 49383
+          },
+          {
+            "book": "BetInAsia",
+            "odd": 2,
+            "stake": 50617
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    }
+  ]
 }
