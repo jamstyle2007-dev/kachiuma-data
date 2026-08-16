@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T15:26:11.982Z",
+  "generatedAt": "2026-08-16T15:31:36.378Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
@@ -22,68 +22,68 @@
       "count": 0,
       "profit": 0
     },
-    "pending": 1
+    "pending": 2
   },
   "opps": [
     {
-      "id": "MkYkKT5E",
+      "id": "fqt4dQD7",
       "sport": "basketball",
       "sportLabel": "バスケ",
-      "teams": "Leones Quilpue - Espanol de Talca",
-      "url": "https://www.betexplorer.com/basketball/chile/lnb/leones-de-quilpue-espanol-de-talca/MkYkKT5E/",
-      "kickoff": "2026-08-17T00:30:00+09:00",
+      "teams": "CD Puerto Varas - Espanol Osorno",
+      "url": "https://www.betexplorer.com/basketball/chile/lnb/cd-puerto-varas-espanol-osorno/fqt4dQD7/",
+      "kickoff": "2026-08-17T01:00:00+09:00",
       "width": 2,
-      "books": 6,
+      "books": 13,
       "labels": [
-        "Leones Quilpue",
-        "Espanol de Talca"
+        "CD Puerto Varas",
+        "Espanol Osorno"
       ],
       "legs": [
         {
-          "outcome": "Leones Quilpue",
-          "book": "Betfair",
-          "odd": 1.17,
-          "stake": 91116,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
+          "outcome": "CD Puerto Varas",
+          "book": "Unibet",
+          "odd": 2.5,
+          "stake": 53271,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.unibet.com/"
         },
         {
-          "outcome": "Espanol de Talca",
-          "book": "Stake.com",
-          "odd": 12,
-          "stake": 8884,
+          "outcome": "Espanol Osorno",
+          "book": "bwin",
+          "odd": 2.85,
+          "stake": 46729,
           "jp": true,
           "exch": false,
-          "url": "https://stake.com/"
+          "url": "https://sports.bwin.com/"
         }
       ],
-      "S": 0.9380341880341881,
-      "roi": 6.60592255125283,
-      "profit": 6606,
-      "payout": 106606,
+      "S": 0.7508771929824561,
+      "roi": 33.177570093457945,
+      "profit": 33178,
+      "payout": 133178,
       "staked": 100000,
-      "mins": 4,
+      "mins": 28,
       "split": {
-        "S": 0.9380341880341881,
-        "payout": 106606,
-        "profit": 6606,
+        "S": 0.7508771929824561,
+        "payout": 133178,
+        "profit": 33178,
         "staked": 100000,
         "legs": [
           {
-            "book": "Betfair",
-            "odd": 1.17,
-            "stake": 91116
+            "book": "Unibet",
+            "odd": 2.5,
+            "stake": 53271
           },
           {
-            "book": "Stake.com",
-            "odd": 12,
-            "stake": 8884
+            "book": "bwin",
+            "odd": 2.85,
+            "stake": 46729
           }
         ]
       },
-      "hasExch": true,
-      "allJp": true
+      "hasExch": false,
+      "allJp": false
     }
   ]
 }
