@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T16:19:11.868Z",
+  "generatedAt": "2026-08-17T16:24:37.116Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
@@ -41,48 +41,48 @@
       "legs": [
         {
           "outcome": "Las Animas",
-          "book": "Betfair",
-          "odd": 2.75,
-          "stake": 38341,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
+          "book": "Duelbits",
+          "odd": 2.8,
+          "stake": 37916,
+          "jp": false,
+          "exch": false,
+          "url": "https://duelbits.com/"
         },
         {
           "outcome": "Valdivia",
           "book": "Mozzartbet",
           "odd": 1.71,
-          "stake": 61659,
+          "stake": 62084,
           "jp": false,
           "exch": false,
           "url": "https://www.mozzartbet.com/"
         }
       ],
-      "S": 0.9484316852737905,
-      "roi": 5.437219730941711,
-      "profit": 5437,
-      "payout": 105437,
+      "S": 0.9419381787802841,
+      "roi": 6.164079822616397,
+      "profit": 6164,
+      "payout": 106164,
       "staked": 100000,
-      "mins": 11,
+      "mins": 5,
       "split": {
-        "S": 0.9484316852737905,
-        "payout": 105437,
-        "profit": 5437,
+        "S": 0.9419381787802841,
+        "payout": 106164,
+        "profit": 6164,
         "staked": 100000,
         "legs": [
           {
-            "book": "Betfair",
-            "odd": 2.75,
-            "stake": 38341
+            "book": "Duelbits",
+            "odd": 2.8,
+            "stake": 37916
           },
           {
             "book": "Mozzartbet",
             "odd": 1.71,
-            "stake": 61659
+            "stake": 62084
           }
         ]
       },
-      "hasExch": true,
+      "hasExch": false,
       "allJp": false
     }
   ]
