@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-17T12:10:12.870Z",
+  "generatedAt": "2026-08-17T12:15:33.859Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 1,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 2,
       "profit": 39784
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "IBxLCFo3",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Argentina W - New Zealand W",
+      "url": "https://www.betexplorer.com/basketball/world/olympic-games-women/argentina-new-zealand/IBxLCFo3/",
+      "kickoff": "2026-08-17T21:45:00+09:00",
+      "width": 2,
+      "books": 11,
+      "labels": [
+        "Argentina W",
+        "New Zealand W"
+      ],
+      "legs": [
+        {
+          "outcome": "Argentina W",
+          "book": "bwin",
+          "odd": 1.3,
+          "stake": 78333,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        },
+        {
+          "outcome": "New Zealand W",
+          "book": "Mozzartbet",
+          "odd": 4.7,
+          "stake": 21667,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.mozzartbet.com/"
+        }
+      ],
+      "S": 0.9819967266775776,
+      "roi": 1.8333333333333535,
+      "profit": 1833,
+      "payout": 101833,
+      "staked": 100000,
+      "mins": 29,
+      "split": {
+        "S": 0.9819967266775776,
+        "payout": 101833,
+        "profit": 1833,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "bwin",
+            "odd": 1.3,
+            "stake": 78333
+          },
+          {
+            "book": "Mozzartbet",
+            "odd": 4.7,
+            "stake": 21667
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
