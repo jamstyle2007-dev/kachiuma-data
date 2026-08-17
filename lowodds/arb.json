@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T16:02:54.913Z",
+  "generatedAt": "2026-08-17T16:08:20.359Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
@@ -41,44 +41,44 @@
       "legs": [
         {
           "outcome": "Las Animas",
-          "book": "1xBet",
-          "odd": 2.58,
-          "stake": 39860,
+          "book": "BetInAsia",
+          "odd": 2.7,
+          "stake": 38776,
           "jp": true,
           "exch": false,
-          "url": "https://1xbet.com/ja"
+          "url": "https://www.betinasia.com/"
         },
         {
           "outcome": "Valdivia",
           "book": "Mozzartbet",
           "odd": 1.71,
-          "stake": 60140,
+          "stake": 61224,
           "jp": false,
           "exch": false,
           "url": "https://www.mozzartbet.com/"
         }
       ],
-      "S": 0.9723922208622331,
-      "roi": 2.839160839160848,
-      "profit": 2839,
-      "payout": 102839,
+      "S": 0.9551656920077972,
+      "roi": 4.69387755102042,
+      "profit": 4694,
+      "payout": 104694,
       "staked": 100000,
-      "mins": 27,
+      "mins": 22,
       "split": {
-        "S": 0.9723922208622331,
-        "payout": 102839,
-        "profit": 2839,
+        "S": 0.9551656920077972,
+        "payout": 104694,
+        "profit": 4694,
         "staked": 100000,
         "legs": [
           {
-            "book": "1xBet",
-            "odd": 2.58,
-            "stake": 39860
+            "book": "BetInAsia",
+            "odd": 2.7,
+            "stake": 38776
           },
           {
             "book": "Mozzartbet",
             "odd": 1.71,
-            "stake": 60140
+            "stake": 61224
           }
         ]
       },
