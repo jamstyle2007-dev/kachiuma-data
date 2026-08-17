@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T12:15:33.859Z",
+  "generatedAt": "2026-08-17T12:21:00.013Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
@@ -42,8 +42,8 @@
         {
           "outcome": "Argentina W",
           "book": "bwin",
-          "odd": 1.3,
-          "stake": 78333,
+          "odd": 1.34,
+          "stake": 77815,
           "jp": true,
           "exch": false,
           "url": "https://sports.bwin.com/"
@@ -52,33 +52,33 @@
           "outcome": "New Zealand W",
           "book": "Mozzartbet",
           "odd": 4.7,
-          "stake": 21667,
+          "stake": 22185,
           "jp": false,
           "exch": false,
           "url": "https://www.mozzartbet.com/"
         }
       ],
-      "S": 0.9819967266775776,
-      "roi": 1.8333333333333535,
-      "profit": 1833,
-      "payout": 101833,
+      "S": 0.9590346141632263,
+      "roi": 4.271523178807968,
+      "profit": 4272,
+      "payout": 104272,
       "staked": 100000,
-      "mins": 29,
+      "mins": 24,
       "split": {
-        "S": 0.9819967266775776,
-        "payout": 101833,
-        "profit": 1833,
+        "S": 0.9590346141632263,
+        "payout": 104272,
+        "profit": 4272,
         "staked": 100000,
         "legs": [
           {
             "book": "bwin",
-            "odd": 1.3,
-            "stake": 78333
+            "odd": 1.34,
+            "stake": 77815
           },
           {
             "book": "Mozzartbet",
             "odd": 4.7,
-            "stake": 21667
+            "stake": 22185
           }
         ]
       },
