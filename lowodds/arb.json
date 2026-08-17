@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-17T14:14:08.081Z",
+  "generatedAt": "2026-08-17T14:19:33.805Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 2,
       "profit": 39784
     },
-    "pending": 2
+    "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "QXtpoRic",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Philadelphia Phillies - Miami Marlins",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/philadelphia-phillies-miami-marlins/QXtpoRic/",
+      "kickoff": "2026-08-17T23:40:00+09:00",
+      "width": 2,
+      "books": 19,
+      "labels": [
+        "Philadelphia Phillies",
+        "Miami Marlins"
+      ],
+      "legs": [
+        {
+          "outcome": "Philadelphia Phillies",
+          "book": "Mozzartbet",
+          "odd": 1.45,
+          "stake": 69149,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.mozzartbet.com/"
+        },
+        {
+          "outcome": "Miami Marlins",
+          "book": "BetInAsia",
+          "odd": 3.25,
+          "stake": 30851,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.betinasia.com/"
+        }
+      ],
+      "S": 0.9973474801061009,
+      "roi": 0.26595744680850686,
+      "profit": 266,
+      "payout": 100266,
+      "staked": 100000,
+      "mins": 20,
+      "split": {
+        "S": 0.9973474801061009,
+        "payout": 100266,
+        "profit": 266,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Mozzartbet",
+            "odd": 1.45,
+            "stake": 69149
+          },
+          {
+            "book": "BetInAsia",
+            "odd": 3.25,
+            "stake": 30851
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
