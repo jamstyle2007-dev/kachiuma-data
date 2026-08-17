@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-17T02:16:05.954Z",
+  "generatedAt": "2026-08-17T05:17:54.147Z",
   "source": "betexplorer.com (Pinnacle / 1xBet odds)",
   "threshold": 1.6,
-  "count": 17,
+  "count": 19,
   "matches": [
     {
       "sport": "バスケ",
@@ -32,13 +32,13 @@
       "away": "Cerny M.",
       "favTeam": "Papoe R. M.",
       "underTeam": "Cerny M.",
-      "favOdd": 1.19,
-      "prob": 84,
+      "favOdd": 1.14,
+      "prob": 88,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.19
+        "1xbet": 1.14
       },
-      "avgFavOdd": 1.2,
+      "avgFavOdd": 1.15,
       "time": "18:30",
       "kickoff": "2026-08-17T10:30:00+09:00",
       "niche": false,
@@ -92,13 +92,13 @@
       "away": "Cigarran T.",
       "favTeam": "Wiedenmann L.",
       "underTeam": "Cigarran T.",
-      "favOdd": 1.25,
-      "prob": 80,
+      "favOdd": 1.26,
+      "prob": 79,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.25
+        "1xbet": 1.26
       },
-      "avgFavOdd": 1.25,
+      "avgFavOdd": 1.26,
       "time": "17:00",
       "kickoff": "2026-08-17T09:00:00+09:00",
       "niche": false,
@@ -107,42 +107,22 @@
     {
       "sport": "バスケ",
       "sportKey": "basketball",
-      "league": "CHILE: LNB",
-      "home": "Catolica",
-      "away": "Leones Quilpue",
-      "favTeam": "Leones Quilpue",
-      "underTeam": "Catolica",
-      "favOdd": 1.29,
-      "prob": 78,
+      "league": "WORLD: OLYMPIC GAMES WOMEN",
+      "home": "Mexico W",
+      "away": "Philippines W",
+      "favTeam": "Mexico W",
+      "underTeam": "Philippines W",
+      "favOdd": 1.27,
+      "prob": 79,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.29
+        "1xbet": 1.27
       },
-      "avgFavOdd": 1.15,
-      "time": "09:00",
-      "kickoff": "2026-08-18T01:00:00+09:00",
+      "avgFavOdd": 1.29,
+      "time": "11:30",
+      "kickoff": "2026-08-18T03:30:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/chile/lnb/catolica-leones-de-quilpue/4hjKEdhM/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "USA: WNBA",
-      "home": "Golden State Valkyries W",
-      "away": "Dallas Wings W",
-      "favTeam": "Golden State Valkyries W",
-      "underTeam": "Dallas Wings W",
-      "favOdd": 1.35,
-      "prob": 74,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.35
-      },
-      "avgFavOdd": 1.37,
-      "time": "11:00",
-      "kickoff": "2026-08-18T03:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/usa/wnba/golden-state-valkyries-dallas-wings/Qmf4gfw2/"
+      "url": "https://www.betexplorer.com/basketball/world/olympic-games-women/mexico-philippines/bPdX6pFs/"
     },
     {
       "sport": "バスケ",
@@ -158,7 +138,7 @@
       "books": {
         "1xbet": 1.37
       },
-      "avgFavOdd": 1.3,
+      "avgFavOdd": 1.39,
       "time": "08:00",
       "kickoff": "2026-08-18T00:00:00+09:00",
       "niche": false,
@@ -185,6 +165,26 @@
       "url": "https://www.betexplorer.com/basketball/chile/lnb/las-animas-valdivia/ERyj9zGq/"
     },
     {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "USA: WNBA",
+      "home": "Golden State Valkyries W",
+      "away": "Dallas Wings W",
+      "favTeam": "Golden State Valkyries W",
+      "underTeam": "Dallas Wings W",
+      "favOdd": 1.4,
+      "prob": 71,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.4
+      },
+      "avgFavOdd": 1.39,
+      "time": "11:00",
+      "kickoff": "2026-08-18T03:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/usa/wnba/golden-state-valkyries-dallas-wings/Qmf4gfw2/"
+    },
+    {
       "sport": "テニス",
       "sportKey": "tennis",
       "league": "CHALLENGER MEN - SINGLES: PRAGUE, CLAY",
@@ -198,11 +198,51 @@
       "books": {
         "1xbet": 1.41
       },
-      "avgFavOdd": 1.42,
+      "avgFavOdd": 1.41,
       "time": "17:00",
       "kickoff": "2026-08-17T09:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/tennis/challenger-men-singles/prague/paulson-andrew-gombos-norbert/0OqqlJ9k/"
+    },
+    {
+      "sport": "野球",
+      "sportKey": "baseball",
+      "league": "USA: MLB",
+      "home": "Colorado Rockies",
+      "away": "Los Angeles Dodgers",
+      "favTeam": "Los Angeles Dodgers",
+      "underTeam": "Colorado Rockies",
+      "favOdd": 1.42,
+      "prob": 70,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.42
+      },
+      "avgFavOdd": 1.38,
+      "time": "09:40",
+      "kickoff": "2026-08-18T01:40:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/colorado-rockies-los-angeles-dodgers/lWoPyNEq/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "CHILE: LNB",
+      "home": "Catolica",
+      "away": "Leones Quilpue",
+      "favTeam": "Leones Quilpue",
+      "underTeam": "Catolica",
+      "favOdd": 1.43,
+      "prob": 70,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.43
+      },
+      "avgFavOdd": 1.39,
+      "time": "09:00",
+      "kickoff": "2026-08-18T01:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/chile/lnb/catolica-leones-de-quilpue/4hjKEdhM/"
     },
     {
       "sport": "テニス",
@@ -248,26 +288,6 @@
       "sport": "野球",
       "sportKey": "baseball",
       "league": "USA: MLB",
-      "home": "Colorado Rockies",
-      "away": "Los Angeles Dodgers",
-      "favTeam": "Los Angeles Dodgers",
-      "underTeam": "Colorado Rockies",
-      "favOdd": 1.44,
-      "prob": 69,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.44
-      },
-      "avgFavOdd": 1.39,
-      "time": "09:40",
-      "kickoff": "2026-08-18T01:40:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/colorado-rockies-los-angeles-dodgers/lWoPyNEq/"
-    },
-    {
-      "sport": "野球",
-      "sportKey": "baseball",
-      "league": "USA: MLB",
       "home": "Philadelphia Phillies",
       "away": "Miami Marlins",
       "favTeam": "Philadelphia Phillies",
@@ -278,11 +298,31 @@
       "books": {
         "1xbet": 1.46
       },
-      "avgFavOdd": 1.41,
+      "avgFavOdd": 1.4,
       "time": "07:40",
       "kickoff": "2026-08-17T23:40:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/baseball/usa/mlb/philadelphia-phillies-miami-marlins/QXtpoRic/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "CHALLENGER MEN - SINGLES: PRAGUE, CLAY",
+      "home": "Fatic N.",
+      "away": "Donald M.",
+      "favTeam": "Fatic N.",
+      "underTeam": "Donald M.",
+      "favOdd": 1.49,
+      "prob": 67,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.49
+      },
+      "avgFavOdd": 1.49,
+      "time": "18:30",
+      "kickoff": "2026-08-17T10:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/prague/fatic-nerman-donald-matthew/EZZ96e0c/"
     },
     {
       "sport": "アイスホッケー",
@@ -305,24 +345,24 @@
       "url": "https://www.betexplorer.com/hockey/world/club-friendly/metallurg-magnitogorsk-vladivostok/04Nc4fB7/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: PRAGUE, CLAY",
-      "home": "Fatic N.",
-      "away": "Donald M.",
-      "favTeam": "Fatic N.",
-      "underTeam": "Donald M.",
-      "favOdd": 1.51,
-      "prob": 66,
+      "sport": "野球",
+      "sportKey": "baseball",
+      "league": "USA: MLB",
+      "home": "Kansas City Royals",
+      "away": "Athletics",
+      "favTeam": "Kansas City Royals",
+      "underTeam": "Athletics",
+      "favOdd": 1.55,
+      "prob": 65,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.51
+        "1xbet": 1.55
       },
       "avgFavOdd": 1.51,
-      "time": "18:30",
-      "kickoff": "2026-08-17T10:30:00+09:00",
+      "time": "08:40",
+      "kickoff": "2026-08-18T00:40:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/prague/fatic-nerman-donald-matthew/EZZ96e0c/"
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/kansas-city-royals-athletics/bouhq5M9/"
     },
     {
       "sport": "テニス",
@@ -332,13 +372,13 @@
       "away": "Papamalamis T.",
       "favTeam": "Campana Lee G.",
       "underTeam": "Papamalamis T.",
-      "favOdd": 1.59,
+      "favOdd": 1.58,
       "prob": 63,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.59
+        "1xbet": 1.58
       },
-      "avgFavOdd": 1.58,
+      "avgFavOdd": 1.57,
       "time": "17:00",
       "kickoff": "2026-08-17T09:00:00+09:00",
       "niche": false,
