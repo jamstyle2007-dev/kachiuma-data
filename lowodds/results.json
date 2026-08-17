@@ -1,101 +1,101 @@
 {
-  "generatedAt": "2026-08-16T23:14:04.349Z",
+  "generatedAt": "2026-08-17T02:16:06.390Z",
   "windowDays": 400,
   "total": 300,
-  "hits": 187,
-  "hitRate": 0.6233333333333333,
+  "hits": 185,
+  "hitRate": 0.6166666666666667,
   "sim": {
     "stake": 10000,
-    "asOf": "2026-08-16T23:14:04.349Z",
+    "asOf": "2026-08-17T02:16:06.390Z",
     "byMinStars": {
       "1": {
         "all": {
-          "n": 3258,
-          "hits": 2091,
-          "staked": 32580000,
-          "returns": 26826500,
-          "profit": -5753500
+          "n": 3265,
+          "hits": 2093,
+          "staked": 32650000,
+          "returns": 26854200,
+          "profit": -5795800
         },
         "year": {
-          "n": 3258,
-          "hits": 2091,
-          "staked": 32580000,
-          "returns": 26826500,
-          "profit": -5753500
+          "n": 3265,
+          "hits": 2093,
+          "staked": 32650000,
+          "returns": 26854200,
+          "profit": -5795800
         },
         "month": {
-          "n": 1403,
-          "hits": 906,
-          "staked": 14030000,
-          "returns": 11717000,
-          "profit": -2313000
+          "n": 1410,
+          "hits": 908,
+          "staked": 14100000,
+          "returns": 11744700,
+          "profit": -2355300
         },
         "week": {
-          "n": 2,
-          "hits": 1,
-          "staked": 20000,
-          "returns": 14900,
-          "profit": -5100
+          "n": 9,
+          "hits": 3,
+          "staked": 90000,
+          "returns": 42600,
+          "profit": -47400
         }
       },
       "2": {
         "all": {
-          "n": 1823,
-          "hits": 1288,
-          "staked": 18230000,
-          "returns": 14949800,
-          "profit": -3280200
+          "n": 1826,
+          "hits": 1289,
+          "staked": 18260000,
+          "returns": 14962700,
+          "profit": -3297300
         },
         "year": {
-          "n": 1823,
-          "hits": 1288,
-          "staked": 18230000,
-          "returns": 14949800,
-          "profit": -3280200
+          "n": 1826,
+          "hits": 1289,
+          "staked": 18260000,
+          "returns": 14962700,
+          "profit": -3297300
         },
         "month": {
-          "n": 750,
-          "hits": 535,
-          "staked": 7500000,
-          "returns": 6250400,
-          "profit": -1249600
+          "n": 753,
+          "hits": 536,
+          "staked": 7530000,
+          "returns": 6263300,
+          "profit": -1266700
         },
         "week": {
-          "n": 0,
-          "hits": 0,
-          "staked": 0,
-          "returns": 0,
-          "profit": 0
+          "n": 3,
+          "hits": 1,
+          "staked": 30000,
+          "returns": 12900,
+          "profit": -17100
         }
       },
       "3": {
         "all": {
-          "n": 1031,
+          "n": 1032,
           "hits": 792,
-          "staked": 10310000,
+          "staked": 10320000,
           "returns": 8605500,
-          "profit": -1704500
+          "profit": -1714500
         },
         "year": {
-          "n": 1031,
+          "n": 1032,
           "hits": 792,
-          "staked": 10310000,
+          "staked": 10320000,
           "returns": 8605500,
-          "profit": -1704500
+          "profit": -1714500
         },
         "month": {
-          "n": 400,
+          "n": 401,
           "hits": 310,
-          "staked": 4000000,
+          "staked": 4010000,
           "returns": 3362700,
-          "profit": -637300
+          "profit": -647300
         },
         "week": {
-          "n": 0,
+          "n": 1,
           "hits": 0,
-          "staked": 0,
+          "staked": 10000,
           "returns": 0,
-          "profit": 0
+          "profit": -10000
         }
       },
       "4": {
@@ -161,6 +161,125 @@
     }
   },
   "settled": [
+    {
+      "id": "SzL3nsNq",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "MEXICO: LNBP",
+      "favTeam": "Soles",
+      "underTeam": "Santos",
+      "favIsHome": false,
+      "favOdd": 1.29,
+      "prob": 78,
+      "stars": 2,
+      "kickoff": "2026-08-17T02:00:00+09:00",
+      "homeScore": 32,
+      "awayScore": 59,
+      "isDraw": false,
+      "favWon": true
+    },
+    {
+      "id": "2y8IX0Zp",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "WTA - SINGLES: CINCINNATI, HARD",
+      "favTeam": "Svitolina E.",
+      "underTeam": "Valentova T.",
+      "favIsHome": false,
+      "favOdd": 1.35,
+      "prob": 74,
+      "stars": 2,
+      "kickoff": "2026-08-17T01:40:00+09:00",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isDraw": true,
+      "favWon": false
+    },
+    {
+      "id": "h4XfNbbB",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ATP - SINGLES: CINCINNATI, HARD",
+      "favTeam": "Tiafoe F.",
+      "underTeam": "Sonego L.",
+      "favIsHome": false,
+      "favOdd": 1.58,
+      "prob": 63,
+      "stars": 1,
+      "kickoff": "2026-08-17T01:40:00+09:00",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isDraw": true,
+      "favWon": false
+    },
+    {
+      "id": "lSQPgPU9",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "MEXICO: LNBP",
+      "favTeam": "Astros",
+      "underTeam": "Mineros",
+      "favIsHome": false,
+      "favOdd": 1.51,
+      "prob": 66,
+      "stars": 1,
+      "kickoff": "2026-08-17T01:05:00+09:00",
+      "homeScore": 89,
+      "awayScore": 83,
+      "isDraw": false,
+      "favWon": false
+    },
+    {
+      "id": "px9bjjOH",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "MEXICO: LNBP",
+      "favTeam": "Diablos Rojos",
+      "underTeam": "Gambusinos",
+      "favIsHome": false,
+      "favOdd": 1.48,
+      "prob": 68,
+      "stars": 1,
+      "kickoff": "2026-08-17T01:00:00+09:00",
+      "homeScore": 66,
+      "awayScore": 69,
+      "isDraw": false,
+      "favWon": true
+    },
+    {
+      "id": "Cdfk4W7K",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "PUERTO RICO: BSN",
+      "favTeam": "Vaqueros de Bayamon",
+      "underTeam": "Aguada Santeros",
+      "favIsHome": false,
+      "favOdd": 1.59,
+      "prob": 63,
+      "stars": 1,
+      "kickoff": "2026-08-17T01:00:00+09:00",
+      "homeScore": 56,
+      "awayScore": 53,
+      "isDraw": false,
+      "favWon": false
+    },
+    {
+      "id": "vNUvis4m",
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "WORLD: PAN-AMERICAN CUP",
+      "favTeam": "USA",
+      "underTeam": "Puerto Rico",
+      "favIsHome": false,
+      "favOdd": 1.13,
+      "prob": 88,
+      "stars": 3,
+      "kickoff": "2026-08-17T00:30:00+09:00",
+      "homeScore": 1,
+      "awayScore": 1,
+      "isDraw": true,
+      "favWon": false
+    },
     {
       "id": "Mi5Q0xoS",
       "sport": "バスケ",
@@ -5141,125 +5260,6 @@
       "awayScore": 28,
       "isDraw": false,
       "favWon": true
-    },
-    {
-      "id": "vcmWJ1Yj",
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "WORLD: CLUB FRIENDLY",
-      "favTeam": "Gwardia Opole",
-      "underTeam": "Olimpia Piekary",
-      "favIsHome": true,
-      "favOdd": 1.06,
-      "prob": 94,
-      "stars": 4,
-      "kickoff": "2026-08-13T17:30:00+09:00",
-      "homeScore": 32,
-      "awayScore": 15,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "Qkc4ZjW7",
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "WORLD: CLUB FRIENDLY WOMEN",
-      "favTeam": "Baekkelaget W",
-      "underTeam": "Romerike Ravens W",
-      "favIsHome": false,
-      "favOdd": 1.43,
-      "prob": 70,
-      "stars": 1,
-      "kickoff": "2026-08-13T17:30:00+09:00",
-      "homeScore": 22,
-      "awayScore": 25,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "j1A5tPd4",
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "WORLD: FRIENDLY INTERNATIONAL WOMEN",
-      "favTeam": "Italy W",
-      "underTeam": "Poland W",
-      "favIsHome": false,
-      "favOdd": 1.21,
-      "prob": 83,
-      "stars": 2,
-      "kickoff": "2026-08-13T17:00:00+09:00",
-      "homeScore": 0,
-      "awayScore": 3,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "rBTUu7qB",
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "WORLD: CLUB FRIENDLY",
-      "favTeam": "RK Zagreb",
-      "underTeam": "Tatabanya",
-      "favIsHome": false,
-      "favOdd": 1.55,
-      "prob": 65,
-      "stars": 1,
-      "kickoff": "2026-08-13T17:00:00+09:00",
-      "homeScore": 26,
-      "awayScore": 29,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "fynBesVr",
-      "sport": "アイスホッケー",
-      "sportKey": "hockey",
-      "league": "WORLD: CLUB FRIENDLY",
-      "favTeam": "Almetyevsk",
-      "underTeam": "CSK VVS",
-      "favIsHome": true,
-      "favOdd": 1.4,
-      "prob": 71,
-      "stars": 1,
-      "kickoff": "2026-08-13T16:30:00+09:00",
-      "homeScore": 4,
-      "awayScore": 4,
-      "isDraw": true,
-      "favWon": false
-    },
-    {
-      "id": "ILPjk9RQ",
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "WORLD: CLUB FRIENDLY",
-      "favTeam": "Giugliano",
-      "underTeam": "Ischia",
-      "favIsHome": true,
-      "favOdd": 1.35,
-      "prob": 74,
-      "stars": 2,
-      "kickoff": "2026-08-13T16:30:00+09:00",
-      "homeScore": 0,
-      "awayScore": 1,
-      "isDraw": false,
-      "favWon": false
-    },
-    {
-      "id": "rqmTpQYi",
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "WORLD: CLUB FRIENDLY",
-      "favTeam": "Creteil",
-      "underTeam": "Massy Essonne",
-      "favIsHome": false,
-      "favOdd": 1.32,
-      "prob": 76,
-      "stars": 2,
-      "kickoff": "2026-08-13T16:00:00+09:00",
-      "homeScore": 34,
-      "awayScore": 32,
-      "isDraw": false,
-      "favWon": false
     }
   ]
 }
