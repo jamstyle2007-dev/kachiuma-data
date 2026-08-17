@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T14:19:33.805Z",
+  "generatedAt": "2026-08-17T14:24:57.723Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
@@ -43,7 +43,7 @@
           "outcome": "Philadelphia Phillies",
           "book": "Mozzartbet",
           "odd": 1.45,
-          "stake": 69149,
+          "stake": 69083,
           "jp": false,
           "exch": false,
           "url": "https://www.mozzartbet.com/"
@@ -51,34 +51,34 @@
         {
           "outcome": "Miami Marlins",
           "book": "BetInAsia",
-          "odd": 3.25,
-          "stake": 30851,
+          "odd": 3.24,
+          "stake": 30917,
           "jp": true,
           "exch": false,
           "url": "https://www.betinasia.com/"
         }
       ],
-      "S": 0.9973474801061009,
-      "roi": 0.26595744680850686,
-      "profit": 266,
-      "payout": 100266,
+      "S": 0.9982971477224352,
+      "roi": 0.17057569296374808,
+      "profit": 171,
+      "payout": 100171,
       "staked": 100000,
-      "mins": 20,
+      "mins": 15,
       "split": {
-        "S": 0.9973474801061009,
-        "payout": 100266,
-        "profit": 266,
+        "S": 0.9982971477224352,
+        "payout": 100171,
+        "profit": 171,
         "staked": 100000,
         "legs": [
           {
             "book": "Mozzartbet",
             "odd": 1.45,
-            "stake": 69149
+            "stake": 69083
           },
           {
             "book": "BetInAsia",
-            "odd": 3.25,
-            "stake": 30851
+            "odd": 3.24,
+            "stake": 30917
           }
         ]
       },
