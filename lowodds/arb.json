@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-17T15:25:00.445Z",
+  "generatedAt": "2026-08-17T15:30:27.144Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 3,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 2,
       "profit": 39784
     },
-    "pending": 3
+    "pending": 4
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "4hjKEdhM",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Catolica - Leones Quilpue",
+      "url": "https://www.betexplorer.com/basketball/chile/lnb/catolica-leones-de-quilpue/4hjKEdhM/",
+      "kickoff": "2026-08-18T01:00:00+09:00",
+      "width": 2,
+      "books": 14,
+      "labels": [
+        "Catolica",
+        "Leones Quilpue"
+      ],
+      "legs": [
+        {
+          "outcome": "Catolica",
+          "book": "Bets.io",
+          "odd": 4.3,
+          "stake": 27119,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
+        },
+        {
+          "outcome": "Leones Quilpue",
+          "book": "William Hill",
+          "odd": 1.6,
+          "stake": 72881,
+          "jp": false,
+          "exch": false,
+          "url": "https://sports.williamhill.com/"
+        }
+      ],
+      "S": 0.8575581395348837,
+      "roi": 16.61016949152543,
+      "profit": 16610,
+      "payout": 116610,
+      "staked": 100000,
+      "mins": 30,
+      "split": {
+        "S": 0.8575581395348837,
+        "payout": 116610,
+        "profit": 16610,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Bets.io",
+            "odd": 4.3,
+            "stake": 27119
+          },
+          {
+            "book": "William Hill",
+            "odd": 1.6,
+            "stake": 72881
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
