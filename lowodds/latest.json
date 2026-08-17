@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-17T05:17:54.147Z",
+  "generatedAt": "2026-08-17T08:19:40.828Z",
   "source": "betexplorer.com (Pinnacle / 1xBet odds)",
   "threshold": 1.6,
-  "count": 19,
+  "count": 22,
   "matches": [
     {
       "sport": "バスケ",
@@ -12,17 +12,37 @@
       "away": "South Sudan W",
       "favTeam": "Brazil W",
       "underTeam": "South Sudan W",
-      "favOdd": 1.09,
-      "prob": 92,
+      "favOdd": 1.11,
+      "prob": 90,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.09
+        "1xbet": 1.11
       },
-      "avgFavOdd": 1.1,
+      "avgFavOdd": 1.11,
       "time": "03:00",
       "kickoff": "2026-08-17T19:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/basketball/world/olympic-games-women/brazil-south-sudan/j5pZlCgd/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "CHALLENGER MEN - SINGLES: ROEHAMPTON, HARD",
+      "home": "Makk P.",
+      "away": "Walters M.",
+      "favTeam": "Makk P.",
+      "underTeam": "Walters M.",
+      "favOdd": 1.14,
+      "prob": 88,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.14
+      },
+      "avgFavOdd": 1.15,
+      "time": "19:00",
+      "kickoff": "2026-08-17T11:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/roehampton/makk-peter-walters-marcus/MBi8HQHD/"
     },
     {
       "sport": "テニス",
@@ -32,13 +52,13 @@
       "away": "Cerny M.",
       "favTeam": "Papoe R. M.",
       "underTeam": "Cerny M.",
-      "favOdd": 1.14,
-      "prob": 88,
+      "favOdd": 1.18,
+      "prob": 85,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.14
+        "1xbet": 1.18
       },
-      "avgFavOdd": 1.15,
+      "avgFavOdd": 1.17,
       "time": "18:30",
       "kickoff": "2026-08-17T10:30:00+09:00",
       "niche": false,
@@ -78,7 +98,7 @@
       "books": {
         "1xbet": 1.25
       },
-      "avgFavOdd": 1.22,
+      "avgFavOdd": 1.21,
       "time": "09:30",
       "kickoff": "2026-08-18T01:30:00+09:00",
       "niche": false,
@@ -87,22 +107,22 @@
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: SION, CLAY",
-      "home": "Wiedenmann L.",
-      "away": "Cigarran T.",
-      "favTeam": "Wiedenmann L.",
-      "underTeam": "Cigarran T.",
+      "league": "ITF WOMEN - SINGLES: W50 PRAGUE, CLAY",
+      "home": "Kovackova A.",
+      "away": "Voracek E. M.",
+      "favTeam": "Kovackova A.",
+      "underTeam": "Voracek E. M.",
       "favOdd": 1.26,
       "prob": 79,
       "book": "1xBet",
       "books": {
         "1xbet": 1.26
       },
-      "avgFavOdd": 1.26,
-      "time": "17:00",
-      "kickoff": "2026-08-17T09:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/sion/wiedenmann-luca-cigarran-thiago/6cK5xsCT/"
+      "avgFavOdd": 1.28,
+      "time": "19:30",
+      "kickoff": "2026-08-17T11:30:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w50-prague/kovackova-alena-voracek-eva-marie/j1Wu9Z35/"
     },
     {
       "sport": "バスケ",
@@ -132,13 +152,13 @@
       "away": "Dep. San Jose",
       "favTeam": "Dep. San Jose",
       "underTeam": "Felix Perez Cardozo",
-      "favOdd": 1.37,
-      "prob": 73,
+      "favOdd": 1.36,
+      "prob": 74,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.37
+        "1xbet": 1.36
       },
-      "avgFavOdd": 1.39,
+      "avgFavOdd": 1.34,
       "time": "08:00",
       "kickoff": "2026-08-18T00:00:00+09:00",
       "niche": false,
@@ -165,6 +185,26 @@
       "url": "https://www.betexplorer.com/basketball/chile/lnb/las-animas-valdivia/ERyj9zGq/"
     },
     {
+      "sport": "アイスホッケー",
+      "sportKey": "hockey",
+      "league": "BELARUS: BELARUSIAN CUP",
+      "home": "Neman Grodno",
+      "away": "Yunost Minsk",
+      "favTeam": "Neman Grodno",
+      "underTeam": "Yunost Minsk",
+      "favOdd": 1.38,
+      "prob": 72,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.38
+      },
+      "avgFavOdd": 1.38,
+      "time": "01:00",
+      "kickoff": "2026-08-17T17:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/hockey/belarus/belarusian-cup/neman-grodno-yunost-minsk/vsTAUA9C/"
+    },
+    {
       "sport": "バスケ",
       "sportKey": "basketball",
       "league": "USA: WNBA",
@@ -178,31 +218,11 @@
       "books": {
         "1xbet": 1.4
       },
-      "avgFavOdd": 1.39,
+      "avgFavOdd": 1.38,
       "time": "11:00",
       "kickoff": "2026-08-18T03:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/basketball/usa/wnba/golden-state-valkyries-dallas-wings/Qmf4gfw2/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: PRAGUE, CLAY",
-      "home": "Paulson A.",
-      "away": "Gombos N.",
-      "favTeam": "Gombos N.",
-      "underTeam": "Paulson A.",
-      "favOdd": 1.41,
-      "prob": 71,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.41
-      },
-      "avgFavOdd": 1.41,
-      "time": "17:00",
-      "kickoff": "2026-08-17T09:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/prague/paulson-andrew-gombos-norbert/0OqqlJ9k/"
     },
     {
       "sport": "野球",
@@ -238,31 +258,11 @@
       "books": {
         "1xbet": 1.43
       },
-      "avgFavOdd": 1.39,
+      "avgFavOdd": 1.38,
       "time": "09:00",
       "kickoff": "2026-08-18T01:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/basketball/chile/lnb/catolica-leones-de-quilpue/4hjKEdhM/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: SION, CLAY",
-      "home": "Marti Pujolras A.",
-      "away": "Bocchi L.",
-      "favTeam": "Marti Pujolras A.",
-      "underTeam": "Bocchi L.",
-      "favOdd": 1.43,
-      "prob": 70,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.43
-      },
-      "avgFavOdd": 1.43,
-      "time": "17:00",
-      "kickoff": "2026-08-17T09:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/sion/marti-pujolras-alex-bocchi-lorenzo/E1n8fzkC/"
     },
     {
       "sport": "アイスホッケー",
@@ -292,11 +292,11 @@
       "away": "Miami Marlins",
       "favTeam": "Philadelphia Phillies",
       "underTeam": "Miami Marlins",
-      "favOdd": 1.46,
-      "prob": 68,
+      "favOdd": 1.44,
+      "prob": 69,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.46
+        "1xbet": 1.44
       },
       "avgFavOdd": 1.4,
       "time": "07:40",
@@ -307,42 +307,82 @@
     {
       "sport": "テニス",
       "sportKey": "tennis",
+      "league": "CHALLENGER MEN - SINGLES: ROEHAMPTON, HARD",
+      "home": "Echeverria J.",
+      "away": "Blaydes B.",
+      "favTeam": "Echeverria J.",
+      "underTeam": "Blaydes B.",
+      "favOdd": 1.44,
+      "prob": 69,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.44
+      },
+      "avgFavOdd": 1.43,
+      "time": "19:00",
+      "kickoff": "2026-08-17T11:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/roehampton/echeverria-john-blaydes-billy/nXyg34Xq/"
+    },
+    {
+      "sport": "アイスホッケー",
+      "sportKey": "hockey",
+      "league": "BELARUS: BELARUSIAN CUP",
+      "home": "Lida",
+      "away": "Brest",
+      "favTeam": "Brest",
+      "underTeam": "Lida",
+      "favOdd": 1.45,
+      "prob": 69,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.45
+      },
+      "avgFavOdd": 1.47,
+      "time": "01:00",
+      "kickoff": "2026-08-17T17:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/hockey/belarus/belarusian-cup/hk-lida-brest/WGP2WWv0/"
+    },
+    {
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "INDIA: DURAND CUP",
+      "home": "Mohun Bagan",
+      "away": "Jamshedpur",
+      "favTeam": "Mohun Bagan",
+      "underTeam": "Jamshedpur",
+      "favOdd": 1.48,
+      "prob": 68,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.48
+      },
+      "avgFavOdd": 1.52,
+      "time": "19:30",
+      "kickoff": "2026-08-17T11:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/football/india/durand-cup/mohun-bagan-jamshedpur/zNePkQwS/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
       "league": "CHALLENGER MEN - SINGLES: PRAGUE, CLAY",
       "home": "Fatic N.",
       "away": "Donald M.",
       "favTeam": "Fatic N.",
       "underTeam": "Donald M.",
-      "favOdd": 1.49,
-      "prob": 67,
+      "favOdd": 1.53,
+      "prob": 65,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.49
+        "1xbet": 1.53
       },
-      "avgFavOdd": 1.49,
+      "avgFavOdd": 1.53,
       "time": "18:30",
       "kickoff": "2026-08-17T10:30:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/tennis/challenger-men-singles/prague/fatic-nerman-donald-matthew/EZZ96e0c/"
-    },
-    {
-      "sport": "アイスホッケー",
-      "sportKey": "hockey",
-      "league": "WORLD: CLUB FRIENDLY",
-      "home": "Magnitogorsk",
-      "away": "Vladivostok",
-      "favTeam": "Magnitogorsk",
-      "underTeam": "Vladivostok",
-      "favOdd": 1.5,
-      "prob": 67,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.5
-      },
-      "avgFavOdd": 1.53,
-      "time": "17:00",
-      "kickoff": "2026-08-17T09:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/hockey/world/club-friendly/metallurg-magnitogorsk-vladivostok/04Nc4fB7/"
     },
     {
       "sport": "野球",
@@ -358,7 +398,7 @@
       "books": {
         "1xbet": 1.55
       },
-      "avgFavOdd": 1.51,
+      "avgFavOdd": 1.52,
       "time": "08:40",
       "kickoff": "2026-08-18T00:40:00+09:00",
       "niche": false,
@@ -368,21 +408,41 @@
       "sport": "テニス",
       "sportKey": "tennis",
       "league": "CHALLENGER MEN - SINGLES: SION, CLAY",
-      "home": "Campana Lee G.",
-      "away": "Papamalamis T.",
-      "favTeam": "Campana Lee G.",
-      "underTeam": "Papamalamis T.",
-      "favOdd": 1.58,
+      "home": "Hassan B.",
+      "away": "Raquillet L.",
+      "favTeam": "Hassan B.",
+      "underTeam": "Raquillet L.",
+      "favOdd": 1.57,
+      "prob": 64,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.57
+      },
+      "avgFavOdd": 1.52,
+      "time": "18:30",
+      "kickoff": "2026-08-17T10:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/sion/hassan-benjamin-raquillet-leo/KhfQgcaf/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "CHALLENGER MEN - SINGLES: SION, CLAY",
+      "home": "Ehrenschneider N.",
+      "away": "Wehnelt K.",
+      "favTeam": "Wehnelt K.",
+      "underTeam": "Ehrenschneider N.",
+      "favOdd": 1.59,
       "prob": 63,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.58
+        "1xbet": 1.59
       },
-      "avgFavOdd": 1.57,
-      "time": "17:00",
-      "kickoff": "2026-08-17T09:00:00+09:00",
+      "avgFavOdd": 1.55,
+      "time": "18:30",
+      "kickoff": "2026-08-17T10:30:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/sion/lee-gerard-campana-papamalamis-theo/SCSNRGvS/"
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/sion/ehrenschneider-nino-wehnelt-kai/8GyQ2DaM/"
     }
   ]
 }
