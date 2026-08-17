@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-17T16:24:37.116Z",
+  "generatedAt": "2026-08-17T16:30:02.476Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 4
   },
-  "opps": [
-    {
-      "id": "ERyj9zGq",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Las Animas - Valdivia",
-      "url": "https://www.betexplorer.com/basketball/chile/lnb/las-animas-valdivia/ERyj9zGq/",
-      "kickoff": "2026-08-18T01:30:00+09:00",
-      "width": 2,
-      "books": 14,
-      "labels": [
-        "Las Animas",
-        "Valdivia"
-      ],
-      "legs": [
-        {
-          "outcome": "Las Animas",
-          "book": "Duelbits",
-          "odd": 2.8,
-          "stake": 37916,
-          "jp": false,
-          "exch": false,
-          "url": "https://duelbits.com/"
-        },
-        {
-          "outcome": "Valdivia",
-          "book": "Mozzartbet",
-          "odd": 1.71,
-          "stake": 62084,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.mozzartbet.com/"
-        }
-      ],
-      "S": 0.9419381787802841,
-      "roi": 6.164079822616397,
-      "profit": 6164,
-      "payout": 106164,
-      "staked": 100000,
-      "mins": 5,
-      "split": {
-        "S": 0.9419381787802841,
-        "payout": 106164,
-        "profit": 6164,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Duelbits",
-            "odd": 2.8,
-            "stake": 37916
-          },
-          {
-            "book": "Mozzartbet",
-            "odd": 1.71,
-            "stake": 62084
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
