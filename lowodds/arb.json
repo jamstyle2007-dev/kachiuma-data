@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-18T08:26:24.986Z",
+  "generatedAt": "2026-08-18T08:31:47.340Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 1,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 7,
       "profit": 136005
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "6N7odSJ5",
+      "sport": "handball",
+      "sportLabel": "ハンドボール",
+      "teams": "Katy Wroclawskie - SKPR Swidnica",
+      "url": "https://www.betexplorer.com/handball/world/club-friendly/katy-wroclawskie-skpr-swidnica/6N7odSJ5/",
+      "kickoff": "2026-08-18T18:00:00+09:00",
+      "width": 2,
+      "books": 2,
+      "labels": [
+        "Katy Wroclawskie",
+        "SKPR Swidnica"
+      ],
+      "legs": [
+        {
+          "outcome": "Katy Wroclawskie",
+          "book": "1xBet",
+          "odd": 30,
+          "stake": 50000,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        },
+        {
+          "outcome": "SKPR Swidnica",
+          "book": "1xBet",
+          "odd": 30,
+          "stake": 50000,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        }
+      ],
+      "S": 0.06666666666666667,
+      "roi": 1400,
+      "profit": 1400000,
+      "payout": 1500000,
+      "staked": 100000,
+      "mins": 28,
+      "split": {
+        "S": 0.06666666666666667,
+        "payout": 1500000,
+        "profit": 1400000,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "1xBet",
+            "odd": 30,
+            "stake": 50000
+          },
+          {
+            "book": "1xBet",
+            "odd": 30,
+            "stake": 50000
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    }
+  ]
 }
