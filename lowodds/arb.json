@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-18T15:26:13.969Z",
+  "generatedAt": "2026-08-18T15:31:38.084Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "fe20ho0l",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "South Sudan W - Argentina W",
-      "url": "https://www.betexplorer.com/basketball/world/olympic-games-women/south-sudan-argentina/fe20ho0l/",
-      "kickoff": "2026-08-19T00:30:00+09:00",
-      "width": 2,
-      "books": 11,
-      "labels": [
-        "South Sudan W",
-        "Argentina W"
-      ],
-      "legs": [
-        {
-          "outcome": "South Sudan W",
-          "book": "Duelbits",
-          "odd": 1.53,
-          "stake": 66225,
-          "jp": false,
-          "exch": false,
-          "url": "https://duelbits.com/"
-        },
-        {
-          "outcome": "Argentina W",
-          "book": "bwin",
-          "odd": 3,
-          "stake": 33775,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        }
-      ],
-      "S": 0.9869281045751634,
-      "roi": 1.3245033112582627,
-      "profit": 1325,
-      "payout": 101325,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.9869281045751634,
-        "payout": 101325,
-        "profit": 1325,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Duelbits",
-            "odd": 1.53,
-            "stake": 66225
-          },
-          {
-            "book": "bwin",
-            "odd": 3,
-            "stake": 33775
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
