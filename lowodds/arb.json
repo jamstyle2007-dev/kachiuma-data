@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T15:10:00.104Z",
+  "generatedAt": "2026-08-18T15:15:24.139Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
@@ -43,7 +43,7 @@
           "outcome": "South Sudan W",
           "book": "Unibet",
           "odd": 1.55,
-          "stake": 67641,
+          "stake": 66157,
           "jp": false,
           "exch": false,
           "url": "https://www.unibet.com/"
@@ -51,34 +51,34 @@
         {
           "outcome": "Argentina W",
           "book": "1xBet",
-          "odd": 3.24,
-          "stake": 32359,
+          "odd": 3.03,
+          "stake": 33843,
           "jp": true,
           "exch": false,
           "url": "https://1xbet.com/ja"
         }
       ],
-      "S": 0.9538032656312225,
-      "roi": 4.843423799582469,
-      "profit": 4843,
-      "payout": 104843,
+      "S": 0.9751942936229107,
+      "roi": 2.543668122270737,
+      "profit": 2544,
+      "payout": 102544,
       "staked": 100000,
-      "mins": 20,
+      "mins": 15,
       "split": {
-        "S": 0.9538032656312225,
-        "payout": 104843,
-        "profit": 4843,
+        "S": 0.9751942936229107,
+        "payout": 102544,
+        "profit": 2544,
         "staked": 100000,
         "legs": [
           {
             "book": "Unibet",
             "odd": 1.55,
-            "stake": 67641
+            "stake": 66157
           },
           {
             "book": "1xBet",
-            "odd": 3.24,
-            "stake": 32359
+            "odd": 3.03,
+            "stake": 33843
           }
         ]
       },
