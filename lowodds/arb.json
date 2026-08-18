@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T10:50:43.805Z",
+  "generatedAt": "2026-08-18T10:56:09.137Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
@@ -42,18 +42,18 @@
       "legs": [
         {
           "outcome": "Vojvodina",
-          "book": "1xBet",
-          "odd": 7,
-          "stake": 14774,
-          "jp": true,
+          "book": "Bets.io",
+          "odd": 7.7,
+          "stake": 13614,
+          "jp": false,
           "exch": false,
-          "url": "https://1xbet.com/ja"
+          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
         },
         {
           "outcome": "Draw",
           "book": "1xBet",
           "odd": 12,
-          "stake": 8618,
+          "stake": 8736,
           "jp": true,
           "exch": false,
           "url": "https://1xbet.com/ja"
@@ -62,38 +62,38 @@
           "outcome": "RK Zagreb",
           "book": "Betsson",
           "odd": 1.35,
-          "stake": 76607,
+          "stake": 77650,
           "jp": false,
           "exch": false,
           "url": "https://www.betsson.com/"
         }
       ],
-      "S": 0.9669312169312169,
-      "roi": 3.4199726402188935,
-      "profit": 3421,
-      "payout": 103420,
-      "staked": 99999,
-      "mins": 9,
+      "S": 0.9539442039442039,
+      "roi": 4.827933946804497,
+      "profit": 4828,
+      "payout": 104828,
+      "staked": 100000,
+      "mins": 4,
       "split": {
-        "S": 0.9669312169312169,
-        "payout": 103420,
-        "profit": 3421,
-        "staked": 99999,
+        "S": 0.9539442039442039,
+        "payout": 104828,
+        "profit": 4828,
+        "staked": 100000,
         "legs": [
           {
-            "book": "1xBet",
-            "odd": 7,
-            "stake": 14774
+            "book": "Bets.io",
+            "odd": 7.7,
+            "stake": 13614
           },
           {
             "book": "1xBet",
             "odd": 12,
-            "stake": 8618
+            "stake": 8736
           },
           {
             "book": "Betsson",
             "odd": 1.35,
-            "stake": 76607
+            "stake": 77650
           }
         ]
       },
