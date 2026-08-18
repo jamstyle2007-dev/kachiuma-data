@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-18T14:59:05.489Z",
+  "generatedAt": "2026-08-18T15:04:36.085Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 5,
-  "arbCount": 0,
+  "scanned": 1,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 9,
       "profit": 1541158
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "fe20ho0l",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "South Sudan W - Argentina W",
+      "url": "https://www.betexplorer.com/basketball/world/olympic-games-women/south-sudan-argentina/fe20ho0l/",
+      "kickoff": "2026-08-19T00:30:00+09:00",
+      "width": 2,
+      "books": 11,
+      "labels": [
+        "South Sudan W",
+        "Argentina W"
+      ],
+      "legs": [
+        {
+          "outcome": "South Sudan W",
+          "book": "Unibet",
+          "odd": 1.55,
+          "stake": 65169,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.unibet.com/"
+        },
+        {
+          "outcome": "Argentina W",
+          "book": "BetInAsia",
+          "odd": 2.9,
+          "stake": 34831,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.betinasia.com/"
+        }
+      ],
+      "S": 0.9899888765294772,
+      "roi": 1.011235955056189,
+      "profit": 1011,
+      "payout": 101011,
+      "staked": 100000,
+      "mins": 25,
+      "split": {
+        "S": 0.9899888765294772,
+        "payout": 101011,
+        "profit": 1011,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Unibet",
+            "odd": 1.55,
+            "stake": 65169
+          },
+          {
+            "book": "BetInAsia",
+            "odd": 2.9,
+            "stake": 34831
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
