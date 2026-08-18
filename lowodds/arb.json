@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-18T10:56:09.137Z",
+  "generatedAt": "2026-08-18T11:01:35.069Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "hhTj2wAt",
-      "sport": "handball",
-      "sportLabel": "ハンドボール",
-      "teams": "Vojvodina - RK Zagreb",
-      "url": "https://www.betexplorer.com/handball/world/club-friendly/vojvodina-rk-zagreb/hhTj2wAt/",
-      "kickoff": "2026-08-18T20:00:00+09:00",
-      "width": 3,
-      "books": 9,
-      "labels": [
-        "Vojvodina",
-        "Draw",
-        "RK Zagreb"
-      ],
-      "legs": [
-        {
-          "outcome": "Vojvodina",
-          "book": "Bets.io",
-          "odd": 7.7,
-          "stake": 13614,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "1xBet",
-          "odd": 12,
-          "stake": 8736,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "RK Zagreb",
-          "book": "Betsson",
-          "odd": 1.35,
-          "stake": 77650,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.betsson.com/"
-        }
-      ],
-      "S": 0.9539442039442039,
-      "roi": 4.827933946804497,
-      "profit": 4828,
-      "payout": 104828,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.9539442039442039,
-        "payout": 104828,
-        "profit": 4828,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Bets.io",
-            "odd": 7.7,
-            "stake": 13614
-          },
-          {
-            "book": "1xBet",
-            "odd": 12,
-            "stake": 8736
-          },
-          {
-            "book": "Betsson",
-            "odd": 1.35,
-            "stake": 77650
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
