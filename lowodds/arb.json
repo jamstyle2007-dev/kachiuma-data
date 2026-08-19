@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-19T15:29:17.736Z",
+  "generatedAt": "2026-08-19T15:34:43.317Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 0,
+  "scanned": 1,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 10,
       "profit": 1542169
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "W6EfT00k",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Vaqueros de Bayamon - Aguada Santeros",
+      "url": "https://www.betexplorer.com/basketball/puerto-rico/bsn/vaqueros-de-bayamon-aguada-santeros/W6EfT00k/",
+      "kickoff": "2026-08-20T01:00:00+09:00",
+      "width": 2,
+      "books": 14,
+      "labels": [
+        "Vaqueros de Bayamon",
+        "Aguada Santeros"
+      ],
+      "legs": [
+        {
+          "outcome": "Vaqueros de Bayamon",
+          "book": "1xBet",
+          "odd": 1.6,
+          "stake": 67347,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        },
+        {
+          "outcome": "Aguada Santeros",
+          "book": "Mozzartbet",
+          "odd": 3.3,
+          "stake": 32653,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.mozzartbet.com/"
+        }
+      ],
+      "S": 0.928030303030303,
+      "roi": 7.755102040816331,
+      "profit": 7755,
+      "payout": 107755,
+      "staked": 100000,
+      "mins": 25,
+      "split": {
+        "S": 0.928030303030303,
+        "payout": 107755,
+        "profit": 7755,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "1xBet",
+            "odd": 1.6,
+            "stake": 67347
+          },
+          {
+            "book": "Mozzartbet",
+            "odd": 3.3,
+            "stake": 32653
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
