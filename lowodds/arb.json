@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-19T18:12:17.490Z",
+  "generatedAt": "2026-08-19T18:17:42.940Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 1,
+  "scanned": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "AZ6pJubL",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Fuerza Regia - Gambusinos",
-      "url": "https://www.betexplorer.com/basketball/mexico/lnbp/fuerza-regia-gambusinos/AZ6pJubL/",
-      "kickoff": "2026-08-20T03:15:00+09:00",
-      "width": 2,
-      "books": 17,
-      "labels": [
-        "Fuerza Regia",
-        "Gambusinos"
-      ],
-      "legs": [
-        {
-          "outcome": "Fuerza Regia",
-          "book": "William Hill",
-          "odd": 1.53,
-          "stake": 68323,
-          "jp": false,
-          "exch": false,
-          "url": "https://sports.williamhill.com/"
-        },
-        {
-          "outcome": "Gambusinos",
-          "book": "Mozzartbet",
-          "odd": 3.3,
-          "stake": 31677,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.mozzartbet.com/"
-        }
-      ],
-      "S": 0.9566250742721332,
-      "roi": 4.5341614906832195,
-      "profit": 4534,
-      "payout": 104534,
-      "staked": 100000,
-      "mins": 3,
-      "split": {
-        "S": 0.9566250742721332,
-        "payout": 104534,
-        "profit": 4534,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "William Hill",
-            "odd": 1.53,
-            "stake": 68323
-          },
-          {
-            "book": "Mozzartbet",
-            "odd": 3.3,
-            "stake": 31677
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
