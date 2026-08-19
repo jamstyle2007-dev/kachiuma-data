@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T17:45:01.544Z",
+  "generatedAt": "2026-08-19T17:50:30.497Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 4,
@@ -43,7 +43,7 @@
           "outcome": "Fuerza Regia",
           "book": "William Hill",
           "odd": 1.53,
-          "stake": 68323,
+          "stake": 65463,
           "jp": false,
           "exch": false,
           "url": "https://sports.williamhill.com/"
@@ -51,34 +51,34 @@
         {
           "outcome": "Gambusinos",
           "book": "Mozzartbet",
-          "odd": 3.3,
-          "stake": 31677,
+          "odd": 2.9,
+          "stake": 34537,
           "jp": false,
           "exch": false,
           "url": "https://www.mozzartbet.com/"
         }
       ],
-      "S": 0.9566250742721332,
-      "roi": 4.5341614906832195,
-      "profit": 4534,
-      "payout": 104534,
+      "S": 0.9984223574487266,
+      "roi": 0.15801354401805412,
+      "profit": 158,
+      "payout": 100158,
       "staked": 100000,
-      "mins": 30,
+      "mins": 24,
       "split": {
-        "S": 0.9566250742721332,
-        "payout": 104534,
-        "profit": 4534,
+        "S": 0.9984223574487266,
+        "payout": 100158,
+        "profit": 158,
         "staked": 100000,
         "legs": [
           {
             "book": "William Hill",
             "odd": 1.53,
-            "stake": 68323
+            "stake": 65463
           },
           {
             "book": "Mozzartbet",
-            "odd": 3.3,
-            "stake": 31677
+            "odd": 2.9,
+            "stake": 34537
           }
         ]
       },
