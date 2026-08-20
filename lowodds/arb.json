@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-20T10:14:13.946Z",
+  "generatedAt": "2026-08-20T10:29:12.395Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "SKfuDKPb",
-      "sport": "handball",
-      "sportLabel": "ハンドボール",
-      "teams": "Kielce - BM Sinfin",
-      "url": "https://www.betexplorer.com/handball/world/club-friendly/industria-kielce-sinfin/SKfuDKPb/",
-      "kickoff": "2026-08-20T19:15:00+09:00",
-      "width": 2,
-      "books": 5,
-      "labels": [
-        "Kielce",
-        "BM Sinfin"
-      ],
-      "legs": [
-        {
-          "outcome": "Kielce",
-          "book": "1xBet",
-          "odd": 45,
-          "stake": 52632,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "BM Sinfin",
-          "book": "1xBet",
-          "odd": 50,
-          "stake": 47368,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        }
-      ],
-      "S": 0.042222222222222223,
-      "roi": 2268.4210526315787,
-      "profit": 2268421,
-      "payout": 2368421,
-      "staked": 100000,
-      "mins": 1,
-      "split": {
-        "S": 0.042222222222222223,
-        "payout": 2368421,
-        "profit": 2268421,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 45,
-            "stake": 52632
-          },
-          {
-            "book": "1xBet",
-            "odd": 50,
-            "stake": 47368
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
