@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-20T18:11:39.959Z",
+  "generatedAt": "2026-08-20T18:17:07.193Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "EB9562EF",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Diablos Rojos - Lobos Plateados",
-      "url": "https://www.betexplorer.com/basketball/mexico/lnbp/diablos-rojos-lobos-plateados/EB9562EF/",
-      "kickoff": "2026-08-21T03:15:00+09:00",
-      "width": 2,
-      "books": 17,
-      "labels": [
-        "Diablos Rojos",
-        "Lobos Plateados"
-      ],
-      "legs": [
-        {
-          "outcome": "Diablos Rojos",
-          "book": "1xBet",
-          "odd": 1.55,
-          "stake": 65169,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "Lobos Plateados",
-          "book": "Mozzartbet",
-          "odd": 2.9,
-          "stake": 34831,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.mozzartbet.com/"
-        }
-      ],
-      "S": 0.9899888765294772,
-      "roi": 1.011235955056189,
-      "profit": 1011,
-      "payout": 101011,
-      "staked": 100000,
-      "mins": 3,
-      "split": {
-        "S": 0.9899888765294772,
-        "payout": 101011,
-        "profit": 1011,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 1.55,
-            "stake": 65169
-          },
-          {
-            "book": "Mozzartbet",
-            "odd": 2.9,
-            "stake": 34831
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
