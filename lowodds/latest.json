@@ -1,28 +1,48 @@
 {
-  "generatedAt": "2026-08-20T04:37:03.260Z",
+  "generatedAt": "2026-08-20T07:39:29.155Z",
   "source": "betexplorer.com (Pinnacle / 1xBet odds)",
   "threshold": 1.6,
-  "count": 12,
+  "count": 15,
   "matches": [
     {
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "ASIA: AFC CHAMPIONS LEAGUE WOMEN",
-      "home": "Phnom Penh Crown W",
-      "away": "Kaya FC W",
-      "favTeam": "Kaya FC W",
-      "underTeam": "Phnom Penh Crown W",
-      "favOdd": 1.08,
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "PARAGUAY: LNB",
+      "home": "Deportivo Campoalto",
+      "away": "Colonias Gold",
+      "favTeam": "Colonias Gold",
+      "underTeam": "Deportivo Campoalto",
+      "favOdd": 1.05,
+      "prob": 95,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.05
+      },
+      "avgFavOdd": 1.06,
+      "time": "08:00",
+      "kickoff": "2026-08-21T00:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/paraguay/lnb/deportivo-campoalto-colonias-gold/Sb3joTP8/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M15 LAMBERMONT, CLAY",
+      "home": "Collignon K.",
+      "away": "Majdandzic M.",
+      "favTeam": "Majdandzic M.",
+      "underTeam": "Collignon K.",
+      "favOdd": 1.07,
       "prob": 93,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.08
+        "1xbet": 1.07
       },
-      "avgFavOdd": 1.09,
-      "time": "19:00",
-      "kickoff": "2026-08-20T11:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/football/asia/afc-champions-league-women/phnom-penh-crown-kaya-fc/rklvc6Dc/"
+      "avgFavOdd": 1.08,
+      "time": "17:00",
+      "kickoff": "2026-08-20T09:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m15-lambermont/collignon-kylian-majdandzic-marc/EkUVyN9C/"
     },
     {
       "sport": "バスケ",
@@ -32,13 +52,13 @@
       "away": "Felix Perez Cardozo",
       "favTeam": "Felix Perez Cardozo",
       "underTeam": "Capiata Bulls",
-      "favOdd": 1.14,
-      "prob": 88,
+      "favOdd": 1.1,
+      "prob": 91,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.14
+        "1xbet": 1.1
       },
-      "avgFavOdd": 1.14,
+      "avgFavOdd": 1.1,
       "time": "08:30",
       "kickoff": "2026-08-21T00:30:00+09:00",
       "niche": false,
@@ -48,21 +68,61 @@
       "sport": "テニス",
       "sportKey": "tennis",
       "league": "ITF MEN - SINGLES: M25 TAIPEI, HARD",
-      "home": "Matsuda R.",
-      "away": "Jasika O.",
-      "favTeam": "Jasika O.",
-      "underTeam": "Matsuda R.",
-      "favOdd": 1.17,
-      "prob": 85,
+      "home": "Koyama H.",
+      "away": "Dellavedova M.",
+      "favTeam": "Dellavedova M.",
+      "underTeam": "Koyama H.",
+      "favOdd": 1.1,
+      "prob": 91,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.17
+        "1xbet": 1.1
       },
-      "avgFavOdd": 1.17,
-      "time": "15:00",
-      "kickoff": "2026-08-20T07:00:00+09:00",
+      "avgFavOdd": 1.1,
+      "time": "16:35",
+      "kickoff": "2026-08-20T08:35:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-taipei/matsuda-ryuki-jasika-omar/lIDuSKxB/"
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-taipei/koyama-hiromasa-dellavedova-matthew/lKGLLwHU/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M15 MISTELBACH, CLAY",
+      "home": "Toffanin N.",
+      "away": "Noce G. M.",
+      "favTeam": "Noce G. M.",
+      "underTeam": "Toffanin N.",
+      "favOdd": 1.2,
+      "prob": 83,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.2
+      },
+      "avgFavOdd": 1.21,
+      "time": "17:00",
+      "kickoff": "2026-08-20T09:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m15-mistelbach/toffanin-nicolo-noce-gabriele-maria/EwdCORin/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M25 TAIPEI, HARD",
+      "home": "Moriya H.",
+      "away": "Wu Tung-Lin",
+      "favTeam": "Wu Tung-Lin",
+      "underTeam": "Moriya H.",
+      "favOdd": 1.24,
+      "prob": 81,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.24
+      },
+      "avgFavOdd": 1.27,
+      "time": "16:40",
+      "kickoff": "2026-08-20T08:40:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-taipei/moriya-hiroki-wu-tung-lin/EaDkT3It/"
     },
     {
       "sport": "バスケ",
@@ -72,13 +132,13 @@
       "away": "Estonia",
       "favTeam": "Lithuania",
       "underTeam": "Estonia",
-      "favOdd": 1.18,
-      "prob": 85,
+      "favOdd": 1.34,
+      "prob": 75,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.18
+        "1xbet": 1.34
       },
-      "avgFavOdd": 1.24,
+      "avgFavOdd": 1.3,
       "time": "01:30",
       "kickoff": "2026-08-20T17:30:00+09:00",
       "niche": false,
@@ -87,42 +147,42 @@
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "ITF MEN - DOUBLES: M15 MAANSHAN 7, HARD",
-      "home": "Alhogbani A. F. / Ryan Ziegann S.",
-      "away": "Chung Y. / Kim D. J.",
-      "favTeam": "Chung Y. / Kim D. J.",
-      "underTeam": "Alhogbani A. F. / Ryan Ziegann S.",
-      "favOdd": 1.19,
-      "prob": 84,
+      "league": "ITF MEN - SINGLES: M25 LESA, CLAY",
+      "home": "Seghetti S.",
+      "away": "Rottoli L.",
+      "favTeam": "Rottoli L.",
+      "underTeam": "Seghetti S.",
+      "favOdd": 1.37,
+      "prob": 73,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.19
+        "1xbet": 1.37
       },
-      "avgFavOdd": 1.19,
-      "time": "15:00",
-      "kickoff": "2026-08-20T07:00:00+09:00",
+      "avgFavOdd": 1.37,
+      "time": "16:30",
+      "kickoff": "2026-08-20T08:30:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-doubles/m15-maanshan-7/alhogbani-anmar-faleh-ryan-ziegann-sam-chung-yunseong-kim-dong-ju/zq7DmOpK/"
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-lesa/seghetti-samuele-rottoli-lorenzo/0jftN4c6/"
     },
     {
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "BHUTAN: PREMIER LEAGUE",
-      "home": "Drukpa",
-      "away": "Thimphu City",
-      "favTeam": "Thimphu City",
-      "underTeam": "Drukpa",
-      "favOdd": 1.29,
-      "prob": 78,
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M15 MISTELBACH, CLAY",
+      "home": "Dean T.",
+      "away": "Wieland L.",
+      "favTeam": "Dean T.",
+      "underTeam": "Wieland L.",
+      "favOdd": 1.37,
+      "prob": 73,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.29
+        "1xbet": 1.37
       },
-      "avgFavOdd": 1.3,
-      "time": "21:00",
-      "kickoff": "2026-08-20T13:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/football/bhutan/premier-league/drukpa-thimphu-city/4dhLqz0K/"
+      "avgFavOdd": 1.37,
+      "time": "17:00",
+      "kickoff": "2026-08-20T09:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m15-mistelbach/dean-theodore-wieland-luc/tYygJWF6/"
     },
     {
       "sport": "バスケ",
@@ -145,6 +205,26 @@
       "url": "https://www.betexplorer.com/basketball/world/club-friendly/igokea-vienna-basket/S0fy05bf/"
     },
     {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M25 LESA, CLAY",
+      "home": "Rahmani K.",
+      "away": "Weis A.",
+      "favTeam": "Weis A.",
+      "underTeam": "Rahmani K.",
+      "favOdd": 1.47,
+      "prob": 68,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.47
+      },
+      "avgFavOdd": 1.48,
+      "time": "16:30",
+      "kickoff": "2026-08-20T08:30:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-lesa/rahmani-kasra-weis-alexander/vHRUZmEi/"
+    },
+    {
       "sport": "バスケ",
       "sportKey": "basketball",
       "league": "WORLD: OLYMPIC GAMES WOMEN",
@@ -152,57 +232,57 @@
       "away": "South Sudan W",
       "favTeam": "South Sudan W",
       "underTeam": "New Zealand W",
-      "favOdd": 1.47,
-      "prob": 68,
+      "favOdd": 1.53,
+      "prob": 65,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.47
+        "1xbet": 1.53
       },
-      "avgFavOdd": 1.49,
+      "avgFavOdd": 1.53,
       "time": "05:45",
       "kickoff": "2026-08-20T21:45:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/basketball/world/olympic-games-women/new-zealand-south-sudan/Ao9Gl3aD/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - DOUBLES: W15 TIANJIN 3, HARD",
-      "home": "Chanta A. / Naklo T.",
-      "away": "Yodpetch K. / Zhang R.",
-      "favTeam": "Yodpetch K. / Zhang R.",
-      "underTeam": "Chanta A. / Naklo T.",
-      "favOdd": 1.49,
-      "prob": 67,
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "USA: WNBA",
+      "home": "Dallas Wings W",
+      "away": "Indiana Fever W",
+      "favTeam": "Indiana Fever W",
+      "underTeam": "Dallas Wings W",
+      "favOdd": 1.55,
+      "prob": 65,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.49
+        "1xbet": 1.55
       },
-      "avgFavOdd": 1.48,
-      "time": "14:00",
-      "kickoff": "2026-08-20T06:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-doubles/w15-tianjin-3/chanta-aunchisa-naklo-thasaporn-yodpetch-kamonwan-zhang-ruien/6Pr8f4S7/"
+      "avgFavOdd": 1.57,
+      "time": "09:00",
+      "kickoff": "2026-08-21T01:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/usa/wnba/dallas-wings-indiana-fever/jy9ogoqJ/"
     },
     {
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "ESTONIA: ESILIIGA",
-      "home": "Nomme Kalju U21",
-      "away": "Tallinna Kalev",
-      "favTeam": "Tallinna Kalev",
-      "underTeam": "Nomme Kalju U21",
+      "sport": "野球",
+      "sportKey": "baseball",
+      "league": "SOUTH KOREA: KBO",
+      "home": "Samsung Lions",
+      "away": "SSG Landers",
+      "favTeam": "Samsung Lions",
+      "underTeam": "SSG Landers",
       "favOdd": 1.58,
       "prob": 63,
       "book": "1xBet",
       "books": {
         "1xbet": 1.58
       },
-      "avgFavOdd": 1.62,
-      "time": "21:00",
-      "kickoff": "2026-08-20T13:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/football/estonia/esiliiga/kalju-tallinna-kalev/W45BKxP6/"
+      "avgFavOdd": 1.52,
+      "time": "19:00",
+      "kickoff": "2026-08-20T11:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/samsung-lions-ssg-landers/8xCrEmUh/"
     },
     {
       "sport": "アイスホッケー",
@@ -218,31 +298,11 @@
       "books": {
         "1xbet": 1.59
       },
-      "avgFavOdd": 1.6,
+      "avgFavOdd": 1.61,
       "time": "23:00",
       "kickoff": "2026-08-20T15:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/hockey/world/club-friendly/mhc-khimik-vhl-akm-vhl/dOKSwwWh/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "USA: WNBA",
-      "home": "Dallas Wings W",
-      "away": "Indiana Fever W",
-      "favTeam": "Indiana Fever W",
-      "underTeam": "Dallas Wings W",
-      "favOdd": 1.6,
-      "prob": 63,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.6
-      },
-      "avgFavOdd": 1.6,
-      "time": "09:00",
-      "kickoff": "2026-08-21T01:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/usa/wnba/dallas-wings-indiana-fever/jy9ogoqJ/"
     }
   ]
 }
