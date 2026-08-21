@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-21T01:37:33.625Z",
+  "generatedAt": "2026-08-21T01:43:03.849Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 4,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "xxStNrDN",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Hanwha Eagles - LG Twins",
-      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/hanwha-eagles-lg-twins/xxStNrDN/",
-      "kickoff": "2026-08-21T11:00:00+09:00",
-      "width": 3,
-      "books": 9,
-      "labels": [
-        "Hanwha Eagles",
-        "Draw",
-        "LG Twins"
-      ],
-      "legs": [
-        {
-          "outcome": "Hanwha Eagles",
-          "book": "11:6",
-          "odd": 11,
-          "stake": 15900,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=11%3A6%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "POSTP.",
-          "odd": 2.32,
-          "stake": 75389,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=POSTP.%20sportsbook"
-        },
-        {
-          "outcome": "LG Twins",
-          "book": "6:10",
-          "odd": 20.08,
-          "stake": 8710,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=6%3A10%20sportsbook"
-        }
-      ],
-      "S": 0.5717443704804606,
-      "roi": 74.90333995937002,
-      "profit": 74904,
-      "payout": 174903,
-      "staked": 99999,
-      "mins": 22,
-      "split": {
-        "S": 0.5717443704804606,
-        "payout": 174903,
-        "profit": 74904,
-        "staked": 99999,
-        "legs": [
-          {
-            "book": "11:6",
-            "odd": 11,
-            "stake": 15900
-          },
-          {
-            "book": "POSTP.",
-            "odd": 2.32,
-            "stake": 75389
-          },
-          {
-            "book": "6:10",
-            "odd": 20.08,
-            "stake": 8710
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
