@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-21T02:36:59.952Z",
+  "generatedAt": "2026-08-21T02:42:01.149Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 6,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 14,
       "profit": 3823890
     },
-    "pending": 1
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "SG6fJ2uQ",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Forestville Eagles - Gold Coast Rollers",
+      "url": "https://www.betexplorer.com/basketball/australia/nbl1/forestville-eagles-gold-coast-rollers/SG6fJ2uQ/",
+      "kickoff": "2026-08-21T12:00:00+09:00",
+      "width": 2,
+      "books": 11,
+      "labels": [
+        "Forestville Eagles",
+        "Gold Coast Rollers"
+      ],
+      "legs": [
+        {
+          "outcome": "Forestville Eagles",
+          "book": "Unibet",
+          "odd": 1.82,
+          "stake": 55283,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.unibet.com/"
+        },
+        {
+          "outcome": "Gold Coast Rollers",
+          "book": "bet365",
+          "odd": 2.25,
+          "stake": 44717,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.bet365.com/"
+        }
+      ],
+      "S": 0.9938949938949938,
+      "roi": 0.6142506142506221,
+      "profit": 614,
+      "payout": 100614,
+      "staked": 100000,
+      "mins": 18,
+      "split": {
+        "S": 0.9938949938949938,
+        "payout": 100614,
+        "profit": 614,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Unibet",
+            "odd": 1.82,
+            "stake": 55283
+          },
+          {
+            "book": "bet365",
+            "odd": 2.25,
+            "stake": 44717
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
