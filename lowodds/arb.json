@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-21T17:45:16.620Z",
+  "generatedAt": "2026-08-21T17:50:42.879Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 3,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "8OefbXgl",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Toronto Tempo W - Portland Fire W",
-      "url": "https://www.betexplorer.com/basketball/usa/wnba/toronto-tempo-portland-fire/8OefbXgl/",
-      "kickoff": "2026-08-22T03:00:00+09:00",
-      "width": 2,
-      "books": 19,
-      "labels": [
-        "Toronto Tempo W",
-        "Portland Fire W"
-      ],
-      "legs": [
-        {
-          "outcome": "Toronto Tempo W",
-          "book": "1xBet",
-          "odd": 2.44,
-          "stake": 41205,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "Portland Fire W",
-          "book": "Betway",
-          "odd": 1.71,
-          "stake": 58795,
-          "jp": true,
-          "exch": false,
-          "url": "https://betway.com/"
-        }
-      ],
-      "S": 0.9946313872111974,
-      "roi": 0.5397590361445825,
-      "profit": 540,
-      "payout": 100540,
-      "staked": 100000,
-      "mins": 15,
-      "split": {
-        "S": 0.9946313872111974,
-        "payout": 100540,
-        "profit": 540,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 2.44,
-            "stake": 41205
-          },
-          {
-            "book": "Betway",
-            "odd": 1.71,
-            "stake": 58795
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
