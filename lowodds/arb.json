@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T14:32:55.979Z",
+  "generatedAt": "2026-08-21T14:38:23.671Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 4,
@@ -41,44 +41,44 @@
       "legs": [
         {
           "outcome": "Philadelphia Phillies",
-          "book": "1xBet",
-          "odd": 1.5,
-          "stake": 68085,
-          "jp": true,
+          "book": "Unibet",
+          "odd": 1.46,
+          "stake": 68670,
+          "jp": false,
           "exch": false,
-          "url": "https://1xbet.com/ja"
+          "url": "https://www.unibet.com/"
         },
         {
           "outcome": "St.Louis Cardinals",
           "book": "bet365",
           "odd": 3.2,
-          "stake": 31915,
+          "stake": 31330,
           "jp": false,
           "exch": false,
           "url": "https://www.bet365.com/"
         }
       ],
-      "S": 0.9791666666666666,
-      "roi": 2.1276595744680993,
-      "profit": 2128,
-      "payout": 102128,
+      "S": 0.997431506849315,
+      "roi": 0.2575107296137302,
+      "profit": 258,
+      "payout": 100258,
       "staked": 100000,
-      "mins": 7,
+      "mins": 2,
       "split": {
-        "S": 0.9791666666666666,
-        "payout": 102128,
-        "profit": 2128,
+        "S": 0.997431506849315,
+        "payout": 100258,
+        "profit": 258,
         "staked": 100000,
         "legs": [
           {
-            "book": "1xBet",
-            "odd": 1.5,
-            "stake": 68085
+            "book": "Unibet",
+            "odd": 1.46,
+            "stake": 68670
           },
           {
             "book": "bet365",
             "odd": 3.2,
-            "stake": 31915
+            "stake": 31330
           }
         ]
       },
