@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-21T14:38:23.671Z",
+  "generatedAt": "2026-08-21T14:43:51.175Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 4,
-  "arbCount": 1,
+  "scanned": 3,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "hxn5mEEl",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Philadelphia Phillies - St.Louis Cardinals",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/philadelphia-phillies-st-louis-cardinals/hxn5mEEl/",
-      "kickoff": "2026-08-21T23:40:00+09:00",
-      "width": 2,
-      "books": 19,
-      "labels": [
-        "Philadelphia Phillies",
-        "St.Louis Cardinals"
-      ],
-      "legs": [
-        {
-          "outcome": "Philadelphia Phillies",
-          "book": "Unibet",
-          "odd": 1.46,
-          "stake": 68670,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.unibet.com/"
-        },
-        {
-          "outcome": "St.Louis Cardinals",
-          "book": "bet365",
-          "odd": 3.2,
-          "stake": 31330,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.bet365.com/"
-        }
-      ],
-      "S": 0.997431506849315,
-      "roi": 0.2575107296137302,
-      "profit": 258,
-      "payout": 100258,
-      "staked": 100000,
-      "mins": 2,
-      "split": {
-        "S": 0.997431506849315,
-        "payout": 100258,
-        "profit": 258,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Unibet",
-            "odd": 1.46,
-            "stake": 68670
-          },
-          {
-            "book": "bet365",
-            "odd": 3.2,
-            "stake": 31330
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
