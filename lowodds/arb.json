@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-22T17:57:23.640Z",
+  "generatedAt": "2026-08-22T18:02:46.205Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 4
   },
-  "opps": [
-    {
-      "id": "OvprO5rg",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Phoenix Mercury W - Atlanta Dream W",
-      "url": "https://www.betexplorer.com/basketball/usa/wnba/phoenix-mercury-atlanta-dream/OvprO5rg/",
-      "kickoff": "2026-08-23T03:00:00+09:00",
-      "width": 2,
-      "books": 19,
-      "labels": [
-        "Phoenix Mercury W",
-        "Atlanta Dream W"
-      ],
-      "legs": [
-        {
-          "outcome": "Phoenix Mercury W",
-          "book": "Betfair Exchange",
-          "odd": 3.66,
-          "stake": 28094,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        },
-        {
-          "outcome": "Atlanta Dream W",
-          "book": "Rainbet",
-          "odd": 1.43,
-          "stake": 71906,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
-        }
-      ],
-      "S": 0.9725247430165463,
-      "roi": 2.825147347740664,
-      "profit": 2825,
-      "payout": 102825,
-      "staked": 100000,
-      "mins": 3,
-      "split": {
-        "S": 0.9725247430165463,
-        "payout": 102825,
-        "profit": 2825,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betfair Exchange",
-            "odd": 3.66,
-            "stake": 28094
-          },
-          {
-            "book": "Rainbet",
-            "odd": 1.43,
-            "stake": 71906
-          }
-        ]
-      },
-      "hasExch": true,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
