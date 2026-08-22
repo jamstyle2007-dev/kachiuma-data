@@ -1,0 +1,329 @@
+{
+ "date": "2026-08-23",
+ "track": "新潟",
+ "raceNo": 7,
+ "name": "新潟2歳S",
+ "grade": "G3",
+ "surface": "芝",
+ "distance": 1600,
+ "postTime": "15:25",
+ "trackCondition": null,
+ "conditionType": "馬齢",
+ "fieldSize": 10,
+ "status": "発走前確定",
+ "oddsUpdatedAt": "19:20",
+ "sourcesChecked": [
+  "netkeiba",
+  "競馬ラボ"
+ ],
+ "horses": [
+  {
+   "num": 1,
+   "name": "シャンデヴァーグ",
+   "jockey": "津村明秀",
+   "weight": 55.0,
+   "sexAge": "牝2",
+   "popularity": 2,
+   "winOdds": 4.7,
+   "placeOdds": [
+    1.4,
+    1.9
+   ],
+   "style": "先行",
+   "recent3": [
+    {
+     "date": "2026-06-13",
+     "race": "2歳新馬",
+     "grade": "新馬",
+     "track": "東京",
+     "surface": "芝",
+     "distance": 1600,
+     "cond": "良",
+     "field": 7,
+     "pop": 1,
+     "finish": 1,
+     "margin": "0.0",
+     "last3f": 33.4,
+     "passing": "3-4"
+    }
+   ]
+  },
+  {
+   "num": 2,
+   "name": "レッチュベルク",
+   "jockey": "田辺裕信",
+   "weight": 55.0,
+   "sexAge": "牡2",
+   "popularity": 1,
+   "winOdds": 3.0,
+   "placeOdds": [
+    1.3,
+    1.6
+   ],
+   "style": "先行",
+   "recent3": [
+    {
+     "date": "2026-06-20",
+     "race": "2歳新馬",
+     "grade": "新馬",
+     "track": "東京",
+     "surface": "芝",
+     "distance": 1600,
+     "cond": "稍重",
+     "field": 10,
+     "pop": 2,
+     "finish": 1,
+     "margin": "-0.5",
+     "last3f": 33.7,
+     "passing": "3-3"
+    }
+   ]
+  },
+  {
+   "num": 3,
+   "name": "トップチェッカー",
+   "jockey": "北村友一",
+   "weight": 55.0,
+   "sexAge": "牡2",
+   "popularity": 5,
+   "winOdds": 6.0,
+   "placeOdds": [
+    1.9,
+    2.8
+   ],
+   "style": "差し",
+   "recent3": [
+    {
+     "date": "2026-06-21",
+     "race": "2歳新馬",
+     "grade": "新馬",
+     "track": "阪神",
+     "surface": "芝",
+     "distance": 1600,
+     "cond": "稍重",
+     "field": 9,
+     "pop": 1,
+     "finish": 1,
+     "margin": "-0.2",
+     "last3f": 34.3,
+     "passing": "5-3"
+    }
+   ]
+  },
+  {
+   "num": 4,
+   "name": "アイデアルカット",
+   "jockey": "嶋田純次",
+   "weight": 55.0,
+   "sexAge": "牡2",
+   "popularity": 10,
+   "winOdds": 75.8,
+   "placeOdds": [
+    12.0,
+    19.2
+   ],
+   "style": "差し",
+   "recent3": [
+    {
+     "date": "2026-07-18",
+     "race": "2歳未勝利",
+     "grade": "未勝利",
+     "pop": 7,
+     "finish": 5
+    },
+    {
+     "date": "2026-06-27",
+     "race": "2歳新馬",
+     "grade": "新馬",
+     "pop": 7,
+     "finish": 7
+    }
+   ]
+  },
+  {
+   "num": 5,
+   "name": "エレスレイプニル",
+   "jockey": "木幡育也",
+   "weight": 55.0,
+   "sexAge": "牡2",
+   "popularity": 8,
+   "winOdds": 53.8,
+   "placeOdds": [
+    8.2,
+    13.1
+   ],
+   "style": "差し",
+   "recent3": [
+    {
+     "date": "2026-08-02",
+     "race": "2歳未勝利",
+     "grade": "未勝利",
+     "track": "新潟",
+     "surface": "芝",
+     "distance": 1600,
+     "cond": "良",
+     "field": 12,
+     "pop": 12,
+     "finish": 8,
+     "margin": "0.7",
+     "last3f": 33.9,
+     "passing": "6-7"
+    },
+    {
+     "date": "2026-07-05",
+     "race": "2歳新馬",
+     "grade": "新馬",
+     "track": "福島",
+     "surface": "芝",
+     "distance": 1200,
+     "cond": "良",
+     "field": 13,
+     "pop": 11,
+     "finish": 10,
+     "margin": "1.7",
+     "last3f": 35.9,
+     "passing": "9-9"
+    }
+   ]
+  },
+  {
+   "num": 6,
+   "name": "マインドフルネス",
+   "jockey": "菊沢一樹",
+   "weight": 55.0,
+   "sexAge": "牝2",
+   "popularity": 7,
+   "winOdds": 28.2,
+   "placeOdds": [
+    5.8,
+    9.1
+   ],
+   "style": null,
+   "recent3": []
+  },
+  {
+   "num": 7,
+   "name": "トウシンマジック",
+   "jockey": "コレット",
+   "weight": 55.0,
+   "sexAge": "牡2",
+   "popularity": 3,
+   "winOdds": 4.9,
+   "placeOdds": [
+    1.6,
+    2.3
+   ],
+   "style": "差し",
+   "recent3": [
+    {
+     "date": "2026-07-26",
+     "race": "2歳新馬",
+     "grade": "新馬",
+     "track": "新潟",
+     "surface": "芝",
+     "distance": 1600,
+     "cond": "良",
+     "field": 9,
+     "pop": 3,
+     "finish": 1,
+     "margin": "0.0",
+     "last3f": 32.8,
+     "passing": "6-6"
+    }
+   ]
+  },
+  {
+   "num": 8,
+   "name": "マイホームパパ",
+   "jockey": "江田照男",
+   "weight": 55.0,
+   "sexAge": "牡2",
+   "popularity": 9,
+   "winOdds": 68.2,
+   "placeOdds": [
+    11.5,
+    18.4
+   ],
+   "style": "追込",
+   "recent3": [
+    {
+     "date": "2026-08-09",
+     "race": "2歳未勝利",
+     "grade": "未勝利",
+     "pop": 12,
+     "finish": 12
+    },
+    {
+     "date": "2026-07-19",
+     "race": "2歳新馬",
+     "grade": "新馬",
+     "pop": 9,
+     "finish": 6
+    }
+   ]
+  },
+  {
+   "num": 9,
+   "name": "スイートアリッサム",
+   "jockey": "杉原誠人",
+   "weight": 55.0,
+   "sexAge": "牝2",
+   "popularity": 6,
+   "winOdds": 19.2,
+   "placeOdds": [
+    1.8,
+    2.6
+   ],
+   "style": "差し",
+   "recent3": [
+    {
+     "date": "2026-07-25",
+     "race": "2歳新馬",
+     "grade": "新馬",
+     "track": "新潟",
+     "surface": "芝",
+     "distance": 1600,
+     "cond": "良",
+     "field": 8,
+     "pop": 8,
+     "finish": 4,
+     "margin": "0.2",
+     "last3f": 32.8,
+     "passing": "5-5"
+    }
+   ]
+  },
+  {
+   "num": 10,
+   "name": "インカルナータ",
+   "jockey": "坂井瑠星",
+   "weight": 55.0,
+   "sexAge": "牡2",
+   "popularity": 4,
+   "winOdds": 4.9,
+   "placeOdds": [
+    1.7,
+    2.4
+   ],
+   "style": "逃げ",
+   "recent3": [
+    {
+     "date": "2026-06-14",
+     "race": "2歳新馬",
+     "grade": "新馬",
+     "track": "阪神",
+     "surface": "芝",
+     "distance": 1800,
+     "cond": "良",
+     "field": 8,
+     "pop": 4,
+     "finish": 1,
+     "margin": "-0.2",
+     "last3f": 33.2,
+     "passing": "1-1"
+    }
+   ]
+  }
+ ],
+ "result": null
+}
