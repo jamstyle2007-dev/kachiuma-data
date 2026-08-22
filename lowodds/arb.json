@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T17:35:46.663Z",
+  "generatedAt": "2026-08-22T17:41:11.111Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
@@ -42,8 +42,8 @@
         {
           "outcome": "Phoenix Mercury W",
           "book": "Betfair Exchange",
-          "odd": 3.61,
-          "stake": 28373,
+          "odd": 3.66,
+          "stake": 28094,
           "jp": true,
           "exch": true,
           "url": "https://www.betfair.com/exchange/plus/"
@@ -52,33 +52,33 @@
           "outcome": "Atlanta Dream W",
           "book": "Rainbet",
           "odd": 1.43,
-          "stake": 71627,
+          "stake": 71906,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
         }
       ],
-      "S": 0.9763090095500069,
-      "roi": 2.4265873015872907,
-      "profit": 2427,
-      "payout": 102427,
+      "S": 0.9725247430165463,
+      "roi": 2.825147347740664,
+      "profit": 2825,
+      "payout": 102825,
       "staked": 100000,
-      "mins": 24,
+      "mins": 19,
       "split": {
-        "S": 0.9763090095500069,
-        "payout": 102427,
-        "profit": 2427,
+        "S": 0.9725247430165463,
+        "payout": 102825,
+        "profit": 2825,
         "staked": 100000,
         "legs": [
           {
             "book": "Betfair Exchange",
-            "odd": 3.61,
-            "stake": 28373
+            "odd": 3.66,
+            "stake": 28094
           },
           {
             "book": "Rainbet",
             "odd": 1.43,
-            "stake": 71627
+            "stake": 71906
           }
         ]
       },
