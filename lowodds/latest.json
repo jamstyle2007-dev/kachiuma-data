@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-22T02:22:24.263Z",
+  "generatedAt": "2026-08-22T05:25:09.713Z",
   "source": "betexplorer.com (Pinnacle / 1xBet odds)",
   "threshold": 1.6,
-  "count": 28,
+  "count": 31,
   "matches": [
     {
       "sport": "バレー",
@@ -65,6 +65,26 @@
       "url": "https://www.betexplorer.com/volleyball/world/friendly-international/russia-belarus/EeBFnthR/"
     },
     {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "AUSTRALIA: NBL1",
+      "home": "Canberra",
+      "away": "Gold Coast Rollers",
+      "favTeam": "Canberra",
+      "underTeam": "Gold Coast Rollers",
+      "favOdd": 1.08,
+      "prob": 93,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.08
+      },
+      "avgFavOdd": 1.09,
+      "time": "18:00",
+      "kickoff": "2026-08-22T10:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/australia/nbl1/canberra-gold-coast-rollers/UR5SJCN0/"
+    },
+    {
       "sport": "アイスホッケー",
       "sportKey": "hockey",
       "league": "AUSTRALIA: AIHL",
@@ -83,6 +103,26 @@
       "kickoff": "2026-08-22T06:45:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/hockey/australia/aihl/central-coast-rhinos-newcastle-north-stars/ttVK7fy8/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M25 LESA, CLAY",
+      "home": "Spiridon D. C.",
+      "away": "Lokoli L.",
+      "favTeam": "Lokoli L.",
+      "underTeam": "Spiridon D. C.",
+      "favOdd": 1.09,
+      "prob": 92,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.09
+      },
+      "avgFavOdd": 1.09,
+      "time": "17:00",
+      "kickoff": "2026-08-22T09:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-lesa/spiridon-denis-constantin-lokoli-laurent/vJzRgujl/"
     },
     {
       "sport": "バスケ",
@@ -125,24 +165,24 @@
       "url": "https://www.betexplorer.com/volleyball/europe/european-championships-women/belgium-spain/EsygiwS7/"
     },
     {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "EUROPE: EUROPEAN CHAMPIONSHIPS WOMEN",
-      "home": "Germany W",
-      "away": "Slovenia W",
-      "favTeam": "Germany W",
-      "underTeam": "Slovenia W",
-      "favOdd": 1.18,
-      "prob": 85,
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "WORLD: FRIENDLY INTERNATIONAL",
+      "home": "Greece",
+      "away": "Poland",
+      "favTeam": "Greece",
+      "underTeam": "Poland",
+      "favOdd": 1.15,
+      "prob": 87,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.18
+        "1xbet": 1.15
       },
-      "avgFavOdd": 1.2,
-      "time": "22:00",
-      "kickoff": "2026-08-22T14:00:00+09:00",
+      "avgFavOdd": 1.18,
+      "time": "02:00",
+      "kickoff": "2026-08-22T18:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/europe/european-championships-women/germany-slovenia/EXoWgxmD/"
+      "url": "https://www.betexplorer.com/basketball/world/friendly-international/greece-poland/274dXjLc/"
     },
     {
       "sport": "バレー",
@@ -152,17 +192,37 @@
       "away": "Indonesia W",
       "favTeam": "Kazakhstan W",
       "underTeam": "Indonesia W",
-      "favOdd": 1.22,
-      "prob": 82,
+      "favOdd": 1.19,
+      "prob": 84,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.22
+        "1xbet": 1.19
       },
-      "avgFavOdd": 1.21,
+      "avgFavOdd": 1.2,
       "time": "16:00",
       "kickoff": "2026-08-22T08:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/volleyball/asia/asian-championship-women/kazakhstan-indonesia/YJAcuQkB/"
+    },
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "EUROPE: EUROPEAN CHAMPIONSHIPS WOMEN",
+      "home": "Germany W",
+      "away": "Slovenia W",
+      "favTeam": "Germany W",
+      "underTeam": "Slovenia W",
+      "favOdd": 1.21,
+      "prob": 83,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.21
+      },
+      "avgFavOdd": 1.21,
+      "time": "22:00",
+      "kickoff": "2026-08-22T14:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/volleyball/europe/european-championships-women/germany-slovenia/EXoWgxmD/"
     },
     {
       "sport": "アイスホッケー",
@@ -178,31 +238,11 @@
       "books": {
         "1xbet": 1.24
       },
-      "avgFavOdd": 1.27,
+      "avgFavOdd": 1.26,
       "time": "15:45",
       "kickoff": "2026-08-22T07:45:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/hockey/australia/aihl/brisbane-lightning-sydney-ice-dogs/O4f5F6fE/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "WORLD: FRIENDLY INTERNATIONAL",
-      "home": "Slovenia",
-      "away": "Montenegro",
-      "favTeam": "Slovenia",
-      "underTeam": "Montenegro",
-      "favOdd": 1.25,
-      "prob": 80,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.25
-      },
-      "avgFavOdd": 1.31,
-      "time": "01:00",
-      "kickoff": "2026-08-22T17:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/world/friendly-international/slovenia-montenegro/EuwsKqwC/"
     },
     {
       "sport": "バレー",
@@ -212,37 +252,17 @@
       "away": "Greece W",
       "favTeam": "Ukraine W",
       "underTeam": "Greece W",
-      "favOdd": 1.26,
+      "favOdd": 1.27,
       "prob": 79,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.26
+        "1xbet": 1.27
       },
-      "avgFavOdd": 1.27,
+      "avgFavOdd": 1.28,
       "time": "23:00",
       "kickoff": "2026-08-22T15:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/volleyball/europe/european-championships-women/ukraine-greece/WO2gFqFj/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25 LESA, CLAY",
-      "home": "Seghetti S.",
-      "away": "Rottoli L.",
-      "favTeam": "Rottoli L.",
-      "underTeam": "Seghetti S.",
-      "favOdd": 1.3,
-      "prob": 77,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.3
-      },
-      "avgFavOdd": 1.33,
-      "time": "17:00",
-      "kickoff": "2026-08-22T09:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-lesa/seghetti-samuele-rottoli-lorenzo/0jftN4c6/"
     },
     {
       "sport": "アイスホッケー",
@@ -252,11 +272,11 @@
       "away": "Perth",
       "favTeam": "Perth",
       "underTeam": "Adelaide",
-      "favOdd": 1.3,
-      "prob": 77,
+      "favOdd": 1.29,
+      "prob": 78,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.3
+        "1xbet": 1.29
       },
       "avgFavOdd": 1.33,
       "time": "16:15",
@@ -272,17 +292,37 @@
       "away": "Algeria",
       "favTeam": "Portugal",
       "underTeam": "Algeria",
-      "favOdd": 1.34,
-      "prob": 75,
+      "favOdd": 1.3,
+      "prob": 77,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.34
+        "1xbet": 1.3
       },
-      "avgFavOdd": 1.31,
+      "avgFavOdd": 1.3,
       "time": "21:00",
       "kickoff": "2026-08-22T13:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/volleyball/world/mediterranean-games/portugal-algeria/WliE58Rj/"
+    },
+    {
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "AUSTRALIA: NPL VICTORIA WOMEN",
+      "home": "Bulleen Lions W",
+      "away": "Spring Hills W",
+      "favTeam": "Bulleen Lions W",
+      "underTeam": "Spring Hills W",
+      "favOdd": 1.3,
+      "prob": 77,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.3
+      },
+      "avgFavOdd": 1.31,
+      "time": "15:00",
+      "kickoff": "2026-08-22T07:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/football/australia/npl-victoria-women/bulleen-lions-spring-hills/Yg72aF6C/"
     },
     {
       "sport": "アイスホッケー",
@@ -307,42 +347,22 @@
     {
       "sport": "バスケ",
       "sportKey": "basketball",
-      "league": "MEXICO: LNBP",
-      "home": "Soles",
-      "away": "Mineros",
-      "favTeam": "Soles",
-      "underTeam": "Mineros",
+      "league": "WORLD: FRIENDLY INTERNATIONAL",
+      "home": "Slovenia",
+      "away": "Montenegro",
+      "favTeam": "Slovenia",
+      "underTeam": "Montenegro",
       "favOdd": 1.36,
       "prob": 74,
       "book": "1xBet",
       "books": {
         "1xbet": 1.36
       },
-      "avgFavOdd": 1.32,
-      "time": "12:00",
-      "kickoff": "2026-08-22T04:00:00+09:00",
+      "avgFavOdd": 1.33,
+      "time": "01:00",
+      "kickoff": "2026-08-22T17:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/mexico/lnbp/soles-mineros-de-zacatecas/KnkAvmQb/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - DOUBLES: M25 TAIPEI, HARD",
-      "home": "Ogura K. / Saitoh K.",
-      "away": "Ichikawa T. / Imamura M.",
-      "favTeam": "Ichikawa T. / Imamura M.",
-      "underTeam": "Ogura K. / Saitoh K.",
-      "favOdd": 1.37,
-      "prob": 73,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.37
-      },
-      "avgFavOdd": 1.36,
-      "time": "14:00",
-      "kickoff": "2026-08-22T06:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-doubles/m25-taipei/ogura-kousuke-saitoh-keisuke-ichikawa-taisei-imamura-masamichi/ht9JdPbU/"
+      "url": "https://www.betexplorer.com/basketball/world/friendly-international/slovenia-montenegro/EuwsKqwC/"
     },
     {
       "sport": "テニス",
@@ -352,13 +372,13 @@
       "away": "Miletich I.",
       "favTeam": "Guna R.",
       "underTeam": "Miletich I.",
-      "favOdd": 1.37,
-      "prob": 73,
+      "favOdd": 1.36,
+      "prob": 74,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.37
+        "1xbet": 1.36
       },
-      "avgFavOdd": 1.36,
+      "avgFavOdd": 1.35,
       "time": "16:00",
       "kickoff": "2026-08-22T08:00:00+09:00",
       "niche": true,
@@ -367,22 +387,22 @@
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25 UEBERLINGEN, CLAY",
-      "home": "Petkovic M.",
-      "away": "Handel T.",
-      "favTeam": "Petkovic M.",
-      "underTeam": "Handel T.",
-      "favOdd": 1.39,
-      "prob": 72,
+      "league": "ITF MEN - SINGLES: M25 LESA, CLAY",
+      "home": "Seghetti S.",
+      "away": "Rottoli L.",
+      "favTeam": "Rottoli L.",
+      "underTeam": "Seghetti S.",
+      "favOdd": 1.37,
+      "prob": 73,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.39
+        "1xbet": 1.37
       },
-      "avgFavOdd": 1.39,
+      "avgFavOdd": 1.36,
       "time": "17:00",
       "kickoff": "2026-08-22T09:00:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-ueberlingen/petkovic-mika-handel-tim/tEyz70bD/"
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-lesa/seghetti-samuele-rottoli-lorenzo/0jftN4c6/"
     },
     {
       "sport": "アイスホッケー",
@@ -392,13 +412,13 @@
       "away": "Dunedin Thunder",
       "favTeam": "Southern Stampede",
       "underTeam": "Dunedin Thunder",
-      "favOdd": 1.39,
-      "prob": 72,
+      "favOdd": 1.37,
+      "prob": 73,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.39
+        "1xbet": 1.37
       },
-      "avgFavOdd": 1.47,
+      "avgFavOdd": 1.42,
       "time": "16:00",
       "kickoff": "2026-08-22T08:00:00+09:00",
       "niche": false,
@@ -408,61 +428,121 @@
       "sport": "テニス",
       "sportKey": "tennis",
       "league": "ITF MEN - SINGLES: M25 UEBERLINGEN, CLAY",
-      "home": "Senn N.",
-      "away": "Bieldiugin T.",
-      "favTeam": "Bieldiugin T.",
-      "underTeam": "Senn N.",
-      "favOdd": 1.46,
-      "prob": 68,
+      "home": "Petkovic M.",
+      "away": "Handel T.",
+      "favTeam": "Petkovic M.",
+      "underTeam": "Handel T.",
+      "favOdd": 1.38,
+      "prob": 72,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.46
+        "1xbet": 1.38
       },
-      "avgFavOdd": 1.47,
+      "avgFavOdd": 1.38,
       "time": "17:00",
       "kickoff": "2026-08-22T09:00:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-ueberlingen/senn-nicola-bieldiugin-tymur/vga396XH/"
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-ueberlingen/petkovic-mika-handel-tim/tEyz70bD/"
     },
     {
       "sport": "バスケ",
       "sportKey": "basketball",
-      "league": "MEXICO: LNBP",
-      "home": "Panteras",
-      "away": "Santos",
-      "favTeam": "Panteras",
-      "underTeam": "Santos",
-      "favOdd": 1.47,
-      "prob": 68,
+      "league": "AUSTRALIA: NBL1",
+      "home": "Norths Bears",
+      "away": "Rockingham Flames",
+      "favTeam": "Rockingham Flames",
+      "underTeam": "Norths Bears",
+      "favOdd": 1.43,
+      "prob": 70,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.47
+        "1xbet": 1.43
       },
-      "avgFavOdd": 1.49,
-      "time": "11:30",
-      "kickoff": "2026-08-22T03:30:00+09:00",
+      "avgFavOdd": 1.48,
+      "time": "17:30",
+      "kickoff": "2026-08-22T09:30:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/mexico/lnbp/panteras-santos/dABhM5AU/"
+      "url": "https://www.betexplorer.com/basketball/australia/nbl1/norths-bears-rockingham-flames/dE7KLYhl/"
     },
     {
-      "sport": "野球",
-      "sportKey": "baseball",
-      "league": "JAPAN: NPB",
-      "home": "Fukuoka S. Hawks",
-      "away": "Orix Buffaloes",
-      "favTeam": "Fukuoka S. Hawks",
-      "underTeam": "Orix Buffaloes",
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "GERMANY: SUPER CUP WOMEN",
+      "home": "Blomberg-Lippe W",
+      "away": "BVB Dortmund W",
+      "favTeam": "BVB Dortmund W",
+      "underTeam": "Blomberg-Lippe W",
       "favOdd": 1.48,
       "prob": 68,
       "book": "1xBet",
       "books": {
         "1xbet": 1.48
       },
-      "avgFavOdd": 1.45,
-      "time": "14:00",
-      "kickoff": "2026-08-22T06:00:00+09:00",
+      "avgFavOdd": 1.47,
+      "time": "22:00",
+      "kickoff": "2026-08-22T14:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/baseball/japan/npb/fukuoka-s-hawks-orix-buffaloes/ruORA6J6/"
+      "url": "https://www.betexplorer.com/handball/germany/super-cup-women/blomberg-lippe-borussia-dortmund/4GtUBQcc/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M25 UEBERLINGEN, CLAY",
+      "home": "Senn N.",
+      "away": "Bieldiugin T.",
+      "favTeam": "Bieldiugin T.",
+      "underTeam": "Senn N.",
+      "favOdd": 1.48,
+      "prob": 68,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.48
+      },
+      "avgFavOdd": 1.49,
+      "time": "17:00",
+      "kickoff": "2026-08-22T09:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-ueberlingen/senn-nicola-bieldiugin-tymur/vga396XH/"
+    },
+    {
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "AUSTRALIA: NPL VICTORIA",
+      "home": "Hume City",
+      "away": "George Cross",
+      "favTeam": "Hume City",
+      "underTeam": "George Cross",
+      "favOdd": 1.48,
+      "prob": 68,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.48
+      },
+      "avgFavOdd": 1.5,
+      "time": "15:00",
+      "kickoff": "2026-08-22T07:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/football/australia/npl-victoria/hume-city-george-cross/lU4LO1tK/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "USA: BIG3 (3X3)",
+      "home": "Power",
+      "away": "Ball Hogs",
+      "favTeam": "Power",
+      "underTeam": "Ball Hogs",
+      "favOdd": 1.5,
+      "prob": 67,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.5
+      },
+      "avgFavOdd": 1.54,
+      "time": "02:00",
+      "kickoff": "2026-08-22T18:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/usa/big3-3x3/power-ball-hogs/tnRboZw2/"
     },
     {
       "sport": "バスケ",
@@ -478,51 +558,11 @@
       "books": {
         "1xbet": 1.54
       },
-      "avgFavOdd": 1.56,
+      "avgFavOdd": 1.54,
       "time": "18:00",
       "kickoff": "2026-08-22T10:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/basketball/world/club-friendly/shimane-levanga-hokkaido/ziDlKZ9e/"
-    },
-    {
-      "sport": "野球",
-      "sportKey": "baseball",
-      "league": "JAPAN: NPB",
-      "home": "Chunichi Dragons",
-      "away": "Yakult Swallows",
-      "favTeam": "Chunichi Dragons",
-      "underTeam": "Yakult Swallows",
-      "favOdd": 1.55,
-      "prob": 65,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.55
-      },
-      "avgFavOdd": 1.51,
-      "time": "14:00",
-      "kickoff": "2026-08-22T06:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/baseball/japan/npb/chunichi-dragons-yakult-swallows/IFVuKAdK/"
-    },
-    {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "GERMANY: SUPER CUP WOMEN",
-      "home": "Blomberg-Lippe W",
-      "away": "BVB Dortmund W",
-      "favTeam": "BVB Dortmund W",
-      "underTeam": "Blomberg-Lippe W",
-      "favOdd": 1.58,
-      "prob": 63,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.58
-      },
-      "avgFavOdd": 1.54,
-      "time": "22:00",
-      "kickoff": "2026-08-22T14:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/handball/germany/super-cup-women/blomberg-lippe-borussia-dortmund/4GtUBQcc/"
     },
     {
       "sport": "アイスホッケー",
@@ -532,11 +572,11 @@
       "away": "Lida",
       "favTeam": "HK Norilsk",
       "underTeam": "Lida",
-      "favOdd": 1.58,
-      "prob": 63,
+      "favOdd": 1.54,
+      "prob": 65,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.58
+        "1xbet": 1.54
       },
       "avgFavOdd": 1.58,
       "time": "19:00",
@@ -547,22 +587,42 @@
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: CANCUN 2, HARD",
-      "home": "Baez S.",
-      "away": "Wong C.",
-      "favTeam": "Baez S.",
-      "underTeam": "Wong C.",
+      "league": "ITF WOMEN - DOUBLES: W15 TIANJIN 3, HARD",
+      "home": "Yodpetch K. / Zhang R.",
+      "away": "Lin F. A. / Yang Y. Y.",
+      "favTeam": "Yodpetch K. / Zhang R.",
+      "underTeam": "Lin F. A. / Yang Y. Y.",
+      "favOdd": 1.55,
+      "prob": 65,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.55
+      },
+      "avgFavOdd": 1.53,
+      "time": "15:00",
+      "kickoff": "2026-08-22T07:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-women-doubles/w15-tianjin-3/yodpetch-kamonwan-zhang-ruien-lin-fang-an-yang-ya-yi/fqdCGfiA/"
+    },
+    {
+      "sport": "野球",
+      "sportKey": "baseball",
+      "league": "SOUTH KOREA: KBO",
+      "home": "Kiwoom Heroes",
+      "away": "KIA Tigers",
+      "favTeam": "KIA Tigers",
+      "underTeam": "Kiwoom Heroes",
       "favOdd": 1.6,
       "prob": 63,
       "book": "1xBet",
       "books": {
         "1xbet": 1.6
       },
-      "avgFavOdd": 1.62,
-      "time": "11:15",
-      "kickoff": "2026-08-22T03:15:00+09:00",
+      "avgFavOdd": 1.54,
+      "time": "19:00",
+      "kickoff": "2026-08-22T11:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/cancun-2/baez-sebastian-wong-chak-lam-coleman/MZ19bjjJ/"
+      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/kiwoom-heroes-kia-tigers/GrF8yrSG/"
     }
   ]
 }
