@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-22T23:36:36.700Z",
+  "generatedAt": "2026-08-22T23:41:59.944Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
+  "scanned": 2,
   "arbCount": 1,
   "track": {
     "stake": 100000,
@@ -43,42 +43,42 @@
           "outcome": "Behrmann T.",
           "book": "Unibet",
           "odd": 1.73,
-          "stake": 59485,
+          "stake": 59102,
           "jp": false,
           "exch": false,
           "url": "https://www.unibet.com/"
         },
         {
           "outcome": "Mashtakov N.",
-          "book": "bwin",
-          "odd": 2.54,
-          "stake": 40515,
-          "jp": true,
+          "book": "William Hill",
+          "odd": 2.5,
+          "stake": 40898,
+          "jp": false,
           "exch": false,
-          "url": "https://sports.bwin.com/"
+          "url": "https://sports.williamhill.com/"
         }
       ],
-      "S": 0.9717354694824997,
-      "roi": 2.90866510538641,
-      "profit": 2909,
-      "payout": 102909,
+      "S": 0.9780346820809249,
+      "roi": 2.245862884160754,
+      "profit": 2246,
+      "payout": 102246,
       "staked": 100000,
-      "mins": 23,
+      "mins": 18,
       "split": {
-        "S": 0.9717354694824997,
-        "payout": 102909,
-        "profit": 2909,
+        "S": 0.9780346820809249,
+        "payout": 102246,
+        "profit": 2246,
         "staked": 100000,
         "legs": [
           {
             "book": "Unibet",
             "odd": 1.73,
-            "stake": 59485
+            "stake": 59102
           },
           {
-            "book": "bwin",
-            "odd": 2.54,
-            "stake": 40515
+            "book": "William Hill",
+            "odd": 2.5,
+            "stake": 40898
           }
         ]
       },
