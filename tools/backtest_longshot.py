@@ -32,8 +32,13 @@ def load_cards(results):
         d = json.load(open(p, encoding="utf-8"))
         if not isinstance(d, dict) or not d.get("horses"): continue
         key = (d.get("date"), d.get("track"), d.get("raceNo"))
-        if key not in results: continue
-        r = results[key]
+        # 出馬表自身の result を優先。予想していないレースも検体に使う。
+        if d.get("result"):
+            r = {"name": d.get("name", "?"), "result": d["result"]}
+        elif key in results:
+            r = results[key]
+        else:
+            continue
         top3 = [r["result"]["first"], r["result"]["second"], r["result"]["third"]]
         out.append((os.path.basename(p), d, r, top3))
     return out

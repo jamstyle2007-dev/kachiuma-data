@@ -2,21 +2,15 @@
  "date": "2026-08-23",
  "track": "中京",
  "raceNo": 7,
- "name": "名古屋城S",
- "grade": "オープン(OP)",
+ "name": "名古屋城ステークス",
+ "grade": "OP",
  "surface": "ダ",
  "distance": 1800,
- "postTime": "15:35",
  "trackCondition": null,
- "conditionType": "サラ系３歳以上 オープン (国際)(特指) ハンデ",
+ "conditionType": "ハンデ",
  "fieldSize": 16,
- "status": "発走前確定",
- "oddsUpdatedAt": null,
- "oddsNote": "予想オッズのみ（実オッズ未発売）",
- "sourcesChecked": [
-  "netkeiba",
-  "keibalab"
- ],
+ "bias": null,
+ "oddsNote": "実オッズ未発売。人気・オッズはnetkeibaのAI予想オッズによる暫定値",
  "horses": [
   {
    "num": 1,
@@ -24,9 +18,8 @@
    "jockey": "西村淳也",
    "weight": 56.0,
    "sexAge": "牡4",
-   "popularity": null,
-   "winOdds": null,
-   "placeOdds": null,
+   "popularity": 1,
+   "winOdds": 3.8,
    "style": "差し",
    "recent3": [
     {
@@ -40,9 +33,8 @@
      "field": 16,
      "pop": 2,
      "finish": 7,
-     "margin": "0.6",
-     "last3f": 38.0,
-     "passing": "7-7-7-5"
+     "margin": 0.6,
+     "last3f": 38.0
     },
     {
      "date": "2026-02-07",
@@ -55,9 +47,8 @@
      "field": 16,
      "pop": 2,
      "finish": 6,
-     "margin": "0.9",
-     "last3f": 38.4,
-     "passing": "5-5-4-4"
+     "margin": 0.9,
+     "last3f": 38.4
     },
     {
      "date": "2025-11-16",
@@ -70,11 +61,11 @@
      "field": 14,
      "pop": 1,
      "finish": 1,
-     "margin": "-0.3",
-     "last3f": 37.3,
-     "passing": "1-1-1-1"
+     "margin": -0.3,
+     "last3f": 37.3
     }
-   ]
+   ],
+   "_popIsProvisional": true
   },
   {
    "num": 2,
@@ -82,9 +73,8 @@
    "jockey": "団野大成",
    "weight": 56.0,
    "sexAge": "セ5",
-   "popularity": null,
-   "winOdds": null,
-   "placeOdds": null,
+   "popularity": 2,
+   "winOdds": 4.3,
    "style": "差し",
    "recent3": [
     {
@@ -98,9 +88,8 @@
      "field": 11,
      "pop": 5,
      "finish": 2,
-     "margin": "0.3",
-     "last3f": 38.1,
-     "passing": "7-7-4-4"
+     "margin": 0.3,
+     "last3f": 38.1
     },
     {
      "date": "2026-06-20",
@@ -113,9 +102,8 @@
      "field": 15,
      "pop": 8,
      "finish": 5,
-     "margin": "0.7",
-     "last3f": 35.8,
-     "passing": "3-4-2-2"
+     "margin": 0.7,
+     "last3f": 35.8
     },
     {
      "date": "2026-05-30",
@@ -128,11 +116,11 @@
      "field": 16,
      "pop": 8,
      "finish": 14,
-     "margin": "2.1",
-     "last3f": 37.6,
-     "passing": "5-7"
+     "margin": 2.1,
+     "last3f": 37.6
     }
-   ]
+   ],
+   "_popIsProvisional": true
   },
   {
    "num": 3,
@@ -140,9 +128,8 @@
    "jockey": "松若風馬",
    "weight": 55.0,
    "sexAge": "牡6",
-   "popularity": null,
-   "winOdds": null,
-   "placeOdds": null,
+   "popularity": 13,
+   "winOdds": 63.3,
    "style": "差し",
    "recent3": [
     {
@@ -156,9 +143,8 @@
      "field": 16,
      "pop": 14,
      "finish": 11,
-     "margin": "1.6",
-     "last3f": 37.5,
-     "passing": "11-11-12-13"
+     "margin": 1.6,
+     "last3f": 37.5
     },
     {
      "date": "2026-04-11",
@@ -171,9 +157,8 @@
      "field": 15,
      "pop": 12,
      "finish": 7,
-     "margin": "1.2",
-     "last3f": 37.9,
-     "passing": "9-9-7-7"
+     "margin": 1.2,
+     "last3f": 37.9
     },
     {
      "date": "2026-02-01",
@@ -186,11 +171,11 @@
      "field": 15,
      "pop": 12,
      "finish": 13,
-     "margin": "1.5",
-     "last3f": 38.1,
-     "passing": "8-8-8-8"
+     "margin": 1.5,
+     "last3f": 38.1
     }
-   ]
+   ],
+   "_popIsProvisional": true
   },
   {
    "num": 4,
@@ -198,9 +183,8 @@
    "jockey": "斎藤新",
    "weight": 56.0,
    "sexAge": "牡8",
-   "popularity": null,
-   "winOdds": null,
-   "placeOdds": null,
+   "popularity": 6,
+   "winOdds": 17.2,
    "style": "追込",
    "recent3": [
     {
@@ -214,9 +198,8 @@
      "field": 15,
      "pop": 11,
      "finish": 3,
-     "margin": "0.5",
-     "last3f": 35.0,
-     "passing": "11-10-10-10"
+     "margin": 0.5,
+     "last3f": 35.0
     },
     {
      "date": "2026-05-03",
@@ -229,9 +212,8 @@
      "field": 16,
      "pop": 10,
      "finish": 6,
-     "margin": "0.5",
-     "last3f": 36.2,
-     "passing": "15-15-14-14"
+     "margin": 0.5,
+     "last3f": 36.2
     },
     {
      "date": "2026-02-28",
@@ -244,11 +226,11 @@
      "field": 16,
      "pop": 5,
      "finish": 12,
-     "margin": "1.3",
-     "last3f": 38.1,
-     "passing": "14-14-14-15"
+     "margin": 1.3,
+     "last3f": 38.1
     }
-   ]
+   ],
+   "_popIsProvisional": true
   },
   {
    "num": 5,
@@ -256,9 +238,8 @@
    "jockey": "鮫島克駿",
    "weight": 56.0,
    "sexAge": "牡6",
-   "popularity": null,
-   "winOdds": null,
-   "placeOdds": null,
+   "popularity": 3,
+   "winOdds": 6.9,
    "style": "差し",
    "recent3": [
     {
@@ -272,9 +253,8 @@
      "field": 16,
      "pop": 3,
      "finish": 5,
-     "margin": "0.7",
-     "last3f": 36.2,
-     "passing": "14-15-15-15"
+     "margin": 0.7,
+     "last3f": 36.2
     },
     {
      "date": "2026-05-03",
@@ -287,9 +267,8 @@
      "field": 16,
      "pop": 4,
      "finish": 5,
-     "margin": "0.3",
-     "last3f": 36.1,
-     "passing": "12-12-12-12"
+     "margin": 0.3,
+     "last3f": 36.1
     },
     {
      "date": "2026-03-22",
@@ -302,11 +281,11 @@
      "field": 16,
      "pop": 7,
      "finish": 4,
-     "margin": "0.1",
-     "last3f": 35.5,
-     "passing": "16-16-16-16"
+     "margin": 0.1,
+     "last3f": 35.5
     }
-   ]
+   ],
+   "_popIsProvisional": true
   },
   {
    "num": 6,
@@ -314,9 +293,8 @@
    "jockey": "長岡禎仁",
    "weight": 56.0,
    "sexAge": "セ7",
-   "popularity": null,
-   "winOdds": null,
-   "placeOdds": null,
+   "popularity": 9,
+   "winOdds": 27.2,
    "style": "先行",
    "recent3": [
     {
@@ -330,9 +308,8 @@
      "field": 16,
      "pop": 9,
      "finish": 10,
-     "margin": "1.3",
-     "last3f": 37.7,
-     "passing": "5-3-4-5"
+     "margin": 1.3,
+     "last3f": 37.7
     },
     {
      "date": "2026-03-08",
@@ -345,9 +322,8 @@
      "field": 15,
      "pop": 5,
      "finish": 8,
-     "margin": "0.5",
-     "last3f": 38.4,
-     "passing": "7-7-9-8"
+     "margin": 0.5,
+     "last3f": 38.4
     },
     {
      "date": "2026-01-11",
@@ -360,11 +336,11 @@
      "field": 16,
      "pop": 8,
      "finish": 3,
-     "margin": "0.1",
-     "last3f": 38.1,
-     "passing": "3-3-2-2"
+     "margin": 0.1,
+     "last3f": 38.1
     }
-   ]
+   ],
+   "_popIsProvisional": true
   },
   {
    "num": 7,
@@ -372,10 +348,9 @@
    "jockey": "高倉稜",
    "weight": 55.0,
    "sexAge": "牡6",
-   "popularity": null,
-   "winOdds": null,
-   "placeOdds": null,
-   "style": "大逃げ",
+   "popularity": 10,
+   "winOdds": 28.9,
+   "style": "逃げ",
    "recent3": [
     {
      "date": "2026-06-21",
@@ -388,9 +363,8 @@
      "field": 16,
      "pop": 13,
      "finish": 1,
-     "margin": "-0.2",
-     "last3f": 37.3,
-     "passing": "1-1-1-1"
+     "margin": -0.2,
+     "last3f": 37.3
     },
     {
      "date": "2026-04-05",
@@ -403,9 +377,8 @@
      "field": 16,
      "pop": 7,
      "finish": 11,
-     "margin": "1.9",
-     "last3f": 39.3,
-     "passing": "2-2-2-1"
+     "margin": 1.9,
+     "last3f": 39.3
     },
     {
      "date": "2026-03-15",
@@ -418,11 +391,11 @@
      "field": 14,
      "pop": 11,
      "finish": 3,
-     "margin": "1.0",
-     "last3f": 38.4,
-     "passing": "1-1-2-2"
+     "margin": 1.0,
+     "last3f": 38.4
     }
-   ]
+   ],
+   "_popIsProvisional": true
   },
   {
    "num": 8,
@@ -430,9 +403,8 @@
    "jockey": "柴田裕一",
    "weight": 52.0,
    "sexAge": "牝6",
-   "popularity": null,
-   "winOdds": null,
-   "placeOdds": null,
+   "popularity": 15,
+   "winOdds": 80.0,
    "style": "差し",
    "recent3": [
     {
@@ -446,9 +418,8 @@
      "field": 12,
      "pop": 12,
      "finish": 9,
-     "margin": "1.4",
-     "last3f": 34.4,
-     "passing": "9-9-10-11"
+     "margin": 1.4,
+     "last3f": 34.4
     },
     {
      "date": "2026-04-12",
@@ -461,9 +432,8 @@
      "field": 15,
      "pop": 14,
      "finish": 11,
-     "margin": "0.8",
-     "last3f": 35.3,
-     "passing": "7-7-7-11"
+     "margin": 0.8,
+     "last3f": 35.3
     },
     {
      "date": "2026-03-08",
@@ -476,11 +446,11 @@
      "field": 15,
      "pop": 14,
      "finish": 12,
-     "margin": "1.4",
-     "last3f": 39.5,
-     "passing": "7-8-6-8"
+     "margin": 1.4,
+     "last3f": 39.5
     }
-   ]
+   ],
+   "_popIsProvisional": true
   },
   {
    "num": 9,
@@ -488,9 +458,8 @@
    "jockey": "吉村誠之助",
    "weight": 56.0,
    "sexAge": "牡4",
-   "popularity": null,
-   "winOdds": null,
-   "placeOdds": null,
+   "popularity": 4,
+   "winOdds": 6.9,
    "style": "差し",
    "recent3": [
     {
@@ -504,9 +473,8 @@
      "field": 16,
      "pop": 9,
      "finish": 4,
-     "margin": "0.8",
-     "last3f": 35.8,
-     "passing": "14-14"
+     "margin": 0.8,
+     "last3f": 35.8
     },
     {
      "date": "2026-03-07",
@@ -519,9 +487,8 @@
      "field": 14,
      "pop": 8,
      "finish": 1,
-     "margin": "-0.1",
-     "last3f": 37.6,
-     "passing": "11-11-11-9"
+     "margin": -0.1,
+     "last3f": 37.6
     },
     {
      "date": "2026-02-14",
@@ -534,11 +501,11 @@
      "field": 16,
      "pop": 7,
      "finish": 5,
-     "margin": "0.7",
-     "last3f": 35.4,
-     "passing": "13-12"
+     "margin": 0.7,
+     "last3f": 35.4
     }
-   ]
+   ],
+   "_popIsProvisional": true
   },
   {
    "num": 10,
@@ -546,9 +513,8 @@
    "jockey": "酒井学",
    "weight": 55.0,
    "sexAge": "牡5",
-   "popularity": null,
-   "winOdds": null,
-   "placeOdds": null,
+   "popularity": 8,
+   "winOdds": 19.1,
    "style": "追込",
    "recent3": [
     {
@@ -562,9 +528,8 @@
      "field": 15,
      "pop": 10,
      "finish": 14,
-     "margin": "2.7",
-     "last3f": 36.9,
-     "passing": "11-14-13-14"
+     "margin": 2.7,
+     "last3f": 36.9
     },
     {
      "date": "2026-04-11",
@@ -577,9 +542,8 @@
      "field": 15,
      "pop": 4,
      "finish": 9,
-     "margin": "1.4",
-     "last3f": 37.4,
-     "passing": "14-14-13-12"
+     "margin": 1.4,
+     "last3f": 37.4
     },
     {
      "date": "2026-02-07",
@@ -592,11 +556,11 @@
      "field": 16,
      "pop": 8,
      "finish": 4,
-     "margin": "0.8",
-     "last3f": 37.7,
-     "passing": "12-12-12-12"
+     "margin": 0.8,
+     "last3f": 37.7
     }
-   ]
+   ],
+   "_popIsProvisional": true
   },
   {
    "num": 11,
@@ -604,9 +568,8 @@
    "jockey": "国分優作",
    "weight": 56.0,
    "sexAge": "牡7",
-   "popularity": null,
-   "winOdds": null,
-   "placeOdds": null,
+   "popularity": 14,
+   "winOdds": 66.3,
    "style": "差し",
    "recent3": [
     {
@@ -620,9 +583,8 @@
      "field": 9,
      "pop": 9,
      "finish": 8,
-     "margin": "3.4",
-     "last3f": 39.6,
-     "passing": "5-5-7-7"
+     "margin": 3.4,
+     "last3f": 39.6
     },
     {
      "date": "2026-06-20",
@@ -635,9 +597,8 @@
      "field": 15,
      "pop": 12,
      "finish": 15,
-     "margin": "3.1",
-     "last3f": 37.8,
-     "passing": "9-5-7-6"
+     "margin": 3.1,
+     "last3f": 37.8
     },
     {
      "date": "2026-05-10",
@@ -650,11 +611,11 @@
      "field": 16,
      "pop": 13,
      "finish": 4,
-     "margin": "1.0",
-     "last3f": 36.7,
-     "passing": "9-9-6-5"
+     "margin": 1.0,
+     "last3f": 36.7
     }
-   ]
+   ],
+   "_popIsProvisional": true
   },
   {
    "num": 12,
@@ -662,9 +623,8 @@
    "jockey": "田口貫太",
    "weight": 56.0,
    "sexAge": "牡5",
-   "popularity": null,
-   "winOdds": null,
-   "placeOdds": null,
+   "popularity": 11,
+   "winOdds": 33.9,
    "style": "逃げ",
    "recent3": [
     {
@@ -678,9 +638,8 @@
      "field": 15,
      "pop": 9,
      "finish": 6,
-     "margin": "1.4",
-     "last3f": 37.7,
-     "passing": "8-8-8-6"
+     "margin": 1.4,
+     "last3f": 37.7
     },
     {
      "date": "2024-08-04",
@@ -693,9 +652,8 @@
      "field": 15,
      "pop": 5,
      "finish": 8,
-     "margin": "1.7",
-     "last3f": 39.5,
-     "passing": "1-1-1-1"
+     "margin": 1.7,
+     "last3f": 39.5
     },
     {
      "date": "2024-07-07",
@@ -708,11 +666,11 @@
      "field": 16,
      "pop": 6,
      "finish": 14,
-     "margin": "2.3",
-     "last3f": 40.1,
-     "passing": "1-1-1-2"
+     "margin": 2.3,
+     "last3f": 40.1
     }
-   ]
+   ],
+   "_popIsProvisional": true
   },
   {
    "num": 13,
@@ -720,9 +678,8 @@
    "jockey": "幸英明",
    "weight": 57.5,
    "sexAge": "牡7",
-   "popularity": null,
-   "winOdds": null,
-   "placeOdds": null,
+   "popularity": 5,
+   "winOdds": 7.9,
    "style": "差し",
    "recent3": [
     {
@@ -736,9 +693,8 @@
      "field": 16,
      "pop": 7,
      "finish": 4,
-     "margin": "0.5",
-     "last3f": 36.4,
-     "passing": "14-13-12-11"
+     "margin": 0.5,
+     "last3f": 36.4
     },
     {
      "date": "2026-04-18",
@@ -751,9 +707,8 @@
      "field": 16,
      "pop": 10,
      "finish": 7,
-     "margin": "1.0",
-     "last3f": 35.7,
-     "passing": "13-13-13-13"
+     "margin": 1.0,
+     "last3f": 35.7
     },
     {
      "date": "2026-02-28",
@@ -766,11 +721,11 @@
      "field": 16,
      "pop": 4,
      "finish": 10,
-     "margin": "0.8",
-     "last3f": 37.7,
-     "passing": "14-14-14-12"
+     "margin": 0.8,
+     "last3f": 37.7
     }
-   ]
+   ],
+   "_popIsProvisional": true
   },
   {
    "num": 14,
@@ -778,9 +733,8 @@
    "jockey": "菱田裕二",
    "weight": 53.0,
    "sexAge": "牡7",
-   "popularity": null,
-   "winOdds": null,
-   "placeOdds": null,
+   "popularity": 12,
+   "winOdds": 55.8,
    "style": "差し",
    "recent3": [
     {
@@ -794,9 +748,8 @@
      "field": 16,
      "pop": 13,
      "finish": 16,
-     "margin": "2.3",
-     "last3f": 38.0,
-     "passing": "13-13-12-13"
+     "margin": 2.3,
+     "last3f": 38.0
     },
     {
      "date": "2026-05-03",
@@ -809,9 +762,8 @@
      "field": 16,
      "pop": 15,
      "finish": 10,
-     "margin": "1.2",
-     "last3f": 37.3,
-     "passing": "6-7-7-8"
+     "margin": 1.2,
+     "last3f": 37.3
     },
     {
      "date": "2026-03-22",
@@ -824,11 +776,11 @@
      "field": 16,
      "pop": 14,
      "finish": 11,
-     "margin": "0.9",
-     "last3f": 36.5,
-     "passing": "15-15-15-15"
+     "margin": 0.9,
+     "last3f": 36.5
     }
-   ]
+   ],
+   "_popIsProvisional": true
   },
   {
    "num": 15,
@@ -836,9 +788,8 @@
    "jockey": "田山旺佑",
    "weight": 55.0,
    "sexAge": "牡6",
-   "popularity": null,
-   "winOdds": null,
-   "placeOdds": null,
+   "popularity": 7,
+   "winOdds": 17.7,
    "style": "差し",
    "recent3": [
     {
@@ -852,9 +803,8 @@
      "field": 15,
      "pop": 6,
      "finish": 8,
-     "margin": "1.0",
-     "last3f": 35.5,
-     "passing": "11-12-10-10"
+     "margin": 1.0,
+     "last3f": 35.5
     },
     {
      "date": "2026-05-03",
@@ -867,9 +817,8 @@
      "field": 16,
      "pop": 9,
      "finish": 2,
-     "margin": "0.1",
-     "last3f": 36.1,
-     "passing": "10-10-11-11"
+     "margin": 0.1,
+     "last3f": 36.1
     },
     {
      "date": "2026-03-22",
@@ -882,11 +831,11 @@
      "field": 16,
      "pop": 13,
      "finish": 8,
-     "margin": "0.6",
-     "last3f": 36.4,
-     "passing": "12-12-11-14"
+     "margin": 0.6,
+     "last3f": 36.4
     }
-   ]
+   ],
+   "_popIsProvisional": true
   },
   {
    "num": 16,
@@ -894,9 +843,8 @@
    "jockey": "角田大和",
    "weight": 54.0,
    "sexAge": "牡7",
-   "popularity": null,
-   "winOdds": null,
-   "placeOdds": null,
+   "popularity": 16,
+   "winOdds": 99.7,
    "style": "差し",
    "recent3": [
     {
@@ -910,9 +858,8 @@
      "field": 16,
      "pop": 10,
      "finish": 13,
-     "margin": "1.7",
-     "last3f": 37.7,
-     "passing": "9-10-9-8"
+     "margin": 1.7,
+     "last3f": 37.7
     },
     {
      "date": "2026-03-22",
@@ -925,9 +872,8 @@
      "field": 16,
      "pop": 15,
      "finish": 7,
-     "margin": "0.5",
-     "last3f": 36.8,
-     "passing": "5-7-7-7"
+     "margin": 0.5,
+     "last3f": 36.8
     },
     {
      "date": "2026-01-11",
@@ -940,13 +886,11 @@
      "field": 16,
      "pop": 13,
      "finish": 15,
-     "margin": "1.9",
-     "last3f": 38.8,
-     "passing": "14-13-13-14"
+     "margin": 1.9,
+     "last3f": 38.8
     }
-   ]
+   ],
+   "_popIsProvisional": true
   }
- ],
- "scratched": [],
- "result": null
+ ]
 }

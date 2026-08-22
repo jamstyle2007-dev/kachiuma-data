@@ -26,8 +26,12 @@ def load():
         d = json.load(open(p, encoding="utf-8"))
         if not isinstance(d, dict) or not d.get("horses"): continue
         key = (d.get("date"), d.get("track"), d.get("raceNo"))
-        if key not in res: continue
-        out.append((d, res[key]))
+        # 出馬表自身が result を持っていればそれを使う。
+        # 私が予想していないレースも検体にできるようにするため(検体数を増やすのが最優先)。
+        if d.get("result"):
+            out.append((d, {"name": d.get("name", "?"), "result": d["result"]}))
+        elif key in res:
+            out.append((d, res[key]))
     return out
 
 
