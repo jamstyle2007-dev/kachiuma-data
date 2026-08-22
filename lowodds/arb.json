@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-22T13:32:29.134Z",
+  "generatedAt": "2026-08-22T13:37:51.470Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 1,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 21,
       "profit": 4017240
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "dWqebjp4",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Philadelphia Phillies - St.Louis Cardinals",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/philadelphia-phillies-st-louis-cardinals/dWqebjp4/",
+      "kickoff": "2026-08-22T23:05:00+09:00",
+      "width": 2,
+      "books": 19,
+      "labels": [
+        "Philadelphia Phillies",
+        "St.Louis Cardinals"
+      ],
+      "legs": [
+        {
+          "outcome": "Philadelphia Phillies",
+          "book": "BetInAsia",
+          "odd": 1.75,
+          "stake": 57627,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.betinasia.com/"
+        },
+        {
+          "outcome": "St.Louis Cardinals",
+          "book": "Betfair",
+          "odd": 2.38,
+          "stake": 42373,
+          "jp": true,
+          "exch": true,
+          "url": "https://www.betfair.com/exchange/plus/"
+        }
+      ],
+      "S": 0.9915966386554622,
+      "roi": 0.8474576271186418,
+      "profit": 847,
+      "payout": 100847,
+      "staked": 100000,
+      "mins": 27,
+      "split": {
+        "S": 0.9915966386554622,
+        "payout": 100847,
+        "profit": 847,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "BetInAsia",
+            "odd": 1.75,
+            "stake": 57627
+          },
+          {
+            "book": "Betfair",
+            "odd": 2.38,
+            "stake": 42373
+          }
+        ]
+      },
+      "hasExch": true,
+      "allJp": true
+    }
+  ]
 }
