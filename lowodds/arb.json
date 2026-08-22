@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-22T00:26:42.436Z",
+  "generatedAt": "2026-08-22T00:32:05.823Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 0,
+  "scanned": 4,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 18,
       "profit": 3902076
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "ziDlKZ9e",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Shimane - Levanga Hokkaido",
+      "url": "https://www.betexplorer.com/basketball/world/club-friendly/shimane-levanga-hokkaido/ziDlKZ9e/",
+      "kickoff": "2026-08-22T10:00:00+09:00",
+      "width": 2,
+      "books": 11,
+      "labels": [
+        "Shimane",
+        "Levanga Hokkaido"
+      ],
+      "legs": [
+        {
+          "outcome": "Shimane",
+          "book": "Betsson",
+          "odd": 1.8,
+          "stake": 55774,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.betsson.com/"
+        },
+        {
+          "outcome": "Levanga Hokkaido",
+          "book": "Bets.io",
+          "odd": 2.27,
+          "stake": 44226,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
+        }
+      ],
+      "S": 0.996084189916789,
+      "roi": 0.39312039312038305,
+      "profit": 393,
+      "payout": 100393,
+      "staked": 100000,
+      "mins": 28,
+      "split": {
+        "S": 0.996084189916789,
+        "payout": 100393,
+        "profit": 393,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Betsson",
+            "odd": 1.8,
+            "stake": 55774
+          },
+          {
+            "book": "Bets.io",
+            "odd": 2.27,
+            "stake": 44226
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
