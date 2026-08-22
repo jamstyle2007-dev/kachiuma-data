@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-22T23:41:59.944Z",
+  "generatedAt": "2026-08-22T23:47:24.179Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "vyd5ue4C",
-      "sport": "tennis",
-      "sportLabel": "テニス",
-      "teams": "Behrmann T. - Mashtakov N.",
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m15-mistelbach/behrmann-thilo-mashtakov-nikita/vyd5ue4C/",
-      "kickoff": "2026-08-23T09:00:00+09:00",
-      "width": 2,
-      "books": 8,
-      "labels": [
-        "Behrmann T.",
-        "Mashtakov N."
-      ],
-      "legs": [
-        {
-          "outcome": "Behrmann T.",
-          "book": "Unibet",
-          "odd": 1.73,
-          "stake": 59102,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.unibet.com/"
-        },
-        {
-          "outcome": "Mashtakov N.",
-          "book": "William Hill",
-          "odd": 2.5,
-          "stake": 40898,
-          "jp": false,
-          "exch": false,
-          "url": "https://sports.williamhill.com/"
-        }
-      ],
-      "S": 0.9780346820809249,
-      "roi": 2.245862884160754,
-      "profit": 2246,
-      "payout": 102246,
-      "staked": 100000,
-      "mins": 18,
-      "split": {
-        "S": 0.9780346820809249,
-        "payout": 102246,
-        "profit": 2246,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Unibet",
-            "odd": 1.73,
-            "stake": 59102
-          },
-          {
-            "book": "William Hill",
-            "odd": 2.5,
-            "stake": 40898
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
