@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-22T09:36:19.505Z",
+  "generatedAt": "2026-08-22T09:41:44.290Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 0,
+  "scanned": 2,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 20,
       "profit": 4017216
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "QPGp97bM",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Milwaukee Brewers - Atlanta Braves",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/milwaukee-brewers-atlanta-braves/QPGp97bM/",
+      "kickoff": "2026-08-22T19:10:00+09:00",
+      "width": 2,
+      "books": 18,
+      "labels": [
+        "Milwaukee Brewers",
+        "Atlanta Braves"
+      ],
+      "legs": [
+        {
+          "outcome": "Milwaukee Brewers",
+          "book": "1xBet",
+          "odd": 1.65,
+          "stake": 60621,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        },
+        {
+          "outcome": "Atlanta Braves",
+          "book": "BetInAsia",
+          "odd": 2.54,
+          "stake": 39379,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.betinasia.com/"
+        }
+      ],
+      "S": 0.9997613934621808,
+      "roi": 0.023866348448686736,
+      "profit": 24,
+      "payout": 100024,
+      "staked": 100000,
+      "mins": 28,
+      "split": {
+        "S": 0.9997613934621808,
+        "payout": 100024,
+        "profit": 24,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "1xBet",
+            "odd": 1.65,
+            "stake": 60621
+          },
+          {
+            "book": "BetInAsia",
+            "odd": 2.54,
+            "stake": 39379
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    }
+  ]
 }
