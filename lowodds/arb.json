@@ -1,89 +1,28 @@
 {
-  "generatedAt": "2026-08-23T14:58:01.081Z",
+  "generatedAt": "2026-08-23T15:03:26.262Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
-      "count": 215,
-      "profit": 36608328
+      "count": 216,
+      "profit": 36608416
     },
     "year": {
-      "count": 215,
-      "profit": 36608328
+      "count": 216,
+      "profit": 36608416
     },
     "month": {
-      "count": 108,
-      "profit": 12654606
+      "count": 109,
+      "profit": 12654694
     },
     "week": {
-      "count": 31,
-      "profit": 4143860
+      "count": 0,
+      "profit": 0
     },
-    "pending": 2
+    "pending": 1
   },
-  "opps": [
-    {
-      "id": "Crk6I1CU",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Portland Fire W - Washington Mystics W",
-      "url": "https://www.betexplorer.com/basketball/usa/wnba/portland-fire-washington-mystics/Crk6I1CU/",
-      "kickoff": "2026-08-24T00:00:00+09:00",
-      "width": 2,
-      "books": 19,
-      "labels": [
-        "Portland Fire W",
-        "Washington Mystics W"
-      ],
-      "legs": [
-        {
-          "outcome": "Portland Fire W",
-          "book": "1xBet",
-          "odd": 2.91,
-          "stake": 34459,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "Washington Mystics W",
-          "book": "Rainbet",
-          "odd": 1.53,
-          "stake": 65541,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
-        }
-      ],
-      "S": 0.9972373829256789,
-      "roi": 0.2770270270270325,
-      "profit": 277,
-      "payout": 100277,
-      "staked": 100000,
-      "mins": 2,
-      "split": {
-        "S": 0.9972373829256789,
-        "payout": 100277,
-        "profit": 277,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 2.91,
-            "stake": 34459
-          },
-          {
-            "book": "Rainbet",
-            "odd": 1.53,
-            "stake": 65541
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
