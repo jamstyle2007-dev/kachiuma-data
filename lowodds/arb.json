@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-23T11:38:37.868Z",
+  "generatedAt": "2026-08-23T11:44:03.153Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 31,
       "profit": 4143860
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "W4mjMqD5",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Dallas Wings W - Seattle Storm W",
+      "url": "https://www.betexplorer.com/basketball/usa/wnba/dallas-wings-seattle-storm/W4mjMqD5/",
+      "kickoff": "2026-08-23T21:00:00+09:00",
+      "width": 2,
+      "books": 19,
+      "labels": [
+        "Dallas Wings W",
+        "Seattle Storm W"
+      ],
+      "legs": [
+        {
+          "outcome": "Dallas Wings W",
+          "book": "1xBet",
+          "odd": 1.32,
+          "stake": 75824,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        },
+        {
+          "outcome": "Seattle Storm W",
+          "book": "Betfair Exchange",
+          "odd": 4.14,
+          "stake": 24176,
+          "jp": true,
+          "exch": true,
+          "url": "https://www.betfair.com/exchange/plus/"
+        }
+      ],
+      "S": 0.9991216512955643,
+      "roi": 0.08791208791210092,
+      "profit": 88,
+      "payout": 100088,
+      "staked": 100000,
+      "mins": 16,
+      "split": {
+        "S": 0.9991216512955643,
+        "payout": 100088,
+        "profit": 88,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "1xBet",
+            "odd": 1.32,
+            "stake": 75824
+          },
+          {
+            "book": "Betfair Exchange",
+            "odd": 4.14,
+            "stake": 24176
+          }
+        ]
+      },
+      "hasExch": true,
+      "allJp": true
+    }
+  ]
 }
