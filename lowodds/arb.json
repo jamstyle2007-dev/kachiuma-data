@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-23T07:18:46.290Z",
+  "generatedAt": "2026-08-23T07:24:12.802Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 1,
+  "scanned": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "W41imE4j",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Germany W - Hungary W",
-      "url": "https://www.betexplorer.com/basketball/world/friendly-international-women/germany-hungary/W41imE4j/",
-      "kickoff": "2026-08-23T16:30:00+09:00",
-      "width": 2,
-      "books": 5,
-      "labels": [
-        "Germany W",
-        "Hungary W"
-      ],
-      "legs": [
-        {
-          "outcome": "Germany W",
-          "book": "Betway",
-          "odd": 1.36,
-          "stake": 75092,
-          "jp": true,
-          "exch": false,
-          "url": "https://betway.com/"
-        },
-        {
-          "outcome": "Hungary W",
-          "book": "Bets.io",
-          "odd": 4.1,
-          "stake": 24908,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
-        }
-      ],
-      "S": 0.979196556671449,
-      "roi": 2.124542124542139,
-      "profit": 2125,
-      "payout": 102125,
-      "staked": 100000,
-      "mins": 11,
-      "split": {
-        "S": 0.979196556671449,
-        "payout": 102125,
-        "profit": 2125,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betway",
-            "odd": 1.36,
-            "stake": 75092
-          },
-          {
-            "book": "Bets.io",
-            "odd": 4.1,
-            "stake": 24908
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
