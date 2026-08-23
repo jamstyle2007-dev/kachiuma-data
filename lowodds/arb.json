@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-23T14:25:30.923Z",
+  "generatedAt": "2026-08-23T14:30:55.543Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 0,
+  "scanned": 2,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 31,
       "profit": 4143860
     },
-    "pending": 1
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "Crk6I1CU",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Portland Fire W - Washington Mystics W",
+      "url": "https://www.betexplorer.com/basketball/usa/wnba/portland-fire-washington-mystics/Crk6I1CU/",
+      "kickoff": "2026-08-24T00:00:00+09:00",
+      "width": 2,
+      "books": 19,
+      "labels": [
+        "Portland Fire W",
+        "Washington Mystics W"
+      ],
+      "legs": [
+        {
+          "outcome": "Portland Fire W",
+          "book": "1xBet",
+          "odd": 2.91,
+          "stake": 34459,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        },
+        {
+          "outcome": "Washington Mystics W",
+          "book": "Rainbet",
+          "odd": 1.53,
+          "stake": 65541,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
+        }
+      ],
+      "S": 0.9972373829256789,
+      "roi": 0.2770270270270325,
+      "profit": 277,
+      "payout": 100277,
+      "staked": 100000,
+      "mins": 29,
+      "split": {
+        "S": 0.9972373829256789,
+        "payout": 100277,
+        "profit": 277,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "1xBet",
+            "odd": 2.91,
+            "stake": 34459
+          },
+          {
+            "book": "Rainbet",
+            "odd": 1.53,
+            "stake": 65541
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
