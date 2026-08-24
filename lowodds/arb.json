@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-24T17:10:33.958Z",
+  "generatedAt": "2026-08-24T17:16:03.922Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 5,
-  "arbCount": 1,
+  "scanned": 3,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 5
   },
-  "opps": [
-    {
-      "id": "bcjQz5PN",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Correcaminos - Soles",
-      "url": "https://www.betexplorer.com/basketball/mexico/lnbp/correcaminos-soles/bcjQz5PN/",
-      "kickoff": "2026-08-25T02:15:00+09:00",
-      "width": 2,
-      "books": 17,
-      "labels": [
-        "Correcaminos",
-        "Soles"
-      ],
-      "legs": [
-        {
-          "outcome": "Correcaminos",
-          "book": "Unibet",
-          "odd": 3,
-          "stake": 34066,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.unibet.com/"
-        },
-        {
-          "outcome": "Soles",
-          "book": "bwin",
-          "odd": 1.55,
-          "stake": 65934,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        }
-      ],
-      "S": 0.978494623655914,
-      "roi": 2.19780219780219,
-      "profit": 2198,
-      "payout": 102198,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.978494623655914,
-        "payout": 102198,
-        "profit": 2198,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Unibet",
-            "odd": 3,
-            "stake": 34066
-          },
-          {
-            "book": "bwin",
-            "odd": 1.55,
-            "stake": 65934
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
