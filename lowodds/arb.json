@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-24T15:27:27.888Z",
+  "generatedAt": "2026-08-24T15:32:53.594Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 0,
+  "scanned": 4,
+  "arbCount": 3,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,188 @@
       "count": 3,
       "profit": 8392
     },
-    "pending": 0
+    "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "lzcnCQsn",
+      "sport": "volleyball",
+      "sportLabel": "バレー",
+      "teams": "Puerto Rico - Canada",
+      "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup-final-six/puerto-rico-canada/lzcnCQsn/",
+      "kickoff": "2026-08-25T01:00:00+09:00",
+      "width": 2,
+      "books": 14,
+      "labels": [
+        "Puerto Rico",
+        "Canada"
+      ],
+      "legs": [
+        {
+          "outcome": "Puerto Rico",
+          "book": "Unibet",
+          "odd": 2.95,
+          "stake": 34879,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.unibet.com/"
+        },
+        {
+          "outcome": "Canada",
+          "book": "BetInAsia",
+          "odd": 1.58,
+          "stake": 65121,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.betinasia.com/"
+        }
+      ],
+      "S": 0.9718944432525208,
+      "roi": 2.891832229580582,
+      "profit": 2892,
+      "payout": 102892,
+      "staked": 100000,
+      "mins": 27,
+      "split": {
+        "S": 0.9718944432525208,
+        "payout": 102892,
+        "profit": 2892,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Unibet",
+            "odd": 2.95,
+            "stake": 34879
+          },
+          {
+            "book": "BetInAsia",
+            "odd": 1.58,
+            "stake": 65121
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "0vUFx5cn",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Minnesota Lynx W - Golden State Valkyries W",
+      "url": "https://www.betexplorer.com/basketball/usa/wnba/minnesota-lynx-golden-state-valkyries/0vUFx5cn/",
+      "kickoff": "2026-08-25T01:00:00+09:00",
+      "width": 2,
+      "books": 19,
+      "labels": [
+        "Minnesota Lynx W",
+        "Golden State Valkyries W"
+      ],
+      "legs": [
+        {
+          "outcome": "Minnesota Lynx W",
+          "book": "Betway",
+          "odd": 1.53,
+          "stake": 66225,
+          "jp": true,
+          "exch": false,
+          "url": "https://betway.com/"
+        },
+        {
+          "outcome": "Golden State Valkyries W",
+          "book": "Rainbet",
+          "odd": 3,
+          "stake": 33775,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
+        }
+      ],
+      "S": 0.9869281045751634,
+      "roi": 1.3245033112582627,
+      "profit": 1325,
+      "payout": 101325,
+      "staked": 100000,
+      "mins": 27,
+      "split": {
+        "S": 0.9869281045751634,
+        "payout": 101325,
+        "profit": 1325,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Betway",
+            "odd": 1.53,
+            "stake": 66225
+          },
+          {
+            "book": "Rainbet",
+            "odd": 3,
+            "stake": 33775
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "QwctavUj",
+      "sport": "volleyball",
+      "sportLabel": "バレー",
+      "teams": "Cuba W - Mexico W",
+      "url": "https://www.betexplorer.com/volleyball/north-central-america/norceca-championship-women/cuba-mexico/QwctavUj/",
+      "kickoff": "2026-08-25T01:00:00+09:00",
+      "width": 2,
+      "books": 4,
+      "labels": [
+        "Cuba W",
+        "Mexico W"
+      ],
+      "legs": [
+        {
+          "outcome": "Cuba W",
+          "book": "bet365",
+          "odd": 3.25,
+          "stake": 30851,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.bet365.com/"
+        },
+        {
+          "outcome": "Mexico W",
+          "book": "Unibet",
+          "odd": 1.45,
+          "stake": 69149,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.unibet.com/"
+        }
+      ],
+      "S": 0.9973474801061009,
+      "roi": 0.26595744680850686,
+      "profit": 266,
+      "payout": 100266,
+      "staked": 100000,
+      "mins": 27,
+      "split": {
+        "S": 0.9973474801061009,
+        "payout": 100266,
+        "profit": 266,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "bet365",
+            "odd": 3.25,
+            "stake": 30851
+          },
+          {
+            "book": "Unibet",
+            "odd": 1.45,
+            "stake": 69149
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
