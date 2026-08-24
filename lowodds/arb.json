@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-24T01:24:41.516Z",
+  "generatedAt": "2026-08-24T01:30:08.782Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 4,
-  "arbCount": 0,
+  "scanned": 7,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 1,
       "profit": 277
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "Kp4S1HD6",
+      "sport": "tennis",
+      "sportLabel": "テニス",
+      "teams": "Brunold M. - Gavrielides L.",
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/augsburg/brunold-mika-gavrielides-liam/Kp4S1HD6/",
+      "kickoff": "2026-08-24T11:00:00+09:00",
+      "width": 2,
+      "books": 17,
+      "labels": [
+        "Brunold M.",
+        "Gavrielides L."
+      ],
+      "legs": [
+        {
+          "outcome": "Brunold M.",
+          "book": "William Hill",
+          "odd": 1.5,
+          "stake": 67672,
+          "jp": false,
+          "exch": false,
+          "url": "https://sports.williamhill.com/"
+        },
+        {
+          "outcome": "Gavrielides L.",
+          "book": "Betfair Exchange",
+          "odd": 3.14,
+          "stake": 32328,
+          "jp": true,
+          "exch": true,
+          "url": "https://www.betfair.com/exchange/plus/"
+        }
+      ],
+      "S": 0.9851380042462845,
+      "roi": 1.5086206896551824,
+      "profit": 1509,
+      "payout": 101509,
+      "staked": 100000,
+      "mins": 30,
+      "split": {
+        "S": 0.9851380042462845,
+        "payout": 101509,
+        "profit": 1509,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "William Hill",
+            "odd": 1.5,
+            "stake": 67672
+          },
+          {
+            "book": "Betfair Exchange",
+            "odd": 3.14,
+            "stake": 32328
+          }
+        ]
+      },
+      "hasExch": true,
+      "allJp": false
+    }
+  ]
 }
