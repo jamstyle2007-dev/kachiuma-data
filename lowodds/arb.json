@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-24T16:37:49.332Z",
+  "generatedAt": "2026-08-24T16:43:15.245Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 3,
       "profit": 8392
     },
-    "pending": 3
+    "pending": 4
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "EkOy6WtK",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Puebla - Diablos Rojos",
+      "url": "https://www.betexplorer.com/baseball/mexico/lmb/pericos-de-puebla-diablos-rojos-del-mexico/EkOy6WtK/",
+      "kickoff": "2026-08-25T02:00:00+09:00",
+      "width": 2,
+      "books": 12,
+      "labels": [
+        "Puebla",
+        "Diablos Rojos"
+      ],
+      "legs": [
+        {
+          "outcome": "Puebla",
+          "book": "Mozzartbet",
+          "odd": 2.55,
+          "stake": 39286,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.mozzartbet.com/"
+        },
+        {
+          "outcome": "Diablos Rojos",
+          "book": "bet365",
+          "odd": 1.65,
+          "stake": 60714,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.bet365.com/"
+        }
+      ],
+      "S": 0.9982174688057042,
+      "roi": 0.17857142857142794,
+      "profit": 179,
+      "payout": 100179,
+      "staked": 100000,
+      "mins": 17,
+      "split": {
+        "S": 0.9982174688057042,
+        "payout": 100179,
+        "profit": 179,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Mozzartbet",
+            "odd": 2.55,
+            "stake": 39286
+          },
+          {
+            "book": "bet365",
+            "odd": 1.65,
+            "stake": 60714
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
