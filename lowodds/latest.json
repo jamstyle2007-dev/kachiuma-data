@@ -1,9 +1,29 @@
 {
-  "generatedAt": "2026-08-24T02:32:55.930Z",
+  "generatedAt": "2026-08-24T05:35:18.811Z",
   "source": "betexplorer.com (Pinnacle / 1xBet odds)",
   "threshold": 1.6,
   "count": 26,
   "matches": [
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF WOMEN - SINGLES: W35 TRIESTE, CLAY",
+      "home": "Ce G.",
+      "away": "Ferro G.",
+      "favTeam": "Ce G.",
+      "underTeam": "Ferro G.",
+      "favOdd": 1.01,
+      "prob": 99,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.01
+      },
+      "avgFavOdd": 1.01,
+      "time": "19:30",
+      "kickoff": "2026-08-24T11:30:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w35-trieste/ce-gabriela-ferro-galatea/SbRELxcB/"
+    },
     {
       "sport": "バレー",
       "sportKey": "volleyball",
@@ -112,11 +132,11 @@
       "away": "Aktobe",
       "favTeam": "Karaganda",
       "underTeam": "Aktobe",
-      "favOdd": 1.09,
-      "prob": 92,
+      "favOdd": 1.1,
+      "prob": 91,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.09
+        "1xbet": 1.1
       },
       "avgFavOdd": 1.1,
       "time": "23:00",
@@ -132,13 +152,13 @@
       "away": "Atlanta Dream W",
       "favTeam": "Atlanta Dream W",
       "underTeam": "Los Angeles Sparks W",
-      "favOdd": 1.2,
-      "prob": 83,
+      "favOdd": 1.15,
+      "prob": 87,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.2
+        "1xbet": 1.15
       },
-      "avgFavOdd": 1.23,
+      "avgFavOdd": 1.2,
       "time": "11:00",
       "kickoff": "2026-08-25T03:00:00+09:00",
       "niche": false,
@@ -152,37 +172,17 @@
       "away": "Krutykh O.",
       "favTeam": "Krutykh O.",
       "underTeam": "Iannaccone F.",
-      "favOdd": 1.26,
-      "prob": 79,
+      "favOdd": 1.25,
+      "prob": 80,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.26
+        "1xbet": 1.25
       },
-      "avgFavOdd": 1.25,
+      "avgFavOdd": 1.24,
       "time": "19:00",
       "kickoff": "2026-08-24T11:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/tennis/challenger-men-singles/augsburg/iannaccone-federico-krutykh-oleksii/YLFO0Fld/"
-    },
-    {
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "INDIA: CALCUTTA PREMIER DIVISION",
-      "home": "Kalighat",
-      "away": "East Bengal",
-      "favTeam": "East Bengal",
-      "underTeam": "Kalighat",
-      "favOdd": 1.27,
-      "prob": 79,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.27
-      },
-      "avgFavOdd": 1.27,
-      "time": "18:30",
-      "kickoff": "2026-08-24T10:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/football/india/calcutta-premier-division/kalighat-milan-sangha-east-bengal/MioIgy66/"
     },
     {
       "sport": "バレー",
@@ -192,13 +192,13 @@
       "away": "North Macedonia W",
       "favTeam": "Kosovo W",
       "underTeam": "North Macedonia W",
-      "favOdd": 1.3,
-      "prob": 77,
+      "favOdd": 1.26,
+      "prob": 79,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.3
+        "1xbet": 1.26
       },
-      "avgFavOdd": 1.31,
+      "avgFavOdd": 1.28,
       "time": "18:00",
       "kickoff": "2026-08-24T10:00:00+09:00",
       "niche": false,
@@ -212,11 +212,11 @@
       "away": "Gulin S.",
       "favTeam": "Gulin S.",
       "underTeam": "Yevseyev D.",
-      "favOdd": 1.31,
-      "prob": 76,
+      "favOdd": 1.3,
+      "prob": 77,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.31
+        "1xbet": 1.3
       },
       "avgFavOdd": 1.31,
       "time": "17:30",
@@ -247,62 +247,42 @@
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "WTA - SINGLES: MONTERREY, HARD",
-      "home": "Ruzic A.",
-      "away": "Bartunkova N.",
-      "favTeam": "Bartunkova N.",
-      "underTeam": "Ruzic A.",
-      "favOdd": 1.38,
-      "prob": 72,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.38
-      },
-      "avgFavOdd": 1.36,
-      "time": "12:00",
-      "kickoff": "2026-08-24T04:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/tennis/wta-singles/monterrey/ruzic-antonia-bartunkova-nikola/YZhnOHwp/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
       "league": "CHALLENGER MEN - SINGLES: AUGSBURG, CLAY",
       "home": "Brunold M.",
       "away": "Gavrielides L.",
       "favTeam": "Brunold M.",
       "underTeam": "Gavrielides L.",
-      "favOdd": 1.38,
-      "prob": 72,
+      "favOdd": 1.35,
+      "prob": 74,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.38
+        "1xbet": 1.35
       },
-      "avgFavOdd": 1.39,
+      "avgFavOdd": 1.35,
       "time": "19:00",
       "kickoff": "2026-08-24T11:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/tennis/challenger-men-singles/augsburg/brunold-mika-gavrielides-liam/Kp4S1HD6/"
     },
     {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "EUROPE: EUROPEAN CHAMPIONSHIPS WOMEN",
-      "home": "Azerbaijan W",
-      "away": "Romania W",
-      "favTeam": "Azerbaijan W",
-      "underTeam": "Romania W",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "CHALLENGER MEN - SINGLES: ROEHAMPTON 2, HARD",
+      "home": "Montes-De La Torre I.",
+      "away": "Paldanius O.",
+      "favTeam": "Montes-De La Torre I.",
+      "underTeam": "Paldanius O.",
       "favOdd": 1.4,
       "prob": 71,
       "book": "1xBet",
       "books": {
         "1xbet": 1.4
       },
-      "avgFavOdd": 1.39,
-      "time": "23:30",
-      "kickoff": "2026-08-24T15:30:00+09:00",
+      "avgFavOdd": 1.34,
+      "time": "19:00",
+      "kickoff": "2026-08-24T11:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/europe/european-championships-women/azerbaijan-romania/6sHySMbd/"
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/roehampton-2/montes-de-la-torre-inaki-paldanius-oskari/WnjEmRhd/"
     },
     {
       "sport": "バスケ",
@@ -345,6 +325,66 @@
       "url": "https://www.betexplorer.com/hockey/kazakhstan/kazakhstan-cup/kazzinc-torpedo-gornyak-rudny/zaLDUaJq/"
     },
     {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "EUROPE: EUROPEAN CHAMPIONSHIPS WOMEN",
+      "home": "Azerbaijan W",
+      "away": "Romania W",
+      "favTeam": "Azerbaijan W",
+      "underTeam": "Romania W",
+      "favOdd": 1.41,
+      "prob": 71,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.41
+      },
+      "avgFavOdd": 1.4,
+      "time": "23:30",
+      "kickoff": "2026-08-24T15:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/volleyball/europe/european-championships-women/azerbaijan-romania/6sHySMbd/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "USA: WNBA",
+      "home": "Minnesota Lynx W",
+      "away": "Golden State Valkyries W",
+      "favTeam": "Minnesota Lynx W",
+      "underTeam": "Golden State Valkyries W",
+      "favOdd": 1.42,
+      "prob": 70,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.42
+      },
+      "avgFavOdd": 1.46,
+      "time": "09:00",
+      "kickoff": "2026-08-25T01:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/usa/wnba/minnesota-lynx-golden-state-valkyries/0vUFx5cn/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "CHALLENGER MEN - SINGLES: AUGSBURG, CLAY",
+      "home": "Recek D.",
+      "away": "Sanchez Martinez B.",
+      "favTeam": "Sanchez Martinez B.",
+      "underTeam": "Recek D.",
+      "favOdd": 1.45,
+      "prob": 69,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.45
+      },
+      "avgFavOdd": 1.44,
+      "time": "17:30",
+      "kickoff": "2026-08-24T09:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/augsburg/recek-dominik-sanchez-martinez-benito/CK0K3wqf/"
+    },
+    {
       "sport": "テニス",
       "sportKey": "tennis",
       "league": "CHALLENGER MEN - SINGLES: ROEHAMPTON 2, HARD",
@@ -365,24 +405,24 @@
       "url": "https://www.betexplorer.com/tennis/challenger-men-singles/roehampton-2/albot-radu-rossi-leonardo/hb2z0erJ/"
     },
     {
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "KAZAKHSTAN: LEAGUE WOMEN",
-      "home": "Kairat W",
-      "away": "Atyrau W",
-      "favTeam": "Kairat W",
-      "underTeam": "Atyrau W",
+      "sport": "野球",
+      "sportKey": "baseball",
+      "league": "CZECH REPUBLIC: EXTRALIGA",
+      "home": "Eagles Prague",
+      "away": "Kotlarka Prague",
+      "favTeam": "Kotlarka Prague",
+      "underTeam": "Eagles Prague",
       "favOdd": 1.46,
       "prob": 68,
       "book": "1xBet",
       "books": {
         "1xbet": 1.46
       },
-      "avgFavOdd": 1.45,
-      "time": "20:00",
-      "kickoff": "2026-08-24T12:00:00+09:00",
+      "avgFavOdd": 1.4,
+      "time": "02:00",
+      "kickoff": "2026-08-24T18:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/football/kazakhstan/league-women/kairat-atyrau/6aaMQ6XO/"
+      "url": "https://www.betexplorer.com/baseball/czech-republic/extraliga/eagles-prague-kotlarka-prague/YP511FV7/"
     },
     {
       "sport": "アイスホッケー",
@@ -425,44 +465,24 @@
       "url": "https://www.betexplorer.com/basketball/mexico/lnbp/mineros-de-zacatecas-panteras/KCKyrMWj/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: AUGSBURG, CLAY",
-      "home": "Recek D.",
-      "away": "Sanchez Martinez B.",
-      "favTeam": "Sanchez Martinez B.",
-      "underTeam": "Recek D.",
-      "favOdd": 1.5,
-      "prob": 67,
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "EUROPE: EUROPEAN CHAMPIONSHIPS WOMEN",
+      "home": "Croatia W",
+      "away": "Slovakia W",
+      "favTeam": "Croatia W",
+      "underTeam": "Slovakia W",
+      "favOdd": 1.56,
+      "prob": 64,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.5
+        "1xbet": 1.56
       },
-      "avgFavOdd": 1.5,
-      "time": "17:30",
-      "kickoff": "2026-08-24T09:30:00+09:00",
+      "avgFavOdd": 1.57,
+      "time": "23:00",
+      "kickoff": "2026-08-24T15:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/augsburg/recek-dominik-sanchez-martinez-benito/CK0K3wqf/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "USA: WNBA",
-      "home": "Minnesota Lynx W",
-      "away": "Golden State Valkyries W",
-      "favTeam": "Minnesota Lynx W",
-      "underTeam": "Golden State Valkyries W",
-      "favOdd": 1.53,
-      "prob": 65,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.53
-      },
-      "avgFavOdd": 1.47,
-      "time": "09:00",
-      "kickoff": "2026-08-25T01:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/usa/wnba/minnesota-lynx-golden-state-valkyries/0vUFx5cn/"
+      "url": "https://www.betexplorer.com/volleyball/europe/european-championships-women/croatia-slovakia/2a71KdDi/"
     },
     {
       "sport": "野球",
@@ -498,31 +518,11 @@
       "books": {
         "1xbet": 1.57
       },
-      "avgFavOdd": 1.57,
+      "avgFavOdd": 1.56,
       "time": "20:00",
       "kickoff": "2026-08-24T12:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/hockey/world/club-friendly/irbis-mhl-loko-76-mhl/xzvNbQF6/"
-    },
-    {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "EUROPE: EUROPEAN CHAMPIONSHIPS WOMEN",
-      "home": "Croatia W",
-      "away": "Slovakia W",
-      "favTeam": "Croatia W",
-      "underTeam": "Slovakia W",
-      "favOdd": 1.59,
-      "prob": 63,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.59
-      },
-      "avgFavOdd": 1.57,
-      "time": "23:00",
-      "kickoff": "2026-08-24T15:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/europe/european-championships-women/croatia-slovakia/2a71KdDi/"
     }
   ]
 }

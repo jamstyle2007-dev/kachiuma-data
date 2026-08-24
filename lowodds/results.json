@@ -1,41 +1,41 @@
 {
-  "generatedAt": "2026-08-24T02:32:56.147Z",
+  "generatedAt": "2026-08-24T05:35:19.020Z",
   "windowDays": 400,
   "total": 300,
   "hits": 186,
   "hitRate": 0.62,
   "sim": {
     "stake": 10000,
-    "asOf": "2026-08-24T02:32:56.147Z",
+    "asOf": "2026-08-24T05:35:19.020Z",
     "byMinStars": {
       "1": {
         "all": {
-          "n": 3913,
-          "hits": 2498,
-          "staked": 39130000,
-          "returns": 32140100,
-          "profit": -6989900
+          "n": 3914,
+          "hits": 2499,
+          "staked": 39140000,
+          "returns": 32153900,
+          "profit": -6986100
         },
         "year": {
-          "n": 3913,
-          "hits": 2498,
-          "staked": 39130000,
-          "returns": 32140100,
-          "profit": -6989900
+          "n": 3914,
+          "hits": 2499,
+          "staked": 39140000,
+          "returns": 32153900,
+          "profit": -6986100
         },
         "month": {
-          "n": 2058,
-          "hits": 1313,
-          "staked": 20580000,
-          "returns": 17030600,
-          "profit": -3549400
+          "n": 2059,
+          "hits": 1314,
+          "staked": 20590000,
+          "returns": 17044400,
+          "profit": -3545600
         },
         "week": {
-          "n": 14,
-          "hits": 10,
-          "staked": 140000,
-          "returns": 130500,
-          "profit": -9500
+          "n": 15,
+          "hits": 11,
+          "staked": 150000,
+          "returns": 144300,
+          "profit": -5700
         }
       },
       "2": {
@@ -175,6 +175,23 @@
       "kickoff": "2026-08-24T03:00:00+09:00",
       "homeScore": 1,
       "awayScore": 0,
+      "isDraw": false,
+      "favWon": true
+    },
+    {
+      "id": "YZhnOHwp",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "WTA - SINGLES: MONTERREY, HARD",
+      "favTeam": "Bartunkova N.",
+      "underTeam": "Ruzic A.",
+      "favIsHome": false,
+      "favOdd": 1.38,
+      "prob": 72,
+      "stars": 1,
+      "kickoff": "2026-08-24T02:45:00+09:00",
+      "homeScore": 0,
+      "awayScore": 2,
       "isDraw": false,
       "favWon": true
     },
@@ -5241,23 +5258,6 @@
       "kickoff": "2026-08-21T15:00:00+09:00",
       "homeScore": 1,
       "awayScore": 2,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "KIu071VQ",
-      "sport": "アイスホッケー",
-      "sportKey": "hockey",
-      "league": "WORLD: CLUB FRIENDLY",
-      "favTeam": "MHC Spartak",
-      "underTeam": "Amurskie Tigry",
-      "favIsHome": true,
-      "favOdd": 1.44,
-      "prob": 69,
-      "stars": 1,
-      "kickoff": "2026-08-21T14:00:00+09:00",
-      "homeScore": 4,
-      "awayScore": 0,
       "isDraw": false,
       "favWon": true
     }
