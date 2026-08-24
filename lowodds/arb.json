@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T15:49:20.075Z",
+  "generatedAt": "2026-08-24T15:54:46.301Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 3,
@@ -63,7 +63,7 @@
       "profit": 1611,
       "payout": 101611,
       "staked": 100000,
-      "mins": 11,
+      "mins": 5,
       "split": {
         "S": 0.9841443411700382,
         "payout": 101611,
@@ -101,44 +101,44 @@
       "legs": [
         {
           "outcome": "Minnesota Lynx W",
-          "book": "Betway",
-          "odd": 1.53,
-          "stake": 66225,
-          "jp": true,
+          "book": "Mozzartbet",
+          "odd": 1.52,
+          "stake": 66372,
+          "jp": false,
           "exch": false,
-          "url": "https://betway.com/"
+          "url": "https://www.mozzartbet.com/"
         },
         {
           "outcome": "Golden State Valkyries W",
           "book": "Rainbet",
           "odd": 3,
-          "stake": 33775,
+          "stake": 33628,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
         }
       ],
-      "S": 0.9869281045751634,
-      "roi": 1.3245033112582627,
-      "profit": 1325,
-      "payout": 101325,
+      "S": 0.9912280701754386,
+      "roi": 0.8849557522123908,
+      "profit": 885,
+      "payout": 100885,
       "staked": 100000,
-      "mins": 11,
+      "mins": 5,
       "split": {
-        "S": 0.9869281045751634,
-        "payout": 101325,
-        "profit": 1325,
+        "S": 0.9912280701754386,
+        "payout": 100885,
+        "profit": 885,
         "staked": 100000,
         "legs": [
           {
-            "book": "Betway",
-            "odd": 1.53,
-            "stake": 66225
+            "book": "Mozzartbet",
+            "odd": 1.52,
+            "stake": 66372
           },
           {
             "book": "Rainbet",
             "odd": 3,
-            "stake": 33775
+            "stake": 33628
           }
         ]
       },
@@ -183,7 +183,7 @@
       "profit": 266,
       "payout": 100266,
       "staked": 100000,
-      "mins": 11,
+      "mins": 5,
       "split": {
         "S": 0.9973474801061009,
         "payout": 100266,
