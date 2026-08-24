@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-24T06:59:04.084Z",
+  "generatedAt": "2026-08-24T07:04:29.546Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "86QuO7U8",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Greece - Cyprus",
-      "url": "https://www.betexplorer.com/basketball/world/friendly-international/greece-cyprus/86QuO7U8/",
-      "kickoff": "2026-08-24T16:00:00+09:00",
-      "width": 2,
-      "books": 3,
-      "labels": [
-        "Greece",
-        "Cyprus"
-      ],
-      "legs": [
-        {
-          "outcome": "Greece",
-          "book": "Betfair",
-          "odd": 1.17,
-          "stake": 91116,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        },
-        {
-          "outcome": "Cyprus",
-          "book": "Stake.com",
-          "odd": 12,
-          "stake": 8884,
-          "jp": true,
-          "exch": false,
-          "url": "https://stake.com/"
-        }
-      ],
-      "S": 0.9380341880341881,
-      "roi": 6.60592255125283,
-      "profit": 6606,
-      "payout": 106606,
-      "staked": 100000,
-      "mins": 1,
-      "split": {
-        "S": 0.9380341880341881,
-        "payout": 106606,
-        "profit": 6606,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betfair",
-            "odd": 1.17,
-            "stake": 91116
-          },
-          {
-            "book": "Stake.com",
-            "odd": 12,
-            "stake": 8884
-          }
-        ]
-      },
-      "hasExch": true,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
