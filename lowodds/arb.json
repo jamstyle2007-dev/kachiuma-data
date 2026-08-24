@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T15:43:53.013Z",
+  "generatedAt": "2026-08-24T15:49:20.075Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 3,
@@ -33,7 +33,7 @@
       "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup-final-six/puerto-rico-canada/lzcnCQsn/",
       "kickoff": "2026-08-25T01:00:00+09:00",
       "width": 2,
-      "books": 14,
+      "books": 15,
       "labels": [
         "Puerto Rico",
         "Canada"
@@ -43,7 +43,7 @@
           "outcome": "Puerto Rico",
           "book": "Unibet",
           "odd": 2.95,
-          "stake": 34879,
+          "stake": 34444,
           "jp": false,
           "exch": false,
           "url": "https://www.unibet.com/"
@@ -51,34 +51,34 @@
         {
           "outcome": "Canada",
           "book": "BetInAsia",
-          "odd": 1.58,
-          "stake": 65121,
+          "odd": 1.55,
+          "stake": 65556,
           "jp": true,
           "exch": false,
           "url": "https://www.betinasia.com/"
         }
       ],
-      "S": 0.9718944432525208,
-      "roi": 2.891832229580582,
-      "profit": 2892,
-      "payout": 102892,
+      "S": 0.9841443411700382,
+      "roi": 1.6111111111111187,
+      "profit": 1611,
+      "payout": 101611,
       "staked": 100000,
-      "mins": 16,
+      "mins": 11,
       "split": {
-        "S": 0.9718944432525208,
-        "payout": 102892,
-        "profit": 2892,
+        "S": 0.9841443411700382,
+        "payout": 101611,
+        "profit": 1611,
         "staked": 100000,
         "legs": [
           {
             "book": "Unibet",
             "odd": 2.95,
-            "stake": 34879
+            "stake": 34444
           },
           {
             "book": "BetInAsia",
-            "odd": 1.58,
-            "stake": 65121
+            "odd": 1.55,
+            "stake": 65556
           }
         ]
       },
@@ -123,7 +123,7 @@
       "profit": 1325,
       "payout": 101325,
       "staked": 100000,
-      "mins": 16,
+      "mins": 11,
       "split": {
         "S": 0.9869281045751634,
         "payout": 101325,
@@ -183,7 +183,7 @@
       "profit": 266,
       "payout": 100266,
       "staked": 100000,
-      "mins": 16,
+      "mins": 11,
       "split": {
         "S": 0.9973474801061009,
         "payout": 100266,
