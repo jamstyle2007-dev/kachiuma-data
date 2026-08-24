@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T16:54:12.571Z",
+  "generatedAt": "2026-08-24T16:59:40.944Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 4,
@@ -42,43 +42,43 @@
         {
           "outcome": "Correcaminos",
           "book": "Bets.io",
-          "odd": 2.75,
-          "stake": 37071,
+          "odd": 3,
+          "stake": 34066,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
         },
         {
           "outcome": "Soles",
-          "book": "Mozzartbet",
-          "odd": 1.62,
-          "stake": 62929,
-          "jp": false,
+          "book": "bwin",
+          "odd": 1.55,
+          "stake": 65934,
+          "jp": true,
           "exch": false,
-          "url": "https://www.mozzartbet.com/"
+          "url": "https://sports.bwin.com/"
         }
       ],
-      "S": 0.9809203142536476,
-      "roi": 1.94508009153318,
-      "profit": 1945,
-      "payout": 101945,
+      "S": 0.978494623655914,
+      "roi": 2.19780219780219,
+      "profit": 2198,
+      "payout": 102198,
       "staked": 100000,
-      "mins": 21,
+      "mins": 15,
       "split": {
-        "S": 0.9809203142536476,
-        "payout": 101945,
-        "profit": 1945,
+        "S": 0.978494623655914,
+        "payout": 102198,
+        "profit": 2198,
         "staked": 100000,
         "legs": [
           {
             "book": "Bets.io",
-            "odd": 2.75,
-            "stake": 37071
+            "odd": 3,
+            "stake": 34066
           },
           {
-            "book": "Mozzartbet",
-            "odd": 1.62,
-            "stake": 62929
+            "book": "bwin",
+            "odd": 1.55,
+            "stake": 65934
           }
         ]
       },
@@ -123,7 +123,7 @@
       "profit": 179,
       "payout": 100179,
       "staked": 100000,
-      "mins": 6,
+      "mins": 0,
       "split": {
         "S": 0.9982174688057042,
         "payout": 100179,
