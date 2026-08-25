@@ -41,7 +41,16 @@ def load_cards(results):
             continue
         top3 = [r["result"]["first"], r["result"]["second"], r["result"]["third"]]
         out.append((os.path.basename(p), d, r, top3))
-    return out
+    return dedup2(out)
+
+
+def dedup2(cards):
+    """同一レースの出馬表が複数あっても1件に絞る(別セッションが重複ファイルを作るため)。"""
+    best = {}
+    for c in cards:
+        d = c[1]; k = (d.get("date"), d.get("track"), d.get("raceNo"))
+        if k not in best or d.get("result"): best[k] = c
+    return list(best.values())
 
 
 def run(threshold=lf.THRESHOLD, detail=False):

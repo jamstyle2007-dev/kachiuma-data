@@ -6,11 +6,11 @@
  "grade": "OP",
  "surface": "ダ",
  "distance": 1800,
- "trackCondition": null,
+ "trackCondition": "良",
  "conditionType": "ハンデ",
  "fieldSize": 16,
  "bias": null,
- "oddsNote": "実オッズ未発売。人気・オッズはnetkeibaのAI予想オッズによる暫定値",
+ "oddsNote": "確定オッズに差し替え済み(予想時は実オッズ未発売でAI予想オッズによる暫定人気を使用)",
  "horses": [
   {
    "num": 1,
@@ -19,7 +19,7 @@
    "weight": 56.0,
    "sexAge": "牡4",
    "popularity": 1,
-   "winOdds": 3.8,
+   "winOdds": 3.1,
    "style": "差し",
    "recent3": [
     {
@@ -65,7 +65,7 @@
      "last3f": 37.3
     }
    ],
-   "_popIsProvisional": true
+   "finish": 1
   },
   {
    "num": 2,
@@ -74,7 +74,7 @@
    "weight": 56.0,
    "sexAge": "セ5",
    "popularity": 2,
-   "winOdds": 4.3,
+   "winOdds": 4.1,
    "style": "差し",
    "recent3": [
     {
@@ -119,8 +119,7 @@
      "margin": 2.1,
      "last3f": 37.6
     }
-   ],
-   "_popIsProvisional": true
+   ]
   },
   {
    "num": 3,
@@ -128,8 +127,8 @@
    "jockey": "松若風馬",
    "weight": 55.0,
    "sexAge": "牡6",
-   "popularity": 13,
-   "winOdds": 63.3,
+   "popularity": 11,
+   "winOdds": 58.3,
    "style": "差し",
    "recent3": [
     {
@@ -174,8 +173,7 @@
      "margin": 1.5,
      "last3f": 38.1
     }
-   ],
-   "_popIsProvisional": true
+   ]
   },
   {
    "num": 4,
@@ -183,8 +181,8 @@
    "jockey": "斎藤新",
    "weight": 56.0,
    "sexAge": "牡8",
-   "popularity": 6,
-   "winOdds": 17.2,
+   "popularity": 9,
+   "winOdds": 24.7,
    "style": "追込",
    "recent3": [
     {
@@ -229,8 +227,7 @@
      "margin": 1.3,
      "last3f": 38.1
     }
-   ],
-   "_popIsProvisional": true
+   ]
   },
   {
    "num": 5,
@@ -239,7 +236,7 @@
    "weight": 56.0,
    "sexAge": "牡6",
    "popularity": 3,
-   "winOdds": 6.9,
+   "winOdds": 7.1,
    "style": "差し",
    "recent3": [
     {
@@ -284,8 +281,7 @@
      "margin": 0.1,
      "last3f": 35.5
     }
-   ],
-   "_popIsProvisional": true
+   ]
   },
   {
    "num": 6,
@@ -293,8 +289,8 @@
    "jockey": "長岡禎仁",
    "weight": 56.0,
    "sexAge": "セ7",
-   "popularity": 9,
-   "winOdds": 27.2,
+   "popularity": 7,
+   "winOdds": 15.0,
    "style": "先行",
    "recent3": [
     {
@@ -339,8 +335,7 @@
      "margin": 0.1,
      "last3f": 38.1
     }
-   ],
-   "_popIsProvisional": true
+   ]
   },
   {
    "num": 7,
@@ -348,8 +343,8 @@
    "jockey": "高倉稜",
    "weight": 55.0,
    "sexAge": "牡6",
-   "popularity": 10,
-   "winOdds": 28.9,
+   "popularity": 8,
+   "winOdds": 21.2,
    "style": "逃げ",
    "recent3": [
     {
@@ -394,8 +389,7 @@
      "margin": 1.0,
      "last3f": 38.4
     }
-   ],
-   "_popIsProvisional": true
+   ]
   },
   {
    "num": 8,
@@ -403,8 +397,8 @@
    "jockey": "柴田裕一",
    "weight": 52.0,
    "sexAge": "牝6",
-   "popularity": 15,
-   "winOdds": 80.0,
+   "popularity": 14,
+   "winOdds": 83.6,
    "style": "差し",
    "recent3": [
     {
@@ -449,8 +443,7 @@
      "margin": 1.4,
      "last3f": 39.5
     }
-   ],
-   "_popIsProvisional": true
+   ]
   },
   {
    "num": 9,
@@ -458,8 +451,8 @@
    "jockey": "吉村誠之助",
    "weight": 56.0,
    "sexAge": "牡4",
-   "popularity": 4,
-   "winOdds": 6.9,
+   "popularity": 5,
+   "winOdds": 11.2,
    "style": "差し",
    "recent3": [
     {
@@ -505,7 +498,7 @@
      "last3f": 35.4
     }
    ],
-   "_popIsProvisional": true
+   "finish": 2
   },
   {
    "num": 10,
@@ -513,8 +506,8 @@
    "jockey": "酒井学",
    "weight": 55.0,
    "sexAge": "牡5",
-   "popularity": 8,
-   "winOdds": 19.1,
+   "popularity": 10,
+   "winOdds": 32.1,
    "style": "追込",
    "recent3": [
     {
@@ -559,8 +552,7 @@
      "margin": 0.8,
      "last3f": 37.7
     }
-   ],
-   "_popIsProvisional": true
+   ]
   },
   {
    "num": 11,
@@ -568,8 +560,8 @@
    "jockey": "国分優作",
    "weight": 56.0,
    "sexAge": "牡7",
-   "popularity": 14,
-   "winOdds": 66.3,
+   "popularity": 16,
+   "winOdds": 103.6,
    "style": "差し",
    "recent3": [
     {
@@ -615,7 +607,7 @@
      "last3f": 36.7
     }
    ],
-   "_popIsProvisional": true
+   "finish": 3
   },
   {
    "num": 12,
@@ -623,8 +615,8 @@
    "jockey": "田口貫太",
    "weight": 56.0,
    "sexAge": "牡5",
-   "popularity": 11,
-   "winOdds": 33.9,
+   "popularity": 12,
+   "winOdds": 68.6,
    "style": "逃げ",
    "recent3": [
     {
@@ -669,8 +661,7 @@
      "margin": 2.3,
      "last3f": 40.1
     }
-   ],
-   "_popIsProvisional": true
+   ]
   },
   {
    "num": 13,
@@ -678,8 +669,8 @@
    "jockey": "幸英明",
    "weight": 57.5,
    "sexAge": "牡7",
-   "popularity": 5,
-   "winOdds": 7.9,
+   "popularity": 4,
+   "winOdds": 8.2,
    "style": "差し",
    "recent3": [
     {
@@ -724,8 +715,7 @@
      "margin": 0.8,
      "last3f": 37.7
     }
-   ],
-   "_popIsProvisional": true
+   ]
   },
   {
    "num": 14,
@@ -733,8 +723,8 @@
    "jockey": "菱田裕二",
    "weight": 53.0,
    "sexAge": "牡7",
-   "popularity": 12,
-   "winOdds": 55.8,
+   "popularity": 15,
+   "winOdds": 94.1,
    "style": "差し",
    "recent3": [
     {
@@ -779,8 +769,7 @@
      "margin": 0.9,
      "last3f": 36.5
     }
-   ],
-   "_popIsProvisional": true
+   ]
   },
   {
    "num": 15,
@@ -788,8 +777,8 @@
    "jockey": "田山旺佑",
    "weight": 55.0,
    "sexAge": "牡6",
-   "popularity": 7,
-   "winOdds": 17.7,
+   "popularity": 6,
+   "winOdds": 12.6,
    "style": "差し",
    "recent3": [
     {
@@ -834,8 +823,7 @@
      "margin": 0.6,
      "last3f": 36.4
     }
-   ],
-   "_popIsProvisional": true
+   ]
   },
   {
    "num": 16,
@@ -843,8 +831,8 @@
    "jockey": "角田大和",
    "weight": 54.0,
    "sexAge": "牡7",
-   "popularity": 16,
-   "winOdds": 99.7,
+   "popularity": 13,
+   "winOdds": 81.6,
    "style": "差し",
    "recent3": [
     {
@@ -889,8 +877,21 @@
      "margin": 1.9,
      "last3f": 38.8
     }
-   ],
-   "_popIsProvisional": true
+   ]
   }
- ]
+ ],
+ "result": {
+  "first": 1,
+  "second": 9,
+  "third": 11,
+  "tanshoPay": 310,
+  "fukushoPay": [
+   190,
+   290,
+   1790
+  ],
+  "sanrenpukuPay": 70520,
+  "sanrentanPay": 238670
+ },
+ "status": "結果確定"
 }

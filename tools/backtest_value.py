@@ -32,7 +32,25 @@ def load():
             out.append((d, {"name": d.get("name", "?"), "result": d["result"]}))
         elif key in res:
             out.append((d, res[key]))
-    return out
+    return dedup(out, lambda c: (c[0].get("date"), c[0].get("track"), c[0].get("raceNo")))
+
+
+def dedup(cards, keyfn):
+    """同一(日付,競馬場,レース番号)の出馬表が複数あっても1件に絞る。
+
+    2026-08-23時点で別セッションが同じレースの出馬表を別ファイル名で作っており
+    (例: 2026-08-23-niigata-2sai.json と 2026-08-23-niigata-niigata-2sai.json)、
+    重複したまま集計すると同じレースを二重に数えて検体数と回収率が水増しされる。
+    result を自前で持っている方(=結果まで記録済み)を優先して残す。
+    """
+    best = {}
+    for c in cards:
+        k = keyfn(c)
+        if k not in best or (c[0].get("result") if isinstance(c[0], dict) else False):
+            if k in best and not (c[0].get("result") if isinstance(c[0], dict) else False):
+                continue
+            best[k] = c
+    return list(best.values())
 
 
 def rank(d):

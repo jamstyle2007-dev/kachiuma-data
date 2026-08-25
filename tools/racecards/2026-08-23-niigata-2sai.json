@@ -6,7 +6,7 @@
  "grade": "GIII",
  "surface": "芝",
  "distance": 1600,
- "trackCondition": null,
+ "trackCondition": "良",
  "conditionType": "馬齢",
  "fieldSize": 10,
  "bias": "差",
@@ -17,8 +17,8 @@
    "jockey": "津村明秀",
    "weight": 55.0,
    "sexAge": "牝2",
-   "popularity": 2,
-   "winOdds": 4.7,
+   "popularity": 3,
+   "winOdds": 4.3,
    "style": "先行",
    "recent3": [
     {
@@ -44,7 +44,7 @@
    "weight": 55.0,
    "sexAge": "牡2",
    "popularity": 1,
-   "winOdds": 3.0,
+   "winOdds": 2.8,
    "style": "先行",
    "recent3": [
     {
@@ -61,7 +61,8 @@
      "margin": -0.5,
      "last3f": 33.7
     }
-   ]
+   ],
+   "finish": 1
   },
   {
    "num": 3,
@@ -70,7 +71,7 @@
    "weight": 55.0,
    "sexAge": "牡2",
    "popularity": 5,
-   "winOdds": 6.0,
+   "winOdds": 8.2,
    "style": "差し",
    "recent3": [
     {
@@ -87,7 +88,8 @@
      "margin": -0.2,
      "last3f": 34.3
     }
-   ]
+   ],
+   "finish": 3
   },
   {
    "num": 4,
@@ -95,8 +97,8 @@
    "jockey": "嶋田純次",
    "weight": 55.0,
    "sexAge": "牡2",
-   "popularity": 10,
-   "winOdds": 75.8,
+   "popularity": 8,
+   "winOdds": 110.6,
    "style": "差し",
    "recent3": [
     {
@@ -135,8 +137,8 @@
    "jockey": "木幡育也",
    "weight": 55.0,
    "sexAge": "牡2",
-   "popularity": 8,
-   "winOdds": 53.8,
+   "popularity": 9,
+   "winOdds": 113.4,
    "style": "差し",
    "recent3": [
     {
@@ -176,7 +178,7 @@
    "weight": 55.0,
    "sexAge": "牝2",
    "popularity": 7,
-   "winOdds": 28.2,
+   "winOdds": 40.3,
    "style": null,
    "recent3": []
   },
@@ -186,8 +188,8 @@
    "jockey": "コレット",
    "weight": 55.0,
    "sexAge": "牡2",
-   "popularity": 3,
-   "winOdds": 4.9,
+   "popularity": 2,
+   "winOdds": 4.0,
    "style": "差し",
    "recent3": [
     {
@@ -204,7 +206,8 @@
      "margin": 0.0,
      "last3f": 32.8
     }
-   ]
+   ],
+   "finish": 2
   },
   {
    "num": 8,
@@ -212,8 +215,8 @@
    "jockey": "江田照男",
    "weight": 55.0,
    "sexAge": "牡2",
-   "popularity": 9,
-   "winOdds": 68.2,
+   "popularity": 10,
+   "winOdds": 185.0,
    "style": "追込",
    "recent3": [
     {
@@ -253,7 +256,7 @@
    "weight": 55.0,
    "sexAge": "牝2",
    "popularity": 6,
-   "winOdds": 19.2,
+   "winOdds": 19.8,
    "style": "差し",
    "recent3": [
     {
@@ -279,7 +282,7 @@
    "weight": 55.0,
    "sexAge": "牡2",
    "popularity": 4,
-   "winOdds": 4.9,
+   "winOdds": 5.0,
    "style": "逃げ",
    "recent3": [
     {
@@ -298,5 +301,19 @@
     }
    ]
   }
- ]
+ ],
+ "result": {
+  "first": 2,
+  "second": 7,
+  "third": 3,
+  "tanshoPay": 280,
+  "fukushoPay": [
+   120,
+   140,
+   180
+  ],
+  "sanrenpukuPay": 1540,
+  "sanrentanPay": 5810
+ },
+ "status": "結果確定"
 }
