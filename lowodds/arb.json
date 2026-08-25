@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T17:08:52.097Z",
+  "generatedAt": "2026-08-25T17:14:17.449Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
@@ -26,81 +26,6 @@
   },
   "opps": [
     {
-      "id": "pAd02BZ2",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "El Calor de Cancun - Astros",
-      "url": "https://www.betexplorer.com/basketball/mexico/lnbp/el-calor-de-cancun-astros-de-jalisco/pAd02BZ2/",
-      "kickoff": "2026-08-26T02:15:00+09:00",
-      "width": 3,
-      "books": 10,
-      "labels": [
-        "El Calor de Cancun",
-        "Draw",
-        "Astros"
-      ],
-      "legs": [
-        {
-          "outcome": "El Calor de Cancun",
-          "book": "99:108",
-          "odd": 99,
-          "stake": 3197,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=99%3A108%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "50:89",
-          "odd": 3.76,
-          "stake": 84182,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=50%3A89%20sportsbook"
-        },
-        {
-          "outcome": "Astros",
-          "book": "50:89",
-          "odd": 25.08,
-          "stake": 12621,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=50%3A89%20sportsbook"
-        }
-      ],
-      "S": 0.3159308652029817,
-      "roi": 216.52494584772916,
-      "profit": 216525,
-      "payout": 316525,
-      "staked": 100000,
-      "mins": 6,
-      "split": {
-        "S": 0.3159308652029817,
-        "payout": 316525,
-        "profit": 216525,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "99:108",
-            "odd": 99,
-            "stake": 3197
-          },
-          {
-            "book": "50:89",
-            "odd": 3.76,
-            "stake": 84182
-          },
-          {
-            "book": "50:89",
-            "odd": 25.08,
-            "stake": 12621
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    },
-    {
       "id": "jmNGfaGd",
       "sport": "basketball",
       "sportLabel": "バスケ",
@@ -116,12 +41,12 @@
       "legs": [
         {
           "outcome": "Correcaminos",
-          "book": "Megapari",
+          "book": "1xBet",
           "odd": 3.49,
           "stake": 30478,
           "jp": true,
           "exch": false,
-          "url": "https://megapari.com/"
+          "url": "https://1xbet.com/ja"
         },
         {
           "outcome": "Soles",
@@ -138,7 +63,7 @@
       "profit": 6369,
       "payout": 106369,
       "staked": 100000,
-      "mins": 6,
+      "mins": 1,
       "split": {
         "S": 0.9401277225312283,
         "payout": 106369,
@@ -146,7 +71,7 @@
         "staked": 100000,
         "legs": [
           {
-            "book": "Megapari",
+            "book": "1xBet",
             "odd": 3.49,
             "stake": 30478
           },
@@ -154,6 +79,66 @@
             "book": "Betsson",
             "odd": 1.53,
             "stake": 69522
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "pAd02BZ2",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "El Calor de Cancun - Astros",
+      "url": "https://www.betexplorer.com/basketball/mexico/lnbp/el-calor-de-cancun-astros-de-jalisco/pAd02BZ2/",
+      "kickoff": "2026-08-26T02:15:00+09:00",
+      "width": 2,
+      "books": 17,
+      "labels": [
+        "El Calor de Cancun",
+        "Astros"
+      ],
+      "legs": [
+        {
+          "outcome": "El Calor de Cancun",
+          "book": "Bets.io",
+          "odd": 4.65,
+          "stake": 21849,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
+        },
+        {
+          "outcome": "Astros",
+          "book": "Unibet",
+          "odd": 1.3,
+          "stake": 78151,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.unibet.com/"
+        }
+      ],
+      "S": 0.9842845326716294,
+      "roi": 1.5966386554621792,
+      "profit": 1597,
+      "payout": 101597,
+      "staked": 100000,
+      "mins": 1,
+      "split": {
+        "S": 0.9842845326716294,
+        "payout": 101597,
+        "profit": 1597,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Bets.io",
+            "odd": 4.65,
+            "stake": 21849
+          },
+          {
+            "book": "Unibet",
+            "odd": 1.3,
+            "stake": 78151
           }
         ]
       },
