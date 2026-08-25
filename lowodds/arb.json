@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T08:52:22.110Z",
+  "generatedAt": "2026-08-25T08:57:47.094Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
@@ -42,8 +42,8 @@
         {
           "outcome": "Iserlohn",
           "book": "BetInAsia",
-          "odd": 3.8,
-          "stake": 28571,
+          "odd": 4.03,
+          "stake": 27387,
           "jp": true,
           "exch": false,
           "url": "https://www.betinasia.com/"
@@ -52,33 +52,33 @@
           "outcome": "ETB Miners",
           "book": "Bets.io",
           "odd": 1.52,
-          "stake": 71429,
+          "stake": 72613,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
         }
       ],
-      "S": 0.9210526315789473,
-      "roi": 8.571428571428562,
-      "profit": 8571,
-      "payout": 108571,
+      "S": 0.9060336946584825,
+      "roi": 10.371171171171166,
+      "profit": 10371,
+      "payout": 110371,
       "staked": 100000,
-      "mins": 8,
+      "mins": 2,
       "split": {
-        "S": 0.9210526315789473,
-        "payout": 108571,
-        "profit": 8571,
+        "S": 0.9060336946584825,
+        "payout": 110371,
+        "profit": 10371,
         "staked": 100000,
         "legs": [
           {
             "book": "BetInAsia",
-            "odd": 3.8,
-            "stake": 28571
+            "odd": 4.03,
+            "stake": 27387
           },
           {
             "book": "Bets.io",
             "odd": 1.52,
-            "stake": 71429
+            "stake": 72613
           }
         ]
       },
