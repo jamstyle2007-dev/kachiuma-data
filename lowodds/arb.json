@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-25T16:41:43.576Z",
+  "generatedAt": "2026-08-25T16:47:05.528Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 2,
+  "arbCount": 2,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,128 @@
       "count": 11,
       "profit": 2898680
     },
-    "pending": 0
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "jmNGfaGd",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Correcaminos - Soles",
+      "url": "https://www.betexplorer.com/basketball/mexico/lnbp/correcaminos-soles/jmNGfaGd/",
+      "kickoff": "2026-08-26T02:15:00+09:00",
+      "width": 2,
+      "books": 17,
+      "labels": [
+        "Correcaminos",
+        "Soles"
+      ],
+      "legs": [
+        {
+          "outcome": "Correcaminos",
+          "book": "1xBet",
+          "odd": 3.74,
+          "stake": 29032,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        },
+        {
+          "outcome": "Soles",
+          "book": "Betsson",
+          "odd": 1.53,
+          "stake": 70968,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.betsson.com/"
+        }
+      ],
+      "S": 0.9209744503862151,
+      "roi": 8.580645161290334,
+      "profit": 8581,
+      "payout": 108581,
+      "staked": 100000,
+      "mins": 28,
+      "split": {
+        "S": 0.9209744503862151,
+        "payout": 108581,
+        "profit": 8581,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "1xBet",
+            "odd": 3.74,
+            "stake": 29032
+          },
+          {
+            "book": "Betsson",
+            "odd": 1.53,
+            "stake": 70968
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "pAd02BZ2",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "El Calor de Cancun - Astros",
+      "url": "https://www.betexplorer.com/basketball/mexico/lnbp/el-calor-de-cancun-astros-de-jalisco/pAd02BZ2/",
+      "kickoff": "2026-08-26T02:15:00+09:00",
+      "width": 2,
+      "books": 17,
+      "labels": [
+        "El Calor de Cancun",
+        "Astros"
+      ],
+      "legs": [
+        {
+          "outcome": "El Calor de Cancun",
+          "book": "Bets.io",
+          "odd": 4.5,
+          "stake": 22414,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
+        },
+        {
+          "outcome": "Astros",
+          "book": "Unibet",
+          "odd": 1.3,
+          "stake": 77586,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.unibet.com/"
+        }
+      ],
+      "S": 0.9914529914529914,
+      "roi": 0.8620689655172598,
+      "profit": 862,
+      "payout": 100862,
+      "staked": 100000,
+      "mins": 28,
+      "split": {
+        "S": 0.9914529914529914,
+        "payout": 100862,
+        "profit": 862,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Bets.io",
+            "odd": 4.5,
+            "stake": 22414
+          },
+          {
+            "book": "Unibet",
+            "odd": 1.3,
+            "stake": 77586
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
