@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-25T08:57:47.094Z",
+  "generatedAt": "2026-08-25T09:03:10.421Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "fwcMzJLj",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Iserlohn - ETB Miners",
-      "url": "https://www.betexplorer.com/basketball/world/club-friendly/iserlohn-etb-miners/fwcMzJLj/",
-      "kickoff": "2026-08-25T18:00:00+09:00",
-      "width": 2,
-      "books": 9,
-      "labels": [
-        "Iserlohn",
-        "ETB Miners"
-      ],
-      "legs": [
-        {
-          "outcome": "Iserlohn",
-          "book": "BetInAsia",
-          "odd": 4.03,
-          "stake": 27387,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        },
-        {
-          "outcome": "ETB Miners",
-          "book": "Bets.io",
-          "odd": 1.52,
-          "stake": 72613,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
-        }
-      ],
-      "S": 0.9060336946584825,
-      "roi": 10.371171171171166,
-      "profit": 10371,
-      "payout": 110371,
-      "staked": 100000,
-      "mins": 2,
-      "split": {
-        "S": 0.9060336946584825,
-        "payout": 110371,
-        "profit": 10371,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "BetInAsia",
-            "odd": 4.03,
-            "stake": 27387
-          },
-          {
-            "book": "Bets.io",
-            "odd": 1.52,
-            "stake": 72613
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
