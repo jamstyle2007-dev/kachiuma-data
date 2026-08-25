@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-25T09:41:08.649Z",
+  "generatedAt": "2026-08-25T09:46:37.021Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 4,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 3
   },
-  "opps": [
-    {
-      "id": "2ZW9bhwH",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Rennes - CEP Lorient",
-      "url": "https://www.betexplorer.com/basketball/world/club-friendly/union-rennes-basket-35-cep-lorient/2ZW9bhwH/",
-      "kickoff": "2026-08-25T19:00:00+09:00",
-      "width": 2,
-      "books": 9,
-      "labels": [
-        "Rennes",
-        "CEP Lorient"
-      ],
-      "legs": [
-        {
-          "outcome": "Rennes",
-          "book": "BetInAsia",
-          "odd": 1.6,
-          "stake": 63719,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        },
-        {
-          "outcome": "CEP Lorient",
-          "book": "1xBet",
-          "odd": 2.81,
-          "stake": 36281,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        }
-      ],
-      "S": 0.9808718861209964,
-      "roi": 1.9501133786848035,
-      "profit": 1950,
-      "payout": 101950,
-      "staked": 100000,
-      "mins": 19,
-      "split": {
-        "S": 0.9808718861209964,
-        "payout": 101950,
-        "profit": 1950,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "BetInAsia",
-            "odd": 1.6,
-            "stake": 63719
-          },
-          {
-            "book": "1xBet",
-            "odd": 2.81,
-            "stake": 36281
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
