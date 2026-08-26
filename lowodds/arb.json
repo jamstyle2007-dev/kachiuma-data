@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-26T07:58:34.282Z",
+  "generatedAt": "2026-08-26T08:04:05.604Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 3,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 14,
       "profit": 2908980
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "n5eGKA77",
+      "sport": "handball",
+      "sportLabel": "ハンドボール",
+      "teams": "Copenhagen W - Sonderjyske W",
+      "url": "https://www.betexplorer.com/handball/denmark/kvindeligaen-women/copenhagen-sonderjyske/n5eGKA77/",
+      "kickoff": "2026-08-26T17:30:00+09:00",
+      "width": 3,
+      "books": 16,
+      "labels": [
+        "Copenhagen W",
+        "Draw",
+        "Sonderjyske W"
+      ],
+      "legs": [
+        {
+          "outcome": "Copenhagen W",
+          "book": "Rainbet",
+          "odd": 1.32,
+          "stake": 78081,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "Stake.com",
+          "odd": 17,
+          "stake": 6063,
+          "jp": true,
+          "exch": false,
+          "url": "https://stake.com/"
+        },
+        {
+          "outcome": "Sonderjyske W",
+          "book": "bet365",
+          "odd": 6.5,
+          "stake": 15856,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.bet365.com/"
+        }
+      ],
+      "S": 0.9702454408336761,
+      "roi": 3.066704352741656,
+      "profit": 3067,
+      "payout": 103067,
+      "staked": 100000,
+      "mins": 26,
+      "split": {
+        "S": 0.9702454408336761,
+        "payout": 103067,
+        "profit": 3067,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Rainbet",
+            "odd": 1.32,
+            "stake": 78081
+          },
+          {
+            "book": "Stake.com",
+            "odd": 17,
+            "stake": 6063
+          },
+          {
+            "book": "bet365",
+            "odd": 6.5,
+            "stake": 15856
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
