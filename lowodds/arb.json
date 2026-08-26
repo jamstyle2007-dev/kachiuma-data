@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-26T02:27:00.745Z",
+  "generatedAt": "2026-08-26T02:32:25.292Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 2,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 13,
       "profit": 2908123
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "fiCuHvFq",
+      "sport": "hockey",
+      "sportLabel": "アイスホッケー",
+      "teams": "Loko - Krylya Sovetov",
+      "url": "https://www.betexplorer.com/hockey/world/club-friendly/loko-mhl-krylya-sovetov-mhl/fiCuHvFq/",
+      "kickoff": "2026-08-26T12:00:00+09:00",
+      "width": 3,
+      "books": 3,
+      "labels": [
+        "Loko",
+        "Draw",
+        "Krylya Sovetov"
+      ],
+      "legs": [
+        {
+          "outcome": "Loko",
+          "book": "1xBet",
+          "odd": 1.27,
+          "stake": 79415,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        },
+        {
+          "outcome": "Draw",
+          "book": "Duelbits",
+          "odd": 7.4,
+          "stake": 13629,
+          "jp": false,
+          "exch": false,
+          "url": "https://duelbits.com/"
+        },
+        {
+          "outcome": "Krylya Sovetov",
+          "book": "Duelbits",
+          "odd": 14.5,
+          "stake": 6956,
+          "jp": false,
+          "exch": false,
+          "url": "https://duelbits.com/"
+        }
+      ],
+      "S": 0.991502227179664,
+      "roi": 0.8570603864913151,
+      "profit": 857,
+      "payout": 100857,
+      "staked": 100000,
+      "mins": 28,
+      "split": {
+        "S": 0.991502227179664,
+        "payout": 100857,
+        "profit": 857,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "1xBet",
+            "odd": 1.27,
+            "stake": 79415
+          },
+          {
+            "book": "Duelbits",
+            "odd": 7.4,
+            "stake": 13629
+          },
+          {
+            "book": "Duelbits",
+            "odd": 14.5,
+            "stake": 6956
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
