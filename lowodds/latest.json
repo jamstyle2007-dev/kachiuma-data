@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-27T12:03:59.621Z",
+  "generatedAt": "2026-08-27T15:07:31.340Z",
   "source": "betexplorer.com (Pinnacle / 1xBet odds)",
   "threshold": 1.6,
-  "count": 31,
+  "count": 28,
   "matches": [
     {
       "sport": "バレー",
       "sportKey": "volleyball",
       "league": "AFRICA: AFRICAN CHAMPIONSHIP WOMEN",
-      "home": "Nigeria W",
-      "away": "Cameroon W",
-      "favTeam": "Cameroon W",
-      "underTeam": "Nigeria W",
+      "home": "Mali W",
+      "away": "Kenya W",
+      "favTeam": "Kenya W",
+      "underTeam": "Mali W",
       "favOdd": 1.01,
       "prob": 99,
       "book": "1xBet",
@@ -19,90 +19,110 @@
         "1xbet": 1.01
       },
       "avgFavOdd": 1.01,
-      "time": "22:00",
-      "kickoff": "2026-08-27T14:00:00+09:00",
+      "time": "01:00",
+      "kickoff": "2026-08-27T17:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/africa/african-championship-women/nigeria-cameroon/l4dmmBaE/"
+      "url": "https://www.betexplorer.com/volleyball/africa/african-championship-women/mali-kenya/jXpRuTil/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M25 OLDENZAAL, CLAY",
+      "home": "Heinrich S.",
+      "away": "Wiedenmann L.",
+      "favTeam": "Wiedenmann L.",
+      "underTeam": "Heinrich S.",
+      "favOdd": 1.01,
+      "prob": 99,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.01
+      },
+      "avgFavOdd": 1.02,
+      "time": "00:05",
+      "kickoff": "2026-08-27T16:05:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-oldenzaal/heinrich-sebastian-wiedenmann-luca/UmcuMi6m/"
     },
     {
       "sport": "バレー",
       "sportKey": "volleyball",
-      "league": "AFRICA: AFRICAN CHAMPIONSHIP WOMEN",
-      "home": "Ghana W",
-      "away": "Tunisia W",
-      "favTeam": "Tunisia W",
-      "underTeam": "Ghana W",
-      "favOdd": 1.03,
-      "prob": 97,
+      "league": "WORLD: PAN-AMERICAN CUP FINAL SIX",
+      "home": "Guatemala",
+      "away": "Mexico",
+      "favTeam": "Mexico",
+      "underTeam": "Guatemala",
+      "favOdd": 1.02,
+      "prob": 98,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.03
+        "1xbet": 1.02
       },
-      "avgFavOdd": 1.04,
-      "time": "23:00",
-      "kickoff": "2026-08-27T15:00:00+09:00",
+      "avgFavOdd": 1.02,
+      "time": "08:00",
+      "kickoff": "2026-08-28T00:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/africa/african-championship-women/ghana-tunisia/f1aeokUQ/"
+      "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup-final-six/guatemala-mexico/vseQQKhC/"
     },
     {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "EUROPE: EUROPEAN CHAMPIONSHIPS WOMEN",
-      "home": "Ukraine W",
-      "away": "Serbia W",
-      "favTeam": "Serbia W",
-      "underTeam": "Ukraine W",
-      "favOdd": 1.03,
-      "prob": 97,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.03
-      },
-      "avgFavOdd": 1.06,
-      "time": "23:00",
-      "kickoff": "2026-08-27T15:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/europe/european-championships-women/ukraine-serbia/zHucwd1t/"
-    },
-    {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "WORLD: CLUB FRIENDLY",
-      "home": "Ferencvaros",
-      "away": "Minaur Baia Mare",
-      "favTeam": "Minaur Baia Mare",
-      "underTeam": "Ferencvaros",
-      "favOdd": 1.04,
-      "prob": 96,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.04
-      },
-      "avgFavOdd": 1.62,
-      "time": "22:00",
-      "kickoff": "2026-08-27T14:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/handball/world/club-friendly/ferencvaros-minaur-baia-mare/b5GQsabJ/"
-    },
-    {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "EUROPE: EUROPEAN CHAMPIONSHIPS WOMEN",
-      "home": "Croatia W",
-      "away": "Montenegro W",
-      "favTeam": "Croatia W",
-      "underTeam": "Montenegro W",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "WORLD: WORLD CUP",
+      "home": "Qatar",
+      "away": "China",
+      "favTeam": "China",
+      "underTeam": "Qatar",
       "favOdd": 1.05,
       "prob": 95,
       "book": "1xBet",
       "books": {
         "1xbet": 1.05
       },
-      "avgFavOdd": 1.07,
-      "time": "23:00",
-      "kickoff": "2026-08-27T15:00:00+09:00",
+      "avgFavOdd": 1.05,
+      "time": "01:00",
+      "kickoff": "2026-08-27T17:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/europe/european-championships-women/croatia-montenegro/Q3kK37HU/"
+      "url": "https://www.betexplorer.com/basketball/world/world-cup/qatar-china/O6O1PERE/"
+    },
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "WORLD: PAN-AMERICAN CUP FINAL SIX",
+      "home": "Canada",
+      "away": "Dominican Republic",
+      "favTeam": "Canada",
+      "underTeam": "Dominican Republic",
+      "favOdd": 1.08,
+      "prob": 93,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.08
+      },
+      "avgFavOdd": 1.11,
+      "time": "06:00",
+      "kickoff": "2026-08-27T22:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup-final-six/canada-dominican-republic/hUtrLLQG/"
+    },
+    {
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "GEORGIA: LIGA 3",
+      "home": "Betlemi",
+      "away": "Guria",
+      "favTeam": "Guria",
+      "underTeam": "Betlemi",
+      "favOdd": 1.11,
+      "prob": 90,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.11
+      },
+      "avgFavOdd": 1.14,
+      "time": "00:00",
+      "kickoff": "2026-08-27T16:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/football/georgia/liga-3/betlemi-keda-guria/KhgNyopf/"
     },
     {
       "sport": "ハンドボール",
@@ -112,77 +132,17 @@
       "away": "Italy",
       "favTeam": "Egypt",
       "underTeam": "Italy",
-      "favOdd": 1.1,
-      "prob": 91,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.1
-      },
-      "avgFavOdd": 1.09,
-      "time": "03:00",
-      "kickoff": "2026-08-27T19:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/handball/world/mediterranean-games/egypt-italy/hQdyciPc/"
-    },
-    {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "WORLD: MEDITERRANEAN GAMES WOMEN",
-      "home": "North Macedonia W",
-      "away": "Algeria W",
-      "favTeam": "North Macedonia W",
-      "underTeam": "Algeria W",
-      "favOdd": 1.1,
-      "prob": 91,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.1
-      },
-      "avgFavOdd": 1.09,
-      "time": "21:00",
-      "kickoff": "2026-08-27T13:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/world/mediterranean-games-women/north-macedonia-algeria/b9dKudgU/"
-    },
-    {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "WORLD: MEDITERRANEAN GAMES",
-      "home": "Tunisia",
-      "away": "Algeria",
-      "favTeam": "Algeria",
-      "underTeam": "Tunisia",
       "favOdd": 1.12,
       "prob": 89,
       "book": "1xBet",
       "books": {
         "1xbet": 1.12
       },
-      "avgFavOdd": 1.1,
-      "time": "22:00",
-      "kickoff": "2026-08-27T14:00:00+09:00",
+      "avgFavOdd": 1.11,
+      "time": "03:00",
+      "kickoff": "2026-08-27T19:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/handball/world/mediterranean-games/tunisia-algeria/fyEJvA9T/"
-    },
-    {
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "KAZAKHSTAN: FIRST LEAGUE",
-      "home": "Kairat Almaty 2",
-      "away": "Arys",
-      "favTeam": "Kairat Almaty 2",
-      "underTeam": "Arys",
-      "favOdd": 1.15,
-      "prob": 87,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.15
-      },
-      "avgFavOdd": 1.13,
-      "time": "21:00",
-      "kickoff": "2026-08-27T13:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/football/kazakhstan/first-league/kairat-almaty-arys/4lYiCB4b/"
+      "url": "https://www.betexplorer.com/handball/world/mediterranean-games/egypt-italy/hQdyciPc/"
     },
     {
       "sport": "ハンドボール",
@@ -198,7 +158,7 @@
       "books": {
         "1xbet": 1.15
       },
-      "avgFavOdd": 1.14,
+      "avgFavOdd": 1.16,
       "time": "02:00",
       "kickoff": "2026-08-27T18:00:00+09:00",
       "niche": false,
@@ -207,82 +167,62 @@
     {
       "sport": "バスケ",
       "sportKey": "basketball",
-      "league": "WORLD: WORLD CUP",
-      "home": "Guinea",
-      "away": "South Sudan",
-      "favTeam": "South Sudan",
-      "underTeam": "Guinea",
-      "favOdd": 1.16,
-      "prob": 86,
+      "league": "ASIA: ASIA CUP",
+      "home": "Kuwait",
+      "away": "United Arab Emirates",
+      "favTeam": "United Arab Emirates",
+      "underTeam": "Kuwait",
+      "favOdd": 1.22,
+      "prob": 82,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.16
+        "1xbet": 1.22
       },
-      "avgFavOdd": 1.15,
-      "time": "21:00",
-      "kickoff": "2026-08-27T13:00:00+09:00",
+      "avgFavOdd": 1.23,
+      "time": "01:00",
+      "kickoff": "2026-08-27T17:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/world/world-cup/guinea-south-sudan/U1UZshjm/"
+      "url": "https://www.betexplorer.com/basketball/asia/asia-cup/kuwait-united-arab-emirates/82hibgw1/"
     },
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25 OVIEDO, CLAY",
-      "home": "Ritschard A.",
-      "away": "Demin Y.",
-      "favTeam": "Ritschard A.",
-      "underTeam": "Demin Y.",
-      "favOdd": 1.18,
-      "prob": 85,
+      "league": "WTA - SINGLES: US OPEN, HARD",
+      "home": "Branstine C.",
+      "away": "Montgomery R.",
+      "favTeam": "Montgomery R.",
+      "underTeam": "Branstine C.",
+      "favOdd": 1.24,
+      "prob": 81,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.18
+        "1xbet": 1.24
       },
-      "avgFavOdd": 1.17,
-      "time": "21:05",
-      "kickoff": "2026-08-27T13:05:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-oviedo/ritschard-alexander-demin-yaroslav/farFPhe3/"
+      "avgFavOdd": 1.24,
+      "time": "00:05",
+      "kickoff": "2026-08-27T16:05:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/tennis/wta-singles/us-open/branstine-carson-montgomery-robin/fFUCldz9/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - DOUBLES: W15 BRASOV, CLAY",
-      "home": "Cucu S. / Sandru I. M.",
-      "away": "Bojica S. / Safta A.",
-      "favTeam": "Bojica S. / Safta A.",
-      "underTeam": "Cucu S. / Sandru I. M.",
-      "favOdd": 1.18,
-      "prob": 85,
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "EUROPE: EUROPEAN CHAMPIONSHIPS WOMEN",
+      "home": "Czech Republic W",
+      "away": "Bulgaria W",
+      "favTeam": "Czech Republic W",
+      "underTeam": "Bulgaria W",
+      "favOdd": 1.25,
+      "prob": 80,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.18
+        "1xbet": 1.25
       },
-      "avgFavOdd": 1.18,
-      "time": "21:00",
-      "kickoff": "2026-08-27T13:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-doubles/w15-brasov/cucu-simona-sandru-ioana-maria-stefania-bojica-safta-anastasia/6Hl3qqx8/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - DOUBLES: W35 VERBIER 2, CLAY",
-      "home": "Lemaitre T. / Okutoyi A.",
-      "away": "Boulard L. / Cirotte A.",
-      "favTeam": "Lemaitre T. / Okutoyi A.",
-      "underTeam": "Boulard L. / Cirotte A.",
-      "favOdd": 1.21,
-      "prob": 83,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.21
-      },
-      "avgFavOdd": 1.2,
-      "time": "21:00",
-      "kickoff": "2026-08-27T13:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-doubles/w35-verbier-2/lemaitre-tiphanie-okutoyi-angella-boulard-liv-astrid-cirotte/MRXffL7N/"
+      "avgFavOdd": 1.25,
+      "time": "02:00",
+      "kickoff": "2026-08-27T18:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/volleyball/europe/european-championships-women/czech-republic-bulgaria/naPC6FWI/"
     },
     {
       "sport": "ハンドボール",
@@ -292,37 +232,37 @@
       "away": "Lemgo",
       "favTeam": "Kiel",
       "underTeam": "Lemgo",
-      "favOdd": 1.29,
+      "favOdd": 1.28,
       "prob": 78,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.29
+        "1xbet": 1.28
       },
-      "avgFavOdd": 1.25,
+      "avgFavOdd": 1.26,
       "time": "02:00",
       "kickoff": "2026-08-27T18:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/handball/germany/bundesliga/kiel-lemgo/vVEog4T0/"
     },
     {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "WORLD: WORLD CUP",
-      "home": "Nigeria",
-      "away": "Cameroon",
-      "favTeam": "Nigeria",
-      "underTeam": "Cameroon",
-      "favOdd": 1.3,
-      "prob": 77,
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "WTA - SINGLES: US OPEN, HARD",
+      "home": "Knutson G.",
+      "away": "Gorgodze E.",
+      "favTeam": "Knutson G.",
+      "underTeam": "Gorgodze E.",
+      "favOdd": 1.34,
+      "prob": 75,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.3
+        "1xbet": 1.34
       },
-      "avgFavOdd": 1.27,
-      "time": "00:00",
-      "kickoff": "2026-08-27T16:00:00+09:00",
+      "avgFavOdd": 1.33,
+      "time": "00:05",
+      "kickoff": "2026-08-27T16:05:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/world/world-cup/nigeria-cameroon/EyP4mESP/"
+      "url": "https://www.betexplorer.com/tennis/wta-singles/us-open/knutson-gabriela-gorgodze-ekaterine/QP1k9XAM/"
     },
     {
       "sport": "ハンドボール",
@@ -332,13 +272,13 @@
       "away": "MT Melsungen",
       "favTeam": "Fuchse Berlin",
       "underTeam": "MT Melsungen",
-      "favOdd": 1.31,
-      "prob": 76,
+      "favOdd": 1.35,
+      "prob": 74,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.31
+        "1xbet": 1.35
       },
-      "avgFavOdd": 1.26,
+      "avgFavOdd": 1.3,
       "time": "03:00",
       "kickoff": "2026-08-27T19:00:00+09:00",
       "niche": false,
@@ -352,237 +292,177 @@
       "away": "Sweden",
       "favTeam": "Finland",
       "underTeam": "Sweden",
-      "favOdd": 1.32,
-      "prob": 76,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.32
-      },
-      "avgFavOdd": 1.29,
-      "time": "00:30",
-      "kickoff": "2026-08-27T16:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/world/world-cup/finland-sweden/27j8QW87/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "VIETNAM: VBA",
-      "home": "Ho Chi Minh City Wings",
-      "away": "Can Tho Catfish",
-      "favTeam": "Ho Chi Minh City Wings",
-      "underTeam": "Can Tho Catfish",
       "favOdd": 1.35,
       "prob": 74,
       "book": "1xBet",
       "books": {
         "1xbet": 1.35
       },
-      "avgFavOdd": 1.32,
-      "time": "21:30",
-      "kickoff": "2026-08-27T13:30:00+09:00",
+      "avgFavOdd": 1.33,
+      "time": "00:30",
+      "kickoff": "2026-08-27T16:30:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/vietnam/vba/ho-chi-minh-city-wings-can-tho-catfish/GQvufGE8/"
+      "url": "https://www.betexplorer.com/basketball/world/world-cup/finland-sweden/27j8QW87/"
     },
     {
       "sport": "バレー",
       "sportKey": "volleyball",
-      "league": "EUROPE: EUROPEAN CHAMPIONSHIPS WOMEN",
-      "home": "Poland W",
-      "away": "Germany W",
-      "favTeam": "Poland W",
-      "underTeam": "Germany W",
+      "league": "WORLD: FRIENDLY INTERNATIONAL",
+      "home": "Finland",
+      "away": "Sweden",
+      "favTeam": "Finland",
+      "underTeam": "Sweden",
+      "favOdd": 1.35,
+      "prob": 74,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.35
+      },
+      "avgFavOdd": 1.33,
+      "time": "01:00",
+      "kickoff": "2026-08-27T17:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/volleyball/world/friendly-international/finland-sweden/6RL4q6QG/"
+    },
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "WORLD: MEDITERRANEAN GAMES",
+      "home": "Turkey",
+      "away": "Greece",
+      "favTeam": "Greece",
+      "underTeam": "Turkey",
+      "favOdd": 1.35,
+      "prob": 74,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.35
+      },
+      "avgFavOdd": 1.34,
+      "time": "03:00",
+      "kickoff": "2026-08-27T19:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/volleyball/world/mediterranean-games/turkey-greece/29FEs2v8/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "WORLD: WORLD CUP",
+      "home": "Nigeria",
+      "away": "Cameroon",
+      "favTeam": "Nigeria",
+      "underTeam": "Cameroon",
       "favOdd": 1.37,
       "prob": 73,
       "book": "1xBet",
       "books": {
         "1xbet": 1.37
       },
-      "avgFavOdd": 1.38,
-      "time": "22:00",
-      "kickoff": "2026-08-27T14:00:00+09:00",
+      "avgFavOdd": 1.36,
+      "time": "00:00",
+      "kickoff": "2026-08-27T16:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/europe/european-championships-women/poland-germany/viFz52eE/"
+      "url": "https://www.betexplorer.com/basketball/world/world-cup/nigeria-cameroon/EyP4mESP/"
     },
     {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "EUROPE: EUROPEAN CHAMPIONSHIPS WOMEN",
-      "home": "Portugal W",
-      "away": "Romania W",
-      "favTeam": "Romania W",
-      "underTeam": "Portugal W",
-      "favOdd": 1.37,
-      "prob": 73,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.37
-      },
-      "avgFavOdd": 1.39,
-      "time": "23:30",
-      "kickoff": "2026-08-27T15:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/europe/european-championships-women/portugal-romania/pl43tMDk/"
-    },
-    {
-      "sport": "アイスホッケー",
-      "sportKey": "hockey",
-      "league": "WORLD: CLUB FRIENDLY",
-      "home": "Slavia Prague U20",
-      "away": "Lillehammer U20",
-      "favTeam": "Slavia Prague U20",
-      "underTeam": "Lillehammer U20",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ATP - SINGLES: US OPEN, HARD",
+      "home": "Fearnley J.",
+      "away": "Rodionov J.",
+      "favTeam": "Fearnley J.",
+      "underTeam": "Rodionov J.",
       "favOdd": 1.38,
       "prob": 72,
       "book": "1xBet",
       "books": {
         "1xbet": 1.38
       },
-      "avgFavOdd": 1.36,
-      "time": "23:00",
-      "kickoff": "2026-08-27T15:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/hockey/world/club-friendly/slavia-prague-lillehammer/UFPmOwrm/"
+      "avgFavOdd": 1.37,
+      "time": "00:05",
+      "kickoff": "2026-08-27T16:05:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/tennis/atp-singles/us-open/fearnley-jacob-rodionov-jurij/EamGByel/"
+    },
+    {
+      "sport": "アイスホッケー",
+      "sportKey": "hockey",
+      "league": "WORLD: CLUB FRIENDLY",
+      "home": "Jihlava",
+      "away": "Pardubice B",
+      "favTeam": "Jihlava",
+      "underTeam": "Pardubice B",
+      "favOdd": 1.39,
+      "prob": 72,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.39
+      },
+      "avgFavOdd": 1.41,
+      "time": "00:30",
+      "kickoff": "2026-08-27T16:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/hockey/world/club-friendly/jihlava-pardubice/tK0GFSV0/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "EUROPE: EUROBASKET",
+      "home": "Denmark",
+      "away": "Romania",
+      "favTeam": "Denmark",
+      "underTeam": "Romania",
+      "favOdd": 1.43,
+      "prob": 70,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.43
+      },
+      "avgFavOdd": 1.37,
+      "time": "01:30",
+      "kickoff": "2026-08-27T17:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/europe/eurobasket/denmark-romania/Cb7On2Jb/"
     },
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "ITF WOMEN - SINGLES: W75 BYTOM, CLAY",
-      "home": "Zolotareva A.",
-      "away": "Geerlings Martinez A.",
-      "favTeam": "Geerlings Martinez A.",
-      "underTeam": "Zolotareva A.",
+      "league": "ITF WOMEN - SINGLES: W50 OLDENZAAL, CLAY",
+      "home": "Zeltina B.",
+      "away": "Du Pree B.",
+      "favTeam": "Du Pree B.",
+      "underTeam": "Zeltina B.",
+      "favOdd": 1.43,
+      "prob": 70,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.43
+      },
+      "avgFavOdd": 1.44,
+      "time": "00:05",
+      "kickoff": "2026-08-27T16:05:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w50-oldenzaal/zeltina-beatrise-du-pree-britt/nk18QqlJ/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "WORLD: CLUB FRIENDLY",
+      "home": "Borac Mozzart",
+      "away": "Oldenburg",
+      "favTeam": "Oldenburg",
+      "underTeam": "Borac Mozzart",
       "favOdd": 1.45,
       "prob": 69,
       "book": "1xBet",
       "books": {
         "1xbet": 1.45
       },
-      "avgFavOdd": 1.49,
-      "time": "21:00",
-      "kickoff": "2026-08-27T13:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w75-bytom/zolotareva-anastasia-geerlings-martinez-ariana/Cpdp9cit/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "WORLD: CLUB FRIENDLY",
-      "home": "Gaziantep",
-      "away": "Kipas Istiklal",
-      "favTeam": "Gaziantep",
-      "underTeam": "Kipas Istiklal",
-      "favOdd": 1.47,
-      "prob": 68,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.47
-      },
-      "avgFavOdd": 1.44,
-      "time": "21:00",
-      "kickoff": "2026-08-27T13:00:00+09:00",
+      "avgFavOdd": 1.47,
+      "time": "01:00",
+      "kickoff": "2026-08-27T17:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/world/club-friendly/gaziantep-bb-kipas-istiklal/bDrO7Ic6/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "WORLD: WORLD CUP",
-      "home": "Angola",
-      "away": "D.R. Congo",
-      "favTeam": "Angola",
-      "underTeam": "D.R. Congo",
-      "favOdd": 1.48,
-      "prob": 68,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.48
-      },
-      "avgFavOdd": 1.46,
-      "time": "21:30",
-      "kickoff": "2026-08-27T13:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/world/world-cup/angola-d-r-congo/tp2gYduC/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - DOUBLES: M15 CAP D'AGDE, CLAY",
-      "home": "Barreira Bonzom V. / Couturier L.",
-      "away": "Iraqi S. / Zagars A.",
-      "favTeam": "Barreira Bonzom V. / Couturier L.",
-      "underTeam": "Iraqi S. / Zagars A.",
-      "favOdd": 1.48,
-      "prob": 68,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.48
-      },
-      "avgFavOdd": 1.48,
-      "time": "21:00",
-      "kickoff": "2026-08-27T13:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-doubles/m15-cap-d-agde/barreira-bonzom-victor-couturier-lenny-iraqi-samy-zagars-arturs/fZzDgrI5/"
-    },
-    {
-      "sport": "野球",
-      "sportKey": "baseball",
-      "league": "USA: MLB",
-      "home": "New York Mets",
-      "away": "Milwaukee Brewers",
-      "favTeam": "Milwaukee Brewers",
-      "underTeam": "New York Mets",
-      "favOdd": 1.49,
-      "prob": 67,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.49
-      },
-      "avgFavOdd": 1.44,
-      "time": "08:10",
-      "kickoff": "2026-08-28T00:10:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/new-york-mets-milwaukee-brewers/dQ88V9Tq/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - DOUBLES: W75 BYTOM, CLAY",
-      "home": "Feng S. / Li Z.",
-      "away": "Hennemann C. W. / Tona M.",
-      "favTeam": "Feng S. / Li Z.",
-      "underTeam": "Hennemann C. W. / Tona M.",
-      "favOdd": 1.49,
-      "prob": 67,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.49
-      },
-      "avgFavOdd": 1.48,
-      "time": "21:00",
-      "kickoff": "2026-08-27T13:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-doubles/w75-bytom/feng-shuo-li-zongyu-hennemann-caijsa-wilda-tona-miriana/xAvdLSDs/"
-    },
-    {
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "ARMENIA: ARMENIAN CUP",
-      "home": "Sardarapat",
-      "away": "Syunik",
-      "favTeam": "Sardarapat",
-      "underTeam": "Syunik",
-      "favOdd": 1.54,
-      "prob": 65,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.54
-      },
-      "avgFavOdd": 1.56,
-      "time": "21:00",
-      "kickoff": "2026-08-27T13:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/football/armenia/armenian-cup/sardarapat-syunik/0fj6xaC5/"
+      "url": "https://www.betexplorer.com/basketball/world/club-friendly/borac-mozzart-oldenburg/KANdoSe4/"
     },
     {
       "sport": "ハンドボール",
@@ -605,24 +485,84 @@
       "url": "https://www.betexplorer.com/handball/denmark/herre-handbold-ligaen/holstebro-bjerringbro-silkeborg/OGsxfnUg/"
     },
     {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "WORLD: MEDITERRANEAN GAMES WOMEN",
-      "home": "Turkey W",
-      "away": "Greece W",
-      "favTeam": "Turkey W",
-      "underTeam": "Greece W",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "WTA - SINGLES: US OPEN, HARD",
+      "home": "Bolkvadze M.",
+      "away": "Koevermans A.",
+      "favTeam": "Koevermans A.",
+      "underTeam": "Bolkvadze M.",
+      "favOdd": 1.56,
+      "prob": 64,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.56
+      },
+      "avgFavOdd": 1.56,
+      "time": "00:05",
+      "kickoff": "2026-08-27T16:05:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/tennis/wta-singles/us-open/bolkvadze-mariam-koevermans-anouk/pMhmYzjS/"
+    },
+    {
+      "sport": "アイスホッケー",
+      "sportKey": "hockey",
+      "league": "WORLD: CLUB FRIENDLY",
+      "home": "Kolin",
+      "away": "Mlada Boleslav",
+      "favTeam": "Mlada Boleslav",
+      "underTeam": "Kolin",
+      "favOdd": 1.56,
+      "prob": 64,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.56
+      },
+      "avgFavOdd": 1.56,
+      "time": "00:30",
+      "kickoff": "2026-08-27T16:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/hockey/world/club-friendly/kolin-mlada-boleslav/KOpftjop/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "EUROPE: EUROBASKET",
+      "home": "Cyprus",
+      "away": "Austria",
+      "favTeam": "Austria",
+      "underTeam": "Cyprus",
       "favOdd": 1.57,
       "prob": 64,
       "book": "1xBet",
       "books": {
         "1xbet": 1.57
       },
-      "avgFavOdd": 1.56,
-      "time": "00:00",
-      "kickoff": "2026-08-27T16:00:00+09:00",
+      "avgFavOdd": 1.51,
+      "time": "01:00",
+      "kickoff": "2026-08-27T17:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/world/mediterranean-games-women/turkey-greece/ELWTaavn/"
+      "url": "https://www.betexplorer.com/basketball/europe/eurobasket/cyprus-austria/GEnd11Yi/"
+    },
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "EUROPE: EUROPEAN CHAMPIONSHIPS WOMEN",
+      "home": "Sweden W",
+      "away": "France W",
+      "favTeam": "France W",
+      "underTeam": "Sweden W",
+      "favOdd": 1.59,
+      "prob": 63,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.59
+      },
+      "avgFavOdd": 1.57,
+      "time": "02:00",
+      "kickoff": "2026-08-27T18:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/volleyball/europe/european-championships-women/sweden-france/84dS5xs1/"
     }
   ]
 }
