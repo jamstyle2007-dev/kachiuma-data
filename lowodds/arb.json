@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-27T21:25:17.468Z",
+  "generatedAt": "2026-08-27T21:30:38.218Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 2,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 23,
       "profit": 6470527
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "E1USo8wg",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Iran - New Zealand",
+      "url": "https://www.betexplorer.com/basketball/world/world-cup/iran-new-zealand/E1USo8wg/",
+      "kickoff": "2026-08-28T07:00:00+09:00",
+      "width": 2,
+      "books": 18,
+      "labels": [
+        "Iran",
+        "New Zealand"
+      ],
+      "legs": [
+        {
+          "outcome": "Iran",
+          "book": "Unibet",
+          "odd": 3.9,
+          "stake": 25856,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.unibet.com/"
+        },
+        {
+          "outcome": "New Zealand",
+          "book": "bet365",
+          "odd": 1.36,
+          "stake": 74144,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.bet365.com/"
+        }
+      ],
+      "S": 0.9917043740573153,
+      "roi": 0.8365019011406849,
+      "profit": 837,
+      "payout": 100837,
+      "staked": 100000,
+      "mins": 29,
+      "split": {
+        "S": 0.9917043740573153,
+        "payout": 100837,
+        "profit": 837,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Unibet",
+            "odd": 3.9,
+            "stake": 25856
+          },
+          {
+            "book": "bet365",
+            "odd": 1.36,
+            "stake": 74144
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
