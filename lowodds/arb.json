@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-27T03:29:23.294Z",
+  "generatedAt": "2026-08-27T03:34:51.058Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 0,
+  "scanned": 4,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 17,
       "profit": 3087571
     },
-    "pending": 1
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "U1UZshjm",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Guinea - South Sudan",
+      "url": "https://www.betexplorer.com/basketball/world/world-cup/guinea-south-sudan/U1UZshjm/",
+      "kickoff": "2026-08-27T13:00:00+09:00",
+      "width": 2,
+      "books": 18,
+      "labels": [
+        "Guinea",
+        "South Sudan"
+      ],
+      "legs": [
+        {
+          "outcome": "Guinea",
+          "book": "Mozzartbet",
+          "odd": 4.7,
+          "stake": 21536,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.mozzartbet.com/"
+        },
+        {
+          "outcome": "South Sudan",
+          "book": "William Hill",
+          "odd": 1.29,
+          "stake": 78464,
+          "jp": false,
+          "exch": false,
+          "url": "https://sports.williamhill.com/"
+        }
+      ],
+      "S": 0.9879597558964208,
+      "roi": 1.2186978297161977,
+      "profit": 1219,
+      "payout": 101219,
+      "staked": 100000,
+      "mins": 25,
+      "split": {
+        "S": 0.9879597558964208,
+        "payout": 101219,
+        "profit": 1219,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Mozzartbet",
+            "odd": 4.7,
+            "stake": 21536
+          },
+          {
+            "book": "William Hill",
+            "odd": 1.29,
+            "stake": 78464
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
