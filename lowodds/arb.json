@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T03:56:40.635Z",
+  "generatedAt": "2026-08-27T04:02:07.917Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 4,
@@ -22,68 +22,68 @@
       "count": 17,
       "profit": 3087571
     },
-    "pending": 2
+    "pending": 3
   },
   "opps": [
     {
-      "id": "U1UZshjm",
+      "id": "tp2gYduC",
       "sport": "basketball",
       "sportLabel": "バスケ",
-      "teams": "Guinea - South Sudan",
-      "url": "https://www.betexplorer.com/basketball/world/world-cup/guinea-south-sudan/U1UZshjm/",
-      "kickoff": "2026-08-27T13:00:00+09:00",
+      "teams": "Angola - D.R. Congo",
+      "url": "https://www.betexplorer.com/basketball/world/world-cup/angola-d-r-congo/tp2gYduC/",
+      "kickoff": "2026-08-27T13:30:00+09:00",
       "width": 2,
-      "books": 18,
+      "books": 17,
       "labels": [
-        "Guinea",
-        "South Sudan"
+        "Angola",
+        "D.R. Congo"
       ],
       "legs": [
         {
-          "outcome": "Guinea",
-          "book": "Mozzartbet",
-          "odd": 4.7,
-          "stake": 21536,
-          "jp": false,
+          "outcome": "Angola",
+          "book": "1xBet",
+          "odd": 1.26,
+          "stake": 80157,
+          "jp": true,
           "exch": false,
-          "url": "https://www.mozzartbet.com/"
+          "url": "https://1xbet.com/ja"
         },
         {
-          "outcome": "South Sudan",
-          "book": "William Hill",
-          "odd": 1.29,
-          "stake": 78464,
-          "jp": false,
-          "exch": false,
-          "url": "https://sports.williamhill.com/"
+          "outcome": "D.R. Congo",
+          "book": "Betfair Exchange",
+          "odd": 5.09,
+          "stake": 19843,
+          "jp": true,
+          "exch": true,
+          "url": "https://www.betfair.com/exchange/plus/"
         }
       ],
-      "S": 0.9879597558964208,
-      "roi": 1.2186978297161977,
-      "profit": 1219,
-      "payout": 101219,
+      "S": 0.9901144478747622,
+      "roi": 0.9984251968503832,
+      "profit": 998,
+      "payout": 100998,
       "staked": 100000,
-      "mins": 3,
+      "mins": 28,
       "split": {
-        "S": 0.9879597558964208,
-        "payout": 101219,
-        "profit": 1219,
+        "S": 0.9901144478747622,
+        "payout": 100998,
+        "profit": 998,
         "staked": 100000,
         "legs": [
           {
-            "book": "Mozzartbet",
-            "odd": 4.7,
-            "stake": 21536
+            "book": "1xBet",
+            "odd": 1.26,
+            "stake": 80157
           },
           {
-            "book": "William Hill",
-            "odd": 1.29,
-            "stake": 78464
+            "book": "Betfair Exchange",
+            "odd": 5.09,
+            "stake": 19843
           }
         ]
       },
-      "hasExch": false,
-      "allJp": false
+      "hasExch": true,
+      "allJp": true
     }
   ]
 }
