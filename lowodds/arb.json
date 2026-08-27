@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-27T07:16:55.042Z",
+  "generatedAt": "2026-08-27T07:22:22.846Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 3,
-  "arbCount": 2,
+  "scanned": 1,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -63,7 +63,7 @@
       "profit": 3250000,
       "payout": 3350000,
       "staked": 100000,
-      "mins": 13,
+      "mins": 8,
       "split": {
         "S": 0.029850746268656716,
         "payout": 3350000,
@@ -83,66 +83,6 @@
         ]
       },
       "hasExch": false,
-      "allJp": false
-    },
-    {
-      "id": "nqUQFlPp",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Mali - Ivory Coast",
-      "url": "https://www.betexplorer.com/basketball/world/world-cup/mali-ivory-coast/nqUQFlPp/",
-      "kickoff": "2026-08-27T16:30:00+09:00",
-      "width": 2,
-      "books": 19,
-      "labels": [
-        "Mali",
-        "Ivory Coast"
-      ],
-      "legs": [
-        {
-          "outcome": "Mali",
-          "book": "bet365",
-          "odd": 2.5,
-          "stake": 40334,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.bet365.com/"
-        },
-        {
-          "outcome": "Ivory Coast",
-          "book": "Betfair Exchange",
-          "odd": 1.69,
-          "stake": 59666,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        }
-      ],
-      "S": 0.991715976331361,
-      "roi": 0.835322195704058,
-      "profit": 835,
-      "payout": 100835,
-      "staked": 100000,
-      "mins": 13,
-      "split": {
-        "S": 0.991715976331361,
-        "payout": 100835,
-        "profit": 835,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "bet365",
-            "odd": 2.5,
-            "stake": 40334
-          },
-          {
-            "book": "Betfair Exchange",
-            "odd": 1.69,
-            "stake": 59666
-          }
-        ]
-      },
-      "hasExch": true,
       "allJp": false
     }
   ]
