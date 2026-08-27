@@ -1,89 +1,28 @@
 {
-  "generatedAt": "2026-08-27T07:27:47.635Z",
+  "generatedAt": "2026-08-27T07:33:11.327Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
-      "count": 235,
-      "profit": 39822110
+      "count": 236,
+      "profit": 39823108
     },
     "year": {
-      "count": 235,
-      "profit": 39822110
+      "count": 236,
+      "profit": 39823108
     },
     "month": {
-      "count": 128,
-      "profit": 15868388
+      "count": 129,
+      "profit": 15869386
     },
     "week": {
-      "count": 19,
-      "profit": 3213694
+      "count": 20,
+      "profit": 3214692
     },
-    "pending": 3
+    "pending": 2
   },
-  "opps": [
-    {
-      "id": "QJ4kZmXj",
-      "sport": "handball",
-      "sportLabel": "ハンドボール",
-      "teams": "Portugal - Kosovo",
-      "url": "https://www.betexplorer.com/handball/world/mediterranean-games/portugal-kosovo/QJ4kZmXj/",
-      "kickoff": "2026-08-27T16:30:00+09:00",
-      "width": 2,
-      "books": 5,
-      "labels": [
-        "Portugal",
-        "Kosovo"
-      ],
-      "legs": [
-        {
-          "outcome": "Portugal",
-          "book": "bet365",
-          "odd": 67,
-          "stake": 50000,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.bet365.com/"
-        },
-        {
-          "outcome": "Kosovo",
-          "book": "bet365",
-          "odd": 67,
-          "stake": 50000,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.bet365.com/"
-        }
-      ],
-      "S": 0.029850746268656716,
-      "roi": 3250,
-      "profit": 3250000,
-      "payout": 3350000,
-      "staked": 100000,
-      "mins": 2,
-      "split": {
-        "S": 0.029850746268656716,
-        "payout": 3350000,
-        "profit": 3250000,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "bet365",
-            "odd": 67,
-            "stake": 50000
-          },
-          {
-            "book": "bet365",
-            "odd": 67,
-            "stake": 50000
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
