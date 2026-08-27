@@ -1,28 +1,149 @@
 {
-  "generatedAt": "2026-08-27T06:54:59.245Z",
+  "generatedAt": "2026-08-27T07:00:26.731Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 0,
+  "scanned": 3,
+  "arbCount": 2,
   "track": {
     "stake": 100000,
     "all": {
-      "count": 234,
-      "profit": 39820891
+      "count": 235,
+      "profit": 39822110
     },
     "year": {
-      "count": 234,
-      "profit": 39820891
+      "count": 235,
+      "profit": 39822110
     },
     "month": {
-      "count": 127,
-      "profit": 15867169
+      "count": 128,
+      "profit": 15868388
     },
     "week": {
-      "count": 18,
-      "profit": 3212475
+      "count": 19,
+      "profit": 3213694
     },
-    "pending": 2
+    "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "QJ4kZmXj",
+      "sport": "handball",
+      "sportLabel": "ハンドボール",
+      "teams": "Portugal - Kosovo",
+      "url": "https://www.betexplorer.com/handball/world/mediterranean-games/portugal-kosovo/QJ4kZmXj/",
+      "kickoff": "2026-08-27T16:30:00+09:00",
+      "width": 2,
+      "books": 5,
+      "labels": [
+        "Portugal",
+        "Kosovo"
+      ],
+      "legs": [
+        {
+          "outcome": "Portugal",
+          "book": "bet365",
+          "odd": 67,
+          "stake": 50000,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.bet365.com/"
+        },
+        {
+          "outcome": "Kosovo",
+          "book": "bet365",
+          "odd": 67,
+          "stake": 50000,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.bet365.com/"
+        }
+      ],
+      "S": 0.029850746268656716,
+      "roi": 3250,
+      "profit": 3250000,
+      "payout": 3350000,
+      "staked": 100000,
+      "mins": 30,
+      "split": {
+        "S": 0.029850746268656716,
+        "payout": 3350000,
+        "profit": 3250000,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "bet365",
+            "odd": 67,
+            "stake": 50000
+          },
+          {
+            "book": "bet365",
+            "odd": 67,
+            "stake": 50000
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "nqUQFlPp",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Mali - Ivory Coast",
+      "url": "https://www.betexplorer.com/basketball/world/world-cup/mali-ivory-coast/nqUQFlPp/",
+      "kickoff": "2026-08-27T16:30:00+09:00",
+      "width": 2,
+      "books": 19,
+      "labels": [
+        "Mali",
+        "Ivory Coast"
+      ],
+      "legs": [
+        {
+          "outcome": "Mali",
+          "book": "bet365",
+          "odd": 2.5,
+          "stake": 40334,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.bet365.com/"
+        },
+        {
+          "outcome": "Ivory Coast",
+          "book": "Betfair Exchange",
+          "odd": 1.69,
+          "stake": 59666,
+          "jp": true,
+          "exch": true,
+          "url": "https://www.betfair.com/exchange/plus/"
+        }
+      ],
+      "S": 0.991715976331361,
+      "roi": 0.835322195704058,
+      "profit": 835,
+      "payout": 100835,
+      "staked": 100000,
+      "mins": 30,
+      "split": {
+        "S": 0.991715976331361,
+        "payout": 100835,
+        "profit": 835,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "bet365",
+            "odd": 2.5,
+            "stake": 40334
+          },
+          {
+            "book": "Betfair Exchange",
+            "odd": 1.69,
+            "stake": 59666
+          }
+        ]
+      },
+      "hasExch": true,
+      "allJp": false
+    }
+  ]
 }
