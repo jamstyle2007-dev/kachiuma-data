@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-27T04:29:27.851Z",
+  "generatedAt": "2026-08-27T04:34:56.730Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 4,
-  "arbCount": 1,
+  "scanned": 5,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 3
   },
-  "opps": [
-    {
-      "id": "tp2gYduC",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Angola - D.R. Congo",
-      "url": "https://www.betexplorer.com/basketball/world/world-cup/angola-d-r-congo/tp2gYduC/",
-      "kickoff": "2026-08-27T13:30:00+09:00",
-      "width": 2,
-      "books": 17,
-      "labels": [
-        "Angola",
-        "D.R. Congo"
-      ],
-      "legs": [
-        {
-          "outcome": "Angola",
-          "book": "1xBet",
-          "odd": 1.26,
-          "stake": 80157,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "D.R. Congo",
-          "book": "Betfair Exchange",
-          "odd": 5.09,
-          "stake": 19843,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        }
-      ],
-      "S": 0.9901144478747622,
-      "roi": 0.9984251968503832,
-      "profit": 998,
-      "payout": 100998,
-      "staked": 100000,
-      "mins": 1,
-      "split": {
-        "S": 0.9901144478747622,
-        "payout": 100998,
-        "profit": 998,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 1.26,
-            "stake": 80157
-          },
-          {
-            "book": "Betfair Exchange",
-            "odd": 5.09,
-            "stake": 19843
-          }
-        ]
-      },
-      "hasExch": true,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
