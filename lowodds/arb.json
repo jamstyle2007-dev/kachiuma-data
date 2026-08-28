@@ -1,89 +1,28 @@
 {
-  "generatedAt": "2026-08-28T00:55:39.887Z",
+  "generatedAt": "2026-08-28T01:01:19.969Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 13,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
-      "count": 239,
-      "profit": 43078943
+      "count": 240,
+      "profit": 43079780
     },
     "year": {
-      "count": 239,
-      "profit": 43078943
+      "count": 240,
+      "profit": 43079780
     },
     "month": {
-      "count": 132,
-      "profit": 19125221
+      "count": 133,
+      "profit": 19126058
     },
     "week": {
-      "count": 23,
-      "profit": 6470527
+      "count": 24,
+      "profit": 6471364
     },
-    "pending": 2
+    "pending": 1
   },
-  "opps": [
-    {
-      "id": "tlWKmU8t",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Syria - Australia",
-      "url": "https://www.betexplorer.com/basketball/world/world-cup/syria-australia/tlWKmU8t/",
-      "kickoff": "2026-08-28T10:00:00+09:00",
-      "width": 2,
-      "books": 4,
-      "labels": [
-        "Syria",
-        "Australia"
-      ],
-      "legs": [
-        {
-          "outcome": "Syria",
-          "book": "Betfair Exchange",
-          "odd": 95.05,
-          "stake": 1082,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        },
-        {
-          "outcome": "Australia",
-          "book": "Betsson",
-          "odd": 1.04,
-          "stake": 98918,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.betsson.com/"
-        }
-      ],
-      "S": 0.9720592400760732,
-      "roi": 2.8743885940264446,
-      "profit": 2874,
-      "payout": 102874,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.9720592400760732,
-        "payout": 102874,
-        "profit": 2874,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betfair Exchange",
-            "odd": 95.05,
-            "stake": 1082
-          },
-          {
-            "book": "Betsson",
-            "odd": 1.04,
-            "stake": 98918
-          }
-        ]
-      },
-      "hasExch": true,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
