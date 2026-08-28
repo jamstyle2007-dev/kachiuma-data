@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-28T09:35:12.839Z",
+  "generatedAt": "2026-08-28T09:40:43.300Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "E7ZpSmRQ",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "Italy - Cuba",
-      "url": "https://www.betexplorer.com/volleyball/world/friendly-international/italy-cuba/E7ZpSmRQ/",
-      "kickoff": "2026-08-28T19:00:00+09:00",
-      "width": 3,
-      "books": 4,
-      "labels": [
-        "Italy",
-        "Draw",
-        "Cuba"
-      ],
-      "legs": [
-        {
-          "outcome": "Italy",
-          "book": "3:2",
-          "odd": 3,
-          "stake": 55582,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=3%3A2%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "3:0",
-          "odd": 4.29,
-          "stake": 38869,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=3%3A0%20sportsbook"
-        },
-        {
-          "outcome": "Cuba",
-          "book": "3:2",
-          "odd": 30.05,
-          "stake": 5549,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=3%3A2%20sportsbook"
-        }
-      ],
-      "S": 0.5997114366498726,
-      "roi": 66.7468617217361,
-      "profit": 66747,
-      "payout": 166747,
-      "staked": 100000,
-      "mins": 25,
-      "split": {
-        "S": 0.5997114366498726,
-        "payout": 166747,
-        "profit": 66747,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "3:2",
-            "odd": 3,
-            "stake": 55582
-          },
-          {
-            "book": "3:0",
-            "odd": 4.29,
-            "stake": 38869
-          },
-          {
-            "book": "3:2",
-            "odd": 30.05,
-            "stake": 5549
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
