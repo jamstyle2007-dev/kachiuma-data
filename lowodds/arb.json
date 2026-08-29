@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-29T02:57:46.994Z",
+  "generatedAt": "2026-08-29T03:03:12.220Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 27,
       "profit": 6610659
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "ULEh28jm",
+      "sport": "handball",
+      "sportLabel": "ハンドボール",
+      "teams": "HOJ W - Horsens W",
+      "url": "https://www.betexplorer.com/handball/denmark/kvindeligaen-women/hoj-horsens/ULEh28jm/",
+      "kickoff": "2026-08-29T12:30:00+09:00",
+      "width": 3,
+      "books": 16,
+      "labels": [
+        "HOJ W",
+        "Draw",
+        "Horsens W"
+      ],
+      "legs": [
+        {
+          "outcome": "HOJ W",
+          "book": "Rainbet",
+          "odd": 1.21,
+          "stake": 84159,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "Stake.com",
+          "odd": 18,
+          "stake": 5657,
+          "jp": true,
+          "exch": false,
+          "url": "https://stake.com/"
+        },
+        {
+          "outcome": "Horsens W",
+          "book": "bet365",
+          "odd": 10,
+          "stake": 10183,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.bet365.com/"
+        }
+      ],
+      "S": 0.9820018365472911,
+      "roi": 1.8328034411819738,
+      "profit": 1834,
+      "payout": 101833,
+      "staked": 99999,
+      "mins": 27,
+      "split": {
+        "S": 0.9820018365472911,
+        "payout": 101833,
+        "profit": 1834,
+        "staked": 99999,
+        "legs": [
+          {
+            "book": "Rainbet",
+            "odd": 1.21,
+            "stake": 84159
+          },
+          {
+            "book": "Stake.com",
+            "odd": 18,
+            "stake": 5657
+          },
+          {
+            "book": "bet365",
+            "odd": 10,
+            "stake": 10183
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
