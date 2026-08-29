@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-29T03:24:48.136Z",
+  "generatedAt": "2026-08-29T03:30:12.827Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
+  "scanned": 7,
   "arbCount": 1,
   "track": {
     "stake": 100000,
@@ -22,78 +22,78 @@
       "count": 27,
       "profit": 6610659
     },
-    "pending": 1
+    "pending": 2
   },
   "opps": [
     {
-      "id": "ULEh28jm",
+      "id": "65WCkV6s",
       "sport": "handball",
       "sportLabel": "ハンドボール",
-      "teams": "HOJ W - Horsens W",
-      "url": "https://www.betexplorer.com/handball/denmark/kvindeligaen-women/hoj-horsens/ULEh28jm/",
-      "kickoff": "2026-08-29T12:30:00+09:00",
+      "teams": "Sonderjyske W - EH Aalborg W",
+      "url": "https://www.betexplorer.com/handball/denmark/kvindeligaen-women/sonderjyske-eh-aalborg/65WCkV6s/",
+      "kickoff": "2026-08-29T13:00:00+09:00",
       "width": 3,
       "books": 16,
       "labels": [
-        "HOJ W",
+        "Sonderjyske W",
         "Draw",
-        "Horsens W"
+        "EH Aalborg W"
       ],
       "legs": [
         {
-          "outcome": "HOJ W",
-          "book": "Rainbet",
-          "odd": 1.21,
-          "stake": 84159,
+          "outcome": "Sonderjyske W",
+          "book": "bet365",
+          "odd": 1.22,
+          "stake": 82521,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
+          "url": "https://www.bet365.com/"
         },
         {
           "outcome": "Draw",
           "book": "Stake.com",
-          "odd": 18,
-          "stake": 5657,
+          "odd": 16,
+          "stake": 6292,
           "jp": true,
           "exch": false,
           "url": "https://stake.com/"
         },
         {
-          "outcome": "Horsens W",
-          "book": "bet365",
-          "odd": 10,
-          "stake": 10183,
+          "outcome": "EH Aalborg W",
+          "book": "Rainbet",
+          "odd": 9,
+          "stake": 11186,
           "jp": false,
           "exch": false,
-          "url": "https://www.bet365.com/"
+          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
         }
       ],
-      "S": 0.9820018365472911,
-      "roi": 1.8328034411819738,
-      "profit": 1834,
-      "payout": 101833,
+      "S": 0.9932832422586522,
+      "roi": 0.6762177650429635,
+      "profit": 677,
+      "payout": 100676,
       "staked": 99999,
-      "mins": 5,
+      "mins": 30,
       "split": {
-        "S": 0.9820018365472911,
-        "payout": 101833,
-        "profit": 1834,
+        "S": 0.9932832422586522,
+        "payout": 100676,
+        "profit": 677,
         "staked": 99999,
         "legs": [
           {
-            "book": "Rainbet",
-            "odd": 1.21,
-            "stake": 84159
+            "book": "bet365",
+            "odd": 1.22,
+            "stake": 82521
           },
           {
             "book": "Stake.com",
-            "odd": 18,
-            "stake": 5657
+            "odd": 16,
+            "stake": 6292
           },
           {
-            "book": "bet365",
-            "odd": 10,
-            "stake": 10183
+            "book": "Rainbet",
+            "odd": 9,
+            "stake": 11186
           }
         ]
       },
