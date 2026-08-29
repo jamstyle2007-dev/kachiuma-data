@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-29T17:55:57.149Z",
+  "generatedAt": "2026-08-29T18:01:25.180Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 4,
-  "arbCount": 2,
+  "scanned": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,126 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "rqqncI1d",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Freseros - Astros",
-      "url": "https://www.betexplorer.com/basketball/mexico/lnbp/freseros-astros-de-jalisco/rqqncI1d/",
-      "kickoff": "2026-08-30T03:00:00+09:00",
-      "width": 2,
-      "books": 17,
-      "labels": [
-        "Freseros",
-        "Astros"
-      ],
-      "legs": [
-        {
-          "outcome": "Freseros",
-          "book": "Unibet",
-          "odd": 3.9,
-          "stake": 26415,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.unibet.com/"
-        },
-        {
-          "outcome": "Astros",
-          "book": "bwin",
-          "odd": 1.4,
-          "stake": 73585,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        }
-      ],
-      "S": 0.9706959706959708,
-      "roi": 3.018867924528301,
-      "profit": 3019,
-      "payout": 103019,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.9706959706959708,
-        "payout": 103019,
-        "profit": 3019,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Unibet",
-            "odd": 3.9,
-            "stake": 26415
-          },
-          {
-            "book": "bwin",
-            "odd": 1.4,
-            "stake": 73585
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    },
-    {
-      "id": "0KsYLdWh",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Soles - El Calor de Cancun",
-      "url": "https://www.betexplorer.com/basketball/mexico/lnbp/soles-el-calor-de-cancun/0KsYLdWh/",
-      "kickoff": "2026-08-30T03:00:00+09:00",
-      "width": 2,
-      "books": 17,
-      "labels": [
-        "Soles",
-        "El Calor de Cancun"
-      ],
-      "legs": [
-        {
-          "outcome": "Soles",
-          "book": "Betway",
-          "odd": 1.17,
-          "stake": 87241,
-          "jp": true,
-          "exch": false,
-          "url": "https://betway.com/"
-        },
-        {
-          "outcome": "El Calor de Cancun",
-          "book": "Mozzartbet",
-          "odd": 8,
-          "stake": 12759,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.mozzartbet.com/"
-        }
-      ],
-      "S": 0.9797008547008548,
-      "roi": 2.071973827699014,
-      "profit": 2072,
-      "payout": 102072,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.9797008547008548,
-        "payout": 102072,
-        "profit": 2072,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betway",
-            "odd": 1.17,
-            "stake": 87241
-          },
-          {
-            "book": "Mozzartbet",
-            "odd": 8,
-            "stake": 12759
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
