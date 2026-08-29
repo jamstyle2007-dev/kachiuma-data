@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-29T17:28:44.467Z",
+  "generatedAt": "2026-08-29T17:34:06.321Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 3,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 31,
       "profit": 6682512
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "rqqncI1d",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Freseros - Astros",
+      "url": "https://www.betexplorer.com/basketball/mexico/lnbp/freseros-astros-de-jalisco/rqqncI1d/",
+      "kickoff": "2026-08-30T03:00:00+09:00",
+      "width": 2,
+      "books": 17,
+      "labels": [
+        "Freseros",
+        "Astros"
+      ],
+      "legs": [
+        {
+          "outcome": "Freseros",
+          "book": "Unibet",
+          "odd": 3.9,
+          "stake": 26415,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.unibet.com/"
+        },
+        {
+          "outcome": "Astros",
+          "book": "bwin",
+          "odd": 1.4,
+          "stake": 73585,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        }
+      ],
+      "S": 0.9706959706959708,
+      "roi": 3.018867924528301,
+      "profit": 3019,
+      "payout": 103019,
+      "staked": 100000,
+      "mins": 26,
+      "split": {
+        "S": 0.9706959706959708,
+        "payout": 103019,
+        "profit": 3019,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Unibet",
+            "odd": 3.9,
+            "stake": 26415
+          },
+          {
+            "book": "bwin",
+            "odd": 1.4,
+            "stake": 73585
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
