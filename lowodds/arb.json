@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-29T17:39:31.995Z",
+  "generatedAt": "2026-08-29T17:45:00.865Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 3,
-  "arbCount": 1,
+  "scanned": 4,
+  "arbCount": 2,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,9 +22,69 @@
       "count": 31,
       "profit": 6682512
     },
-    "pending": 1
+    "pending": 2
   },
   "opps": [
+    {
+      "id": "0KsYLdWh",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Soles - El Calor de Cancun",
+      "url": "https://www.betexplorer.com/basketball/mexico/lnbp/soles-el-calor-de-cancun/0KsYLdWh/",
+      "kickoff": "2026-08-30T03:00:00+09:00",
+      "width": 2,
+      "books": 17,
+      "labels": [
+        "Soles",
+        "El Calor de Cancun"
+      ],
+      "legs": [
+        {
+          "outcome": "Soles",
+          "book": "Unibet",
+          "odd": 1.21,
+          "stake": 85439,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.unibet.com/"
+        },
+        {
+          "outcome": "El Calor de Cancun",
+          "book": "Mozzartbet",
+          "odd": 7.1,
+          "stake": 14561,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.mozzartbet.com/"
+        }
+      ],
+      "S": 0.9672913514142708,
+      "roi": 3.381468110709984,
+      "profit": 3381,
+      "payout": 103381,
+      "staked": 100000,
+      "mins": 15,
+      "split": {
+        "S": 0.9672913514142708,
+        "payout": 103381,
+        "profit": 3381,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Unibet",
+            "odd": 1.21,
+            "stake": 85439
+          },
+          {
+            "book": "Mozzartbet",
+            "odd": 7.1,
+            "stake": 14561
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
     {
       "id": "rqqncI1d",
       "sport": "basketball",
@@ -63,7 +123,7 @@
       "profit": 3019,
       "payout": 103019,
       "staked": 100000,
-      "mins": 20,
+      "mins": 15,
       "split": {
         "S": 0.9706959706959708,
         "payout": 103019,
