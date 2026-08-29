@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-29T10:04:19.166Z",
+  "generatedAt": "2026-08-29T10:09:50.702Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 3,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "bkJdEBgo",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Minnesota Twins - Chicago White Sox",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/minnesota-twins-chicago-white-sox/bkJdEBgo/",
-      "kickoff": "2026-08-29T19:10:00+09:00",
-      "width": 3,
-      "books": 9,
-      "labels": [
-        "Minnesota Twins",
-        "Draw",
-        "Chicago White Sox"
-      ],
-      "legs": [
-        {
-          "outcome": "Minnesota Twins",
-          "book": "8:1",
-          "odd": 8,
-          "stake": 21038,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=8%3A1%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "8:1",
-          "odd": 2.3,
-          "stake": 73175,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=8%3A1%20sportsbook"
-        },
-        {
-          "outcome": "Chicago White Sox",
-          "book": "4:7",
-          "odd": 29.08,
-          "stake": 5788,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=4%3A7%20sportsbook"
-        }
-      ],
-      "S": 0.59417050415645,
-      "roi": 68.30185830575859,
-      "profit": 68301,
-      "payout": 168302,
-      "staked": 100001,
-      "mins": 6,
-      "split": {
-        "S": 0.59417050415645,
-        "payout": 168302,
-        "profit": 68301,
-        "staked": 100001,
-        "legs": [
-          {
-            "book": "8:1",
-            "odd": 8,
-            "stake": 21038
-          },
-          {
-            "book": "8:1",
-            "odd": 2.3,
-            "stake": 73175
-          },
-          {
-            "book": "4:7",
-            "odd": 29.08,
-            "stake": 5788
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
