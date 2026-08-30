@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-30T09:35:58.680Z",
+  "generatedAt": "2026-08-30T09:41:27.880Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 5,
-  "arbCount": 1,
+  "scanned": 3,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "hAVL4GrA",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Toronto Blue Jays - Seattle Mariners",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/toronto-blue-jays-seattle-mariners/hAVL4GrA/",
-      "kickoff": "2026-08-30T18:37:00+09:00",
-      "width": 2,
-      "books": 19,
-      "labels": [
-        "Toronto Blue Jays",
-        "Seattle Mariners"
-      ],
-      "legs": [
-        {
-          "outcome": "Toronto Blue Jays",
-          "book": "BetInAsia",
-          "odd": 2.19,
-          "stake": 45792,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        },
-        {
-          "outcome": "Seattle Mariners",
-          "book": "1xBet",
-          "odd": 1.85,
-          "stake": 54208,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        }
-      ],
-      "S": 0.9971615451067506,
-      "roi": 0.28465346534654046,
-      "profit": 285,
-      "payout": 100285,
-      "staked": 100000,
-      "mins": 1,
-      "split": {
-        "S": 0.9971615451067506,
-        "payout": 100285,
-        "profit": 285,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "BetInAsia",
-            "odd": 2.19,
-            "stake": 45792
-          },
-          {
-            "book": "1xBet",
-            "odd": 1.85,
-            "stake": 54208
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
