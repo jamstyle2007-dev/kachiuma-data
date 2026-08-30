@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-30T04:27:22.732Z",
+  "generatedAt": "2026-08-30T04:32:47.887Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 3,
-  "arbCount": 0,
+  "scanned": 7,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 33,
       "profit": 6688912
     },
-    "pending": 1
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "CAwMCCC6",
+      "sport": "handball",
+      "sportLabel": "ハンドボール",
+      "teams": "Stiinta Bucharest W - Dunarea Braila W",
+      "url": "https://www.betexplorer.com/handball/romania/liga-nationala-women/stiinta-bucharest-dunarea-braila/CAwMCCC6/",
+      "kickoff": "2026-08-30T14:00:00+09:00",
+      "width": 2,
+      "books": 8,
+      "labels": [
+        "Stiinta Bucharest W",
+        "Dunarea Braila W"
+      ],
+      "legs": [
+        {
+          "outcome": "Stiinta Bucharest W",
+          "book": "bwin",
+          "odd": 36,
+          "stake": 53247,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        },
+        {
+          "outcome": "Dunarea Braila W",
+          "book": "bwin",
+          "odd": 41,
+          "stake": 46753,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        }
+      ],
+      "S": 0.0521680216802168,
+      "roi": 1816.8831168831168,
+      "profit": 1816883,
+      "payout": 1916883,
+      "staked": 100000,
+      "mins": 27,
+      "split": {
+        "S": 0.0521680216802168,
+        "payout": 1916883,
+        "profit": 1816883,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "bwin",
+            "odd": 36,
+            "stake": 53247
+          },
+          {
+            "book": "bwin",
+            "odd": 41,
+            "stake": 46753
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    }
+  ]
 }
