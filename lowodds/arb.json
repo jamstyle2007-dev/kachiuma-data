@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-30T03:27:28.684Z",
+  "generatedAt": "2026-08-30T03:32:50.365Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 5,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 33,
       "profit": 6688912
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "xCTa07hn",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Philippines - Iran",
+      "url": "https://www.betexplorer.com/basketball/world/world-cup/philippines-iran/xCTa07hn/",
+      "kickoff": "2026-08-30T13:00:00+09:00",
+      "width": 2,
+      "books": 18,
+      "labels": [
+        "Philippines",
+        "Iran"
+      ],
+      "legs": [
+        {
+          "outcome": "Philippines",
+          "book": "BetInAsia",
+          "odd": 2.08,
+          "stake": 48387,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.betinasia.com/"
+        },
+        {
+          "outcome": "Iran",
+          "book": "bwin",
+          "odd": 1.95,
+          "stake": 51613,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        }
+      ],
+      "S": 0.9935897435897436,
+      "roi": 0.6451612903225712,
+      "profit": 645,
+      "payout": 100645,
+      "staked": 100000,
+      "mins": 27,
+      "split": {
+        "S": 0.9935897435897436,
+        "payout": 100645,
+        "profit": 645,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "BetInAsia",
+            "odd": 2.08,
+            "stake": 48387
+          },
+          {
+            "book": "bwin",
+            "odd": 1.95,
+            "stake": 51613
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    }
+  ]
 }
