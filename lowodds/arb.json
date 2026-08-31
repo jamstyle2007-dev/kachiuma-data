@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-31T07:08:56.945Z",
+  "generatedAt": "2026-08-31T07:14:26.352Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 1,
+  "scanned": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "fosVn53l",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Lithuania - Bosnia & Herzegovina",
-      "url": "https://www.betexplorer.com/basketball/world/world-cup/lithuania-bosnia-herzegovina/fosVn53l/",
-      "kickoff": "2026-08-31T16:30:00+09:00",
-      "width": 2,
-      "books": 19,
-      "labels": [
-        "Lithuania",
-        "Bosnia & Herzegovina"
-      ],
-      "legs": [
-        {
-          "outcome": "Lithuania",
-          "book": "bet365",
-          "odd": 2.3,
-          "stake": 43902,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.bet365.com/"
-        },
-        {
-          "outcome": "Bosnia & Herzegovina",
-          "book": "Betfair Exchange",
-          "odd": 1.8,
-          "stake": 56098,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        }
-      ],
-      "S": 0.9903381642512078,
-      "roi": 0.9756097560975618,
-      "profit": 976,
-      "payout": 100976,
-      "staked": 100000,
-      "mins": 21,
-      "split": {
-        "S": 0.9903381642512078,
-        "payout": 100976,
-        "profit": 976,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "bet365",
-            "odd": 2.3,
-            "stake": 43902
-          },
-          {
-            "book": "Betfair Exchange",
-            "odd": 1.8,
-            "stake": 56098
-          }
-        ]
-      },
-      "hasExch": true,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
