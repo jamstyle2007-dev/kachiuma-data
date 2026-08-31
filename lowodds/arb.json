@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-31T14:29:50.655Z",
+  "generatedAt": "2026-08-31T14:35:19.717Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 5,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "IRXnJFc3",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Washington Nationals - Miami Marlins",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/washington-nationals-miami-marlins/IRXnJFc3/",
-      "kickoff": "2026-08-31T23:45:00+09:00",
-      "width": 2,
-      "books": 19,
-      "labels": [
-        "Washington Nationals",
-        "Miami Marlins"
-      ],
-      "legs": [
-        {
-          "outcome": "Washington Nationals",
-          "book": "1xBet",
-          "odd": 2.06,
-          "stake": 48628,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "Miami Marlins",
-          "book": "BetInAsia",
-          "odd": 1.95,
-          "stake": 51372,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        }
-      ],
-      "S": 0.9982574060243964,
-      "roi": 0.17456359102243635,
-      "profit": 175,
-      "payout": 100175,
-      "staked": 100000,
-      "mins": 15,
-      "split": {
-        "S": 0.9982574060243964,
-        "payout": 100175,
-        "profit": 175,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 2.06,
-            "stake": 48628
-          },
-          {
-            "book": "BetInAsia",
-            "odd": 1.95,
-            "stake": 51372
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
