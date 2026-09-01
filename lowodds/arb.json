@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-01T07:29:41.737Z",
+  "generatedAt": "2026-09-01T07:35:07.744Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 0,
+  "scanned": 8,
+  "arbCount": 2,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,128 @@
       "count": 2,
       "profit": 1151
     },
-    "pending": 1
+    "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "0CZaVWwg",
+      "sport": "handball",
+      "sportLabel": "ハンドボール",
+      "teams": "Gyor W - NEKA W",
+      "url": "https://www.betexplorer.com/handball/hungary/nb-i-women/gyor-neka/0CZaVWwg/",
+      "kickoff": "2026-09-01T17:00:00+09:00",
+      "width": 2,
+      "books": 4,
+      "labels": [
+        "Gyor W",
+        "NEKA W"
+      ],
+      "legs": [
+        {
+          "outcome": "Gyor W",
+          "book": "Betfair",
+          "odd": 301,
+          "stake": 50000,
+          "jp": true,
+          "exch": true,
+          "url": "https://www.betfair.com/exchange/plus/"
+        },
+        {
+          "outcome": "NEKA W",
+          "book": "Betfair",
+          "odd": 301,
+          "stake": 50000,
+          "jp": true,
+          "exch": true,
+          "url": "https://www.betfair.com/exchange/plus/"
+        }
+      ],
+      "S": 0.006644518272425249,
+      "roi": 14950,
+      "profit": 14950000,
+      "payout": 15050000,
+      "staked": 100000,
+      "mins": 25,
+      "split": {
+        "S": 0.006644518272425249,
+        "payout": 15050000,
+        "profit": 14950000,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Betfair",
+            "odd": 301,
+            "stake": 50000
+          },
+          {
+            "book": "Betfair",
+            "odd": 301,
+            "stake": 50000
+          }
+        ]
+      },
+      "hasExch": true,
+      "allJp": true
+    },
+    {
+      "id": "MoSIrSeJ",
+      "sport": "handball",
+      "sportLabel": "ハンドボール",
+      "teams": "Eger - Szeged",
+      "url": "https://www.betexplorer.com/handball/hungary/nb-i/eger-szeged/MoSIrSeJ/",
+      "kickoff": "2026-09-01T17:00:00+09:00",
+      "width": 2,
+      "books": 6,
+      "labels": [
+        "Eger",
+        "Szeged"
+      ],
+      "legs": [
+        {
+          "outcome": "Eger",
+          "book": "bwin",
+          "odd": 61,
+          "stake": 50000,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        },
+        {
+          "outcome": "Szeged",
+          "book": "bwin",
+          "odd": 61,
+          "stake": 50000,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        }
+      ],
+      "S": 0.03278688524590164,
+      "roi": 2950,
+      "profit": 2950000,
+      "payout": 3050000,
+      "staked": 100000,
+      "mins": 25,
+      "split": {
+        "S": 0.03278688524590164,
+        "payout": 3050000,
+        "profit": 2950000,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "bwin",
+            "odd": 61,
+            "stake": 50000
+          },
+          {
+            "book": "bwin",
+            "odd": 61,
+            "stake": 50000
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    }
+  ]
 }
