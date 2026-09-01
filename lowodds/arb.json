@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T09:45:37.481Z",
+  "generatedAt": "2026-09-01T09:51:07.535Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 3,
@@ -42,18 +42,18 @@
       "legs": [
         {
           "outcome": "Tunisia W",
-          "book": "Rainbet",
-          "odd": 1.68,
-          "stake": 62443,
+          "book": "Mozzartbet",
+          "odd": 1.6,
+          "stake": 67464,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
+          "url": "https://www.mozzartbet.com/"
         },
         {
           "outcome": "Draw",
           "book": "1xBet",
-          "odd": 10.7,
-          "stake": 9804,
+          "odd": 10.5,
+          "stake": 10280,
           "jp": true,
           "exch": false,
           "url": "https://1xbet.com/ja"
@@ -61,39 +61,39 @@
         {
           "outcome": "Italy W",
           "book": "Betsson",
-          "odd": 3.78,
-          "stake": 27753,
+          "odd": 4.85,
+          "stake": 22256,
           "jp": false,
           "exch": false,
           "url": "https://www.betsson.com/"
         }
       ],
-      "S": 0.9532463037135934,
-      "roi": 4.9046816236545165,
-      "profit": 4905,
-      "payout": 104905,
+      "S": 0.9264236622484046,
+      "roi": 7.94197522686626,
+      "profit": 7942,
+      "payout": 107942,
       "staked": 100000,
-      "mins": 14,
+      "mins": 9,
       "split": {
-        "S": 0.9532463037135934,
-        "payout": 104905,
-        "profit": 4905,
+        "S": 0.9264236622484046,
+        "payout": 107942,
+        "profit": 7942,
         "staked": 100000,
         "legs": [
           {
-            "book": "Rainbet",
-            "odd": 1.68,
-            "stake": 62443
+            "book": "Mozzartbet",
+            "odd": 1.6,
+            "stake": 67464
           },
           {
             "book": "1xBet",
-            "odd": 10.7,
-            "stake": 9804
+            "odd": 10.5,
+            "stake": 10280
           },
           {
             "book": "Betsson",
-            "odd": 3.78,
-            "stake": 27753
+            "odd": 4.85,
+            "stake": 22256
           }
         ]
       },
