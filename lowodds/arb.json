@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-01T09:34:41.445Z",
+  "generatedAt": "2026-09-01T09:40:10.084Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 3,
       "profit": 3201151
     },
-    "pending": 2
+    "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "AVhhCJiL",
+      "sport": "handball",
+      "sportLabel": "ハンドボール",
+      "teams": "Tunisia W - Italy W",
+      "url": "https://www.betexplorer.com/handball/world/mediterranean-games-women/tunisia-italy/AVhhCJiL/",
+      "kickoff": "2026-09-01T19:00:00+09:00",
+      "width": 3,
+      "books": 7,
+      "labels": [
+        "Tunisia W",
+        "Draw",
+        "Italy W"
+      ],
+      "legs": [
+        {
+          "outcome": "Tunisia W",
+          "book": "Rainbet",
+          "odd": 1.68,
+          "stake": 62760,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "1xBet",
+          "odd": 10.7,
+          "stake": 9854,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        },
+        {
+          "outcome": "Italy W",
+          "book": "Betsson",
+          "odd": 3.85,
+          "stake": 27386,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.betsson.com/"
+        }
+      ],
+      "S": 0.9484362989035886,
+      "roi": 5.436706835875005,
+      "profit": 5437,
+      "payout": 105437,
+      "staked": 100000,
+      "mins": 20,
+      "split": {
+        "S": 0.9484362989035886,
+        "payout": 105437,
+        "profit": 5437,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Rainbet",
+            "odd": 1.68,
+            "stake": 62760
+          },
+          {
+            "book": "1xBet",
+            "odd": 10.7,
+            "stake": 9854
+          },
+          {
+            "book": "Betsson",
+            "odd": 3.85,
+            "stake": 27386
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
