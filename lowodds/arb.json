@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-01T05:56:28.294Z",
+  "generatedAt": "2026-09-01T06:01:54.183Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "GvYhRBRa",
-      "sport": "handball",
-      "sportLabel": "ハンドボール",
-      "teams": "CSM Bucuresti W - Stiinta Bucharest W",
-      "url": "https://www.betexplorer.com/handball/romania/liga-nationala-women/csm-bucuresti-stiinta-bucharest/GvYhRBRa/",
-      "kickoff": "2026-09-01T15:00:00+09:00",
-      "width": 2,
-      "books": 5,
-      "labels": [
-        "CSM Bucuresti W",
-        "Stiinta Bucharest W"
-      ],
-      "legs": [
-        {
-          "outcome": "CSM Bucuresti W",
-          "book": "Betsson",
-          "odd": 66,
-          "stake": 50000,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.betsson.com/"
-        },
-        {
-          "outcome": "Stiinta Bucharest W",
-          "book": "Betsson",
-          "odd": 66,
-          "stake": 50000,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.betsson.com/"
-        }
-      ],
-      "S": 0.030303030303030304,
-      "roi": 3200,
-      "profit": 3200000,
-      "payout": 3300000,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.030303030303030304,
-        "payout": 3300000,
-        "profit": 3200000,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betsson",
-            "odd": 66,
-            "stake": 50000
-          },
-          {
-            "book": "Betsson",
-            "odd": 66,
-            "stake": 50000
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
