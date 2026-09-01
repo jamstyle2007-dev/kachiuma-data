@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-01T09:40:10.084Z",
+  "generatedAt": "2026-09-01T09:45:37.481Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
+  "scanned": 3,
   "arbCount": 1,
   "track": {
     "stake": 100000,
@@ -44,7 +44,7 @@
           "outcome": "Tunisia W",
           "book": "Rainbet",
           "odd": 1.68,
-          "stake": 62760,
+          "stake": 62443,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
@@ -53,7 +53,7 @@
           "outcome": "Draw",
           "book": "1xBet",
           "odd": 10.7,
-          "stake": 9854,
+          "stake": 9804,
           "jp": true,
           "exch": false,
           "url": "https://1xbet.com/ja"
@@ -61,39 +61,39 @@
         {
           "outcome": "Italy W",
           "book": "Betsson",
-          "odd": 3.85,
-          "stake": 27386,
+          "odd": 3.78,
+          "stake": 27753,
           "jp": false,
           "exch": false,
           "url": "https://www.betsson.com/"
         }
       ],
-      "S": 0.9484362989035886,
-      "roi": 5.436706835875005,
-      "profit": 5437,
-      "payout": 105437,
+      "S": 0.9532463037135934,
+      "roi": 4.9046816236545165,
+      "profit": 4905,
+      "payout": 104905,
       "staked": 100000,
-      "mins": 20,
+      "mins": 14,
       "split": {
-        "S": 0.9484362989035886,
-        "payout": 105437,
-        "profit": 5437,
+        "S": 0.9532463037135934,
+        "payout": 104905,
+        "profit": 4905,
         "staked": 100000,
         "legs": [
           {
             "book": "Rainbet",
             "odd": 1.68,
-            "stake": 62760
+            "stake": 62443
           },
           {
             "book": "1xBet",
             "odd": 10.7,
-            "stake": 9854
+            "stake": 9804
           },
           {
             "book": "Betsson",
-            "odd": 3.85,
-            "stake": 27386
+            "odd": 3.78,
+            "stake": 27753
           }
         ]
       },
