@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-01T07:48:41.086Z",
+  "generatedAt": "2026-09-01T10:51:29.526Z",
   "source": "betexplorer.com (Pinnacle / 1xBet odds)",
   "threshold": 1.6,
-  "count": 31,
+  "count": 26,
   "matches": [
     {
       "sport": "バレー",
@@ -25,6 +25,26 @@
       "url": "https://www.betexplorer.com/volleyball/europe/european-championships-women/turkey-azerbaijan/Ch0yibc4/"
     },
     {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "AFRICA: AFRICAN CHAMPIONSHIP WOMEN",
+      "home": "Egypt W",
+      "away": "Tunisia W",
+      "favTeam": "Egypt W",
+      "underTeam": "Tunisia W",
+      "favOdd": 1.01,
+      "prob": 99,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.01
+      },
+      "avgFavOdd": 1.04,
+      "time": "22:00",
+      "kickoff": "2026-09-01T14:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/volleyball/africa/african-championship-women/egypt-tunisia/UNVeYrhJ/"
+    },
+    {
       "sport": "ハンドボール",
       "sportKey": "handball",
       "league": "POLAND: SUPERLIGA WOMEN",
@@ -45,44 +65,24 @@
       "url": "https://www.betexplorer.com/handball/poland/superliga-women/radom-mks-lublin/6wlFvhbJ/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - SINGLES: W15 FIANO ROMANO, CLAY",
-      "home": "Koleva R.",
-      "away": "Milanese S.",
-      "favTeam": "Milanese S.",
-      "underTeam": "Koleva R.",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "WORLD: CLUB FRIENDLY",
+      "home": "Bayern",
+      "away": "Levice",
+      "favTeam": "Bayern",
+      "underTeam": "Levice",
       "favOdd": 1.03,
       "prob": 97,
       "book": "1xBet",
       "books": {
         "1xbet": 1.03
       },
-      "avgFavOdd": 1.03,
-      "time": "17:00",
-      "kickoff": "2026-09-01T09:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w15-fiano-romano/koleva-rada-milanese-sara/SYVD0yTQ/"
-    },
-    {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "AFRICA: AFRICAN CHAMPIONSHIP WOMEN",
-      "home": "Egypt W",
-      "away": "Tunisia W",
-      "favTeam": "Egypt W",
-      "underTeam": "Tunisia W",
-      "favOdd": 1.06,
-      "prob": 94,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.06
-      },
-      "avgFavOdd": 1.06,
-      "time": "22:00",
-      "kickoff": "2026-09-01T14:00:00+09:00",
+      "avgFavOdd": 1.05,
+      "time": "01:00",
+      "kickoff": "2026-09-01T17:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/africa/african-championship-women/egypt-tunisia/UNVeYrhJ/"
+      "url": "https://www.betexplorer.com/basketball/world/club-friendly/bayern-levice/CbDScZNj/"
     },
     {
       "sport": "バレー",
@@ -105,13 +105,13 @@
       "url": "https://www.betexplorer.com/volleyball/africa/african-championship-women/kenya-algeria/bNLwqQne/"
     },
     {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "WORLD: CLUB FRIENDLY",
-      "home": "Bayern",
-      "away": "Levice",
-      "favTeam": "Bayern",
-      "underTeam": "Levice",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF WOMEN - SINGLES: W15 PÉCS, CLAY",
+      "home": "Grubor A.",
+      "away": "Samardzic A. E.",
+      "favTeam": "Grubor A.",
+      "underTeam": "Samardzic A. E.",
       "favOdd": 1.07,
       "prob": 93,
       "book": "1xBet",
@@ -119,10 +119,10 @@
         "1xbet": 1.07
       },
       "avgFavOdd": 1.07,
-      "time": "01:00",
-      "kickoff": "2026-09-01T17:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/world/club-friendly/bayern-levice/CbDScZNj/"
+      "time": "20:00",
+      "kickoff": "2026-09-01T12:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w15-pecs/grubor-ana-samardzic-ayline-esina/AowSfxMO/"
     },
     {
       "sport": "アイスホッケー",
@@ -145,146 +145,6 @@
       "url": "https://www.betexplorer.com/hockey/kazakhstan/championship/nomad-astana-pavlodar/IwHoDM2s/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - SINGLES: W15 FIANO ROMANO, CLAY",
-      "home": "Maines N.",
-      "away": "Giordano M.",
-      "favTeam": "Maines N.",
-      "underTeam": "Giordano M.",
-      "favOdd": 1.08,
-      "prob": 93,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.08
-      },
-      "avgFavOdd": 1.1,
-      "time": "17:00",
-      "kickoff": "2026-09-01T09:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w15-fiano-romano/maines-noemi-giordano-maddalena/MHxCtGye/"
-    },
-    {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "AFRICA: AFRICAN CHAMPIONSHIP WOMEN",
-      "home": "Rwanda W",
-      "away": "Ghana W",
-      "favTeam": "Rwanda W",
-      "underTeam": "Ghana W",
-      "favOdd": 1.1,
-      "prob": 91,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.1
-      },
-      "avgFavOdd": 1.09,
-      "time": "19:00",
-      "kickoff": "2026-09-01T11:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/africa/african-championship-women/rwanda-ghana/WzKos4H7/"
-    },
-    {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "WORLD: MEDITERRANEAN GAMES WOMEN",
-      "home": "Greece W",
-      "away": "Algeria W",
-      "favTeam": "Greece W",
-      "underTeam": "Algeria W",
-      "favOdd": 1.14,
-      "prob": 88,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.14
-      },
-      "avgFavOdd": 1.13,
-      "time": "00:30",
-      "kickoff": "2026-09-01T16:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/handball/world/mediterranean-games-women/greece-algeria/61vO6cFr/"
-    },
-    {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "AFRICA: AFRICAN CHAMPIONSHIP WOMEN",
-      "home": "Burkina Faso W",
-      "away": "Burundi W",
-      "favTeam": "Burkina Faso W",
-      "underTeam": "Burundi W",
-      "favOdd": 1.18,
-      "prob": 85,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.18
-      },
-      "avgFavOdd": 1.2,
-      "time": "17:00",
-      "kickoff": "2026-09-01T09:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/africa/african-championship-women/burkina-faso-burundi/KSY57qtB/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M15 MADRID, CLAY",
-      "home": "Fita Juan S.",
-      "away": "Rodenas P.",
-      "favTeam": "Rodenas P.",
-      "underTeam": "Fita Juan S.",
-      "favOdd": 1.21,
-      "prob": 83,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.21
-      },
-      "avgFavOdd": 1.2,
-      "time": "17:00",
-      "kickoff": "2026-09-01T09:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m15-madrid/fita-juan-sergi-rodenas-pedro/S6supL76/"
-    },
-    {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "AFRICA: AFRICAN CHAMPIONSHIP WOMEN",
-      "home": "Nigeria W",
-      "away": "D.R. Congo W",
-      "favTeam": "Nigeria W",
-      "underTeam": "D.R. Congo W",
-      "favOdd": 1.22,
-      "prob": 82,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.22
-      },
-      "avgFavOdd": 1.23,
-      "time": "20:00",
-      "kickoff": "2026-09-01T12:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/africa/african-championship-women/nigeria-d-r-congo/xSNq01Yp/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M15 MADRID, CLAY",
-      "home": "Garcia A.",
-      "away": "Palomar X.",
-      "favTeam": "Garcia A.",
-      "underTeam": "Palomar X.",
-      "favOdd": 1.23,
-      "prob": 81,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.23
-      },
-      "avgFavOdd": 1.23,
-      "time": "17:00",
-      "kickoff": "2026-09-01T09:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m15-madrid/garcia-alejandro-2001-palomar-xavi/0YfnraxJ/"
-    },
-    {
       "sport": "バスケ",
       "sportKey": "basketball",
       "league": "WORLD: CLUB FRIENDLY",
@@ -292,13 +152,13 @@
       "away": "Pardubice",
       "favTeam": "Pardubice",
       "underTeam": "Hradec Kralove",
-      "favOdd": 1.23,
-      "prob": 81,
+      "favOdd": 1.08,
+      "prob": 93,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.23
+        "1xbet": 1.08
       },
-      "avgFavOdd": 1.31,
+      "avgFavOdd": 1.15,
       "time": "01:00",
       "kickoff": "2026-09-01T17:00:00+09:00",
       "niche": false,
@@ -308,21 +168,101 @@
       "sport": "ハンドボール",
       "sportKey": "handball",
       "league": "WORLD: MEDITERRANEAN GAMES WOMEN",
-      "home": "North Macedonia W",
-      "away": "Kosovo W",
-      "favTeam": "North Macedonia W",
-      "underTeam": "Kosovo W",
-      "favOdd": 1.26,
-      "prob": 79,
+      "home": "Greece W",
+      "away": "Algeria W",
+      "favTeam": "Greece W",
+      "underTeam": "Algeria W",
+      "favOdd": 1.13,
+      "prob": 88,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.26
+        "1xbet": 1.13
+      },
+      "avgFavOdd": 1.12,
+      "time": "00:30",
+      "kickoff": "2026-09-01T16:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/handball/world/mediterranean-games-women/greece-algeria/61vO6cFr/"
+    },
+    {
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "ROMANIA: LIGA NATIONALA WOMEN",
+      "home": "Corona Brasov W",
+      "away": "Bistrita W",
+      "favTeam": "Bistrita W",
+      "underTeam": "Corona Brasov W",
+      "favOdd": 1.15,
+      "prob": 87,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.15
+      },
+      "avgFavOdd": 1.16,
+      "time": "23:00",
+      "kickoff": "2026-09-01T15:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/handball/romania/liga-nationala-women/corona-brasov-cs-gloria-bistrita/2JtcRFLM/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF WOMEN - SINGLES: W15 PÉCS, CLAY",
+      "home": "Goina P. G.",
+      "away": "Kalman L.",
+      "favTeam": "Goina P. G.",
+      "underTeam": "Kalman L.",
+      "favOdd": 1.17,
+      "prob": 85,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.17
+      },
+      "avgFavOdd": 1.17,
+      "time": "20:00",
+      "kickoff": "2026-09-01T12:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w15-pecs/goina-patricia-georgiana-kalman-luca/xYvKdbiC/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "WORLD: CLUB FRIENDLY",
+      "home": "Breogan",
+      "away": "Mega Basket",
+      "favTeam": "Breogan",
+      "underTeam": "Mega Basket",
+      "favOdd": 1.2,
+      "prob": 83,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.2
+      },
+      "avgFavOdd": 1.22,
+      "time": "02:30",
+      "kickoff": "2026-09-01T18:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/world/club-friendly/rio-breogan-mega-basket/tr32jI8d/"
+    },
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "AFRICA: AFRICAN CHAMPIONSHIP WOMEN",
+      "home": "Nigeria W",
+      "away": "D.R. Congo W",
+      "favTeam": "Nigeria W",
+      "underTeam": "D.R. Congo W",
+      "favOdd": 1.25,
+      "prob": 80,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.25
       },
       "avgFavOdd": 1.26,
-      "time": "22:00",
-      "kickoff": "2026-09-01T14:00:00+09:00",
+      "time": "20:00",
+      "kickoff": "2026-09-01T12:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/handball/world/mediterranean-games-women/north-macedonia-kosovo/25kpEuN8/"
+      "url": "https://www.betexplorer.com/volleyball/africa/african-championship-women/nigeria-d-r-congo/xSNq01Yp/"
     },
     {
       "sport": "アイスホッケー",
@@ -345,33 +285,53 @@
       "url": "https://www.betexplorer.com/hockey/kazakhstan/championship/saryarka-karaganda-beibarys-atyrau/4fFgB0Xg/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - SINGLES: W15 FIANO ROMANO, CLAY",
-      "home": "Giambelli C.",
-      "away": "Tomase E.",
-      "favTeam": "Tomase E.",
-      "underTeam": "Giambelli C.",
-      "favOdd": 1.34,
-      "prob": 75,
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "WORLD: MEDITERRANEAN GAMES WOMEN",
+      "home": "North Macedonia W",
+      "away": "Kosovo W",
+      "favTeam": "North Macedonia W",
+      "underTeam": "Kosovo W",
+      "favOdd": 1.29,
+      "prob": 78,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.34
+        "1xbet": 1.29
       },
-      "avgFavOdd": 1.37,
-      "time": "17:00",
-      "kickoff": "2026-09-01T09:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w15-fiano-romano/giambelli-carla-tomase-elza/IoJaiXkD/"
+      "avgFavOdd": 1.24,
+      "time": "22:00",
+      "kickoff": "2026-09-01T14:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/handball/world/mediterranean-games-women/north-macedonia-kosovo/25kpEuN8/"
     },
     {
-      "sport": "野球",
-      "sportKey": "baseball",
-      "league": "JAPAN: NPB",
-      "home": "Yakult Swallows",
-      "away": "Hanshin Tigers",
-      "favTeam": "Hanshin Tigers",
-      "underTeam": "Yakult Swallows",
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "WORLD: MEDITERRANEAN GAMES WOMEN",
+      "home": "Tunisia W",
+      "away": "Italy W",
+      "favTeam": "Tunisia W",
+      "underTeam": "Italy W",
+      "favOdd": 1.32,
+      "prob": 76,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.32
+      },
+      "avgFavOdd": 1.33,
+      "time": "03:00",
+      "kickoff": "2026-09-01T19:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/handball/world/mediterranean-games-women/tunisia-italy/AVhhCJiL/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "CHALLENGER MEN - SINGLES: PLOVDIV 3, CLAY",
+      "home": "Mashtakov N.",
+      "away": "Popovic S.",
+      "favTeam": "Mashtakov N.",
+      "underTeam": "Popovic S.",
       "favOdd": 1.36,
       "prob": 74,
       "book": "1xBet",
@@ -379,50 +339,10 @@
         "1xbet": 1.36
       },
       "avgFavOdd": 1.35,
-      "time": "18:00",
-      "kickoff": "2026-09-01T10:00:00+09:00",
+      "time": "20:00",
+      "kickoff": "2026-09-01T12:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/baseball/japan/npb/yakult-swallows-hanshin-tigers/4pyuL5a4/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M15 MADRID, CLAY",
-      "home": "Dean T.",
-      "away": "Van Der Meerschen M.",
-      "favTeam": "Van Der Meerschen M.",
-      "underTeam": "Dean T.",
-      "favOdd": 1.37,
-      "prob": 73,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.37
-      },
-      "avgFavOdd": 1.32,
-      "time": "17:00",
-      "kickoff": "2026-09-01T09:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m15-madrid/dean-theodore-van-der-meerschen-martin/GpkggPpK/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "WORLD: CLUB FRIENDLY",
-      "home": "Breogan",
-      "away": "Mega Basket",
-      "favTeam": "Breogan",
-      "underTeam": "Mega Basket",
-      "favOdd": 1.37,
-      "prob": 73,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.37
-      },
-      "avgFavOdd": 1.34,
-      "time": "02:30",
-      "kickoff": "2026-09-01T18:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/world/club-friendly/rio-breogan-mega-basket/tr32jI8d/"
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/plovdiv-3/mashtakov-nikita-popovic-stefan/GzvJM16k/"
     },
     {
       "sport": "バスケ",
@@ -438,31 +358,11 @@
       "books": {
         "1xbet": 1.39
       },
-      "avgFavOdd": 1.38,
+      "avgFavOdd": 1.37,
       "time": "01:00",
       "kickoff": "2026-09-01T17:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/basketball/world/club-friendly/fenerbahce-tofas/YyjlEL03/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "WORLD: CLUB FRIENDLY",
-      "home": "Opava",
-      "away": "Dabrowa Gornicza",
-      "favTeam": "Dabrowa Gornicza",
-      "underTeam": "Opava",
-      "favOdd": 1.41,
-      "prob": 71,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.41
-      },
-      "avgFavOdd": 1.4,
-      "time": "01:00",
-      "kickoff": "2026-09-01T17:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/world/club-friendly/opava-dabrowa-gornicza/YHafhvvp/"
     },
     {
       "sport": "アイスホッケー",
@@ -485,64 +385,84 @@
       "url": "https://www.betexplorer.com/hockey/kazakhstan/championship/kulager-aktobe/M7VFIruK/"
     },
     {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "WORLD: CLUB FRIENDLY",
+      "home": "Opava",
+      "away": "Dabrowa Gornicza",
+      "favTeam": "Dabrowa Gornicza",
+      "underTeam": "Opava",
+      "favOdd": 1.43,
+      "prob": 70,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.43
+      },
+      "avgFavOdd": 1.41,
+      "time": "01:00",
+      "kickoff": "2026-09-01T17:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/world/club-friendly/opava-dabrowa-gornicza/YHafhvvp/"
+    },
+    {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25+H BAGNERES-DE-BIGORRE, HARD",
-      "home": "Malige M.",
-      "away": "Reco A.",
-      "favTeam": "Malige M.",
-      "underTeam": "Reco A.",
-      "favOdd": 1.45,
+      "league": "ITF WOMEN - SINGLES: W15 PÉCS, CLAY",
+      "home": "Mihalka A.",
+      "away": "Auer S.",
+      "favTeam": "Mihalka A.",
+      "underTeam": "Auer S.",
+      "favOdd": 1.44,
       "prob": 69,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.45
+        "1xbet": 1.44
       },
       "avgFavOdd": 1.44,
-      "time": "17:00",
-      "kickoff": "2026-09-01T09:00:00+09:00",
+      "time": "20:00",
+      "kickoff": "2026-09-01T12:00:00+09:00",
       "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-h-bagneres-de-bigorre/malige-mae-reco-alexandre/jwMT6cX9/"
-    },
-    {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "WORLD: MEDITERRANEAN GAMES WOMEN",
-      "home": "Tunisia W",
-      "away": "Italy W",
-      "favTeam": "Tunisia W",
-      "underTeam": "Italy W",
-      "favOdd": 1.47,
-      "prob": 68,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.47
-      },
-      "avgFavOdd": 1.51,
-      "time": "03:00",
-      "kickoff": "2026-09-01T19:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/handball/world/mediterranean-games-women/tunisia-italy/AVhhCJiL/"
+      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w15-pecs/mihalka-anna-auer-stefanie/WzxCbKMa/"
     },
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: ZHANGJIAGANG, HARD",
-      "home": "Jasika O.",
-      "away": "Santillan A.",
-      "favTeam": "Jasika O.",
-      "underTeam": "Santillan A.",
-      "favOdd": 1.49,
-      "prob": 67,
+      "league": "ITF WOMEN - SINGLES: W15 FIANO ROMANO, CLAY",
+      "home": "Gennaro C.",
+      "away": "Ormaechea P.",
+      "favTeam": "Gennaro C.",
+      "underTeam": "Ormaechea P.",
+      "favOdd": 1.48,
+      "prob": 68,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.49
+        "1xbet": 1.48
       },
-      "avgFavOdd": 1.51,
-      "time": "17:00",
-      "kickoff": "2026-09-01T09:00:00+09:00",
+      "avgFavOdd": 1.49,
+      "time": "20:00",
+      "kickoff": "2026-09-01T12:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w15-fiano-romano/gennaro-camilla-ormaechea-paula/WUKiggL0/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "WORLD: CLUB FRIENDLY",
+      "home": "Petkim Spor",
+      "away": "Lokomotiv Kuban",
+      "favTeam": "Lokomotiv Kuban",
+      "underTeam": "Petkim Spor",
+      "favOdd": 1.53,
+      "prob": 65,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.53
+      },
+      "avgFavOdd": 1.55,
+      "time": "23:00",
+      "kickoff": "2026-09-01T15:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/zhangjiagang/jasika-omar-santillan-akira/fqIjWEwn/"
+      "url": "https://www.betexplorer.com/basketball/world/club-friendly/petkim-spor-lokomotiv-kuban/IDLwiPwe/"
     },
     {
       "sport": "バレー",
@@ -558,31 +478,11 @@
       "books": {
         "1xbet": 1.53
       },
-      "avgFavOdd": 1.53,
+      "avgFavOdd": 1.59,
       "time": "23:00",
       "kickoff": "2026-09-01T15:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/volleyball/africa/african-championship-women/zambia-mali/6qXD5NAN/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25+H BAGNERES-DE-BIGORRE, HARD",
-      "home": "Knaff A.",
-      "away": "Aguilar J. C. M.",
-      "favTeam": "Knaff A.",
-      "underTeam": "Aguilar J. C. M.",
-      "favOdd": 1.54,
-      "prob": 65,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.54
-      },
-      "avgFavOdd": 1.58,
-      "time": "17:00",
-      "kickoff": "2026-09-01T09:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-h-bagneres-de-bigorre/knaff-alex-aguilar-juan-carlos-manuel/z399JzHF/"
     },
     {
       "sport": "バレー",
@@ -598,7 +498,7 @@
       "books": {
         "1xbet": 1.55
       },
-      "avgFavOdd": 1.56,
+      "avgFavOdd": 1.58,
       "time": "22:00",
       "kickoff": "2026-09-01T14:00:00+09:00",
       "niche": false,
@@ -607,22 +507,22 @@
     {
       "sport": "野球",
       "sportKey": "baseball",
-      "league": "JAPAN: NPB",
-      "home": "Nippon Ham Fighters",
-      "away": "Fukuoka S. Hawks",
-      "favTeam": "Fukuoka S. Hawks",
-      "underTeam": "Nippon Ham Fighters",
-      "favOdd": 1.57,
-      "prob": 64,
+      "league": "USA: MLB",
+      "home": "Cleveland Guardians",
+      "away": "Toronto Blue Jays",
+      "favTeam": "Cleveland Guardians",
+      "underTeam": "Toronto Blue Jays",
+      "favOdd": 1.58,
+      "prob": 63,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.57
+        "1xbet": 1.58
       },
-      "avgFavOdd": 1.52,
-      "time": "18:00",
-      "kickoff": "2026-09-01T10:00:00+09:00",
+      "avgFavOdd": 1.54,
+      "time": "07:40",
+      "kickoff": "2026-09-01T23:40:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/baseball/japan/npb/nippon-ham-fighters-fukuoka-s-hawks/d0klHNbT/"
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/cleveland-guardians-toronto-blue-jays/dpZYxQ5D/"
     }
   ]
 }
