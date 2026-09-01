@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-01T09:56:37.073Z",
+  "generatedAt": "2026-09-01T10:02:06.352Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 3,
-  "arbCount": 1,
+  "scanned": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 3
   },
-  "opps": [
-    {
-      "id": "AVhhCJiL",
-      "sport": "handball",
-      "sportLabel": "ハンドボール",
-      "teams": "Tunisia W - Italy W",
-      "url": "https://www.betexplorer.com/handball/world/mediterranean-games-women/tunisia-italy/AVhhCJiL/",
-      "kickoff": "2026-09-01T19:00:00+09:00",
-      "width": 3,
-      "books": 7,
-      "labels": [
-        "Tunisia W",
-        "Draw",
-        "Italy W"
-      ],
-      "legs": [
-        {
-          "outcome": "Tunisia W",
-          "book": "Mozzartbet",
-          "odd": 1.6,
-          "stake": 68490,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.mozzartbet.com/"
-        },
-        {
-          "outcome": "Draw",
-          "book": "1xBet",
-          "odd": 10.5,
-          "stake": 10437,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "Italy W",
-          "book": "Rainbet",
-          "odd": 5.2,
-          "stake": 21074,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
-        }
-      ],
-      "S": 0.9125457875457875,
-      "roi": 9.583542398394385,
-      "profit": 9583,
-      "payout": 109584,
-      "staked": 100001,
-      "mins": 3,
-      "split": {
-        "S": 0.9125457875457875,
-        "payout": 109584,
-        "profit": 9583,
-        "staked": 100001,
-        "legs": [
-          {
-            "book": "Mozzartbet",
-            "odd": 1.6,
-            "stake": 68490
-          },
-          {
-            "book": "1xBet",
-            "odd": 10.5,
-            "stake": 10437
-          },
-          {
-            "book": "Rainbet",
-            "odd": 5.2,
-            "stake": 21074
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
