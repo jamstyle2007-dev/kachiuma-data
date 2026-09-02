@@ -1,41 +1,41 @@
 {
-  "generatedAt": "2026-09-01T23:05:19.165Z",
+  "generatedAt": "2026-09-02T02:09:04.733Z",
   "windowDays": 400,
   "total": 300,
-  "hits": 204,
-  "hitRate": 0.68,
+  "hits": 205,
+  "hitRate": 0.6833333333333333,
   "sim": {
     "stake": 10000,
-    "asOf": "2026-09-01T23:05:19.165Z",
+    "asOf": "2026-09-02T02:09:04.733Z",
     "byMinStars": {
       "1": {
         "all": {
-          "n": 4829,
-          "hits": 3128,
-          "staked": 48290000,
-          "returns": 40100100,
-          "profit": -8189900
+          "n": 4830,
+          "hits": 3129,
+          "staked": 48300000,
+          "returns": 40115300,
+          "profit": -8184700
         },
         "year": {
-          "n": 4829,
-          "hits": 3128,
-          "staked": 48290000,
-          "returns": 40100100,
-          "profit": -8189900
+          "n": 4830,
+          "hits": 3129,
+          "staked": 48300000,
+          "returns": 40115300,
+          "profit": -8184700
         },
         "month": {
-          "n": 78,
-          "hits": 52,
-          "staked": 780000,
-          "returns": 630400,
-          "profit": -149600
+          "n": 79,
+          "hits": 53,
+          "staked": 790000,
+          "returns": 645600,
+          "profit": -144400
         },
         "week": {
-          "n": 165,
-          "hits": 110,
-          "staked": 1650000,
-          "returns": 1371200,
-          "profit": -278800
+          "n": 166,
+          "hits": 111,
+          "staked": 1660000,
+          "returns": 1386400,
+          "profit": -273600
         }
       },
       "2": {
@@ -161,6 +161,23 @@
     }
   },
   "settled": [
+    {
+      "id": "SvbaZRm1",
+      "sport": "野球",
+      "sportKey": "baseball",
+      "league": "USA: MLB",
+      "favTeam": "Texas Rangers",
+      "underTeam": "Athletics",
+      "favIsHome": true,
+      "favOdd": 1.52,
+      "prob": 66,
+      "stars": 1,
+      "kickoff": "2026-09-02T01:05:00+09:00",
+      "homeScore": 5,
+      "awayScore": 1,
+      "isDraw": false,
+      "favWon": true
+    },
     {
       "id": "rgCqtvvA",
       "sport": "バレー",
@@ -5243,23 +5260,6 @@
       "awayScore": 68,
       "isDraw": false,
       "favWon": true
-    },
-    {
-      "id": "U1rOvbek",
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25 TAIPEI 2, HARD",
-      "favTeam": "Dellavedova M.",
-      "underTeam": "Chen K. S.",
-      "favIsHome": false,
-      "favOdd": 1.23,
-      "prob": 81,
-      "stars": 2,
-      "kickoff": "2026-08-30T03:00:00+09:00",
-      "homeScore": 0,
-      "awayScore": 0,
-      "isDraw": true,
-      "favWon": false
     }
   ]
 }
