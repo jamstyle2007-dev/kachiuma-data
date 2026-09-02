@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-02T07:55:40.255Z",
+  "generatedAt": "2026-09-02T08:01:15.569Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 8,
-  "arbCount": 2,
+  "scanned": 4,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,126 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "M7Dq3zRk",
-      "sport": "handball",
-      "sportLabel": "ハンドボール",
-      "teams": "Veszprem - Gyor",
-      "url": "https://www.betexplorer.com/handball/hungary/nb-i/veszprem-gyor/M7Dq3zRk/",
-      "kickoff": "2026-09-02T17:00:00+09:00",
-      "width": 2,
-      "books": 5,
-      "labels": [
-        "Veszprem",
-        "Gyor"
-      ],
-      "legs": [
-        {
-          "outcome": "Veszprem",
-          "book": "bwin",
-          "odd": 61,
-          "stake": 50000,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        },
-        {
-          "outcome": "Gyor",
-          "book": "bwin",
-          "odd": 61,
-          "stake": 50000,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        }
-      ],
-      "S": 0.03278688524590164,
-      "roi": 2950,
-      "profit": 2950000,
-      "payout": 3050000,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.03278688524590164,
-        "payout": 3050000,
-        "profit": 2950000,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "bwin",
-            "odd": 61,
-            "stake": 50000
-          },
-          {
-            "book": "bwin",
-            "odd": 61,
-            "stake": 50000
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": true
-    },
-    {
-      "id": "hnWiXh9t",
-      "sport": "handball",
-      "sportLabel": "ハンドボール",
-      "teams": "Ferencvaros W - Budaors W",
-      "url": "https://www.betexplorer.com/handball/hungary/nb-i-women/ferencvaros-budaors/hnWiXh9t/",
-      "kickoff": "2026-09-02T17:00:00+09:00",
-      "width": 2,
-      "books": 6,
-      "labels": [
-        "Ferencvaros W",
-        "Budaors W"
-      ],
-      "legs": [
-        {
-          "outcome": "Ferencvaros W",
-          "book": "bwin",
-          "odd": 56,
-          "stake": 54098,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        },
-        {
-          "outcome": "Budaors W",
-          "book": "Betsson",
-          "odd": 66,
-          "stake": 45902,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.betsson.com/"
-        }
-      ],
-      "S": 0.03300865800865801,
-      "roi": 2929.5081967213114,
-      "profit": 2929508,
-      "payout": 3029508,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.03300865800865801,
-        "payout": 3029508,
-        "profit": 2929508,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "bwin",
-            "odd": 56,
-            "stake": 54098
-          },
-          {
-            "book": "Betsson",
-            "odd": 66,
-            "stake": 45902
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
