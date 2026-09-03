@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-03T05:29:06.136Z",
+  "generatedAt": "2026-09-03T05:34:32.508Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 1,
+  "scanned": 2,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "SWSE39Vp",
-      "sport": "hockey",
-      "sportLabel": "アイスホッケー",
-      "teams": "Torpedo - Almaty",
-      "url": "https://www.betexplorer.com/hockey/kazakhstan/championship/kazzinc-torpedo-almaty/SWSE39Vp/",
-      "kickoff": "2026-09-03T14:30:00+09:00",
-      "width": 3,
-      "books": 4,
-      "labels": [
-        "Torpedo",
-        "Draw",
-        "Almaty"
-      ],
-      "legs": [
-        {
-          "outcome": "Torpedo",
-          "book": "888sport",
-          "odd": 888,
-          "stake": 925,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=888sport%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "Cloudbet",
-          "odd": 9.6,
-          "stake": 85603,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.cloudbet.com/"
-        },
-        {
-          "outcome": "Almaty",
-          "book": "888sport",
-          "odd": 61,
-          "stake": 13472,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=888sport%20sportsbook"
-        }
-      ],
-      "S": 0.12168623541574362,
-      "roi": 721.7856330122127,
-      "profit": 721786,
-      "payout": 821786,
-      "staked": 100000,
-      "mins": 1,
-      "split": {
-        "S": 0.12168623541574362,
-        "payout": 821786,
-        "profit": 721786,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "888sport",
-            "odd": 888,
-            "stake": 925
-          },
-          {
-            "book": "Cloudbet",
-            "odd": 9.6,
-            "stake": 85603
-          },
-          {
-            "book": "888sport",
-            "odd": 61,
-            "stake": 13472
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
