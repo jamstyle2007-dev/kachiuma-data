@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-03T06:45:24.595Z",
+  "generatedAt": "2026-09-03T06:50:59.518Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 5,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,5 +24,81 @@
     },
     "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "viO545RF",
+      "sport": "handball",
+      "sportLabel": "ハンドボール",
+      "teams": "CSM Constanta - Din. Bucuresti",
+      "url": "https://www.betexplorer.com/handball/romania/liga-nationala/csm-constanta-dinamo-bucuresti/viO545RF/",
+      "kickoff": "2026-09-03T16:00:00+09:00",
+      "width": 3,
+      "books": 15,
+      "labels": [
+        "CSM Constanta",
+        "Draw",
+        "Din. Bucuresti"
+      ],
+      "legs": [
+        {
+          "outcome": "CSM Constanta",
+          "book": "bwin",
+          "odd": 10.5,
+          "stake": 9787,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        },
+        {
+          "outcome": "Draw",
+          "book": "Rainbet",
+          "odd": 14,
+          "stake": 7340,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
+        },
+        {
+          "outcome": "Din. Bucuresti",
+          "book": "Unibet",
+          "odd": 1.24,
+          "stake": 82873,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.unibet.com/"
+        }
+      ],
+      "S": 0.9731182795698925,
+      "roi": 2.7624309392265234,
+      "profit": 2762,
+      "payout": 102762,
+      "staked": 100000,
+      "mins": 9,
+      "split": {
+        "S": 0.9731182795698925,
+        "payout": 102762,
+        "profit": 2762,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "bwin",
+            "odd": 10.5,
+            "stake": 9787
+          },
+          {
+            "book": "Rainbet",
+            "odd": 14,
+            "stake": 7340
+          },
+          {
+            "book": "Unibet",
+            "odd": 1.24,
+            "stake": 82873
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
