@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-03T23:43:02.541Z",
+  "generatedAt": "2026-09-03T23:49:34.074Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 1,
+  "scanned": 2,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "W6t1HmeA",
-      "sport": "hockey",
-      "sportLabel": "アイスホッケー",
-      "teams": "Krylya Sovetov - Krasnaya Armiya",
-      "url": "https://www.betexplorer.com/hockey/world/club-friendly/krylya-sovetov-mhl-krasnaya-armiya-mhl/W6t1HmeA/",
-      "kickoff": "2026-09-04T09:00:00+09:00",
-      "width": 3,
-      "books": 2,
-      "labels": [
-        "Krylya Sovetov",
-        "Draw",
-        "Krasnaya Armiya"
-      ],
-      "legs": [
-        {
-          "outcome": "Krylya Sovetov",
-          "book": "1:5",
-          "odd": 4.1,
-          "stake": 49392,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=1%3A5%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "1:5",
-          "odd": 4.64,
-          "stake": 43644,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=1%3A5%20sportsbook"
-        },
-        {
-          "outcome": "Krasnaya Armiya",
-          "book": "1:5",
-          "odd": 29.08,
-          "stake": 6964,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=1%3A5%20sportsbook"
-        }
-      ],
-      "S": 0.4938075758644984,
-      "roi": 102.50803124057408,
-      "profit": 102508,
-      "payout": 202508,
-      "staked": 100000,
-      "mins": 17,
-      "split": {
-        "S": 0.4938075758644984,
-        "payout": 202508,
-        "profit": 102508,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1:5",
-            "odd": 4.1,
-            "stake": 49392
-          },
-          {
-            "book": "1:5",
-            "odd": 4.64,
-            "stake": 43644
-          },
-          {
-            "book": "1:5",
-            "odd": 29.08,
-            "stake": 6964
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
