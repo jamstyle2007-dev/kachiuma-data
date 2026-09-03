@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-03T07:56:18.695Z",
+  "generatedAt": "2026-09-03T08:01:47.029Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 5,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 4
   },
-  "opps": [
-    {
-      "id": "8xw8TA85",
-      "sport": "handball",
-      "sportLabel": "ハンドボール",
-      "teams": "Eszterhazy W - DVSC W",
-      "url": "https://www.betexplorer.com/handball/hungary/nb-i-women/eszterhazy-kfsc-debreceni-vsc/8xw8TA85/",
-      "kickoff": "2026-09-03T17:00:00+09:00",
-      "width": 2,
-      "books": 7,
-      "labels": [
-        "Eszterhazy W",
-        "DVSC W"
-      ],
-      "legs": [
-        {
-          "outcome": "Eszterhazy W",
-          "book": "Betfair",
-          "odd": 71,
-          "stake": 53289,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        },
-        {
-          "outcome": "DVSC W",
-          "book": "Betfair",
-          "odd": 81,
-          "stake": 46711,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        }
-      ],
-      "S": 0.0264301860545992,
-      "roi": 3683.552631578947,
-      "profit": 3683553,
-      "payout": 3783553,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.0264301860545992,
-        "payout": 3783553,
-        "profit": 3683553,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betfair",
-            "odd": 71,
-            "stake": 53289
-          },
-          {
-            "book": "Betfair",
-            "odd": 81,
-            "stake": 46711
-          }
-        ]
-      },
-      "hasExch": true,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
