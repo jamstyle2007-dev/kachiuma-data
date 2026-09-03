@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-03T07:28:56.966Z",
+  "generatedAt": "2026-09-03T07:34:21.831Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 0,
+  "scanned": 5,
+  "arbCount": 2,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,128 @@
       "count": 8,
       "profit": 26986096
     },
-    "pending": 2
+    "pending": 4
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "8xw8TA85",
+      "sport": "handball",
+      "sportLabel": "ハンドボール",
+      "teams": "Eszterhazy W - DVSC W",
+      "url": "https://www.betexplorer.com/handball/hungary/nb-i-women/eszterhazy-kfsc-debreceni-vsc/8xw8TA85/",
+      "kickoff": "2026-09-03T17:00:00+09:00",
+      "width": 2,
+      "books": 7,
+      "labels": [
+        "Eszterhazy W",
+        "DVSC W"
+      ],
+      "legs": [
+        {
+          "outcome": "Eszterhazy W",
+          "book": "Betfair",
+          "odd": 71,
+          "stake": 53289,
+          "jp": true,
+          "exch": true,
+          "url": "https://www.betfair.com/exchange/plus/"
+        },
+        {
+          "outcome": "DVSC W",
+          "book": "Betfair",
+          "odd": 81,
+          "stake": 46711,
+          "jp": true,
+          "exch": true,
+          "url": "https://www.betfair.com/exchange/plus/"
+        }
+      ],
+      "S": 0.0264301860545992,
+      "roi": 3683.552631578947,
+      "profit": 3683553,
+      "payout": 3783553,
+      "staked": 100000,
+      "mins": 26,
+      "split": {
+        "S": 0.0264301860545992,
+        "payout": 3783553,
+        "profit": 3683553,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Betfair",
+            "odd": 71,
+            "stake": 53289
+          },
+          {
+            "book": "Betfair",
+            "odd": 81,
+            "stake": 46711
+          }
+        ]
+      },
+      "hasExch": true,
+      "allJp": true
+    },
+    {
+      "id": "AJfEqJ4e",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Olomoucko - Spisski Rytieri",
+      "url": "https://www.betexplorer.com/basketball/world/club-friendly/bk-olomoucko-spisski-rytieri/AJfEqJ4e/",
+      "kickoff": "2026-09-03T17:00:00+09:00",
+      "width": 2,
+      "books": 12,
+      "labels": [
+        "Olomoucko",
+        "Spisski Rytieri"
+      ],
+      "legs": [
+        {
+          "outcome": "Olomoucko",
+          "book": "BetInAsia",
+          "odd": 2,
+          "stake": 50495,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.betinasia.com/"
+        },
+        {
+          "outcome": "Spisski Rytieri",
+          "book": "Mozzartbet",
+          "odd": 2.04,
+          "stake": 49505,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.mozzartbet.com/"
+        }
+      ],
+      "S": 0.9901960784313726,
+      "roi": 0.990099009900991,
+      "profit": 990,
+      "payout": 100990,
+      "staked": 100000,
+      "mins": 26,
+      "split": {
+        "S": 0.9901960784313726,
+        "payout": 100990,
+        "profit": 990,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "BetInAsia",
+            "odd": 2,
+            "stake": 50495
+          },
+          {
+            "book": "Mozzartbet",
+            "odd": 2.04,
+            "stake": 49505
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
