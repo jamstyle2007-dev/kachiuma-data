@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-03T16:28:09.871Z",
+  "generatedAt": "2026-09-03T16:33:33.088Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "2yUmWPsg",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Catolica - CD Puerto Varas",
-      "url": "https://www.betexplorer.com/basketball/chile/lnb/catolica-cd-puerto-varas/2yUmWPsg/",
-      "kickoff": "2026-09-04T01:30:00+09:00",
-      "width": 2,
-      "books": 12,
-      "labels": [
-        "Catolica",
-        "CD Puerto Varas"
-      ],
-      "legs": [
-        {
-          "outcome": "Catolica",
-          "book": "bwin",
-          "odd": 2.6,
-          "stake": 40909,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        },
-        {
-          "outcome": "CD Puerto Varas",
-          "book": "Unibet",
-          "odd": 1.8,
-          "stake": 59091,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.unibet.com/"
-        }
-      ],
-      "S": 0.9401709401709402,
-      "roi": 6.363636363636371,
-      "profit": 6364,
-      "payout": 106364,
-      "staked": 100000,
-      "mins": 2,
-      "split": {
-        "S": 0.9401709401709402,
-        "payout": 106364,
-        "profit": 6364,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "bwin",
-            "odd": 2.6,
-            "stake": 40909
-          },
-          {
-            "book": "Unibet",
-            "odd": 1.8,
-            "stake": 59091
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
