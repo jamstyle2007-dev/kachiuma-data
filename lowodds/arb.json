@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-03T07:45:20.970Z",
+  "generatedAt": "2026-09-03T07:50:49.089Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 5,
-  "arbCount": 2,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -63,7 +63,7 @@
       "profit": 3683553,
       "payout": 3783553,
       "staked": 100000,
-      "mins": 15,
+      "mins": 9,
       "split": {
         "S": 0.0264301860545992,
         "payout": 3783553,
@@ -84,66 +84,6 @@
       },
       "hasExch": true,
       "allJp": true
-    },
-    {
-      "id": "AJfEqJ4e",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Olomoucko - Spisski Rytieri",
-      "url": "https://www.betexplorer.com/basketball/world/club-friendly/bk-olomoucko-spisski-rytieri/AJfEqJ4e/",
-      "kickoff": "2026-09-03T17:00:00+09:00",
-      "width": 2,
-      "books": 12,
-      "labels": [
-        "Olomoucko",
-        "Spisski Rytieri"
-      ],
-      "legs": [
-        {
-          "outcome": "Olomoucko",
-          "book": "BetInAsia",
-          "odd": 2,
-          "stake": 50495,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        },
-        {
-          "outcome": "Spisski Rytieri",
-          "book": "Mozzartbet",
-          "odd": 2.04,
-          "stake": 49505,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.mozzartbet.com/"
-        }
-      ],
-      "S": 0.9901960784313726,
-      "roi": 0.990099009900991,
-      "profit": 990,
-      "payout": 100990,
-      "staked": 100000,
-      "mins": 15,
-      "split": {
-        "S": 0.9901960784313726,
-        "payout": 100990,
-        "profit": 990,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "BetInAsia",
-            "odd": 2,
-            "stake": 50495
-          },
-          {
-            "book": "Mozzartbet",
-            "odd": 2.04,
-            "stake": 49505
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
     }
   ]
 }
