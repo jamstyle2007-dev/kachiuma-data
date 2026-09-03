@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-03T06:39:55.490Z",
+  "generatedAt": "2026-09-03T06:45:24.595Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 5,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "viO545RF",
-      "sport": "handball",
-      "sportLabel": "ハンドボール",
-      "teams": "CSM Constanta - Din. Bucuresti",
-      "url": "https://www.betexplorer.com/handball/romania/liga-nationala/csm-constanta-dinamo-bucuresti/viO545RF/",
-      "kickoff": "2026-09-03T16:00:00+09:00",
-      "width": 3,
-      "books": 15,
-      "labels": [
-        "CSM Constanta",
-        "Draw",
-        "Din. Bucuresti"
-      ],
-      "legs": [
-        {
-          "outcome": "CSM Constanta",
-          "book": "bwin",
-          "odd": 10.5,
-          "stake": 9701,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        },
-        {
-          "outcome": "Draw",
-          "book": "bwin",
-          "odd": 12.5,
-          "stake": 8149,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        },
-        {
-          "outcome": "Din. Bucuresti",
-          "book": "Rainbet",
-          "odd": 1.24,
-          "stake": 82149,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
-        }
-      ],
-      "S": 0.9816897081413212,
-      "roi": 1.8651811979720767,
-      "profit": 1866,
-      "payout": 101865,
-      "staked": 99999,
-      "mins": 20,
-      "split": {
-        "S": 0.9816897081413212,
-        "payout": 101865,
-        "profit": 1866,
-        "staked": 99999,
-        "legs": [
-          {
-            "book": "bwin",
-            "odd": 10.5,
-            "stake": 9701
-          },
-          {
-            "book": "bwin",
-            "odd": 12.5,
-            "stake": 8149
-          },
-          {
-            "book": "Rainbet",
-            "odd": 1.24,
-            "stake": 82149
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
