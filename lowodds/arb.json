@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-04T07:26:10.154Z",
+  "generatedAt": "2026-09-04T07:31:36.830Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 3,
-  "arbCount": 0,
+  "scanned": 8,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 18,
       "profit": 32399658
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "M1zGldTg",
+      "sport": "handball",
+      "sportLabel": "ハンドボール",
+      "teams": "Veszprem - NEKA",
+      "url": "https://www.betexplorer.com/handball/hungary/nb-i/veszprem-neka/M1zGldTg/",
+      "kickoff": "2026-09-04T17:00:00+09:00",
+      "width": 2,
+      "books": 6,
+      "labels": [
+        "Veszprem",
+        "NEKA"
+      ],
+      "legs": [
+        {
+          "outcome": "Veszprem",
+          "book": "bwin",
+          "odd": 67,
+          "stake": 50000,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        },
+        {
+          "outcome": "NEKA",
+          "book": "bwin",
+          "odd": 67,
+          "stake": 50000,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        }
+      ],
+      "S": 0.029850746268656716,
+      "roi": 3250,
+      "profit": 3250000,
+      "payout": 3350000,
+      "staked": 100000,
+      "mins": 28,
+      "split": {
+        "S": 0.029850746268656716,
+        "payout": 3350000,
+        "profit": 3250000,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "bwin",
+            "odd": 67,
+            "stake": 50000
+          },
+          {
+            "book": "bwin",
+            "odd": 67,
+            "stake": 50000
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    }
+  ]
 }
