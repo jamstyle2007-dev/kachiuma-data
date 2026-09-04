@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-04T10:08:17.654Z",
+  "generatedAt": "2026-09-04T10:13:51.614Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "bZ67OWpR",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Cleveland Guardians - Detroit Tigers",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/cleveland-guardians-detroit-tigers/bZ67OWpR/",
-      "kickoff": "2026-09-04T19:10:00+09:00",
-      "width": 3,
-      "books": 8,
-      "labels": [
-        "Cleveland Guardians",
-        "Draw",
-        "Detroit Tigers"
-      ],
-      "legs": [
-        {
-          "outcome": "Cleveland Guardians",
-          "book": "11:1",
-          "odd": 11,
-          "stake": 17712,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=11%3A1%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "11:1",
-          "odd": 2.57,
-          "stake": 75811,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=11%3A1%20sportsbook"
-        },
-        {
-          "outcome": "Detroit Tigers",
-          "book": "11:1",
-          "odd": 30.08,
-          "stake": 6477,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=11%3A1%20sportsbook"
-        }
-      ],
-      "S": 0.5132588301259134,
-      "roi": 94.8334721790716,
-      "profit": 94833,
-      "payout": 194833,
-      "staked": 100000,
-      "mins": 2,
-      "split": {
-        "S": 0.5132588301259134,
-        "payout": 194833,
-        "profit": 94833,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "11:1",
-            "odd": 11,
-            "stake": 17712
-          },
-          {
-            "book": "11:1",
-            "odd": 2.57,
-            "stake": 75811
-          },
-          {
-            "book": "11:1",
-            "odd": 30.08,
-            "stake": 6477
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
