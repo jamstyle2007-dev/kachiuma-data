@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-04T01:17:49.173Z",
+  "generatedAt": "2026-09-04T01:26:32.842Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 1,
+  "scanned": 6,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 4
   },
-  "opps": [
-    {
-      "id": "I96wswHN",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Kiwoom Heroes - NC Dinos",
-      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/kiwoom-heroes-nc-dinos/I96wswHN/",
-      "kickoff": "2026-09-04T10:30:00+09:00",
-      "width": 3,
-      "books": 8,
-      "labels": [
-        "Kiwoom Heroes",
-        "Draw",
-        "NC Dinos"
-      ],
-      "legs": [
-        {
-          "outcome": "Kiwoom Heroes",
-          "book": "15:1",
-          "odd": 15,
-          "stake": 15702,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=15%3A1%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "2:15",
-          "odd": 3.08,
-          "stake": 76469,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=2%3A15%20sportsbook"
-        },
-        {
-          "outcome": "NC Dinos",
-          "book": "15:1",
-          "odd": 30.08,
-          "stake": 7830,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=15%3A1%20sportsbook"
-        }
-      ],
-      "S": 0.4245866721930551,
-      "roi": 135.5231724149152,
-      "profit": 135522,
-      "payout": 235523,
-      "staked": 100001,
-      "mins": 12,
-      "split": {
-        "S": 0.4245866721930551,
-        "payout": 235523,
-        "profit": 135522,
-        "staked": 100001,
-        "legs": [
-          {
-            "book": "15:1",
-            "odd": 15,
-            "stake": 15702
-          },
-          {
-            "book": "2:15",
-            "odd": 3.08,
-            "stake": 76469
-          },
-          {
-            "book": "15:1",
-            "odd": 30.08,
-            "stake": 7830
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
