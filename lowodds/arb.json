@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-04T04:08:31.482Z",
+  "generatedAt": "2026-09-04T04:14:10.295Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 3,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "jZLO1NWa",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "USA W - China W",
-      "url": "https://www.betexplorer.com/basketball/world/world-cup-women/usa-china/jZLO1NWa/",
-      "kickoff": "2026-09-04T13:15:00+09:00",
-      "width": 3,
-      "books": 5,
-      "labels": [
-        "USA W",
-        "Draw",
-        "China W"
-      ],
-      "legs": [
-        {
-          "outcome": "USA W",
-          "book": "110:46",
-          "odd": 110,
-          "stake": 6420,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=110%3A46%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "93:59",
-          "odd": 13.55,
-          "stake": 52115,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=93%3A59%20sportsbook"
-        },
-        {
-          "outcome": "China W",
-          "book": "70:84",
-          "odd": 17.03,
-          "stake": 41465,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=70%3A84%20sportsbook"
-        }
-      ],
-      "S": 0.14161155314643947,
-      "roi": 606.1570738977118,
-      "profit": 606157,
-      "payout": 706157,
-      "staked": 100000,
-      "mins": 6,
-      "split": {
-        "S": 0.14161155314643947,
-        "payout": 706157,
-        "profit": 606157,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "110:46",
-            "odd": 110,
-            "stake": 6420
-          },
-          {
-            "book": "93:59",
-            "odd": 13.55,
-            "stake": 52115
-          },
-          {
-            "book": "70:84",
-            "odd": 17.03,
-            "stake": 41465
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
