@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-05T20:26:58.554Z",
+  "generatedAt": "2026-09-05T20:32:22.084Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "SKv85R5j",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "Qatar - Chinese Taipei",
-      "url": "https://www.betexplorer.com/volleyball/asia/asian-championship/qatar-chinese-taipei/SKv85R5j/",
-      "kickoff": "2026-09-06T05:30:00+09:00",
-      "width": 2,
-      "books": 12,
-      "labels": [
-        "Qatar",
-        "Chinese Taipei"
-      ],
-      "legs": [
-        {
-          "outcome": "Qatar",
-          "book": "1xBet",
-          "odd": 2.66,
-          "stake": 41020,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "Chinese Taipei",
-          "book": "Unibet",
-          "odd": 1.85,
-          "stake": 58980,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.unibet.com/"
-        }
-      ],
-      "S": 0.9164803901646006,
-      "roi": 9.113082039911324,
-      "profit": 9113,
-      "payout": 109113,
-      "staked": 100000,
-      "mins": 3,
-      "split": {
-        "S": 0.9164803901646006,
-        "payout": 109113,
-        "profit": 9113,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 2.66,
-            "stake": 41020
-          },
-          {
-            "book": "Unibet",
-            "odd": 1.85,
-            "stake": 58980
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
