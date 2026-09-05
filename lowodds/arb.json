@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-05T16:08:43.967Z",
+  "generatedAt": "2026-09-05T16:14:05.858Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 1,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,5 +24,66 @@
     },
     "pending": 6
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "GKVuYoDt",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Colo Colo - Puerto Montt",
+      "url": "https://www.betexplorer.com/basketball/chile/lnb/colo-colo-puerto-montt/GKVuYoDt/",
+      "kickoff": "2026-09-06T01:30:00+09:00",
+      "width": 2,
+      "books": 11,
+      "labels": [
+        "Colo Colo",
+        "Puerto Montt"
+      ],
+      "legs": [
+        {
+          "outcome": "Colo Colo",
+          "book": "bwin",
+          "odd": 1.87,
+          "stake": 53713,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        },
+        {
+          "outcome": "Puerto Montt",
+          "book": "Unibet",
+          "odd": 2.17,
+          "stake": 46287,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.unibet.com/"
+        }
+      ],
+      "S": 0.9955888513763276,
+      "roi": 0.443069306930699,
+      "profit": 443,
+      "payout": 100443,
+      "staked": 100000,
+      "mins": 16,
+      "split": {
+        "S": 0.9955888513763276,
+        "payout": 100443,
+        "profit": 443,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "bwin",
+            "odd": 1.87,
+            "stake": 53713
+          },
+          {
+            "book": "Unibet",
+            "odd": 2.17,
+            "stake": 46287
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
