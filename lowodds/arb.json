@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-05T04:38:34.290Z",
+  "generatedAt": "2026-09-05T04:44:02.915Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 5,
-  "arbCount": 2,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,126 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "GM6Adtme",
-      "sport": "handball",
-      "sportLabel": "ハンドボール",
-      "teams": "BK-46 - Dicken",
-      "url": "https://www.betexplorer.com/handball/finland/aktialiiga/bk-46-dicken/GM6Adtme/",
-      "kickoff": "2026-09-05T14:00:00+09:00",
-      "width": 2,
-      "books": 2,
-      "labels": [
-        "BK-46",
-        "Dicken"
-      ],
-      "legs": [
-        {
-          "outcome": "BK-46",
-          "book": "Betsson",
-          "odd": 40,
-          "stake": 50000,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.betsson.com/"
-        },
-        {
-          "outcome": "Dicken",
-          "book": "Betsson",
-          "odd": 40,
-          "stake": 50000,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.betsson.com/"
-        }
-      ],
-      "S": 0.05,
-      "roi": 1900,
-      "profit": 1900000,
-      "payout": 2000000,
-      "staked": 100000,
-      "mins": 21,
-      "split": {
-        "S": 0.05,
-        "payout": 2000000,
-        "profit": 1900000,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betsson",
-            "odd": 40,
-            "stake": 50000
-          },
-          {
-            "book": "Betsson",
-            "odd": 40,
-            "stake": 50000
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    },
-    {
-      "id": "Ea1xSjq3",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "Turkey W - Serbia W",
-      "url": "https://www.betexplorer.com/volleyball/europe/european-championships-women/turkey-serbia/Ea1xSjq3/",
-      "kickoff": "2026-09-05T14:00:00+09:00",
-      "width": 2,
-      "books": 17,
-      "labels": [
-        "Turkey W",
-        "Serbia W"
-      ],
-      "legs": [
-        {
-          "outcome": "Turkey W",
-          "book": "BetInAsia",
-          "odd": 1.67,
-          "stake": 59952,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        },
-        {
-          "outcome": "Serbia W",
-          "book": "bet365",
-          "odd": 2.5,
-          "stake": 40048,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.bet365.com/"
-        }
-      ],
-      "S": 0.9988023952095809,
-      "roi": 0.11990407673860837,
-      "profit": 120,
-      "payout": 100120,
-      "staked": 100000,
-      "mins": 21,
-      "split": {
-        "S": 0.9988023952095809,
-        "payout": 100120,
-        "profit": 120,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "BetInAsia",
-            "odd": 1.67,
-            "stake": 59952
-          },
-          {
-            "book": "bet365",
-            "odd": 2.5,
-            "stake": 40048
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
