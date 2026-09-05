@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T13:45:05.347Z",
+  "generatedAt": "2026-09-05T13:50:41.146Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 5,
@@ -22,78 +22,78 @@
       "count": 22,
       "profit": 37644611
     },
-    "pending": 4
+    "pending": 6
   },
   "opps": [
     {
-      "id": "KYIy2DKP",
+      "id": "nPQesd4S",
       "sport": "baseball",
       "sportLabel": "野球",
-      "teams": "Scranton/WB - Lehigh Valley IronPigs",
-      "url": "https://www.betexplorer.com/baseball/usa/il/scranton-wilkes-barre-railriders-lehigh-valley-ironpigs/KYIy2DKP/",
+      "teams": "Philadelphia Phillies - Atlanta Braves",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/philadelphia-phillies-atlanta-braves/nPQesd4S/",
       "kickoff": "2026-09-05T23:05:00+09:00",
       "width": 3,
-      "books": 7,
+      "books": 6,
       "labels": [
-        "Scranton/WB",
+        "Philadelphia Phillies",
         "Draw",
-        "Lehigh Valley IronPigs"
+        "Atlanta Braves"
       ],
       "legs": [
         {
-          "outcome": "Scranton/WB",
-          "book": "16:0",
-          "odd": 16,
-          "stake": 10992,
+          "outcome": "Philadelphia Phillies",
+          "book": "9:2",
+          "odd": 9,
+          "stake": 22874,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=16%3A0%20sportsbook"
+          "url": "https://www.google.com/search?q=9%3A2%20sportsbook"
         },
         {
           "outcome": "Draw",
-          "book": "16:0",
-          "odd": 2.11,
-          "stake": 83350,
+          "book": "2:4",
+          "odd": 2.92,
+          "stake": 70502,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=16%3A0%20sportsbook"
+          "url": "https://www.google.com/search?q=2%3A4%20sportsbook"
         },
         {
-          "outcome": "Lehigh Valley IronPigs",
-          "book": "13:10",
+          "outcome": "Atlanta Braves",
+          "book": "2:5",
           "odd": 31.08,
-          "stake": 5659,
+          "stake": 6624,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=13%3A10%20sportsbook"
+          "url": "https://www.google.com/search?q=2%3A5%20sportsbook"
         }
       ],
-      "S": 0.5686086814641317,
-      "roi": 75.86787409313955,
-      "profit": 75867,
-      "payout": 175868,
-      "staked": 100001,
-      "mins": 20,
+      "S": 0.48575189671080077,
+      "roi": 105.86641179815386,
+      "profit": 105866,
+      "payout": 205866,
+      "staked": 100000,
+      "mins": 14,
       "split": {
-        "S": 0.5686086814641317,
-        "payout": 175868,
-        "profit": 75867,
-        "staked": 100001,
+        "S": 0.48575189671080077,
+        "payout": 205866,
+        "profit": 105866,
+        "staked": 100000,
         "legs": [
           {
-            "book": "16:0",
-            "odd": 16,
-            "stake": 10992
+            "book": "9:2",
+            "odd": 9,
+            "stake": 22874
           },
           {
-            "book": "16:0",
-            "odd": 2.11,
-            "stake": 83350
+            "book": "2:4",
+            "odd": 2.92,
+            "stake": 70502
           },
           {
-            "book": "13:10",
+            "book": "2:5",
             "odd": 31.08,
-            "stake": 5659
+            "stake": 6624
           }
         ]
       },
@@ -101,74 +101,74 @@
       "allJp": false
     },
     {
-      "id": "IsOh2ME8",
+      "id": "CnngNzDd",
       "sport": "baseball",
       "sportLabel": "野球",
-      "teams": "Gwinnett Stripers - Charlotte Knights",
-      "url": "https://www.betexplorer.com/baseball/usa/il/gwinnett-stripers-charlotte-knights/IsOh2ME8/",
-      "kickoff": "2026-09-05T23:05:00+09:00",
+      "teams": "Cleveland Guardians - Detroit Tigers",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/cleveland-guardians-detroit-tigers/CnngNzDd/",
+      "kickoff": "2026-09-05T23:10:00+09:00",
       "width": 3,
-      "books": 7,
+      "books": 8,
       "labels": [
-        "Gwinnett Stripers",
+        "Cleveland Guardians",
         "Draw",
-        "Charlotte Knights"
+        "Detroit Tigers"
       ],
       "legs": [
         {
-          "outcome": "Gwinnett Stripers",
-          "book": "7:13",
-          "odd": 7,
-          "stake": 23061,
+          "outcome": "Cleveland Guardians",
+          "book": "11:1",
+          "odd": 11,
+          "stake": 17749,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=7%3A13%20sportsbook"
+          "url": "https://www.google.com/search?q=11%3A1%20sportsbook"
         },
         {
           "outcome": "Draw",
-          "book": "5:7",
-          "odd": 2.25,
-          "stake": 71745,
+          "book": "11:1",
+          "odd": 2.57,
+          "stake": 75969,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=5%3A7%20sportsbook"
+          "url": "https://www.google.com/search?q=11%3A1%20sportsbook"
         },
         {
-          "outcome": "Charlotte Knights",
-          "book": "5:4",
+          "outcome": "Detroit Tigers",
+          "book": "11:1",
           "odd": 31.08,
-          "stake": 5194,
+          "stake": 6282,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=5%3A4%20sportsbook"
+          "url": "https://www.google.com/search?q=11%3A1%20sportsbook"
         }
       ],
-      "S": 0.6194766194766194,
-      "roi": 61.426592797783975,
-      "profit": 61427,
-      "payout": 161427,
+      "S": 0.5121891814498818,
+      "roi": 95.2403596595394,
+      "profit": 95240,
+      "payout": 195240,
       "staked": 100000,
-      "mins": 20,
+      "mins": 19,
       "split": {
-        "S": 0.6194766194766194,
-        "payout": 161427,
-        "profit": 61427,
+        "S": 0.5121891814498818,
+        "payout": 195240,
+        "profit": 95240,
         "staked": 100000,
         "legs": [
           {
-            "book": "7:13",
-            "odd": 7,
-            "stake": 23061
+            "book": "11:1",
+            "odd": 11,
+            "stake": 17749
           },
           {
-            "book": "5:7",
-            "odd": 2.25,
-            "stake": 71745
+            "book": "11:1",
+            "odd": 2.57,
+            "stake": 75969
           },
           {
-            "book": "5:4",
+            "book": "11:1",
             "odd": 31.08,
-            "stake": 5194
+            "stake": 6282
           }
         ]
       },
