@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-05T14:07:14.025Z",
+  "generatedAt": "2026-09-05T14:12:44.906Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 2,
+  "scanned": 1,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -26,81 +26,6 @@
   },
   "opps": [
     {
-      "id": "CnngNzDd",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Cleveland Guardians - Detroit Tigers",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/cleveland-guardians-detroit-tigers/CnngNzDd/",
-      "kickoff": "2026-09-05T23:10:00+09:00",
-      "width": 3,
-      "books": 8,
-      "labels": [
-        "Cleveland Guardians",
-        "Draw",
-        "Detroit Tigers"
-      ],
-      "legs": [
-        {
-          "outcome": "Cleveland Guardians",
-          "book": "11:1",
-          "odd": 11,
-          "stake": 17697,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=11%3A1%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "11:1",
-          "odd": 2.56,
-          "stake": 76040,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=11%3A1%20sportsbook"
-        },
-        {
-          "outcome": "Detroit Tigers",
-          "book": "11:1",
-          "odd": 31.08,
-          "stake": 6263,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=11%3A1%20sportsbook"
-        }
-      ],
-      "S": 0.5137091230841231,
-      "roi": 94.66269043390996,
-      "profit": 94663,
-      "payout": 194663,
-      "staked": 100000,
-      "mins": 3,
-      "split": {
-        "S": 0.5137091230841231,
-        "payout": 194663,
-        "profit": 94663,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "11:1",
-            "odd": 11,
-            "stake": 17697
-          },
-          {
-            "book": "11:1",
-            "odd": 2.56,
-            "stake": 76040
-          },
-          {
-            "book": "11:1",
-            "odd": 31.08,
-            "stake": 6263
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    },
-    {
       "id": "EyWkvASI",
       "sport": "baseball",
       "sportLabel": "野球",
@@ -119,7 +44,7 @@
           "outcome": "Norfolk Tides",
           "book": "10:5",
           "odd": 10,
-          "stake": 17223,
+          "stake": 17192,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=10%3A5%20sportsbook"
@@ -128,7 +53,7 @@
           "outcome": "Draw",
           "book": "7:0",
           "odd": 2.23,
-          "stake": 77235,
+          "stake": 77093,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=7%3A0%20sportsbook"
@@ -136,39 +61,39 @@
         {
           "outcome": "Jacksonville Jumbo Shrimp",
           "book": "4:7",
-          "odd": 31.08,
-          "stake": 5542,
+          "odd": 30.08,
+          "stake": 5715,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=4%3A7%20sportsbook"
         }
       ],
-      "S": 0.5806055254485748,
-      "roi": 72.23397921116954,
-      "profit": 72234,
-      "payout": 172234,
+      "S": 0.5816751741246065,
+      "roi": 71.91725631147187,
+      "profit": 71917,
+      "payout": 171917,
       "staked": 100000,
-      "mins": 28,
+      "mins": 22,
       "split": {
-        "S": 0.5806055254485748,
-        "payout": 172234,
-        "profit": 72234,
+        "S": 0.5816751741246065,
+        "payout": 171917,
+        "profit": 71917,
         "staked": 100000,
         "legs": [
           {
             "book": "10:5",
             "odd": 10,
-            "stake": 17223
+            "stake": 17192
           },
           {
             "book": "7:0",
             "odd": 2.23,
-            "stake": 77235
+            "stake": 77093
           },
           {
             "book": "4:7",
-            "odd": 31.08,
-            "stake": 5542
+            "odd": 30.08,
+            "stake": 5715
           }
         ]
       },
