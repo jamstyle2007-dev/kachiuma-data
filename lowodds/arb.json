@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T20:16:10.256Z",
+  "generatedAt": "2026-09-05T20:21:33.116Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
@@ -33,7 +33,7 @@
       "url": "https://www.betexplorer.com/volleyball/asia/asian-championship/qatar-chinese-taipei/SKv85R5j/",
       "kickoff": "2026-09-06T05:30:00+09:00",
       "width": 2,
-      "books": 11,
+      "books": 12,
       "labels": [
         "Qatar",
         "Chinese Taipei"
@@ -42,43 +42,43 @@
         {
           "outcome": "Qatar",
           "book": "1xBet",
-          "odd": 2.38,
-          "stake": 42788,
+          "odd": 2.66,
+          "stake": 41020,
           "jp": true,
           "exch": false,
           "url": "https://1xbet.com/ja"
         },
         {
           "outcome": "Chinese Taipei",
-          "book": "Bets.io",
-          "odd": 1.78,
-          "stake": 57212,
+          "book": "Unibet",
+          "odd": 1.85,
+          "stake": 58980,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
+          "url": "https://www.unibet.com/"
         }
       ],
-      "S": 0.9819658200358796,
-      "roi": 1.8365384615384617,
-      "profit": 1837,
-      "payout": 101837,
+      "S": 0.9164803901646006,
+      "roi": 9.113082039911324,
+      "profit": 9113,
+      "payout": 109113,
       "staked": 100000,
-      "mins": 14,
+      "mins": 8,
       "split": {
-        "S": 0.9819658200358796,
-        "payout": 101837,
-        "profit": 1837,
+        "S": 0.9164803901646006,
+        "payout": 109113,
+        "profit": 9113,
         "staked": 100000,
         "legs": [
           {
             "book": "1xBet",
-            "odd": 2.38,
-            "stake": 42788
+            "odd": 2.66,
+            "stake": 41020
           },
           {
-            "book": "Bets.io",
-            "odd": 1.78,
-            "stake": 57212
+            "book": "Unibet",
+            "odd": 1.85,
+            "stake": 58980
           }
         ]
       },
