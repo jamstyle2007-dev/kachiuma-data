@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-05T13:07:47.484Z",
+  "generatedAt": "2026-09-05T13:45:05.347Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 5,
+  "arbCount": 2,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,158 @@
       "count": 22,
       "profit": 37644611
     },
-    "pending": 2
+    "pending": 4
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "KYIy2DKP",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Scranton/WB - Lehigh Valley IronPigs",
+      "url": "https://www.betexplorer.com/baseball/usa/il/scranton-wilkes-barre-railriders-lehigh-valley-ironpigs/KYIy2DKP/",
+      "kickoff": "2026-09-05T23:05:00+09:00",
+      "width": 3,
+      "books": 7,
+      "labels": [
+        "Scranton/WB",
+        "Draw",
+        "Lehigh Valley IronPigs"
+      ],
+      "legs": [
+        {
+          "outcome": "Scranton/WB",
+          "book": "16:0",
+          "odd": 16,
+          "stake": 10992,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=16%3A0%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "16:0",
+          "odd": 2.11,
+          "stake": 83350,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=16%3A0%20sportsbook"
+        },
+        {
+          "outcome": "Lehigh Valley IronPigs",
+          "book": "13:10",
+          "odd": 31.08,
+          "stake": 5659,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=13%3A10%20sportsbook"
+        }
+      ],
+      "S": 0.5686086814641317,
+      "roi": 75.86787409313955,
+      "profit": 75867,
+      "payout": 175868,
+      "staked": 100001,
+      "mins": 20,
+      "split": {
+        "S": 0.5686086814641317,
+        "payout": 175868,
+        "profit": 75867,
+        "staked": 100001,
+        "legs": [
+          {
+            "book": "16:0",
+            "odd": 16,
+            "stake": 10992
+          },
+          {
+            "book": "16:0",
+            "odd": 2.11,
+            "stake": 83350
+          },
+          {
+            "book": "13:10",
+            "odd": 31.08,
+            "stake": 5659
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "IsOh2ME8",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Gwinnett Stripers - Charlotte Knights",
+      "url": "https://www.betexplorer.com/baseball/usa/il/gwinnett-stripers-charlotte-knights/IsOh2ME8/",
+      "kickoff": "2026-09-05T23:05:00+09:00",
+      "width": 3,
+      "books": 7,
+      "labels": [
+        "Gwinnett Stripers",
+        "Draw",
+        "Charlotte Knights"
+      ],
+      "legs": [
+        {
+          "outcome": "Gwinnett Stripers",
+          "book": "7:13",
+          "odd": 7,
+          "stake": 23061,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=7%3A13%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "5:7",
+          "odd": 2.25,
+          "stake": 71745,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=5%3A7%20sportsbook"
+        },
+        {
+          "outcome": "Charlotte Knights",
+          "book": "5:4",
+          "odd": 31.08,
+          "stake": 5194,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=5%3A4%20sportsbook"
+        }
+      ],
+      "S": 0.6194766194766194,
+      "roi": 61.426592797783975,
+      "profit": 61427,
+      "payout": 161427,
+      "staked": 100000,
+      "mins": 20,
+      "split": {
+        "S": 0.6194766194766194,
+        "payout": 161427,
+        "profit": 61427,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "7:13",
+            "odd": 7,
+            "stake": 23061
+          },
+          {
+            "book": "5:7",
+            "odd": 2.25,
+            "stake": 71745
+          },
+          {
+            "book": "5:4",
+            "odd": 31.08,
+            "stake": 5194
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
