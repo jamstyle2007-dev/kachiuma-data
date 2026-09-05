@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T14:18:33.323Z",
+  "generatedAt": "2026-09-05T14:25:25.574Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
@@ -44,7 +44,7 @@
           "outcome": "Norfolk Tides",
           "book": "10:5",
           "odd": 10,
-          "stake": 17192,
+          "stake": 17223,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=10%3A5%20sportsbook"
@@ -53,7 +53,7 @@
           "outcome": "Draw",
           "book": "7:0",
           "odd": 2.23,
-          "stake": 77093,
+          "stake": 77235,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=7%3A0%20sportsbook"
@@ -61,39 +61,39 @@
         {
           "outcome": "Jacksonville Jumbo Shrimp",
           "book": "4:7",
-          "odd": 30.08,
-          "stake": 5715,
+          "odd": 31.08,
+          "stake": 5542,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=4%3A7%20sportsbook"
         }
       ],
-      "S": 0.5816751741246065,
-      "roi": 71.91725631147187,
-      "profit": 71917,
-      "payout": 171917,
+      "S": 0.5806055254485748,
+      "roi": 72.23397921116954,
+      "profit": 72234,
+      "payout": 172234,
       "staked": 100000,
-      "mins": 16,
+      "mins": 10,
       "split": {
-        "S": 0.5816751741246065,
-        "payout": 171917,
-        "profit": 71917,
+        "S": 0.5806055254485748,
+        "payout": 172234,
+        "profit": 72234,
         "staked": 100000,
         "legs": [
           {
             "book": "10:5",
             "odd": 10,
-            "stake": 17192
+            "stake": 17223
           },
           {
             "book": "7:0",
             "odd": 2.23,
-            "stake": 77093
+            "stake": 77235
           },
           {
             "book": "4:7",
-            "odd": 30.08,
-            "stake": 5715
+            "odd": 31.08,
+            "stake": 5542
           }
         ]
       },
