@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-06T09:24:56.319Z",
+  "generatedAt": "2026-09-06T09:30:27.558Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 5,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "KAKYnLil",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Baltimore Orioles - Boston Red Sox",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/baltimore-orioles-boston-red-sox/KAKYnLil/",
-      "kickoff": "2026-09-06T18:35:00+09:00",
-      "width": 3,
-      "books": 7,
-      "labels": [
-        "Baltimore Orioles",
-        "Draw",
-        "Boston Red Sox"
-      ],
-      "legs": [
-        {
-          "outcome": "Baltimore Orioles",
-          "book": "7:5",
-          "odd": 7,
-          "stake": 23134,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=7%3A5%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "5:8",
-          "odd": 2.26,
-          "stake": 71655,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=5%3A8%20sportsbook"
-        },
-        {
-          "outcome": "Boston Red Sox",
-          "book": "5:8",
-          "odd": 31.08,
-          "stake": 5210,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=5%3A8%20sportsbook"
-        }
-      ],
-      "S": 0.6175100511383697,
-      "roi": 61.94068390571399,
-      "profit": 61942,
-      "payout": 161941,
-      "staked": 99999,
-      "mins": 10,
-      "split": {
-        "S": 0.6175100511383697,
-        "payout": 161941,
-        "profit": 61942,
-        "staked": 99999,
-        "legs": [
-          {
-            "book": "7:5",
-            "odd": 7,
-            "stake": 23134
-          },
-          {
-            "book": "5:8",
-            "odd": 2.26,
-            "stake": 71655
-          },
-          {
-            "book": "5:8",
-            "odd": 31.08,
-            "stake": 5210
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
