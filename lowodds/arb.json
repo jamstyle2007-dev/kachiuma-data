@@ -1,28 +1,89 @@
 {
-  "generatedAt": "2026-09-07T19:57:49.372Z",
+  "generatedAt": "2026-09-07T20:03:09.790Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 1,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
-      "count": 288,
-      "profit": 83482440
+      "count": 289,
+      "profit": 83546539
     },
     "year": {
-      "count": 288,
-      "profit": 83482440
+      "count": 289,
+      "profit": 83546539
     },
     "month": {
-      "count": 34,
-      "profit": 38366148
+      "count": 35,
+      "profit": 38430247
     },
     "week": {
-      "count": 3,
-      "profit": 78455
+      "count": 4,
+      "profit": 142554
     },
     "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "pbAZu8s3",
+      "sport": "volleyball",
+      "sportLabel": "バレー",
+      "teams": "Qatar - South Korea",
+      "url": "https://www.betexplorer.com/volleyball/asia/asian-championship/qatar-south-korea/pbAZu8s3/",
+      "kickoff": "2026-09-08T05:30:00+09:00",
+      "width": 2,
+      "books": 11,
+      "labels": [
+        "Qatar",
+        "South Korea"
+      ],
+      "legs": [
+        {
+          "outcome": "Qatar",
+          "book": "1xBet",
+          "odd": 5.53,
+          "stake": 18437,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        },
+        {
+          "outcome": "South Korea",
+          "book": "Unibet",
+          "odd": 1.25,
+          "stake": 81563,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.unibet.com/"
+        }
+      ],
+      "S": 0.9808318264014467,
+      "roi": 1.954277286135686,
+      "profit": 1954,
+      "payout": 101954,
+      "staked": 100000,
+      "mins": 27,
+      "split": {
+        "S": 0.9808318264014467,
+        "payout": 101954,
+        "profit": 1954,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "1xBet",
+            "odd": 5.53,
+            "stake": 18437
+          },
+          {
+            "book": "Unibet",
+            "odd": 1.25,
+            "stake": 81563
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
