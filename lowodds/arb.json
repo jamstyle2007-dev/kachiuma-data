@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-07T20:24:38.190Z",
+  "generatedAt": "2026-09-07T20:30:00.134Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "pbAZu8s3",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "Qatar - South Korea",
-      "url": "https://www.betexplorer.com/volleyball/asia/asian-championship/qatar-south-korea/pbAZu8s3/",
-      "kickoff": "2026-09-08T05:30:00+09:00",
-      "width": 2,
-      "books": 11,
-      "labels": [
-        "Qatar",
-        "South Korea"
-      ],
-      "legs": [
-        {
-          "outcome": "Qatar",
-          "book": "1xBet",
-          "odd": 5.53,
-          "stake": 18437,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "South Korea",
-          "book": "Unibet",
-          "odd": 1.25,
-          "stake": 81563,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.unibet.com/"
-        }
-      ],
-      "S": 0.9808318264014467,
-      "roi": 1.954277286135686,
-      "profit": 1954,
-      "payout": 101954,
-      "staked": 100000,
-      "mins": 5,
-      "split": {
-        "S": 0.9808318264014467,
-        "payout": 101954,
-        "profit": 1954,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 5.53,
-            "stake": 18437
-          },
-          {
-            "book": "Unibet",
-            "odd": 1.25,
-            "stake": 81563
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
