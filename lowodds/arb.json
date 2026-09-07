@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-07T14:30:50.703Z",
+  "generatedAt": "2026-09-07T14:36:13.952Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "2X1V2hiB",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Olimpia Kings - Colonias Gold",
-      "url": "https://www.betexplorer.com/basketball/paraguay/lnb/olimpia-kings-colonias-gold/2X1V2hiB/",
-      "kickoff": "2026-09-08T00:00:00+09:00",
-      "width": 2,
-      "books": 9,
-      "labels": [
-        "Olimpia Kings",
-        "Colonias Gold"
-      ],
-      "legs": [
-        {
-          "outcome": "Olimpia Kings",
-          "book": "William Hill",
-          "odd": 1.7,
-          "stake": 59135,
-          "jp": false,
-          "exch": false,
-          "url": "https://sports.williamhill.com/"
-        },
-        {
-          "outcome": "Colonias Gold",
-          "book": "Cloudbet",
-          "odd": 2.46,
-          "stake": 40865,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.cloudbet.com/"
-        }
-      ],
-      "S": 0.9947393591582975,
-      "roi": 0.5288461538461631,
-      "profit": 529,
-      "payout": 100529,
-      "staked": 100000,
-      "mins": 29,
-      "split": {
-        "S": 0.9947393591582975,
-        "payout": 100529,
-        "profit": 529,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "William Hill",
-            "odd": 1.7,
-            "stake": 59135
-          },
-          {
-            "book": "Cloudbet",
-            "odd": 2.46,
-            "stake": 40865
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
