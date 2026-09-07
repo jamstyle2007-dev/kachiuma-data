@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-07T13:01:38.251Z",
+  "generatedAt": "2026-09-07T13:07:02.732Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "GCneHN2d",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "San Diego Padres - Washington Nationals",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/san-diego-padres-washington-nationals/GCneHN2d/",
-      "kickoff": "2026-09-07T22:10:00+09:00",
-      "width": 3,
-      "books": 8,
-      "labels": [
-        "San Diego Padres",
-        "Draw",
-        "Washington Nationals"
-      ],
-      "legs": [
-        {
-          "outcome": "San Diego Padres",
-          "book": "9:4",
-          "odd": 9,
-          "stake": 19559,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=9%3A4%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "5:4",
-          "odd": 2.36,
-          "stake": 74589,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=5%3A4%20sportsbook"
-        },
-        {
-          "outcome": "Washington Nationals",
-          "book": "5:4",
-          "odd": 30.08,
-          "stake": 5852,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=5%3A4%20sportsbook"
-        }
-      ],
-      "S": 0.568084605521497,
-      "roi": 76.03011774663533,
-      "profit": 76030,
-      "payout": 176030,
-      "staked": 100000,
-      "mins": 8,
-      "split": {
-        "S": 0.568084605521497,
-        "payout": 176030,
-        "profit": 76030,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "9:4",
-            "odd": 9,
-            "stake": 19559
-          },
-          {
-            "book": "5:4",
-            "odd": 2.36,
-            "stake": 74589
-          },
-          {
-            "book": "5:4",
-            "odd": 30.08,
-            "stake": 5852
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
