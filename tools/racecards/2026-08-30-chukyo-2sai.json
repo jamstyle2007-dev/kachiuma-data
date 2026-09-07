@@ -1,0 +1,322 @@
+{
+ "date": "2026-08-30",
+ "track": "中京",
+ "raceNo": 7,
+ "name": "中京2歳ステークス",
+ "grade": "GIII",
+ "surface": "芝",
+ "distance": 1400,
+ "trackCondition": "良",
+ "conditionType": "馬齢",
+ "fieldSize": 9,
+ "bias": "差",
+ "horses": [
+  {
+   "num": 1,
+   "name": "ピコキング",
+   "jockey": "田口",
+   "weight": 55.0,
+   "sexAge": "牡2",
+   "popularity": 8,
+   "winOdds": 137.8,
+   "style": "差し",
+   "recent3": [
+    {
+     "date": "2026-08-15",
+     "race": "2歳新馬",
+     "grade": "新馬",
+     "track": "中京",
+     "surface": "芝",
+     "distance": 1200,
+     "cond": "良",
+     "field": 7,
+     "pop": 3,
+     "finish": 7,
+     "margin": 3.2,
+     "last3f": 36.2
+    }
+   ]
+  },
+  {
+   "num": 2,
+   "name": "バクソウシャチョウ",
+   "jockey": "松若",
+   "weight": 55.0,
+   "sexAge": "牡2",
+   "popularity": 5,
+   "winOdds": 17.4,
+   "style": "差し",
+   "recent3": [
+    {
+     "date": "2026-08-16",
+     "race": "2歳未勝利",
+     "grade": "未勝利",
+     "track": "中京",
+     "surface": "芝",
+     "distance": 1200,
+     "cond": "良",
+     "field": 10,
+     "pop": 3,
+     "finish": 2,
+     "margin": 0.0,
+     "last3f": 33.2
+    },
+    {
+     "date": "2026-07-11",
+     "race": "2歳未勝利",
+     "grade": "未勝利",
+     "track": "小倉",
+     "surface": "芝",
+     "distance": 1200,
+     "cond": "良",
+     "field": 12,
+     "pop": 3,
+     "finish": 2,
+     "margin": 0.2,
+     "last3f": 36.1
+    },
+    {
+     "date": "2026-06-21",
+     "race": "2歳新馬",
+     "grade": "新馬",
+     "track": "阪神",
+     "surface": "芝",
+     "distance": 1600,
+     "cond": "稍",
+     "field": 9,
+     "pop": 4,
+     "finish": 6,
+     "margin": 0.7,
+     "last3f": 35.2
+    }
+   ]
+  },
+  {
+   "num": 3,
+   "name": "サンタンジェロ",
+   "jockey": "西村淳",
+   "weight": 55.0,
+   "sexAge": "牝2",
+   "popularity": 3,
+   "winOdds": 5.4,
+   "style": "追込",
+   "recent3": [
+    {
+     "date": "2026-07-26",
+     "race": "2歳未勝利",
+     "grade": "未勝利",
+     "track": "中京",
+     "surface": "芝",
+     "distance": 1400,
+     "cond": "良",
+     "field": 9,
+     "pop": 4,
+     "finish": 1,
+     "margin": -0.3,
+     "last3f": 33.7
+    },
+    {
+     "date": "2026-06-20",
+     "race": "2歳新馬",
+     "grade": "新馬",
+     "track": "阪神",
+     "surface": "芝",
+     "distance": 1400,
+     "cond": "稍",
+     "field": 9,
+     "pop": 2,
+     "finish": 6,
+     "margin": 0.5,
+     "last3f": 36.7
+    }
+   ]
+  },
+  {
+   "num": 4,
+   "name": "シスキンブルーム",
+   "jockey": "団野",
+   "weight": 55.0,
+   "sexAge": "牝2",
+   "popularity": 4,
+   "winOdds": 9.7,
+   "style": "逃げ",
+   "recent3": [
+    {
+     "date": "2026-06-27",
+     "race": "2歳未勝利",
+     "grade": "未勝利",
+     "track": "小倉",
+     "surface": "芝",
+     "distance": 1200,
+     "cond": "重",
+     "field": 6,
+     "pop": 1,
+     "finish": 1,
+     "margin": -0.6,
+     "last3f": 34.0
+    },
+    {
+     "date": "2026-06-07",
+     "race": "2歳新馬",
+     "grade": "新馬",
+     "track": "阪神",
+     "surface": "芝",
+     "distance": 1400,
+     "cond": "稍",
+     "field": 11,
+     "pop": 3,
+     "finish": 2,
+     "margin": 0.2,
+     "last3f": 35.0
+    }
+   ],
+   "finish": 2
+  },
+  {
+   "num": 5,
+   "name": "マルモリムソウ",
+   "jockey": "泉谷",
+   "weight": 55.0,
+   "sexAge": "牡2",
+   "popularity": 6,
+   "winOdds": 19.0,
+   "style": "逃げ",
+   "recent3": [
+    {
+     "date": "2026-07-12",
+     "race": "2歳新馬",
+     "grade": "新馬",
+     "track": "小倉",
+     "surface": "芝",
+     "distance": 1200,
+     "cond": "良",
+     "field": 9,
+     "pop": 3,
+     "finish": 1,
+     "margin": -0.3,
+     "last3f": 36.0
+    }
+   ]
+  },
+  {
+   "num": 6,
+   "name": "ジャスパートレノ",
+   "jockey": "中井",
+   "weight": 55.0,
+   "sexAge": "牡2",
+   "popularity": 7,
+   "winOdds": 34.4,
+   "style": "先行",
+   "recent3": [
+    {
+     "date": "2026-08-08",
+     "race": "2歳新馬",
+     "grade": "新馬",
+     "track": "新潟",
+     "surface": "ダ",
+     "distance": 1200,
+     "cond": "良",
+     "field": 10,
+     "pop": 1,
+     "finish": 1,
+     "margin": -0.2,
+     "last3f": 37.2
+    }
+   ]
+  },
+  {
+   "num": 7,
+   "name": "ビスケットサンド",
+   "jockey": "北村友",
+   "weight": 55.0,
+   "sexAge": "牝2",
+   "popularity": 2,
+   "winOdds": 4.0,
+   "style": "差し",
+   "recent3": [
+    {
+     "date": "2026-06-07",
+     "race": "2歳新馬",
+     "grade": "新馬",
+     "track": "阪神",
+     "surface": "芝",
+     "distance": 1400,
+     "cond": "稍",
+     "field": 11,
+     "pop": 4,
+     "finish": 1,
+     "margin": -0.2,
+     "last3f": 34.4
+    }
+   ],
+   "finish": 3
+  },
+  {
+   "num": 8,
+   "name": "ピコジャック",
+   "jockey": "吉村",
+   "weight": 55.0,
+   "sexAge": "牡2",
+   "popularity": 9,
+   "winOdds": 151.7,
+   "style": "先行",
+   "recent3": [
+    {
+     "date": "2026-08-16",
+     "race": "2歳新馬",
+     "grade": "新馬",
+     "track": "中京",
+     "surface": "ダ",
+     "distance": 1400,
+     "cond": "良",
+     "field": 12,
+     "pop": 3,
+     "finish": 8,
+     "margin": 2.6,
+     "last3f": 39.8
+    }
+   ]
+  },
+  {
+   "num": 9,
+   "name": "ジーティーマイカ",
+   "jockey": "松山",
+   "weight": 55.0,
+   "sexAge": "牝2",
+   "popularity": 1,
+   "winOdds": 1.7,
+   "style": "先行",
+   "recent3": [
+    {
+     "date": "2026-06-28",
+     "race": "2歳新馬",
+     "grade": "新馬",
+     "track": "福島",
+     "surface": "芝",
+     "distance": 1200,
+     "cond": "良",
+     "field": 14,
+     "pop": 1,
+     "finish": 1,
+     "margin": -1.1,
+     "last3f": 33.6
+    }
+   ],
+   "finish": 1
+  }
+ ],
+ "result": {
+  "first": 9,
+  "second": 4,
+  "third": 7,
+  "tanshoPay": 170,
+  "fukushoPay": [
+   110,
+   170,
+   120
+  ],
+  "sanrenpukuPay": 660,
+  "sanrentanPay": 2640
+ },
+ "status": "結果確定"
+}

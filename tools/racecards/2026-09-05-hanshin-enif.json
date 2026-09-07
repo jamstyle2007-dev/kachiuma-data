@@ -1,0 +1,766 @@
+{
+ "date": "2026-09-05",
+ "track": "阪神",
+ "raceNo": 11,
+ "name": "エニフS",
+ "grade": "L",
+ "surface": "ダ",
+ "distance": 1400,
+ "postTime": "15:30",
+ "trackCondition": "稍",
+ "conditionType": "ハンデ",
+ "fieldSize": 12,
+ "status": "発走前確定",
+ "oddsUpdatedAt": "07:25",
+ "sourcesChecked": [
+  "netkeiba",
+  "競馬ラボ"
+ ],
+ "horses": [
+  {
+   "num": 1,
+   "name": "タイセイブレイズ",
+   "jockey": "国分恭",
+   "weight": 55,
+   "sexAge": "牡8",
+   "popularity": 11,
+   "winOdds": 38.9,
+   "placeOdds": [
+    4.9,
+    6.4
+   ],
+   "style": "差し",
+   "recent3": [
+    {
+     "date": "2026-06-20",
+     "race": "天保山S",
+     "grade": "OP",
+     "track": "阪神",
+     "surface": "ダ",
+     "distance": 1400,
+     "cond": "重",
+     "field": 15,
+     "pop": 13,
+     "finish": 9,
+     "margin": "1.0",
+     "last3f": 36.1,
+     "passing": "12-10"
+    },
+    {
+     "date": "2026-05-23",
+     "race": "欅S",
+     "grade": "OP",
+     "track": "東京",
+     "surface": "ダ",
+     "distance": 1400,
+     "cond": "稍",
+     "field": 16,
+     "pop": 8,
+     "finish": 8,
+     "margin": "1.8",
+     "last3f": 36.2,
+     "passing": "10-9"
+    },
+    {
+     "date": "2025-11-23",
+     "race": "霜月S",
+     "grade": "OP",
+     "track": "東京",
+     "surface": "ダ",
+     "distance": 1400,
+     "cond": "良",
+     "field": 16,
+     "pop": 11,
+     "finish": 5,
+     "margin": "0.6",
+     "last3f": 36.2,
+     "passing": "11-8"
+    }
+   ]
+  },
+  {
+   "num": 2,
+   "name": "ノーブルロジャー",
+   "jockey": "岩田望",
+   "weight": 58,
+   "sexAge": "牡5",
+   "popularity": 1,
+   "winOdds": 5.1,
+   "placeOdds": [
+    2.8,
+    3.6
+   ],
+   "style": "差し",
+   "recent3": [
+    {
+     "date": "2026-07-26",
+     "race": "東海S",
+     "grade": "GIII",
+     "track": "中京",
+     "surface": "ダ",
+     "distance": 1400,
+     "cond": "良",
+     "field": 14,
+     "pop": 9,
+     "finish": 7,
+     "margin": "1.6",
+     "last3f": 36,
+     "passing": "14-14"
+    },
+    {
+     "date": "2026-06-20",
+     "race": "天保山S",
+     "grade": "OP",
+     "track": "阪神",
+     "surface": "ダ",
+     "distance": 1400,
+     "cond": "重",
+     "field": 15,
+     "pop": 7,
+     "finish": 5,
+     "margin": "0.8",
+     "last3f": 35.7,
+     "passing": "14-13"
+    },
+    {
+     "date": "2026-05-23",
+     "race": "欅S",
+     "grade": "OP",
+     "track": "東京",
+     "surface": "ダ",
+     "distance": 1400,
+     "cond": "稍",
+     "field": 16,
+     "pop": 4,
+     "finish": 3,
+     "margin": "1.3",
+     "last3f": 35.4,
+     "passing": "12-11"
+    }
+   ]
+  },
+  {
+   "num": 3,
+   "name": "フェルヴェンテ",
+   "jockey": "秋山稔",
+   "weight": 55,
+   "sexAge": "牡6",
+   "popularity": 9,
+   "winOdds": 21.4,
+   "placeOdds": [
+    5.3,
+    6.9
+   ],
+   "style": "差し",
+   "recent3": [
+    {
+     "date": "2026-07-12",
+     "race": "阿蘇S",
+     "grade": "OP",
+     "track": "小倉",
+     "surface": "ダ",
+     "distance": 1700,
+     "cond": "良",
+     "field": 11,
+     "pop": 11,
+     "finish": 7,
+     "margin": "0.9",
+     "last3f": 38.7,
+     "passing": "5-5-4-4"
+    },
+    {
+     "date": "2026-05-23",
+     "race": "欅S",
+     "grade": "OP",
+     "track": "東京",
+     "surface": "ダ",
+     "distance": 1400,
+     "cond": "稍",
+     "field": 16,
+     "pop": 13,
+     "finish": 6,
+     "margin": "1.6",
+     "last3f": 36.5,
+     "passing": "6-6"
+    },
+    {
+     "date": "2026-03-14",
+     "race": "コーラルS",
+     "grade": "L",
+     "track": "阪神",
+     "surface": "ダ",
+     "distance": 1400,
+     "cond": "良",
+     "field": 13,
+     "pop": 5,
+     "finish": 8,
+     "margin": "1.4",
+     "last3f": 36.9,
+     "passing": "5-4"
+    }
+   ]
+  },
+  {
+   "num": 4,
+   "name": "ゴッドブルービー",
+   "jockey": "松山",
+   "weight": 55,
+   "sexAge": "牡6",
+   "popularity": 6,
+   "winOdds": 8.7,
+   "placeOdds": [
+    2.3,
+    2.9
+   ],
+   "style": "差し",
+   "recent3": [
+    {
+     "date": "2026-07-12",
+     "race": "阿蘇S",
+     "grade": "OP",
+     "track": "小倉",
+     "surface": "ダ",
+     "distance": 1700,
+     "cond": "良",
+     "field": 11,
+     "pop": 7,
+     "finish": 5,
+     "margin": "0.7",
+     "last3f": 38.3,
+     "passing": "8-8-9-10"
+    },
+    {
+     "date": "2026-06-27",
+     "race": "薩摩S",
+     "grade": "3勝",
+     "track": "小倉",
+     "surface": "ダ",
+     "distance": 1700,
+     "cond": "重",
+     "field": 15,
+     "pop": 3,
+     "finish": 1,
+     "margin": "-0.1",
+     "last3f": 36.4,
+     "passing": "9-9-7-4"
+    },
+    {
+     "date": "2026-05-03",
+     "race": "東大路S",
+     "grade": "3勝",
+     "track": "京都",
+     "surface": "ダ",
+     "distance": 1400,
+     "cond": "稍",
+     "field": 16,
+     "pop": 6,
+     "finish": 6,
+     "margin": "0.7",
+     "last3f": 36.9,
+     "passing": "7-7"
+    }
+   ]
+  },
+  {
+   "num": 5,
+   "name": "マニバドラ",
+   "jockey": "西村淳",
+   "weight": 57,
+   "sexAge": "牡6",
+   "popularity": 5,
+   "winOdds": 7.1,
+   "placeOdds": [
+    2,
+    2.5
+   ],
+   "style": null,
+   "recent3": [
+    {
+     "date": "2026-07-19",
+     "race": "福島テレビ",
+     "grade": "OP",
+     "track": "福島",
+     "surface": "ダ",
+     "distance": 1150,
+     "cond": "良",
+     "field": 16,
+     "pop": 4,
+     "finish": 16,
+     "margin": "2.3",
+     "last3f": 38.1,
+     "passing": "8-8"
+    },
+    {
+     "date": "2026-04-19",
+     "race": "京葉S",
+     "grade": "L",
+     "track": "中山",
+     "surface": "ダ",
+     "distance": 1200,
+     "cond": "良",
+     "field": 15,
+     "pop": 3,
+     "finish": 3,
+     "margin": "0.2",
+     "last3f": 36.3,
+     "passing": "3-3"
+    },
+    {
+     "date": "2026-02-10",
+     "race": "大和S",
+     "grade": "OP",
+     "track": "京都",
+     "surface": "ダ",
+     "distance": 1200,
+     "cond": "良",
+     "field": 16,
+     "pop": 11,
+     "finish": 13,
+     "margin": "1.6",
+     "last3f": 37.7,
+     "passing": "2-2"
+    }
+   ]
+  },
+  {
+   "num": 6,
+   "name": "ペイシャケイプ",
+   "jockey": "横山典",
+   "weight": 56,
+   "sexAge": "牡4",
+   "popularity": 3,
+   "winOdds": 5.6,
+   "placeOdds": [
+    1.8,
+    2.2
+   ],
+   "style": "追込",
+   "recent3": [
+    {
+     "date": "2026-05-23",
+     "race": "欅S",
+     "grade": "OP",
+     "track": "東京",
+     "surface": "ダ",
+     "distance": 1400,
+     "cond": "稍",
+     "field": 16,
+     "pop": 2,
+     "finish": 2,
+     "margin": "1.2",
+     "last3f": 34.4,
+     "passing": "16-16"
+    },
+    {
+     "date": "2026-04-25",
+     "race": "鎌倉S",
+     "grade": "3勝",
+     "track": "東京",
+     "surface": "ダ",
+     "distance": 1400,
+     "cond": "稍",
+     "field": 15,
+     "pop": 2,
+     "finish": 1,
+     "margin": "0.0",
+     "last3f": 34.3,
+     "passing": "14-14"
+    },
+    {
+     "date": "2026-02-21",
+     "race": "鳴門S",
+     "grade": "3勝",
+     "track": "阪神",
+     "surface": "ダ",
+     "distance": 1400,
+     "cond": "良",
+     "field": 16,
+     "pop": 3,
+     "finish": 6,
+     "margin": "0.7",
+     "last3f": 35,
+     "passing": "16-16"
+    }
+   ]
+  },
+  {
+   "num": 7,
+   "name": "グランキングオー",
+   "jockey": "幸",
+   "weight": 54,
+   "sexAge": "牡4",
+   "popularity": 7,
+   "winOdds": 11,
+   "placeOdds": [
+    2.6,
+    3.3
+   ],
+   "style": "先行",
+   "recent3": [
+    {
+     "date": "2026-07-19",
+     "race": "宮崎S",
+     "grade": "3勝",
+     "track": "小倉",
+     "surface": "ダ",
+     "distance": 1700,
+     "cond": "良",
+     "field": 16,
+     "pop": 8,
+     "finish": 1,
+     "margin": "-0.1",
+     "last3f": 38,
+     "passing": "6-5-4-3"
+    },
+    {
+     "date": "2026-06-27",
+     "race": "薩摩S",
+     "grade": "3勝",
+     "track": "小倉",
+     "surface": "ダ",
+     "distance": 1700,
+     "cond": "重",
+     "field": 15,
+     "pop": 11,
+     "finish": 12,
+     "margin": "2.0",
+     "last3f": 38.5,
+     "passing": "5-5-4-9"
+    },
+    {
+     "date": "2026-04-26",
+     "race": "尾瀬特別",
+     "grade": "2勝",
+     "track": "福島",
+     "surface": "ダ",
+     "distance": 1700,
+     "cond": "良",
+     "field": 15,
+     "pop": 5,
+     "finish": 1,
+     "margin": "-0.1",
+     "last3f": 38.5,
+     "passing": "2-2-2-2"
+    }
+   ]
+  },
+  {
+   "num": 8,
+   "name": "トリリオンボーイ",
+   "jockey": "中井",
+   "weight": 54,
+   "sexAge": "セ4",
+   "popularity": 8,
+   "winOdds": 13.8,
+   "placeOdds": [
+    2.9,
+    3.7
+   ],
+   "style": "差し",
+   "recent3": [
+    {
+     "date": "2026-07-26",
+     "race": "東海S",
+     "grade": "GIII",
+     "track": "中京",
+     "surface": "ダ",
+     "distance": 1400,
+     "cond": "良",
+     "field": 14,
+     "pop": 13,
+     "finish": 6,
+     "margin": "1.6",
+     "last3f": 36.4,
+     "passing": "13-13"
+    },
+    {
+     "date": "2026-05-17",
+     "race": "栗東S",
+     "grade": "L",
+     "track": "京都",
+     "surface": "ダ",
+     "distance": 1400,
+     "cond": "良",
+     "field": 16,
+     "pop": 15,
+     "finish": 8,
+     "margin": "1.5",
+     "last3f": 36.8,
+     "passing": "14-12"
+    },
+    {
+     "date": "2026-04-26",
+     "race": "オアシスS",
+     "grade": "L",
+     "track": "東京",
+     "surface": "ダ",
+     "distance": 1600,
+     "cond": "稍",
+     "field": 15,
+     "pop": 14,
+     "finish": 12,
+     "margin": "1.6",
+     "last3f": 36.5,
+     "passing": "11-11"
+    }
+   ]
+  },
+  {
+   "num": 9,
+   "name": "エスカル",
+   "jockey": "吉村",
+   "weight": 55,
+   "sexAge": "牡5",
+   "popularity": 12,
+   "winOdds": 63.5,
+   "placeOdds": [
+    6.8,
+    8.8
+   ],
+   "style": "差し",
+   "recent3": [
+    {
+     "date": "2026-08-16",
+     "race": "NST賞",
+     "grade": "OP",
+     "track": "新潟",
+     "surface": "ダ",
+     "distance": 1200,
+     "cond": "良",
+     "field": 15,
+     "pop": 9,
+     "finish": 14,
+     "margin": "2.6",
+     "last3f": 37.6,
+     "passing": "12-14"
+    },
+    {
+     "date": "2026-05-03",
+     "race": "越後S",
+     "grade": "OP",
+     "track": "新潟",
+     "surface": "ダ",
+     "distance": 1200,
+     "cond": "稍",
+     "field": 15,
+     "pop": 4,
+     "finish": 11,
+     "margin": "1.3",
+     "last3f": 36.3,
+     "passing": "12-10"
+    },
+    {
+     "date": "2026-04-19",
+     "race": "京葉S",
+     "grade": "L",
+     "track": "中山",
+     "surface": "ダ",
+     "distance": 1200,
+     "cond": "良",
+     "field": 15,
+     "pop": 11,
+     "finish": 5,
+     "margin": "0.3",
+     "last3f": 35,
+     "passing": "14-12"
+    }
+   ]
+  },
+  {
+   "num": 10,
+   "name": "ルークススペイ",
+   "jockey": "川田",
+   "weight": 56,
+   "sexAge": "牡4",
+   "popularity": 2,
+   "winOdds": 5.4,
+   "placeOdds": [
+    1.8,
+    2.1
+   ],
+   "style": "先行",
+   "recent3": [
+    {
+     "date": "2026-06-20",
+     "race": "天保山S",
+     "grade": "OP",
+     "track": "阪神",
+     "surface": "ダ",
+     "distance": 1400,
+     "cond": "重",
+     "field": 15,
+     "pop": 2,
+     "finish": 6,
+     "margin": "0.8",
+     "last3f": 36.5,
+     "passing": "4-4"
+    },
+    {
+     "date": "2026-05-17",
+     "race": "栗東S",
+     "grade": "L",
+     "track": "京都",
+     "surface": "ダ",
+     "distance": 1400,
+     "cond": "良",
+     "field": 16,
+     "pop": 6,
+     "finish": 4,
+     "margin": "0.8",
+     "last3f": 35.9,
+     "passing": "16-14"
+    },
+    {
+     "date": "2026-04-05",
+     "race": "天満橋S",
+     "grade": "3勝",
+     "track": "阪神",
+     "surface": "ダ",
+     "distance": 1400,
+     "cond": "重",
+     "field": 16,
+     "pop": 4,
+     "finish": 1,
+     "margin": "0.0",
+     "last3f": 35.9,
+     "passing": "6-7"
+    }
+   ]
+  },
+  {
+   "num": 11,
+   "name": "リジル",
+   "jockey": "団野",
+   "weight": 53,
+   "sexAge": "牝5",
+   "popularity": 4,
+   "winOdds": 6.9,
+   "placeOdds": [
+    3.1,
+    4
+   ],
+   "style": "先行",
+   "recent3": [
+    {
+     "date": "2026-06-07",
+     "race": "水無月S",
+     "grade": "OP",
+     "track": "阪神",
+     "surface": "ダ",
+     "distance": 1200,
+     "cond": "稍",
+     "field": 16,
+     "pop": 9,
+     "finish": 9,
+     "margin": "0.9",
+     "last3f": 36,
+     "passing": "5-6"
+    },
+    {
+     "date": "2025-10-26",
+     "race": "神無月S",
+     "grade": "OP",
+     "track": "東京",
+     "surface": "ダ",
+     "distance": 1400,
+     "cond": "不",
+     "field": 16,
+     "pop": 6,
+     "finish": 5,
+     "margin": "0.3",
+     "last3f": 34.4,
+     "passing": "13-13"
+    },
+    {
+     "date": "2025-07-27",
+     "race": "東海S",
+     "grade": "GIII",
+     "track": "中京",
+     "surface": "ダ",
+     "distance": 1400,
+     "cond": "良",
+     "field": 16,
+     "pop": 13,
+     "finish": 7,
+     "margin": "1.5",
+     "last3f": 37.4,
+     "passing": "1-1"
+    }
+   ]
+  },
+  {
+   "num": 12,
+   "name": "ムイ",
+   "jockey": "富田",
+   "weight": 52,
+   "sexAge": "牝4",
+   "popularity": 10,
+   "winOdds": 22,
+   "placeOdds": [
+    4.4,
+    5.7
+   ],
+   "style": "差し",
+   "recent3": [
+    {
+     "date": "2026-05-31",
+     "race": "安土城S",
+     "grade": "L",
+     "track": "京都",
+     "surface": "芝",
+     "distance": 1400,
+     "cond": "良",
+     "field": 17,
+     "pop": 12,
+     "finish": 15,
+     "margin": "1.4",
+     "last3f": 33,
+     "passing": "14-14"
+    },
+    {
+     "date": "2026-04-26",
+     "race": "モルガナイ",
+     "grade": "OP",
+     "track": "福島",
+     "surface": "芝",
+     "distance": 1200,
+     "cond": "良",
+     "field": 16,
+     "pop": 13,
+     "finish": 10,
+     "margin": "0.6",
+     "last3f": 33.1,
+     "passing": "15-15"
+    },
+    {
+     "date": "2026-01-11",
+     "race": "淀短距離S",
+     "grade": "L",
+     "track": "京都",
+     "surface": "芝",
+     "distance": 1200,
+     "cond": "良",
+     "field": 16,
+     "pop": 10,
+     "finish": 9,
+     "margin": "0.4",
+     "last3f": 33.5,
+     "passing": "13-13"
+    }
+   ]
+  }
+ ],
+ "result": {
+  "first": 4,
+  "second": 2,
+  "third": 3,
+  "tanshoPay": 700,
+  "fukushoPay": [
+   250,
+   230,
+   430
+  ],
+  "sanrenpukuPay": 7600,
+  "sanrentanPay": 35150
+ }
+}
