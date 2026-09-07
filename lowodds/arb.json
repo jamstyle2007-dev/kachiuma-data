@@ -1,89 +1,28 @@
 {
-  "generatedAt": "2026-09-07T16:08:08.984Z",
+  "generatedAt": "2026-09-07T16:13:30.184Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
-      "count": 285,
-      "profit": 83403985
+      "count": 286,
+      "profit": 83480015
     },
     "year": {
-      "count": 285,
-      "profit": 83403985
+      "count": 286,
+      "profit": 83480015
     },
     "month": {
-      "count": 31,
-      "profit": 38287693
+      "count": 32,
+      "profit": 38363723
     },
     "week": {
-      "count": 0,
-      "profit": 0
+      "count": 1,
+      "profit": 76030
     },
-    "pending": 3
+    "pending": 2
   },
-  "opps": [
-    {
-      "id": "A1XeU3C5",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "CD Puerto Varas - Catolica",
-      "url": "https://www.betexplorer.com/basketball/chile/lnb/cd-puerto-varas-catolica/A1XeU3C5/",
-      "kickoff": "2026-09-08T01:30:00+09:00",
-      "width": 2,
-      "books": 12,
-      "labels": [
-        "CD Puerto Varas",
-        "Catolica"
-      ],
-      "legs": [
-        {
-          "outcome": "CD Puerto Varas",
-          "book": "Cloudbet",
-          "odd": 1.72,
-          "stake": 59242,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.cloudbet.com/"
-        },
-        {
-          "outcome": "Catolica",
-          "book": "bwin",
-          "odd": 2.5,
-          "stake": 40758,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        }
-      ],
-      "S": 0.9813953488372094,
-      "roi": 1.8957345971563955,
-      "profit": 1896,
-      "payout": 101896,
-      "staked": 100000,
-      "mins": 22,
-      "split": {
-        "S": 0.9813953488372094,
-        "payout": 101896,
-        "profit": 1896,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Cloudbet",
-            "odd": 1.72,
-            "stake": 59242
-          },
-          {
-            "book": "bwin",
-            "odd": 2.5,
-            "stake": 40758
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
