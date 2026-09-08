@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-08T07:11:00.899Z",
+  "generatedAt": "2026-09-08T07:16:23.366Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 1,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 5,
       "profit": 144508
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "dfVMfzcD",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Hungary W - Japan W",
+      "url": "https://www.betexplorer.com/basketball/world/world-cup-women/hungary-japan/dfVMfzcD/",
+      "kickoff": "2026-09-08T16:45:00+09:00",
+      "width": 2,
+      "books": 18,
+      "labels": [
+        "Hungary W",
+        "Japan W"
+      ],
+      "legs": [
+        {
+          "outcome": "Hungary W",
+          "book": "Unibet",
+          "odd": 2.35,
+          "stake": 42822,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.unibet.com/"
+        },
+        {
+          "outcome": "Japan W",
+          "book": "1xBet",
+          "odd": 1.76,
+          "stake": 57178,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        }
+      ],
+      "S": 0.9937137330754353,
+      "roi": 0.6326034063260266,
+      "profit": 633,
+      "payout": 100633,
+      "staked": 100000,
+      "mins": 29,
+      "split": {
+        "S": 0.9937137330754353,
+        "payout": 100633,
+        "profit": 633,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Unibet",
+            "odd": 2.35,
+            "stake": 42822
+          },
+          {
+            "book": "1xBet",
+            "odd": 1.76,
+            "stake": 57178
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
