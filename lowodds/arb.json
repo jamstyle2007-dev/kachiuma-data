@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-08T14:38:59.665Z",
+  "generatedAt": "2026-09-08T14:44:33.088Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 7,
-  "arbCount": 2,
+  "scanned": 4,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -63,7 +63,7 @@
       "profit": 3174620,
       "payout": 3274620,
       "staked": 100000,
-      "mins": 21,
+      "mins": 15,
       "split": {
         "S": 0.030537890832008478,
         "payout": 3274620,
@@ -79,81 +79,6 @@
             "book": "888sport",
             "odd": 34,
             "stake": 96312
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    },
-    {
-      "id": "Ot45XZhf",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "New York Yankees - Colorado Rockies",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/new-york-yankees-colorado-rockies/Ot45XZhf/",
-      "kickoff": "2026-09-09T00:05:00+09:00",
-      "width": 3,
-      "books": 7,
-      "labels": [
-        "New York Yankees",
-        "Draw",
-        "Colorado Rockies"
-      ],
-      "legs": [
-        {
-          "outcome": "New York Yankees",
-          "book": "16:1",
-          "odd": 16,
-          "stake": 12798,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=16%3A1%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "3:7",
-          "odd": 2.54,
-          "stake": 80614,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=3%3A7%20sportsbook"
-        },
-        {
-          "outcome": "Colorado Rockies",
-          "book": "16:1",
-          "odd": 31.08,
-          "stake": 6588,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=16%3A1%20sportsbook"
-        }
-      ],
-      "S": 0.4883758195766069,
-      "roi": 104.76034232549453,
-      "profit": 104760,
-      "payout": 204760,
-      "staked": 100000,
-      "mins": 26,
-      "split": {
-        "S": 0.4883758195766069,
-        "payout": 204760,
-        "profit": 104760,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "16:1",
-            "odd": 16,
-            "stake": 12798
-          },
-          {
-            "book": "3:7",
-            "odd": 2.54,
-            "stake": 80614
-          },
-          {
-            "book": "16:1",
-            "odd": 31.08,
-            "stake": 6588
           }
         ]
       },
