@@ -1,48 +1,48 @@
 {
-  "generatedAt": "2026-09-08T00:06:39.453Z",
+  "generatedAt": "2026-09-08T03:08:48.622Z",
   "source": "betexplorer.com (Pinnacle / 1xBet odds)",
   "threshold": 1.6,
-  "count": 24,
+  "count": 23,
   "matches": [
-    {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "ASIA: ASIAN CHAMPIONSHIP",
-      "home": "India",
-      "away": "New Zealand",
-      "favTeam": "India",
-      "underTeam": "New Zealand",
-      "favOdd": 1.04,
-      "prob": 96,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.04
-      },
-      "avgFavOdd": 1.04,
-      "time": "10:00",
-      "kickoff": "2026-09-08T02:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/asia/asian-championship/india-new-zealand/IiImI4kd/"
-    },
     {
       "sport": "テニス",
       "sportKey": "tennis",
       "league": "ITF MEN - SINGLES: M25 SAPPORO, HARD",
-      "home": "Okabe S.",
-      "away": "Kikuchi Y.",
-      "favTeam": "Kikuchi Y.",
-      "underTeam": "Okabe S.",
-      "favOdd": 1.07,
-      "prob": 93,
+      "home": "Shin S.",
+      "away": "Katayama K.",
+      "favTeam": "Shin S.",
+      "underTeam": "Katayama K.",
+      "favOdd": 1.03,
+      "prob": 97,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.07
+        "1xbet": 1.03
+      },
+      "avgFavOdd": 1.04,
+      "time": "12:10",
+      "kickoff": "2026-09-08T04:10:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-sapporo/shin-sanhui-katayama-kaede/0lg2tF6U/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "CHALLENGER MEN - SINGLES: PHAN THIET 3, HARD",
+      "home": "Sach T.",
+      "away": "Truong T. M.",
+      "favTeam": "Sach T.",
+      "underTeam": "Truong T. M.",
+      "favOdd": 1.06,
+      "prob": 94,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.06
       },
       "avgFavOdd": 1.09,
-      "time": "10:00",
-      "kickoff": "2026-09-08T02:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-sapporo/okabe-sena-kikuchi-yuta/hOkfryxI/"
+      "time": "12:10",
+      "kickoff": "2026-09-08T04:10:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/phan-thiet-3/sach-tai-truong-thanh-minh/b5v1WkeK/"
     },
     {
       "sport": "バレー",
@@ -58,20 +58,20 @@
       "books": {
         "1xbet": 1.08
       },
-      "avgFavOdd": 1.05,
+      "avgFavOdd": 1.06,
       "time": "19:30",
       "kickoff": "2026-09-08T11:30:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/volleyball/asia/asian-championship/japan-australia/IB8svnCF/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ATP - SINGLES: US OPEN, HARD",
-      "home": "Zverev A.",
-      "away": "Darderi L.",
-      "favTeam": "Zverev A.",
-      "underTeam": "Darderi L.",
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "NORWAY: ELKJOP-LIGAEN WOMEN",
+      "home": "Storhamar W",
+      "away": "Byasen W",
+      "favTeam": "Storhamar W",
+      "underTeam": "Byasen W",
       "favOdd": 1.08,
       "prob": 93,
       "book": "1xBet",
@@ -79,50 +79,10 @@
         "1xbet": 1.08
       },
       "avgFavOdd": 1.08,
-      "time": "09:45",
-      "kickoff": "2026-09-08T01:45:00+09:00",
+      "time": "01:00",
+      "kickoff": "2026-09-08T17:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/tennis/atp-singles/us-open/zverev-alexander-darderi-luciano/4lfpwIZ9/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "CHILE: LNB",
-      "home": "CD Puerto Varas",
-      "away": "Catolica",
-      "favTeam": "CD Puerto Varas",
-      "underTeam": "Catolica",
-      "favOdd": 1.11,
-      "prob": 90,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.11
-      },
-      "avgFavOdd": 1.14,
-      "time": "09:30",
-      "kickoff": "2026-09-08T01:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/chile/lnb/cd-puerto-varas-catolica/A1XeU3C5/"
-    },
-    {
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "MEXICO: LIGA MX WOMEN",
-      "home": "Club Leon W",
-      "away": "Puebla W",
-      "favTeam": "Club Leon W",
-      "underTeam": "Puebla W",
-      "favOdd": 1.12,
-      "prob": 89,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.12
-      },
-      "avgFavOdd": 1.16,
-      "time": "10:06",
-      "kickoff": "2026-09-08T02:06:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/football/mexico/liga-mx-women/club-leon-puebla/fDFlTXDa/"
+      "url": "https://www.betexplorer.com/handball/norway/elkjop-ligaen-women/storhamar-byasen/WbQU1buQ/"
     },
     {
       "sport": "バスケ",
@@ -172,57 +132,17 @@
       "away": "Luch W",
       "favTeam": "Chernomorochka W",
       "underTeam": "Luch W",
-      "favOdd": 1.17,
-      "prob": 85,
+      "favOdd": 1.13,
+      "prob": 88,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.17
+        "1xbet": 1.13
       },
       "avgFavOdd": 1.16,
       "time": "00:00",
       "kickoff": "2026-09-08T16:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/handball/russia/superleague-women/chernomorochka-luch-moscow/zBXXzcOa/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - SINGLES: W50 GUIYANG, HARD",
-      "home": "Costoulas S.",
-      "away": "Inoue H.",
-      "favTeam": "Costoulas S.",
-      "underTeam": "Inoue H.",
-      "favOdd": 1.17,
-      "prob": 85,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.17
-      },
-      "avgFavOdd": 1.17,
-      "time": "11:00",
-      "kickoff": "2026-09-08T03:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w50-guiyang/costoulas-sofia-inoue-hina/W22xPuNc/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - SINGLES: W50 GUIYANG, HARD",
-      "home": "Naito Y.",
-      "away": "Shubladze A.",
-      "favTeam": "Shubladze A.",
-      "underTeam": "Naito Y.",
-      "favOdd": 1.18,
-      "prob": 85,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.18
-      },
-      "avgFavOdd": 1.2,
-      "time": "11:00",
-      "kickoff": "2026-09-08T03:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w50-guiyang/naito-yuki-shubladze-alexandra/Q3jBQhb2/"
     },
     {
       "sport": "バスケ",
@@ -232,17 +152,37 @@
       "away": "Kanazawa",
       "favTeam": "Tachikawa Dice",
       "underTeam": "Kanazawa",
-      "favOdd": 1.23,
-      "prob": 81,
+      "favOdd": 1.14,
+      "prob": 88,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.23
+        "1xbet": 1.14
       },
-      "avgFavOdd": 1.23,
+      "avgFavOdd": 1.14,
       "time": "19:05",
       "kickoff": "2026-09-08T11:05:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/basketball/world/club-friendly/tachikawa-dice-kanazawa/Kr14JYi4/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M25 SAPPORO, HARD",
+      "home": "Idogaki K.",
+      "away": "Nakanishi S.",
+      "favTeam": "Idogaki K.",
+      "underTeam": "Nakanishi S.",
+      "favOdd": 1.17,
+      "prob": 85,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.17
+      },
+      "avgFavOdd": 1.2,
+      "time": "12:10",
+      "kickoff": "2026-09-08T04:10:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-sapporo/idogaki-kazushi-nakanishi-seiya/QRQjDeyh/"
     },
     {
       "sport": "バスケ",
@@ -258,31 +198,31 @@
       "books": {
         "1xbet": 1.24
       },
-      "avgFavOdd": 1.21,
+      "avgFavOdd": 1.22,
       "time": "08:00",
       "kickoff": "2026-09-09T00:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/basketball/paraguay/lnb/deportivo-san-jose-deportivo-amambay/f7bN4EMb/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25 SAPPORO, HARD",
-      "home": "Tange S.",
-      "away": "Hayen A.",
-      "favTeam": "Tange S.",
-      "underTeam": "Hayen A.",
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "MALAYSIA: FA CUP",
+      "home": "Negeri Sembilan",
+      "away": "Kelantan City",
+      "favTeam": "Negeri Sembilan",
+      "underTeam": "Kelantan City",
       "favOdd": 1.25,
       "prob": 80,
       "book": "1xBet",
       "books": {
         "1xbet": 1.25
       },
-      "avgFavOdd": 1.27,
-      "time": "10:00",
-      "kickoff": "2026-09-08T02:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-sapporo/tange-saki-hayen-alejandro/2HRJbdMb/"
+      "avgFavOdd": 1.26,
+      "time": "17:45",
+      "kickoff": "2026-09-08T09:45:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/football/malaysia/fa-cup/negeri-sembilan-fa-kelantan-city/E50wDhIl/"
     },
     {
       "sport": "ハンドボール",
@@ -292,17 +232,57 @@
       "away": "Sonderjyske",
       "favTeam": "Holstebro",
       "underTeam": "Sonderjyske",
-      "favOdd": 1.33,
-      "prob": 75,
+      "favOdd": 1.32,
+      "prob": 76,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.33
+        "1xbet": 1.32
       },
       "avgFavOdd": 1.33,
       "time": "02:00",
       "kickoff": "2026-09-08T18:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/handball/denmark/herre-handbold-ligaen/holstebro-sonderjyske/GSBrnhX8/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "CHALLENGER MEN - SINGLES: PHAN THIET 3, HARD",
+      "home": "Derepasko T.",
+      "away": "Ryan Ziegann S.",
+      "favTeam": "Derepasko T.",
+      "underTeam": "Ryan Ziegann S.",
+      "favOdd": 1.34,
+      "prob": 75,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.34
+      },
+      "avgFavOdd": 1.34,
+      "time": "12:10",
+      "kickoff": "2026-09-08T04:10:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/phan-thiet-3/derepasko-timofei-ryan-ziegann-sam/SGv1ZDNj/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF WOMEN - SINGLES: W50 GUIYANG, HARD",
+      "home": "Nishimura K.",
+      "away": "Adkar V.",
+      "favTeam": "Adkar V.",
+      "underTeam": "Nishimura K.",
+      "favOdd": 1.35,
+      "prob": 74,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.35
+      },
+      "avgFavOdd": 1.35,
+      "time": "12:30",
+      "kickoff": "2026-09-08T04:30:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w50-guiyang/nishimura-kayo-adkar-vaishnavi/lMcWDFEd/"
     },
     {
       "sport": "アイスホッケー",
@@ -325,26 +305,6 @@
       "url": "https://www.betexplorer.com/hockey/russia/mhl/mamonty-yugry-mhl-molot-perm-mhl/8YSyyXzn/"
     },
     {
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "BRAZIL: BRASILEIRO A2 WOMEN",
-      "home": "Vasco W",
-      "away": "Atletico-PI W",
-      "favTeam": "Vasco W",
-      "underTeam": "Atletico-PI W",
-      "favOdd": 1.4,
-      "prob": 71,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.4
-      },
-      "avgFavOdd": 1.41,
-      "time": "09:30",
-      "kickoff": "2026-09-08T01:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/football/brazil/brasileiro-a2-women/vasco-atletico-pi/OrndVLMa/"
-    },
-    {
       "sport": "野球",
       "sportKey": "baseball",
       "league": "JAPAN: NPB",
@@ -358,31 +318,11 @@
       "books": {
         "1xbet": 1.44
       },
-      "avgFavOdd": 1.4,
+      "avgFavOdd": 1.39,
       "time": "18:00",
       "kickoff": "2026-09-08T10:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/baseball/japan/npb/yokohama-baystars-yakult-swallows/0Wh02F5b/"
-    },
-    {
-      "sport": "サッカー",
-      "sportKey": "soccer",
-      "league": "COLOMBIA: COPA COLOMBIA",
-      "home": "Atl. Nacional",
-      "away": "Dep. Cali",
-      "favTeam": "Atl. Nacional",
-      "underTeam": "Dep. Cali",
-      "favOdd": 1.45,
-      "prob": 69,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.45
-      },
-      "avgFavOdd": 1.46,
-      "time": "10:15",
-      "kickoff": "2026-09-08T02:15:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/football/colombia/copa-colombia/atl-nacional-dep-cali/8EfR3hAs/"
     },
     {
       "sport": "野球",
@@ -398,7 +338,7 @@
       "books": {
         "1xbet": 1.47
       },
-      "avgFavOdd": 1.42,
+      "avgFavOdd": 1.43,
       "time": "18:00",
       "kickoff": "2026-09-08T10:00:00+09:00",
       "niche": false,
@@ -412,17 +352,37 @@
       "away": "Hiroshima Carp",
       "favTeam": "Hanshin Tigers",
       "underTeam": "Hiroshima Carp",
-      "favOdd": 1.49,
-      "prob": 67,
+      "favOdd": 1.48,
+      "prob": 68,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.49
+        "1xbet": 1.48
       },
       "avgFavOdd": 1.45,
       "time": "18:00",
       "kickoff": "2026-09-08T10:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/baseball/japan/npb/hanshin-tigers-hiroshima-carp/Yqi80gzB/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M25 SAPPORO, HARD",
+      "home": "Imamura M.",
+      "away": "Chung Y.",
+      "favTeam": "Imamura M.",
+      "underTeam": "Chung Y.",
+      "favOdd": 1.48,
+      "prob": 68,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.48
+      },
+      "avgFavOdd": 1.5,
+      "time": "12:20",
+      "kickoff": "2026-09-08T04:20:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-sapporo/imamura-masamichi-chung-yunseong/CplvnJxg/"
     },
     {
       "sport": "アイスホッケー",
@@ -447,11 +407,11 @@
     {
       "sport": "野球",
       "sportKey": "baseball",
-      "league": "USA: MLB",
-      "home": "Athletics",
-      "away": "Toronto Blue Jays",
-      "favTeam": "Toronto Blue Jays",
-      "underTeam": "Athletics",
+      "league": "SOUTH KOREA: KBO",
+      "home": "KT Wiz Suwon",
+      "away": "SSG Landers",
+      "favTeam": "KT Wiz Suwon",
+      "underTeam": "SSG Landers",
       "favOdd": 1.54,
       "prob": 65,
       "book": "1xBet",
@@ -459,10 +419,30 @@
         "1xbet": 1.54
       },
       "avgFavOdd": 1.48,
-      "time": "11:05",
-      "kickoff": "2026-09-08T03:05:00+09:00",
+      "time": "18:30",
+      "kickoff": "2026-09-08T10:30:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/athletics-toronto-blue-jays/8fHfD6sQ/"
+      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/kt-wiz-suwon-ssg-landers/Wdkrl62b/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF WOMEN - DOUBLES: W50 GUIYANG, HARD",
+      "home": "Back D. / Kawaguchi N.",
+      "away": "Kuwata H. / Shimizu E.",
+      "favTeam": "Kuwata H. / Shimizu E.",
+      "underTeam": "Back D. / Kawaguchi N.",
+      "favOdd": 1.56,
+      "prob": 64,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.56
+      },
+      "avgFavOdd": 1.56,
+      "time": "12:35",
+      "kickoff": "2026-09-08T04:35:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-women-doubles/w50-guiyang/back-dayeon-kawaguchi-natsumi-kuwata-hiroko-shimizu-eri/nDu7QzE8/"
     },
     {
       "sport": "アイスホッケー",
