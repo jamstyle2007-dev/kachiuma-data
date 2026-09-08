@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-08T14:27:52.466Z",
+  "generatedAt": "2026-09-08T14:33:26.561Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 5,
+  "scanned": 7,
   "arbCount": 1,
   "track": {
     "stake": 100000,
@@ -22,78 +22,63 @@
       "count": 8,
       "profit": 280097
     },
-    "pending": 1
+    "pending": 2
   },
   "opps": [
     {
-      "id": "viHbyqfS",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Baltimore Orioles - Cleveland Guardians",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/baltimore-orioles-cleveland-guardians/viHbyqfS/",
-      "kickoff": "2026-09-08T23:35:00+09:00",
-      "width": 3,
-      "books": 6,
+      "id": "02ARM8n2",
+      "sport": "volleyball",
+      "sportLabel": "バレー",
+      "teams": "Brazil W - Venezuela W",
+      "url": "https://www.betexplorer.com/volleyball/south-america/south-american-championship-women/brazil-venezuela/02ARM8n2/",
+      "kickoff": "2026-09-09T00:00:00+09:00",
+      "width": 2,
+      "books": 3,
       "labels": [
-        "Baltimore Orioles",
-        "Draw",
-        "Cleveland Guardians"
+        "Brazil W",
+        "Venezuela W"
       ],
       "legs": [
         {
-          "outcome": "Baltimore Orioles",
-          "book": "6:4",
-          "odd": 6,
-          "stake": 25945,
+          "outcome": "Brazil W",
+          "book": "888sport",
+          "odd": 888,
+          "stake": 3688,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=6%3A4%20sportsbook"
+          "url": "https://www.google.com/search?q=888sport%20sportsbook"
         },
         {
-          "outcome": "Draw",
-          "book": "5:8",
-          "odd": 2.26,
-          "stake": 68880,
+          "outcome": "Venezuela W",
+          "book": "888sport",
+          "odd": 34,
+          "stake": 96312,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=5%3A8%20sportsbook"
-        },
-        {
-          "outcome": "Cleveland Guardians",
-          "book": "5:8",
-          "odd": 30.08,
-          "stake": 5175,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=5%3A8%20sportsbook"
+          "url": "https://www.google.com/search?q=888sport%20sportsbook"
         }
       ],
-      "S": 0.6423892236239251,
-      "roi": 55.66886292996587,
-      "profit": 55669,
-      "payout": 155669,
+      "S": 0.030537890832008478,
+      "roi": 3174.6203904555314,
+      "profit": 3174620,
+      "payout": 3274620,
       "staked": 100000,
-      "mins": 7,
+      "mins": 27,
       "split": {
-        "S": 0.6423892236239251,
-        "payout": 155669,
-        "profit": 55669,
+        "S": 0.030537890832008478,
+        "payout": 3274620,
+        "profit": 3174620,
         "staked": 100000,
         "legs": [
           {
-            "book": "6:4",
-            "odd": 6,
-            "stake": 25945
+            "book": "888sport",
+            "odd": 888,
+            "stake": 3688
           },
           {
-            "book": "5:8",
-            "odd": 2.26,
-            "stake": 68880
-          },
-          {
-            "book": "5:8",
-            "odd": 30.08,
-            "stake": 5175
+            "book": "888sport",
+            "odd": 34,
+            "stake": 96312
           }
         ]
       },
