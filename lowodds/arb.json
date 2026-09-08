@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T07:49:01.657Z",
+  "generatedAt": "2026-09-08T07:54:28.536Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 3,
@@ -41,49 +41,49 @@
       "legs": [
         {
           "outcome": "Spartak Subotica",
-          "book": "BetInAsia",
-          "odd": 1.47,
-          "stake": 68856,
-          "jp": true,
+          "book": "Bets.io",
+          "odd": 1.49,
+          "stake": 68565,
+          "jp": false,
           "exch": false,
-          "url": "https://www.betinasia.com/"
+          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
         },
         {
           "outcome": "Szolnoki Olaj",
           "book": "bwin",
           "odd": 3.25,
-          "stake": 31144,
+          "stake": 31435,
           "jp": true,
           "exch": false,
           "url": "https://sports.bwin.com/"
         }
       ],
-      "S": 0.9879644165358451,
-      "roi": 1.2182203389830448,
-      "profit": 1218,
-      "payout": 101218,
+      "S": 0.9788332472896232,
+      "roi": 2.1624472573839704,
+      "profit": 2162,
+      "payout": 102162,
       "staked": 100000,
-      "mins": 11,
+      "mins": 6,
       "split": {
-        "S": 0.9879644165358451,
-        "payout": 101218,
-        "profit": 1218,
+        "S": 0.9788332472896232,
+        "payout": 102162,
+        "profit": 2162,
         "staked": 100000,
         "legs": [
           {
-            "book": "BetInAsia",
-            "odd": 1.47,
-            "stake": 68856
+            "book": "Bets.io",
+            "odd": 1.49,
+            "stake": 68565
           },
           {
             "book": "bwin",
             "odd": 3.25,
-            "stake": 31144
+            "stake": 31435
           }
         ]
       },
       "hasExch": false,
-      "allJp": true
+      "allJp": false
     }
   ]
 }
