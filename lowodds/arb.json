@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-08T08:48:29.809Z",
+  "generatedAt": "2026-09-08T08:54:00.060Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 3
   },
-  "opps": [
-    {
-      "id": "KzyhXvMO",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Syntainics MBC - Bayreuth",
-      "url": "https://www.betexplorer.com/basketball/world/club-friendly/syntainics-mbc-bayreuth/KzyhXvMO/",
-      "kickoff": "2026-09-08T18:00:00+09:00",
-      "width": 3,
-      "books": 2,
-      "labels": [
-        "Syntainics MBC",
-        "Draw",
-        "Bayreuth"
-      ],
-      "legs": [
-        {
-          "outcome": "Syntainics MBC",
-          "book": "88:78",
-          "odd": 88,
-          "stake": 2667,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=88%3A78%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "88:78",
-          "odd": 2.76,
-          "stake": 85033,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=88%3A78%20sportsbook"
-        },
-        {
-          "outcome": "Bayreuth",
-          "book": "88:78",
-          "odd": 19.08,
-          "stake": 12300,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=88%3A78%20sportsbook"
-        }
-      ],
-      "S": 0.4260933784108518,
-      "roi": 134.6903403497086,
-      "profit": 134690,
-      "payout": 234690,
-      "staked": 100000,
-      "mins": 12,
-      "split": {
-        "S": 0.4260933784108518,
-        "payout": 234690,
-        "profit": 134690,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "88:78",
-            "odd": 88,
-            "stake": 2667
-          },
-          {
-            "book": "88:78",
-            "odd": 2.76,
-            "stake": 85033
-          },
-          {
-            "book": "88:78",
-            "odd": 19.08,
-            "stake": 12300
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
