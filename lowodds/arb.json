@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-08T07:59:55.553Z",
+  "generatedAt": "2026-09-08T08:05:22.542Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 3,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "vcZyyNMa",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Spartak Subotica - Szolnoki Olaj",
-      "url": "https://www.betexplorer.com/basketball/world/club-friendly/spartak-subotica-szolnoki-olaj/vcZyyNMa/",
-      "kickoff": "2026-09-08T17:00:00+09:00",
-      "width": 2,
-      "books": 13,
-      "labels": [
-        "Spartak Subotica",
-        "Szolnoki Olaj"
-      ],
-      "legs": [
-        {
-          "outcome": "Spartak Subotica",
-          "book": "Betway",
-          "odd": 1.5,
-          "stake": 68421,
-          "jp": true,
-          "exch": false,
-          "url": "https://betway.com/"
-        },
-        {
-          "outcome": "Szolnoki Olaj",
-          "book": "bwin",
-          "odd": 3.25,
-          "stake": 31579,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        }
-      ],
-      "S": 0.9743589743589743,
-      "roi": 2.6315789473684292,
-      "profit": 2632,
-      "payout": 102632,
-      "staked": 100000,
-      "mins": 0,
-      "split": {
-        "S": 0.9743589743589743,
-        "payout": 102632,
-        "profit": 2632,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betway",
-            "odd": 1.5,
-            "stake": 68421
-          },
-          {
-            "book": "bwin",
-            "odd": 3.25,
-            "stake": 31579
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
