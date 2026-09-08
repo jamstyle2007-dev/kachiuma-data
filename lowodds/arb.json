@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-08T14:55:31.120Z",
+  "generatedAt": "2026-09-08T15:00:59.091Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 4,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 3
   },
-  "opps": [
-    {
-      "id": "02ARM8n2",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "Brazil W - Venezuela W",
-      "url": "https://www.betexplorer.com/volleyball/south-america/south-american-championship-women/brazil-venezuela/02ARM8n2/",
-      "kickoff": "2026-09-09T00:00:00+09:00",
-      "width": 2,
-      "books": 3,
-      "labels": [
-        "Brazil W",
-        "Venezuela W"
-      ],
-      "legs": [
-        {
-          "outcome": "Brazil W",
-          "book": "888sport",
-          "odd": 888,
-          "stake": 3688,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=888sport%20sportsbook"
-        },
-        {
-          "outcome": "Venezuela W",
-          "book": "888sport",
-          "odd": 34,
-          "stake": 96312,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=888sport%20sportsbook"
-        }
-      ],
-      "S": 0.030537890832008478,
-      "roi": 3174.6203904555314,
-      "profit": 3174620,
-      "payout": 3274620,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.030537890832008478,
-        "payout": 3274620,
-        "profit": 3174620,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "888sport",
-            "odd": 888,
-            "stake": 3688
-          },
-          {
-            "book": "888sport",
-            "odd": 34,
-            "stake": 96312
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
