@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-09T18:00:31.741Z",
+  "generatedAt": "2026-09-09T18:05:57.304Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "dSKFcskR",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Mineros - Diablos Rojos",
-      "url": "https://www.betexplorer.com/basketball/mexico/lnbp/mineros-de-zacatecas-diablos-rojos/dSKFcskR/",
-      "kickoff": "2026-09-10T03:05:00+09:00",
-      "width": 2,
-      "books": 17,
-      "labels": [
-        "Mineros",
-        "Diablos Rojos"
-      ],
-      "legs": [
-        {
-          "outcome": "Mineros",
-          "book": "bwin",
-          "odd": 1.42,
-          "stake": 72266,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        },
-        {
-          "outcome": "Diablos Rojos",
-          "book": "Mozzartbet",
-          "odd": 3.7,
-          "stake": 27734,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.mozzartbet.com/"
-        }
-      ],
-      "S": 0.9744956223829464,
-      "roi": 2.6171874999999956,
-      "profit": 2617,
-      "payout": 102617,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.9744956223829464,
-        "payout": 102617,
-        "profit": 2617,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "bwin",
-            "odd": 1.42,
-            "stake": 72266
-          },
-          {
-            "book": "Mozzartbet",
-            "odd": 3.7,
-            "stake": 27734
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
