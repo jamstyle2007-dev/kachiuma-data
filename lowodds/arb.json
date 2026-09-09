@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-09T07:31:01.629Z",
+  "generatedAt": "2026-09-09T07:36:46.353Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 15,
-  "arbCount": 2,
+  "arbCount": 4,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,9 +22,84 @@
       "count": 11,
       "profit": 3615146
     },
-    "pending": 3
+    "pending": 5
   },
   "opps": [
+    {
+      "id": "6wxPrkLF",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Puerto Rico W - China W",
+      "url": "https://www.betexplorer.com/basketball/world/world-cup-women/puerto-rico-china/6wxPrkLF/",
+      "kickoff": "2026-09-09T16:45:00+09:00",
+      "width": 3,
+      "books": 8,
+      "labels": [
+        "Puerto Rico W",
+        "Draw",
+        "China W"
+      ],
+      "legs": [
+        {
+          "outcome": "Puerto Rico W",
+          "book": "91:52",
+          "odd": 91,
+          "stake": 8321,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=91%3A52%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "91:52",
+          "odd": 15.24,
+          "stake": 49684,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=91%3A52%20sportsbook"
+        },
+        {
+          "outcome": "China W",
+          "book": "77:61",
+          "odd": 18.03,
+          "stake": 41996,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=77%3A61%20sportsbook"
+        }
+      ],
+      "S": 0.1320689259164504,
+      "roi": 657.1803836979951,
+      "profit": 657179,
+      "payout": 757180,
+      "staked": 100001,
+      "mins": 8,
+      "split": {
+        "S": 0.1320689259164504,
+        "payout": 757180,
+        "profit": 657179,
+        "staked": 100001,
+        "legs": [
+          {
+            "book": "91:52",
+            "odd": 91,
+            "stake": 8321
+          },
+          {
+            "book": "91:52",
+            "odd": 15.24,
+            "stake": 49684
+          },
+          {
+            "book": "77:61",
+            "odd": 18.03,
+            "stake": 41996
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
     {
       "id": "8jABzDYH",
       "sport": "handball",
@@ -73,7 +148,7 @@
       "profit": 220144,
       "payout": 320144,
       "staked": 100000,
-      "mins": 29,
+      "mins": 23,
       "split": {
         "S": 0.31235955056179776,
         "payout": 320144,
@@ -94,6 +169,81 @@
             "book": "1xBet",
             "odd": 8.9,
             "stake": 35971
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "x8PEn3Jr",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Fenerbahce - Esenler Erokspor",
+      "url": "https://www.betexplorer.com/basketball/world/club-friendly/fenerbahce-esenler-erokspor/x8PEn3Jr/",
+      "kickoff": "2026-09-09T17:00:00+09:00",
+      "width": 3,
+      "books": 4,
+      "labels": [
+        "Fenerbahce",
+        "Draw",
+        "Esenler Erokspor"
+      ],
+      "legs": [
+        {
+          "outcome": "Fenerbahce",
+          "book": "83:78",
+          "odd": 83,
+          "stake": 3004,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=83%3A78%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "83:78",
+          "odd": 2.82,
+          "stake": 88421,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=83%3A78%20sportsbook"
+        },
+        {
+          "outcome": "Esenler Erokspor",
+          "book": "82:70",
+          "odd": 29.08,
+          "stake": 8575,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=82%3A70%20sportsbook"
+        }
+      ],
+      "S": 0.4010460173098963,
+      "roi": 149.34794433509606,
+      "profit": 149348,
+      "payout": 249348,
+      "staked": 100000,
+      "mins": 23,
+      "split": {
+        "S": 0.4010460173098963,
+        "payout": 249348,
+        "profit": 149348,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "83:78",
+            "odd": 83,
+            "stake": 3004
+          },
+          {
+            "book": "83:78",
+            "odd": 2.82,
+            "stake": 88421
+          },
+          {
+            "book": "82:70",
+            "odd": 29.08,
+            "stake": 8575
           }
         ]
       },
@@ -148,7 +298,7 @@
       "profit": 141297,
       "payout": 241297,
       "staked": 100000,
-      "mins": 29,
+      "mins": 23,
       "split": {
         "S": 0.4144268824997096,
         "payout": 241297,
