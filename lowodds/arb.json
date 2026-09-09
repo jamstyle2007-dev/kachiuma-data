@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-09T22:07:21.819Z",
+  "generatedAt": "2026-09-09T22:12:46.685Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "jaa4M5eo",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "Thailand - Australia",
-      "url": "https://www.betexplorer.com/volleyball/asia/asian-championship/thailand-australia/jaa4M5eo/",
-      "kickoff": "2026-09-10T07:30:00+09:00",
-      "width": 2,
-      "books": 12,
-      "labels": [
-        "Thailand",
-        "Australia"
-      ],
-      "legs": [
-        {
-          "outcome": "Thailand",
-          "book": "1xBet",
-          "odd": 3.05,
-          "stake": 32819,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "Australia",
-          "book": "Duelbits",
-          "odd": 1.49,
-          "stake": 67181,
-          "jp": false,
-          "exch": false,
-          "url": "https://duelbits.com/"
-        }
-      ],
-      "S": 0.9990097920563319,
-      "roi": 0.09911894273126887,
-      "profit": 99,
-      "payout": 100099,
-      "staked": 100000,
-      "mins": 23,
-      "split": {
-        "S": 0.9990097920563319,
-        "payout": 100099,
-        "profit": 99,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 3.05,
-            "stake": 32819
-          },
-          {
-            "book": "Duelbits",
-            "odd": 1.49,
-            "stake": 67181
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
