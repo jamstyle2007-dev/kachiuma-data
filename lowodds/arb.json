@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-09T07:25:36.715Z",
+  "generatedAt": "2026-09-09T07:31:01.629Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 0,
+  "scanned": 15,
+  "arbCount": 2,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,158 @@
       "count": 11,
       "profit": 3615146
     },
-    "pending": 1
+    "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "8jABzDYH",
+      "sport": "handball",
+      "sportLabel": "ハンドボール",
+      "teams": "Bera Bera W - Beti-Onak W",
+      "url": "https://www.betexplorer.com/handball/spain/division-de-honor-women/bera-bera-beti-onak/8jABzDYH/",
+      "kickoff": "2026-09-09T17:00:00+09:00",
+      "width": 3,
+      "books": 11,
+      "labels": [
+        "Bera Bera W",
+        "Draw",
+        "Beti-Onak W"
+      ],
+      "legs": [
+        {
+          "outcome": "Bera Bera W",
+          "book": "William Hill",
+          "odd": 7.5,
+          "stake": 42686,
+          "jp": false,
+          "exch": false,
+          "url": "https://sports.williamhill.com/"
+        },
+        {
+          "outcome": "Draw",
+          "book": "1xBet",
+          "odd": 15,
+          "stake": 21343,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        },
+        {
+          "outcome": "Beti-Onak W",
+          "book": "1xBet",
+          "odd": 8.9,
+          "stake": 35971,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        }
+      ],
+      "S": 0.31235955056179776,
+      "roi": 220.14388489208633,
+      "profit": 220144,
+      "payout": 320144,
+      "staked": 100000,
+      "mins": 29,
+      "split": {
+        "S": 0.31235955056179776,
+        "payout": 320144,
+        "profit": 220144,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "William Hill",
+            "odd": 7.5,
+            "stake": 42686
+          },
+          {
+            "book": "1xBet",
+            "odd": 15,
+            "stake": 21343
+          },
+          {
+            "book": "1xBet",
+            "odd": 8.9,
+            "stake": 35971
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "SC8eveZh",
+      "sport": "handball",
+      "sportLabel": "ハンドボール",
+      "teams": "Gran Canaria W - Elche-Mustang W",
+      "url": "https://www.betexplorer.com/handball/spain/division-de-honor-women/gran-canaria-elche-mustang/SC8eveZh/",
+      "kickoff": "2026-09-09T17:00:00+09:00",
+      "width": 3,
+      "books": 11,
+      "labels": [
+        "Gran Canaria W",
+        "Draw",
+        "Elche-Mustang W"
+      ],
+      "legs": [
+        {
+          "outcome": "Gran Canaria W",
+          "book": "Betsson",
+          "odd": 5.42,
+          "stake": 44520,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.betsson.com/"
+        },
+        {
+          "outcome": "Draw",
+          "book": "1xBet",
+          "odd": 12.5,
+          "stake": 19304,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        },
+        {
+          "outcome": "Elche-Mustang W",
+          "book": "1xBet",
+          "odd": 6.67,
+          "stake": 36176,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        }
+      ],
+      "S": 0.4144268824997096,
+      "roi": 141.29708815419346,
+      "profit": 141297,
+      "payout": 241297,
+      "staked": 100000,
+      "mins": 29,
+      "split": {
+        "S": 0.4144268824997096,
+        "payout": 241297,
+        "profit": 141297,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Betsson",
+            "odd": 5.42,
+            "stake": 44520
+          },
+          {
+            "book": "1xBet",
+            "odd": 12.5,
+            "stake": 19304
+          },
+          {
+            "book": "1xBet",
+            "odd": 6.67,
+            "stake": 36176
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
