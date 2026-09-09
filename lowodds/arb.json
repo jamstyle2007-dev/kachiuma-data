@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-09T06:58:38.440Z",
+  "generatedAt": "2026-09-09T07:04:06.175Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 3,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "pKVntlhB",
-      "sport": "handball",
-      "sportLabel": "ハンドボール",
-      "teams": "NEKA W - Ferencvaros W",
-      "url": "https://www.betexplorer.com/handball/hungary/nb-i-women/neka-ferencvaros/pKVntlhB/",
-      "kickoff": "2026-09-09T16:00:00+09:00",
-      "width": 2,
-      "books": 7,
-      "labels": [
-        "NEKA W",
-        "Ferencvaros W"
-      ],
-      "legs": [
-        {
-          "outcome": "NEKA W",
-          "book": "Betfair",
-          "odd": 91,
-          "stake": 52604,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        },
-        {
-          "outcome": "Ferencvaros W",
-          "book": "Betfair",
-          "odd": 101,
-          "stake": 47396,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        }
-      ],
-      "S": 0.02089000108802089,
-      "roi": 4686.979166666666,
-      "profit": 4686979,
-      "payout": 4786979,
-      "staked": 100000,
-      "mins": 1,
-      "split": {
-        "S": 0.02089000108802089,
-        "payout": 4786979,
-        "profit": 4686979,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betfair",
-            "odd": 91,
-            "stake": 52604
-          },
-          {
-            "book": "Betfair",
-            "odd": 101,
-            "stake": 47396
-          }
-        ]
-      },
-      "hasExch": true,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
