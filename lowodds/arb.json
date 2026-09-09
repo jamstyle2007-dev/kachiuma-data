@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-09T07:36:46.353Z",
+  "generatedAt": "2026-09-09T07:42:26.593Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 15,
-  "arbCount": 4,
+  "arbCount": 3,
   "track": {
     "stake": 100000,
     "all": {
@@ -25,81 +25,6 @@
     "pending": 5
   },
   "opps": [
-    {
-      "id": "6wxPrkLF",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Puerto Rico W - China W",
-      "url": "https://www.betexplorer.com/basketball/world/world-cup-women/puerto-rico-china/6wxPrkLF/",
-      "kickoff": "2026-09-09T16:45:00+09:00",
-      "width": 3,
-      "books": 8,
-      "labels": [
-        "Puerto Rico W",
-        "Draw",
-        "China W"
-      ],
-      "legs": [
-        {
-          "outcome": "Puerto Rico W",
-          "book": "91:52",
-          "odd": 91,
-          "stake": 8321,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=91%3A52%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "91:52",
-          "odd": 15.24,
-          "stake": 49684,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=91%3A52%20sportsbook"
-        },
-        {
-          "outcome": "China W",
-          "book": "77:61",
-          "odd": 18.03,
-          "stake": 41996,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=77%3A61%20sportsbook"
-        }
-      ],
-      "S": 0.1320689259164504,
-      "roi": 657.1803836979951,
-      "profit": 657179,
-      "payout": 757180,
-      "staked": 100001,
-      "mins": 8,
-      "split": {
-        "S": 0.1320689259164504,
-        "payout": 757180,
-        "profit": 657179,
-        "staked": 100001,
-        "legs": [
-          {
-            "book": "91:52",
-            "odd": 91,
-            "stake": 8321
-          },
-          {
-            "book": "91:52",
-            "odd": 15.24,
-            "stake": 49684
-          },
-          {
-            "book": "77:61",
-            "odd": 18.03,
-            "stake": 41996
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    },
     {
       "id": "8jABzDYH",
       "sport": "handball",
@@ -148,7 +73,7 @@
       "profit": 220144,
       "payout": 320144,
       "staked": 100000,
-      "mins": 23,
+      "mins": 18,
       "split": {
         "S": 0.31235955056179776,
         "payout": 320144,
@@ -176,81 +101,6 @@
       "allJp": false
     },
     {
-      "id": "x8PEn3Jr",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Fenerbahce - Esenler Erokspor",
-      "url": "https://www.betexplorer.com/basketball/world/club-friendly/fenerbahce-esenler-erokspor/x8PEn3Jr/",
-      "kickoff": "2026-09-09T17:00:00+09:00",
-      "width": 3,
-      "books": 4,
-      "labels": [
-        "Fenerbahce",
-        "Draw",
-        "Esenler Erokspor"
-      ],
-      "legs": [
-        {
-          "outcome": "Fenerbahce",
-          "book": "83:78",
-          "odd": 83,
-          "stake": 3004,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=83%3A78%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "83:78",
-          "odd": 2.82,
-          "stake": 88421,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=83%3A78%20sportsbook"
-        },
-        {
-          "outcome": "Esenler Erokspor",
-          "book": "82:70",
-          "odd": 29.08,
-          "stake": 8575,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=82%3A70%20sportsbook"
-        }
-      ],
-      "S": 0.4010460173098963,
-      "roi": 149.34794433509606,
-      "profit": 149348,
-      "payout": 249348,
-      "staked": 100000,
-      "mins": 23,
-      "split": {
-        "S": 0.4010460173098963,
-        "payout": 249348,
-        "profit": 149348,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "83:78",
-            "odd": 83,
-            "stake": 3004
-          },
-          {
-            "book": "83:78",
-            "odd": 2.82,
-            "stake": 88421
-          },
-          {
-            "book": "82:70",
-            "odd": 29.08,
-            "stake": 8575
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    },
-    {
       "id": "SC8eveZh",
       "sport": "handball",
       "sportLabel": "ハンドボール",
@@ -269,56 +119,116 @@
           "outcome": "Gran Canaria W",
           "book": "Betsson",
           "odd": 5.42,
-          "stake": 44520,
+          "stake": 43212,
           "jp": false,
           "exch": false,
           "url": "https://www.betsson.com/"
         },
         {
           "outcome": "Draw",
-          "book": "1xBet",
-          "odd": 12.5,
-          "stake": 19304,
-          "jp": true,
+          "book": "Betsson",
+          "odd": 10.78,
+          "stake": 21726,
+          "jp": false,
           "exch": false,
-          "url": "https://1xbet.com/ja"
+          "url": "https://www.betsson.com/"
         },
         {
           "outcome": "Elche-Mustang W",
           "book": "1xBet",
-          "odd": 6.67,
-          "stake": 36176,
+          "odd": 6.68,
+          "stake": 35061,
           "jp": true,
           "exch": false,
           "url": "https://1xbet.com/ja"
         }
       ],
-      "S": 0.4144268824997096,
-      "roi": 141.29708815419346,
-      "profit": 141297,
-      "payout": 241297,
-      "staked": 100000,
-      "mins": 23,
+      "S": 0.4269668222995096,
+      "roi": 134.2102354965927,
+      "profit": 134211,
+      "payout": 234210,
+      "staked": 99999,
+      "mins": 18,
       "split": {
-        "S": 0.4144268824997096,
-        "payout": 241297,
-        "profit": 141297,
-        "staked": 100000,
+        "S": 0.4269668222995096,
+        "payout": 234210,
+        "profit": 134211,
+        "staked": 99999,
         "legs": [
           {
             "book": "Betsson",
             "odd": 5.42,
-            "stake": 44520
+            "stake": 43212
+          },
+          {
+            "book": "Betsson",
+            "odd": 10.78,
+            "stake": 21726
           },
           {
             "book": "1xBet",
-            "odd": 12.5,
-            "stake": 19304
+            "odd": 6.68,
+            "stake": 35061
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "x8PEn3Jr",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Fenerbahce - Esenler Erokspor",
+      "url": "https://www.betexplorer.com/basketball/world/club-friendly/fenerbahce-esenler-erokspor/x8PEn3Jr/",
+      "kickoff": "2026-09-09T17:00:00+09:00",
+      "width": 2,
+      "books": 13,
+      "labels": [
+        "Fenerbahce",
+        "Esenler Erokspor"
+      ],
+      "legs": [
+        {
+          "outcome": "Fenerbahce",
+          "book": "William Hill",
+          "odd": 1.7,
+          "stake": 60000,
+          "jp": false,
+          "exch": false,
+          "url": "https://sports.williamhill.com/"
+        },
+        {
+          "outcome": "Esenler Erokspor",
+          "book": "Mozzartbet",
+          "odd": 2.55,
+          "stake": 40000,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.mozzartbet.com/"
+        }
+      ],
+      "S": 0.9803921568627452,
+      "roi": 2.0000000000000018,
+      "profit": 2000,
+      "payout": 102000,
+      "staked": 100000,
+      "mins": 18,
+      "split": {
+        "S": 0.9803921568627452,
+        "payout": 102000,
+        "profit": 2000,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "William Hill",
+            "odd": 1.7,
+            "stake": 60000
           },
           {
-            "book": "1xBet",
-            "odd": 6.67,
-            "stake": 36176
+            "book": "Mozzartbet",
+            "odd": 2.55,
+            "stake": 40000
           }
         ]
       },
