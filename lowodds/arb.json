@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-09T07:53:54.418Z",
+  "generatedAt": "2026-09-09T07:59:33.894Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 14,
-  "arbCount": 3,
+  "arbCount": 2,
   "track": {
     "stake": 100000,
     "all": {
@@ -73,7 +73,7 @@
       "profit": 220144,
       "payout": 320144,
       "staked": 100000,
-      "mins": 6,
+      "mins": 0,
       "split": {
         "S": 0.31235955056179776,
         "payout": 320144,
@@ -148,7 +148,7 @@
       "profit": 134211,
       "payout": 234210,
       "staked": 99999,
-      "mins": 6,
+      "mins": 0,
       "split": {
         "S": 0.4269668222995096,
         "payout": 234210,
@@ -169,66 +169,6 @@
             "book": "1xBet",
             "odd": 6.68,
             "stake": 35061
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    },
-    {
-      "id": "x8PEn3Jr",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Fenerbahce - Esenler Erokspor",
-      "url": "https://www.betexplorer.com/basketball/world/club-friendly/fenerbahce-esenler-erokspor/x8PEn3Jr/",
-      "kickoff": "2026-09-09T17:00:00+09:00",
-      "width": 2,
-      "books": 13,
-      "labels": [
-        "Fenerbahce",
-        "Esenler Erokspor"
-      ],
-      "legs": [
-        {
-          "outcome": "Fenerbahce",
-          "book": "William Hill",
-          "odd": 1.7,
-          "stake": 60000,
-          "jp": false,
-          "exch": false,
-          "url": "https://sports.williamhill.com/"
-        },
-        {
-          "outcome": "Esenler Erokspor",
-          "book": "Mozzartbet",
-          "odd": 2.55,
-          "stake": 40000,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.mozzartbet.com/"
-        }
-      ],
-      "S": 0.9803921568627452,
-      "roi": 2.0000000000000018,
-      "profit": 2000,
-      "payout": 102000,
-      "staked": 100000,
-      "mins": 6,
-      "split": {
-        "S": 0.9803921568627452,
-        "payout": 102000,
-        "profit": 2000,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "William Hill",
-            "odd": 1.7,
-            "stake": 60000
-          },
-          {
-            "book": "Mozzartbet",
-            "odd": 2.55,
-            "stake": 40000
           }
         ]
       },
