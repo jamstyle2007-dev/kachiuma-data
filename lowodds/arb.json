@@ -1,149 +1,28 @@
 {
-  "generatedAt": "2026-09-10T01:25:23.455Z",
+  "generatedAt": "2026-09-10T01:44:42.124Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 4,
-  "arbCount": 2,
+  "scanned": 2,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
-      "count": 302,
-      "profit": 93048832
+      "count": 303,
+      "profit": 93048931
     },
     "year": {
-      "count": 302,
-      "profit": 93048832
+      "count": 303,
+      "profit": 93048931
     },
     "month": {
-      "count": 48,
-      "profit": 47932540
+      "count": 49,
+      "profit": 47932639
     },
     "week": {
-      "count": 17,
-      "profit": 9644847
+      "count": 18,
+      "profit": 9644946
     },
-    "pending": 3
+    "pending": 2
   },
-  "opps": [
-    {
-      "id": "AceyyRLM",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "USA W - Hungary W",
-      "url": "https://www.betexplorer.com/basketball/world/world-cup-women/usa-hungary/AceyyRLM/",
-      "kickoff": "2026-09-10T10:30:00+09:00",
-      "width": 2,
-      "books": 6,
-      "labels": [
-        "USA W",
-        "Hungary W"
-      ],
-      "legs": [
-        {
-          "outcome": "USA W",
-          "book": "888sport",
-          "odd": 888,
-          "stake": 10533,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=888sport%20sportsbook"
-        },
-        {
-          "outcome": "Hungary W",
-          "book": "Betfair Exchange",
-          "odd": 104.55,
-          "stake": 89467,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        }
-      ],
-      "S": 0.010690927656494372,
-      "roi": 9253.725253135863,
-      "profit": 9253725,
-      "payout": 9353725,
-      "staked": 100000,
-      "mins": 5,
-      "split": {
-        "S": 0.010690927656494372,
-        "payout": 9353725,
-        "profit": 9253725,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "888sport",
-            "odd": 888,
-            "stake": 10533
-          },
-          {
-            "book": "Betfair Exchange",
-            "odd": 104.55,
-            "stake": 89467
-          }
-        ]
-      },
-      "hasExch": true,
-      "allJp": false
-    },
-    {
-      "id": "CpsV5pwP",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Doosan Bears - Kiwoom Heroes",
-      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/doosan-bears-kiwoom-heroes/CpsV5pwP/",
-      "kickoff": "2026-09-10T10:30:00+09:00",
-      "width": 2,
-      "books": 19,
-      "labels": [
-        "Doosan Bears",
-        "Kiwoom Heroes"
-      ],
-      "legs": [
-        {
-          "outcome": "Doosan Bears",
-          "book": "Betfair Exchange",
-          "odd": 1.87,
-          "stake": 60632,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        },
-        {
-          "outcome": "Kiwoom Heroes",
-          "book": "BetInAsia",
-          "odd": 2.88,
-          "stake": 39368,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        }
-      ],
-      "S": 0.8819815805109922,
-      "roi": 13.38105263157896,
-      "profit": 13381,
-      "payout": 113381,
-      "staked": 100000,
-      "mins": 5,
-      "split": {
-        "S": 0.8819815805109922,
-        "payout": 113381,
-        "profit": 13381,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betfair Exchange",
-            "odd": 1.87,
-            "stake": 60632
-          },
-          {
-            "book": "BetInAsia",
-            "odd": 2.88,
-            "stake": 39368
-          }
-        ]
-      },
-      "hasExch": true,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
