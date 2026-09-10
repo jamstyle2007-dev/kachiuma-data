@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-10T14:46:09.789Z",
+  "generatedAt": "2026-09-10T14:51:44.235Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 1,
+  "scanned": 3,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "4jehckOE",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "Brazil W - Colombia W",
-      "url": "https://www.betexplorer.com/volleyball/south-america/south-american-championship-women/brazil-colombia/4jehckOE/",
-      "kickoff": "2026-09-11T00:00:00+09:00",
-      "width": 3,
-      "books": 2,
-      "labels": [
-        "Brazil W",
-        "Draw",
-        "Colombia W"
-      ],
-      "legs": [
-        {
-          "outcome": "Brazil W",
-          "book": "3:0",
-          "odd": 3,
-          "stake": 69955,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=3%3A0%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "3:0",
-          "odd": 22.7,
-          "stake": 9245,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=3%3A0%20sportsbook"
-        },
-        {
-          "outcome": "Colombia W",
-          "book": "3:0",
-          "odd": 10.09,
-          "stake": 20799,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=3%3A0%20sportsbook"
-        }
-      ],
-      "S": 0.47649422451970447,
-      "roi": 109.86613237715055,
-      "profit": 109867,
-      "payout": 209866,
-      "staked": 99999,
-      "mins": 14,
-      "split": {
-        "S": 0.47649422451970447,
-        "payout": 209866,
-        "profit": 109867,
-        "staked": 99999,
-        "legs": [
-          {
-            "book": "3:0",
-            "odd": 3,
-            "stake": 69955
-          },
-          {
-            "book": "3:0",
-            "odd": 22.7,
-            "stake": 9245
-          },
-          {
-            "book": "3:0",
-            "odd": 10.09,
-            "stake": 20799
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
