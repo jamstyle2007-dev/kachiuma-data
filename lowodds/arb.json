@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-10T14:29:45.609Z",
+  "generatedAt": "2026-09-10T14:35:12.902Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 2,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 21,
       "profit": 19127935
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "zyMC7SiL",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "New York Yankees - Colorado Rockies",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/new-york-yankees-colorado-rockies/zyMC7SiL/",
+      "kickoff": "2026-09-11T00:05:00+09:00",
+      "width": 2,
+      "books": 19,
+      "labels": [
+        "New York Yankees",
+        "Colorado Rockies"
+      ],
+      "legs": [
+        {
+          "outcome": "New York Yankees",
+          "book": "Mozzartbet",
+          "odd": 1.4,
+          "stake": 72000,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.mozzartbet.com/"
+        },
+        {
+          "outcome": "Colorado Rockies",
+          "book": "bwin",
+          "odd": 3.6,
+          "stake": 28000,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        }
+      ],
+      "S": 0.9920634920634921,
+      "roi": 0.8000000000000007,
+      "profit": 800,
+      "payout": 100800,
+      "staked": 100000,
+      "mins": 30,
+      "split": {
+        "S": 0.9920634920634921,
+        "payout": 100800,
+        "profit": 800,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Mozzartbet",
+            "odd": 1.4,
+            "stake": 72000
+          },
+          {
+            "book": "bwin",
+            "odd": 3.6,
+            "stake": 28000
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
