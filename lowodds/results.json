@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-09-10T05:38:01.040Z",
+  "generatedAt": "2026-09-10T08:41:17.193Z",
   "windowDays": 400,
   "total": 300,
   "hits": 183,
   "hitRate": 0.61,
   "sim": {
     "stake": 10000,
-    "asOf": "2026-09-10T05:38:01.040Z",
+    "asOf": "2026-09-10T08:41:17.193Z",
     "byMinStars": {
       "1": {
         "all": {
-          "n": 5577,
-          "hits": 3606,
-          "staked": 55770000,
-          "returns": 46160000,
-          "profit": -9610000
+          "n": 5578,
+          "hits": 3607,
+          "staked": 55780000,
+          "returns": 46173500,
+          "profit": -9606500
         },
         "year": {
-          "n": 5577,
-          "hits": 3606,
-          "staked": 55770000,
-          "returns": 46160000,
-          "profit": -9610000
+          "n": 5578,
+          "hits": 3607,
+          "staked": 55780000,
+          "returns": 46173500,
+          "profit": -9606500
         },
         "month": {
-          "n": 826,
-          "hits": 530,
-          "staked": 8260000,
-          "returns": 6690300,
-          "profit": -1569700
+          "n": 827,
+          "hits": 531,
+          "staked": 8270000,
+          "returns": 6703800,
+          "profit": -1566200
         },
         "week": {
-          "n": 273,
-          "hits": 159,
-          "staked": 2730000,
-          "returns": 1991600,
-          "profit": -738400
+          "n": 274,
+          "hits": 160,
+          "staked": 2740000,
+          "returns": 2005100,
+          "profit": -734900
         }
       },
       "2": {
         "all": {
-          "n": 3135,
-          "hits": 2248,
-          "staked": 31350000,
-          "returns": 26075900,
-          "profit": -5274100
+          "n": 3136,
+          "hits": 2249,
+          "staked": 31360000,
+          "returns": 26089400,
+          "profit": -5270600
         },
         "year": {
-          "n": 3135,
-          "hits": 2248,
-          "staked": 31350000,
-          "returns": 26075900,
-          "profit": -5274100
+          "n": 3136,
+          "hits": 2249,
+          "staked": 31360000,
+          "returns": 26089400,
+          "profit": -5270600
         },
         "month": {
-          "n": 497,
-          "hits": 358,
-          "staked": 4970000,
-          "returns": 4154600,
-          "profit": -815400
+          "n": 498,
+          "hits": 359,
+          "staked": 4980000,
+          "returns": 4168100,
+          "profit": -811900
         },
         "week": {
-          "n": 170,
-          "hits": 111,
-          "staked": 1700000,
-          "returns": 1281800,
-          "profit": -418200
+          "n": 171,
+          "hits": 112,
+          "staked": 1710000,
+          "returns": 1295300,
+          "profit": -414700
         }
       },
       "3": {
@@ -161,6 +161,23 @@
     }
   },
   "settled": [
+    {
+      "id": "jaa4M5eo",
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "ASIA: ASIAN CHAMPIONSHIP",
+      "favTeam": "Australia",
+      "underTeam": "Thailand",
+      "favIsHome": false,
+      "favOdd": 1.35,
+      "prob": 74,
+      "stars": 2,
+      "kickoff": "2026-09-10T07:30:00+09:00",
+      "homeScore": 0,
+      "awayScore": 3,
+      "isDraw": false,
+      "favWon": true
+    },
     {
       "id": "hAzput4s",
       "sport": "バスケ",
@@ -5241,23 +5258,6 @@
       "kickoff": "2026-09-06T16:30:00+09:00",
       "homeScore": 2,
       "awayScore": 0,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "Gj0LchSH",
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "WORLD: CLUB FRIENDLY",
-      "favTeam": "Iraklis",
-      "underTeam": "AEK Larnaca",
-      "favIsHome": true,
-      "favOdd": 1.2,
-      "prob": 83,
-      "stars": 3,
-      "kickoff": "2026-09-06T16:00:00+09:00",
-      "homeScore": 89,
-      "awayScore": 73,
       "isDraw": false,
       "favWon": true
     }
