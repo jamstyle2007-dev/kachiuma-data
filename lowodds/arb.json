@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-10T00:58:15.861Z",
+  "generatedAt": "2026-09-10T01:03:44.786Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 5,
-  "arbCount": 0,
+  "scanned": 1,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 17,
       "profit": 9644847
     },
-    "pending": 1
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "AceyyRLM",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "USA W - Hungary W",
+      "url": "https://www.betexplorer.com/basketball/world/world-cup-women/usa-hungary/AceyyRLM/",
+      "kickoff": "2026-09-10T10:30:00+09:00",
+      "width": 2,
+      "books": 6,
+      "labels": [
+        "USA W",
+        "Hungary W"
+      ],
+      "legs": [
+        {
+          "outcome": "USA W",
+          "book": "888sport",
+          "odd": 888,
+          "stake": 10533,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=888sport%20sportsbook"
+        },
+        {
+          "outcome": "Hungary W",
+          "book": "Betfair Exchange",
+          "odd": 104.55,
+          "stake": 89467,
+          "jp": true,
+          "exch": true,
+          "url": "https://www.betfair.com/exchange/plus/"
+        }
+      ],
+      "S": 0.010690927656494372,
+      "roi": 9253.725253135863,
+      "profit": 9253725,
+      "payout": 9353725,
+      "staked": 100000,
+      "mins": 26,
+      "split": {
+        "S": 0.010690927656494372,
+        "payout": 9353725,
+        "profit": 9253725,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "888sport",
+            "odd": 888,
+            "stake": 10533
+          },
+          {
+            "book": "Betfair Exchange",
+            "odd": 104.55,
+            "stake": 89467
+          }
+        ]
+      },
+      "hasExch": true,
+      "allJp": false
+    }
+  ]
 }
