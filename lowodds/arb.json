@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-10T06:30:46.270Z",
+  "generatedAt": "2026-09-10T06:36:29.961Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "v9Xgj3tK",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "MBK Handlova - Spisski Rytieri",
-      "url": "https://www.betexplorer.com/basketball/world/club-friendly/mbk-handlova-spisski-rytieri/v9Xgj3tK/",
-      "kickoff": "2026-09-10T16:00:00+09:00",
-      "width": 3,
-      "books": 2,
-      "labels": [
-        "MBK Handlova",
-        "Draw",
-        "Spisski Rytieri"
-      ],
-      "legs": [
-        {
-          "outcome": "MBK Handlova",
-          "book": "79:85",
-          "odd": 79,
-          "stake": 3999,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=79%3A85%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "60:55",
-          "odd": 3.68,
-          "stake": 85838,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=60%3A55%20sportsbook"
-        },
-        {
-          "outcome": "Spisski Rytieri",
-          "book": "79:85",
-          "odd": 31.08,
-          "stake": 10164,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=79%3A85%20sportsbook"
-        }
-      ],
-      "S": 0.3165723904579161,
-      "roi": 215.8835167379943,
-      "profit": 215883,
-      "payout": 315884,
-      "staked": 100001,
-      "mins": 29,
-      "split": {
-        "S": 0.3165723904579161,
-        "payout": 315884,
-        "profit": 215883,
-        "staked": 100001,
-        "legs": [
-          {
-            "book": "79:85",
-            "odd": 79,
-            "stake": 3999
-          },
-          {
-            "book": "60:55",
-            "odd": 3.68,
-            "stake": 85838
-          },
-          {
-            "book": "79:85",
-            "odd": 31.08,
-            "stake": 10164
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
