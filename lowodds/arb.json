@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-11T09:45:02.091Z",
+  "generatedAt": "2026-09-11T09:50:23.999Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 1,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 29,
       "profit": 19351342
     },
-    "pending": 1
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "Kt1aTrEs",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Chicago Cubs - Pittsburgh Pirates",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/chicago-cubs-pittsburgh-pirates/Kt1aTrEs/",
+      "kickoff": "2026-09-11T19:20:00+09:00",
+      "width": 3,
+      "books": 9,
+      "labels": [
+        "Chicago Cubs",
+        "Draw",
+        "Pittsburgh Pirates"
+      ],
+      "legs": [
+        {
+          "outcome": "Chicago Cubs",
+          "book": "17:3",
+          "odd": 17,
+          "stake": 11077,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=17%3A3%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "4:3",
+          "odd": 2.68,
+          "stake": 70261,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=4%3A3%20sportsbook"
+        },
+        {
+          "outcome": "Pittsburgh Pirates",
+          "book": "8:6",
+          "odd": 10.09,
+          "stake": 18662,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=8%3A6%20sportsbook"
+        }
+      ],
+      "S": 0.5310658855202214,
+      "roi": 88.30055314519407,
+      "profit": 88301,
+      "payout": 188301,
+      "staked": 100000,
+      "mins": 30,
+      "split": {
+        "S": 0.5310658855202214,
+        "payout": 188301,
+        "profit": 88301,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "17:3",
+            "odd": 17,
+            "stake": 11077
+          },
+          {
+            "book": "4:3",
+            "odd": 2.68,
+            "stake": 70261
+          },
+          {
+            "book": "8:6",
+            "odd": 10.09,
+            "stake": 18662
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
