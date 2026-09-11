@@ -1,30 +1,90 @@
 {
-  "generatedAt": "2026-09-11T05:33:41.025Z",
+  "generatedAt": "2026-09-11T05:39:22.231Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 13,
-  "arbCount": 1,
+  "scanned": 12,
+  "arbCount": 2,
   "track": {
     "stake": 100000,
     "all": {
-      "count": 311,
-      "profit": 102754701
+      "count": 312,
+      "profit": 102754895
     },
     "year": {
-      "count": 311,
-      "profit": 102754701
+      "count": 312,
+      "profit": 102754895
     },
     "month": {
-      "count": 57,
-      "profit": 57638409
+      "count": 58,
+      "profit": 57638603
     },
     "week": {
-      "count": 26,
-      "profit": 19350716
+      "count": 27,
+      "profit": 19350910
     },
     "pending": 2
   },
   "opps": [
+    {
+      "id": "pY3FdPp4",
+      "sport": "volleyball",
+      "sportLabel": "バレー",
+      "teams": "Germany - Latvia",
+      "url": "https://www.betexplorer.com/volleyball/europe/european-championships/germany-latvia/pY3FdPp4/",
+      "kickoff": "2026-09-11T15:00:00+09:00",
+      "width": 2,
+      "books": 16,
+      "labels": [
+        "Germany",
+        "Latvia"
+      ],
+      "legs": [
+        {
+          "outcome": "Germany",
+          "book": "BetInAsia",
+          "odd": 1.1,
+          "stake": 91129,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.betinasia.com/"
+        },
+        {
+          "outcome": "Latvia",
+          "book": "1xBet",
+          "odd": 11.3,
+          "stake": 8871,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        }
+      ],
+      "S": 0.997586484312148,
+      "roi": 0.24193548387096975,
+      "profit": 242,
+      "payout": 100242,
+      "staked": 100000,
+      "mins": 21,
+      "split": {
+        "S": 0.997586484312148,
+        "payout": 100242,
+        "profit": 242,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "BetInAsia",
+            "odd": 1.1,
+            "stake": 91129
+          },
+          {
+            "book": "1xBet",
+            "odd": 11.3,
+            "stake": 8871
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    },
     {
       "id": "ANmha3lC",
       "sport": "volleyball",
@@ -63,7 +123,7 @@
       "profit": 190,
       "payout": 100190,
       "staked": 100000,
-      "mins": 26,
+      "mins": 21,
       "split": {
         "S": 0.9981005626635129,
         "payout": 100190,
