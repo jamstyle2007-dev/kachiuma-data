@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-11T02:18:48.081Z",
+  "generatedAt": "2026-09-11T02:24:13.375Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 0,
+  "scanned": 4,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 23,
       "profit": 19238602
     },
-    "pending": 3
+    "pending": 4
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "t6q0BMvf",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Wei Chuan Dragons - Uni Lions",
+      "url": "https://www.betexplorer.com/baseball/taiwan/cpbl/wei-chuan-dragons-uni-lions/t6q0BMvf/",
+      "kickoff": "2026-09-11T11:35:00+09:00",
+      "width": 2,
+      "books": 14,
+      "labels": [
+        "Wei Chuan Dragons",
+        "Uni Lions"
+      ],
+      "legs": [
+        {
+          "outcome": "Wei Chuan Dragons",
+          "book": "Betsson",
+          "odd": 1.72,
+          "stake": 58252,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.betsson.com/"
+        },
+        {
+          "outcome": "Uni Lions",
+          "book": "Cloudbet",
+          "odd": 2.4,
+          "stake": 41748,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.cloudbet.com/"
+        }
+      ],
+      "S": 0.998062015503876,
+      "roi": 0.1941747572815622,
+      "profit": 194,
+      "payout": 100194,
+      "staked": 100000,
+      "mins": 11,
+      "split": {
+        "S": 0.998062015503876,
+        "payout": 100194,
+        "profit": 194,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Betsson",
+            "odd": 1.72,
+            "stake": 58252
+          },
+          {
+            "book": "Cloudbet",
+            "odd": 2.4,
+            "stake": 41748
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
