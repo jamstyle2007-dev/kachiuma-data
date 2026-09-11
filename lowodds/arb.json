@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-11T07:29:05.165Z",
+  "generatedAt": "2026-09-11T07:34:29.383Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 0,
+  "scanned": 3,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 27,
       "profit": 19350910
     },
-    "pending": 2
+    "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "CG2I1n15",
+      "sport": "handball",
+      "sportLabel": "ハンドボール",
+      "teams": "Veszprem - Dabas",
+      "url": "https://www.betexplorer.com/handball/hungary/nb-i/veszprem-dabas-vse-kc/CG2I1n15/",
+      "kickoff": "2026-09-11T17:00:00+09:00",
+      "width": 2,
+      "books": 5,
+      "labels": [
+        "Veszprem",
+        "Dabas"
+      ],
+      "legs": [
+        {
+          "outcome": "Veszprem",
+          "book": "bwin",
+          "odd": 81,
+          "stake": 50000,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        },
+        {
+          "outcome": "Dabas",
+          "book": "bwin",
+          "odd": 81,
+          "stake": 50000,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        }
+      ],
+      "S": 0.024691358024691357,
+      "roi": 3950,
+      "profit": 3950000,
+      "payout": 4050000,
+      "staked": 100000,
+      "mins": 26,
+      "split": {
+        "S": 0.024691358024691357,
+        "payout": 4050000,
+        "profit": 3950000,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "bwin",
+            "odd": 81,
+            "stake": 50000
+          },
+          {
+            "book": "bwin",
+            "odd": 81,
+            "stake": 50000
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    }
+  ]
 }
