@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T00:18:41.446Z",
+  "generatedAt": "2026-09-11T00:24:06.050Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
@@ -43,42 +43,42 @@
           "outcome": "Maccabi Rehovot",
           "book": "bwin",
           "odd": 1.17,
-          "stake": 86022,
+          "stake": 85679,
           "jp": true,
           "exch": false,
           "url": "https://sports.bwin.com/"
         },
         {
           "outcome": "Maccabi Kiryat Gat",
-          "book": "Bets.io",
-          "odd": 7.2,
-          "stake": 13978,
+          "book": "William Hill",
+          "odd": 7,
+          "stake": 14321,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
+          "url": "https://sports.williamhill.com/"
         }
       ],
-      "S": 0.9935897435897436,
-      "roi": 0.6451612903225712,
-      "profit": 645,
-      "payout": 100645,
+      "S": 0.9975579975579976,
+      "roi": 0.244798041615657,
+      "profit": 245,
+      "payout": 100245,
       "staked": 100000,
-      "mins": 11,
+      "mins": 6,
       "split": {
-        "S": 0.9935897435897436,
-        "payout": 100645,
-        "profit": 645,
+        "S": 0.9975579975579976,
+        "payout": 100245,
+        "profit": 245,
         "staked": 100000,
         "legs": [
           {
             "book": "bwin",
             "odd": 1.17,
-            "stake": 86022
+            "stake": 85679
           },
           {
-            "book": "Bets.io",
-            "odd": 7.2,
-            "stake": 13978
+            "book": "William Hill",
+            "odd": 7,
+            "stake": 14321
           }
         ]
       },
