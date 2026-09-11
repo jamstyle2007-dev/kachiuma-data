@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T05:39:22.231Z",
+  "generatedAt": "2026-09-11T05:45:05.741Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 12,
@@ -43,7 +43,7 @@
           "outcome": "Germany",
           "book": "BetInAsia",
           "odd": 1.1,
-          "stake": 91129,
+          "stake": 91473,
           "jp": true,
           "exch": false,
           "url": "https://www.betinasia.com/"
@@ -51,34 +51,34 @@
         {
           "outcome": "Latvia",
           "book": "1xBet",
-          "odd": 11.3,
-          "stake": 8871,
+          "odd": 11.8,
+          "stake": 8527,
           "jp": true,
           "exch": false,
           "url": "https://1xbet.com/ja"
         }
       ],
-      "S": 0.997586484312148,
-      "roi": 0.24193548387096975,
-      "profit": 242,
-      "payout": 100242,
+      "S": 0.9938366718027735,
+      "roi": 0.6201550387596955,
+      "profit": 620,
+      "payout": 100620,
       "staked": 100000,
-      "mins": 21,
+      "mins": 15,
       "split": {
-        "S": 0.997586484312148,
-        "payout": 100242,
-        "profit": 242,
+        "S": 0.9938366718027735,
+        "payout": 100620,
+        "profit": 620,
         "staked": 100000,
         "legs": [
           {
             "book": "BetInAsia",
             "odd": 1.1,
-            "stake": 91129
+            "stake": 91473
           },
           {
             "book": "1xBet",
-            "odd": 11.3,
-            "stake": 8871
+            "odd": 11.8,
+            "stake": 8527
           }
         ]
       },
@@ -123,7 +123,7 @@
       "profit": 190,
       "payout": 100190,
       "staked": 100000,
-      "mins": 21,
+      "mins": 15,
       "split": {
         "S": 0.9981005626635129,
         "payout": 100190,
