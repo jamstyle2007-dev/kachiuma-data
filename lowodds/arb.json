@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-11T01:29:54.156Z",
+  "generatedAt": "2026-09-11T01:35:26.133Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 7,
-  "arbCount": 2,
+  "scanned": 2,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,126 +24,5 @@
     },
     "pending": 3
   },
-  "opps": [
-    {
-      "id": "WlEeM5N5",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "KIA Tigers - SSG Landers",
-      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/kia-tigers-ssg-landers/WlEeM5N5/",
-      "kickoff": "2026-09-11T10:30:00+09:00",
-      "width": 2,
-      "books": 19,
-      "labels": [
-        "KIA Tigers",
-        "SSG Landers"
-      ],
-      "legs": [
-        {
-          "outcome": "KIA Tigers",
-          "book": "1xBet",
-          "odd": 1.68,
-          "stake": 64103,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "SSG Landers",
-          "book": "Unibet",
-          "odd": 3,
-          "stake": 35897,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.unibet.com/"
-        }
-      ],
-      "S": 0.9285714285714286,
-      "roi": 7.692307692307687,
-      "profit": 7692,
-      "payout": 107692,
-      "staked": 100000,
-      "mins": 0,
-      "split": {
-        "S": 0.9285714285714286,
-        "payout": 107692,
-        "profit": 7692,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 1.68,
-            "stake": 64103
-          },
-          {
-            "book": "Unibet",
-            "odd": 3,
-            "stake": 35897
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    },
-    {
-      "id": "UBOyNvJ0",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Hanwha Eagles - NC Dinos",
-      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/hanwha-eagles-nc-dinos/UBOyNvJ0/",
-      "kickoff": "2026-09-11T10:30:00+09:00",
-      "width": 2,
-      "books": 19,
-      "labels": [
-        "Hanwha Eagles",
-        "NC Dinos"
-      ],
-      "legs": [
-        {
-          "outcome": "Hanwha Eagles",
-          "book": "1xBet",
-          "odd": 2.07,
-          "stake": 48762,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "NC Dinos",
-          "book": "Unibet",
-          "odd": 1.97,
-          "stake": 51238,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.unibet.com/"
-        }
-      ],
-      "S": 0.9907060006375831,
-      "roi": 0.9381188118811945,
-      "profit": 938,
-      "payout": 100938,
-      "staked": 100000,
-      "mins": 0,
-      "split": {
-        "S": 0.9907060006375831,
-        "payout": 100938,
-        "profit": 938,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 2.07,
-            "stake": 48762
-          },
-          {
-            "book": "Unibet",
-            "odd": 1.97,
-            "stake": 51238
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
