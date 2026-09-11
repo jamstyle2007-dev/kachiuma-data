@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-11T00:56:43.091Z",
+  "generatedAt": "2026-09-11T01:02:13.932Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 6,
-  "arbCount": 0,
+  "scanned": 4,
+  "arbCount": 2,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,143 @@
       "count": 23,
       "profit": 19238602
     },
-    "pending": 1
+    "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "UBOyNvJ0",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Hanwha Eagles - NC Dinos",
+      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/hanwha-eagles-nc-dinos/UBOyNvJ0/",
+      "kickoff": "2026-09-11T10:30:00+09:00",
+      "width": 3,
+      "books": 10,
+      "labels": [
+        "Hanwha Eagles",
+        "Draw",
+        "NC Dinos"
+      ],
+      "legs": [
+        {
+          "outcome": "Hanwha Eagles",
+          "book": "19:3",
+          "odd": 19,
+          "stake": 10725,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=19%3A3%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "13:11",
+          "odd": 2.47,
+          "stake": 82500,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=13%3A11%20sportsbook"
+        },
+        {
+          "outcome": "NC Dinos",
+          "book": "7:10",
+          "odd": 30.08,
+          "stake": 6774,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=7%3A10%20sportsbook"
+        }
+      ],
+      "S": 0.4907345593935739,
+      "roi": 103.7761516604316,
+      "profit": 103777,
+      "payout": 203776,
+      "staked": 99999,
+      "mins": 28,
+      "split": {
+        "S": 0.4907345593935739,
+        "payout": 203776,
+        "profit": 103777,
+        "staked": 99999,
+        "legs": [
+          {
+            "book": "19:3",
+            "odd": 19,
+            "stake": 10725
+          },
+          {
+            "book": "13:11",
+            "odd": 2.47,
+            "stake": 82500
+          },
+          {
+            "book": "7:10",
+            "odd": 30.08,
+            "stake": 6774
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "WlEeM5N5",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "KIA Tigers - SSG Landers",
+      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/kia-tigers-ssg-landers/WlEeM5N5/",
+      "kickoff": "2026-09-11T10:30:00+09:00",
+      "width": 2,
+      "books": 19,
+      "labels": [
+        "KIA Tigers",
+        "SSG Landers"
+      ],
+      "legs": [
+        {
+          "outcome": "KIA Tigers",
+          "book": "1xBet",
+          "odd": 1.68,
+          "stake": 64103,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        },
+        {
+          "outcome": "SSG Landers",
+          "book": "Unibet",
+          "odd": 3,
+          "stake": 35897,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.unibet.com/"
+        }
+      ],
+      "S": 0.9285714285714286,
+      "roi": 7.692307692307687,
+      "profit": 7692,
+      "payout": 107692,
+      "staked": 100000,
+      "mins": 28,
+      "split": {
+        "S": 0.9285714285714286,
+        "payout": 107692,
+        "profit": 7692,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "1xBet",
+            "odd": 1.68,
+            "stake": 64103
+          },
+          {
+            "book": "Unibet",
+            "odd": 3,
+            "stake": 35897
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
