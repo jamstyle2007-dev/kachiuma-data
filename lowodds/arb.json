@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-11T05:45:05.741Z",
+  "generatedAt": "2026-09-11T05:50:45.544Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 12,
-  "arbCount": 2,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -25,66 +25,6 @@
     "pending": 2
   },
   "opps": [
-    {
-      "id": "pY3FdPp4",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "Germany - Latvia",
-      "url": "https://www.betexplorer.com/volleyball/europe/european-championships/germany-latvia/pY3FdPp4/",
-      "kickoff": "2026-09-11T15:00:00+09:00",
-      "width": 2,
-      "books": 16,
-      "labels": [
-        "Germany",
-        "Latvia"
-      ],
-      "legs": [
-        {
-          "outcome": "Germany",
-          "book": "BetInAsia",
-          "odd": 1.1,
-          "stake": 91473,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        },
-        {
-          "outcome": "Latvia",
-          "book": "1xBet",
-          "odd": 11.8,
-          "stake": 8527,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        }
-      ],
-      "S": 0.9938366718027735,
-      "roi": 0.6201550387596955,
-      "profit": 620,
-      "payout": 100620,
-      "staked": 100000,
-      "mins": 15,
-      "split": {
-        "S": 0.9938366718027735,
-        "payout": 100620,
-        "profit": 620,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "BetInAsia",
-            "odd": 1.1,
-            "stake": 91473
-          },
-          {
-            "book": "1xBet",
-            "odd": 11.8,
-            "stake": 8527
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": true
-    },
     {
       "id": "ANmha3lC",
       "sport": "volleyball",
@@ -123,7 +63,7 @@
       "profit": 190,
       "payout": 100190,
       "staked": 100000,
-      "mins": 15,
+      "mins": 9,
       "split": {
         "S": 0.9981005626635129,
         "payout": 100190,
