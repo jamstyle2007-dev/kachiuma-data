@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-11T00:07:52.145Z",
+  "generatedAt": "2026-09-11T00:13:17.052Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 23,
       "profit": 19238602
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "dCO5aE55",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Maccabi Rehovot - Maccabi Kiryat Gat",
+      "url": "https://www.betexplorer.com/basketball/world/club-friendly/maccabi-rehovot-maccabi-kiryat-gat/dCO5aE55/",
+      "kickoff": "2026-09-11T09:30:00+09:00",
+      "width": 2,
+      "books": 10,
+      "labels": [
+        "Maccabi Rehovot",
+        "Maccabi Kiryat Gat"
+      ],
+      "legs": [
+        {
+          "outcome": "Maccabi Rehovot",
+          "book": "bwin",
+          "odd": 1.17,
+          "stake": 86022,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        },
+        {
+          "outcome": "Maccabi Kiryat Gat",
+          "book": "Bets.io",
+          "odd": 7.2,
+          "stake": 13978,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
+        }
+      ],
+      "S": 0.9935897435897436,
+      "roi": 0.6451612903225712,
+      "profit": 645,
+      "payout": 100645,
+      "staked": 100000,
+      "mins": 17,
+      "split": {
+        "S": 0.9935897435897436,
+        "payout": 100645,
+        "profit": 645,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "bwin",
+            "odd": 1.17,
+            "stake": 86022
+          },
+          {
+            "book": "Bets.io",
+            "odd": 7.2,
+            "stake": 13978
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
