@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-09-12T15:35:42.159Z",
+  "generatedAt": "2026-09-12T18:38:14.382Z",
   "windowDays": 400,
   "total": 300,
   "hits": 193,
   "hitRate": 0.6433333333333333,
   "sim": {
     "stake": 10000,
-    "asOf": "2026-09-12T15:35:42.159Z",
+    "asOf": "2026-09-12T18:38:14.382Z",
     "byMinStars": {
       "1": {
         "all": {
-          "n": 5846,
-          "hits": 3783,
-          "staked": 58460000,
-          "returns": 48410900,
-          "profit": -10049100
+          "n": 5849,
+          "hits": 3784,
+          "staked": 58490000,
+          "returns": 48424000,
+          "profit": -10066000
         },
         "year": {
-          "n": 5846,
-          "hits": 3783,
-          "staked": 58460000,
-          "returns": 48410900,
-          "profit": -10049100
+          "n": 5849,
+          "hits": 3784,
+          "staked": 58490000,
+          "returns": 48424000,
+          "profit": -10066000
         },
         "month": {
-          "n": 1095,
-          "hits": 707,
-          "staked": 10950000,
-          "returns": 8941200,
-          "profit": -2008800
+          "n": 1098,
+          "hits": 708,
+          "staked": 10980000,
+          "returns": 8954300,
+          "profit": -2025700
         },
         "week": {
-          "n": 542,
-          "hits": 336,
-          "staked": 5420000,
-          "returns": 4242500,
-          "profit": -1177500
+          "n": 545,
+          "hits": 337,
+          "staked": 5450000,
+          "returns": 4255600,
+          "profit": -1194400
         }
       },
       "2": {
         "all": {
-          "n": 3291,
-          "hits": 2360,
-          "staked": 32910000,
-          "returns": 27364700,
-          "profit": -5545300
+          "n": 3293,
+          "hits": 2361,
+          "staked": 32930000,
+          "returns": 27377800,
+          "profit": -5552200
         },
         "year": {
-          "n": 3291,
-          "hits": 2360,
-          "staked": 32910000,
-          "returns": 27364700,
-          "profit": -5545300
+          "n": 3293,
+          "hits": 2361,
+          "staked": 32930000,
+          "returns": 27377800,
+          "profit": -5552200
         },
         "month": {
-          "n": 653,
-          "hits": 470,
-          "staked": 6530000,
-          "returns": 5443400,
-          "profit": -1086600
+          "n": 655,
+          "hits": 471,
+          "staked": 6550000,
+          "returns": 5456500,
+          "profit": -1093500
         },
         "week": {
-          "n": 326,
-          "hits": 223,
-          "staked": 3260000,
-          "returns": 2570600,
-          "profit": -689400
+          "n": 328,
+          "hits": 224,
+          "staked": 3280000,
+          "returns": 2583700,
+          "profit": -696300
         }
       },
       "3": {
@@ -162,6 +162,40 @@
   },
   "settled": [
     {
+      "id": "riss834T",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "WTA - SINGLES: GUADALAJARA, HARD",
+      "favTeam": "Monnet C.",
+      "underTeam": "Garcia J.",
+      "favIsHome": true,
+      "favOdd": 1.34,
+      "prob": 75,
+      "stars": 2,
+      "kickoff": "2026-09-12T19:30:00+09:00",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isDraw": true,
+      "favWon": false
+    },
+    {
+      "id": "GAP5W8Qj",
+      "sport": "野球",
+      "sportKey": "baseball",
+      "league": "USA: MLB",
+      "favTeam": "New York Yankees",
+      "underTeam": "New York Mets",
+      "favIsHome": true,
+      "favOdd": 1.58,
+      "prob": 63,
+      "stars": 1,
+      "kickoff": "2026-09-12T18:35:00+09:00",
+      "homeScore": 1,
+      "awayScore": 4,
+      "isDraw": false,
+      "favWon": false
+    },
+    {
       "id": "byUlBOac",
       "sport": "バレー",
       "sportKey": "volleyball",
@@ -175,6 +209,23 @@
       "kickoff": "2026-09-12T15:00:00+09:00",
       "homeScore": 3,
       "awayScore": 0,
+      "isDraw": false,
+      "favWon": true
+    },
+    {
+      "id": "WCxgj85s",
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "EUROPE: EUROPEAN CHAMPIONSHIPS",
+      "favTeam": "Czech Republic",
+      "underTeam": "Sweden",
+      "favIsHome": false,
+      "favOdd": 1.31,
+      "prob": 76,
+      "stars": 2,
+      "kickoff": "2026-09-12T15:00:00+09:00",
+      "homeScore": 2,
+      "awayScore": 3,
       "isDraw": false,
       "favWon": true
     },
@@ -5207,57 +5258,6 @@
       "kickoff": "2026-09-09T19:45:00+09:00",
       "homeScore": 1,
       "awayScore": 2,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "McRnjAM6",
-      "sport": "野球",
-      "sportKey": "baseball",
-      "league": "USA: IL",
-      "favTeam": "Memphis Redbirds",
-      "underTeam": "Norfolk Tides",
-      "favIsHome": true,
-      "favOdd": 1.5,
-      "prob": 67,
-      "stars": 1,
-      "kickoff": "2026-09-09T18:05:00+09:00",
-      "homeScore": 1,
-      "awayScore": 6,
-      "isDraw": false,
-      "favWon": false
-    },
-    {
-      "id": "fVo82fHP",
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "EUROPE: EUROPEAN CHAMPIONSHIPS",
-      "favTeam": "Romania",
-      "underTeam": "Latvia",
-      "favIsHome": true,
-      "favOdd": 1.31,
-      "prob": 76,
-      "stars": 2,
-      "kickoff": "2026-09-09T18:00:00+09:00",
-      "homeScore": 1,
-      "awayScore": 1,
-      "isDraw": true,
-      "favWon": false
-    },
-    {
-      "id": "S82DpCv9",
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "SOUTH AMERICA: SOUTH AMERICAN CHAMPIONSHIP WOMEN",
-      "favTeam": "Chile W",
-      "underTeam": "Venezuela W",
-      "favIsHome": true,
-      "favOdd": 1.26,
-      "prob": 79,
-      "stars": 2,
-      "kickoff": "2026-09-09T18:00:00+09:00",
-      "homeScore": 2,
-      "awayScore": 1,
       "isDraw": false,
       "favWon": true
     }
