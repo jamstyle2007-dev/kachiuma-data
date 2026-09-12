@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-12T11:49:16.400Z",
+  "generatedAt": "2026-09-12T11:54:55.131Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 5,
-  "arbCount": 3,
+  "arbCount": 5,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,7 @@
       "count": 31,
       "profit": 23389643
     },
-    "pending": 6
+    "pending": 8
   },
   "opps": [
     {
@@ -73,7 +73,7 @@
       "profit": 121274,
       "payout": 221274,
       "staked": 100000,
-      "mins": 16,
+      "mins": 10,
       "split": {
         "S": 0.4519281185947852,
         "payout": 221274,
@@ -101,6 +101,81 @@
       "allJp": false
     },
     {
+      "id": "WxlZyV2T",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Miami Marlins - Los Angeles Dodgers",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/miami-marlins-los-angeles-dodgers/WxlZyV2T/",
+      "kickoff": "2026-09-12T21:10:00+09:00",
+      "width": 3,
+      "books": 9,
+      "labels": [
+        "Miami Marlins",
+        "Draw",
+        "Los Angeles Dodgers"
+      ],
+      "legs": [
+        {
+          "outcome": "Miami Marlins",
+          "book": "14:15",
+          "odd": 14,
+          "stake": 13475,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=14%3A15%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "2:6",
+          "odd": 2.66,
+          "stake": 70921,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=2%3A6%20sportsbook"
+        },
+        {
+          "outcome": "Los Angeles Dodgers",
+          "book": "2:6",
+          "odd": 12.09,
+          "stake": 15604,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=2%3A6%20sportsbook"
+        }
+      ],
+      "S": 0.5300814069914239,
+      "roi": 88.650268960703,
+      "profit": 88650,
+      "payout": 188650,
+      "staked": 100000,
+      "mins": 15,
+      "split": {
+        "S": 0.5300814069914239,
+        "payout": 188650,
+        "profit": 88650,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "14:15",
+            "odd": 14,
+            "stake": 13475
+          },
+          {
+            "book": "2:6",
+            "odd": 2.66,
+            "stake": 70921
+          },
+          {
+            "book": "2:6",
+            "odd": 12.09,
+            "stake": 15604
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
       "id": "dQQZ6k23",
       "sport": "baseball",
       "sportLabel": "野球",
@@ -119,7 +194,7 @@
           "outcome": "San Francisco Giants",
           "book": "13:12",
           "odd": 13,
-          "stake": 14514,
+          "stake": 14401,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=13%3A12%20sportsbook"
@@ -127,8 +202,8 @@
         {
           "outcome": "Draw",
           "book": "10:6",
-          "odd": 2.7,
-          "stake": 69880,
+          "odd": 2.67,
+          "stake": 70115,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=10%3A6%20sportsbook"
@@ -137,38 +212,113 @@
           "outcome": "San Diego Padres",
           "book": "5:7",
           "odd": 12.09,
-          "stake": 15606,
+          "stake": 15484,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=5%3A7%20sportsbook"
         }
       ],
-      "S": 0.5300064332322396,
-      "roi": 88.67695508930123,
-      "profit": 88677,
-      "payout": 188677,
+      "S": 0.5341678980678619,
+      "roi": 87.20705673573774,
+      "profit": 87207,
+      "payout": 187207,
       "staked": 100000,
-      "mins": 16,
+      "mins": 10,
       "split": {
-        "S": 0.5300064332322396,
-        "payout": 188677,
-        "profit": 88677,
+        "S": 0.5341678980678619,
+        "payout": 187207,
+        "profit": 87207,
         "staked": 100000,
         "legs": [
           {
             "book": "13:12",
             "odd": 13,
-            "stake": 14514
+            "stake": 14401
           },
           {
             "book": "10:6",
-            "odd": 2.7,
-            "stake": 69880
+            "odd": 2.67,
+            "stake": 70115
           },
           {
             "book": "5:7",
             "odd": 12.09,
-            "stake": 15606
+            "stake": 15484
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "IZ50hjmA",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Minnesota Twins - Cleveland Guardians",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/minnesota-twins-cleveland-guardians/IZ50hjmA/",
+      "kickoff": "2026-09-12T21:10:00+09:00",
+      "width": 3,
+      "books": 10,
+      "labels": [
+        "Minnesota Twins",
+        "Draw",
+        "Cleveland Guardians"
+      ],
+      "legs": [
+        {
+          "outcome": "Minnesota Twins",
+          "book": "15:2",
+          "odd": 15,
+          "stake": 11114,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=15%3A2%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "10:1",
+          "odd": 2.22,
+          "stake": 75096,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=10%3A1%20sportsbook"
+        },
+        {
+          "outcome": "Cleveland Guardians",
+          "book": "2:5",
+          "odd": 12.09,
+          "stake": 13789,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=2%3A5%20sportsbook"
+        }
+      ],
+      "S": 0.5998301030559094,
+      "roi": 66.71387362944523,
+      "profit": 66715,
+      "payout": 166714,
+      "staked": 99999,
+      "mins": 15,
+      "split": {
+        "S": 0.5998301030559094,
+        "payout": 166714,
+        "profit": 66715,
+        "staked": 99999,
+        "legs": [
+          {
+            "book": "15:2",
+            "odd": 15,
+            "stake": 11114
+          },
+          {
+            "book": "10:1",
+            "odd": 2.22,
+            "stake": 75096
+          },
+          {
+            "book": "2:5",
+            "odd": 12.09,
+            "stake": 13789
           }
         ]
       },
@@ -223,7 +373,7 @@
       "profit": 52466,
       "payout": 152466,
       "staked": 100000,
-      "mins": 21,
+      "mins": 15,
       "split": {
         "S": 0.6558837176461094,
         "payout": 152466,
