@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-12T10:56:46.846Z",
+  "generatedAt": "2026-09-12T11:02:10.843Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 31,
       "profit": 23389643
     },
-    "pending": 2
+    "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "rylj2tZO",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Toronto Blue Jays - Baltimore Orioles",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/toronto-blue-jays-baltimore-orioles/rylj2tZO/",
+      "kickoff": "2026-09-12T20:07:00+09:00",
+      "width": 3,
+      "books": 9,
+      "labels": [
+        "Toronto Blue Jays",
+        "Draw",
+        "Baltimore Orioles"
+      ],
+      "legs": [
+        {
+          "outcome": "Toronto Blue Jays",
+          "book": "6:5",
+          "odd": 6,
+          "stake": 25475,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=6%3A5%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "2:4",
+          "odd": 2.47,
+          "stake": 61882,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=2%3A4%20sportsbook"
+        },
+        {
+          "outcome": "Baltimore Orioles",
+          "book": "4:7",
+          "odd": 12.09,
+          "stake": 12643,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=4%3A7%20sportsbook"
+        }
+      ],
+      "S": 0.6542379522006008,
+      "roi": 52.84958578700469,
+      "profit": 52850,
+      "payout": 152850,
+      "staked": 100000,
+      "mins": 5,
+      "split": {
+        "S": 0.6542379522006008,
+        "payout": 152850,
+        "profit": 52850,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "6:5",
+            "odd": 6,
+            "stake": 25475
+          },
+          {
+            "book": "2:4",
+            "odd": 2.47,
+            "stake": 61882
+          },
+          {
+            "book": "4:7",
+            "odd": 12.09,
+            "stake": 12643
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
