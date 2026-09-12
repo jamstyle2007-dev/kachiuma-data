@@ -23,8 +23,8 @@
    "jockey": "Ｍデムーロ",
    "weight": 56.0,
    "sexAge": "牡4",
-   "popularity": 12,
-   "winOdds": 37.2,
+   "popularity": 14,
+   "winOdds": 51.1,
    "placeOdds": [
     6.6,
     9.7
@@ -84,8 +84,8 @@
    "jockey": "松本",
    "weight": 55.0,
    "sexAge": "牡4",
-   "popularity": 7,
-   "winOdds": 12.8,
+   "popularity": 8,
+   "winOdds": 18.1,
    "placeOdds": [
     4.8,
     7.1
@@ -145,8 +145,8 @@
    "jockey": "西塚",
    "weight": 56.0,
    "sexAge": "牡4",
-   "popularity": 14,
-   "winOdds": 42.1,
+   "popularity": 13,
+   "winOdds": 50.0,
    "placeOdds": [
     6.3,
     9.3
@@ -207,7 +207,7 @@
    "weight": 57.0,
    "sexAge": "牡5",
    "popularity": 6,
-   "winOdds": 11.6,
+   "winOdds": 15.4,
    "placeOdds": [
     2.8,
     4.0
@@ -267,8 +267,8 @@
    "jockey": "佐々木",
    "weight": 55.0,
    "sexAge": "牡5",
-   "popularity": 10,
-   "winOdds": 26.4,
+   "popularity": 7,
+   "winOdds": 17.1,
    "placeOdds": [
     5.3,
     7.8
@@ -329,7 +329,7 @@
    "weight": 53.0,
    "sexAge": "牡6",
    "popularity": 16,
-   "winOdds": 106.4,
+   "winOdds": 220.5,
    "placeOdds": [
     15.2,
     22.5
@@ -390,7 +390,7 @@
    "weight": 57.0,
    "sexAge": "牡4",
    "popularity": 5,
-   "winOdds": 10.5,
+   "winOdds": 10.8,
    "placeOdds": [
     3.5,
     5.1
@@ -450,8 +450,8 @@
    "jockey": "ルメール",
    "weight": 58.0,
    "sexAge": "牡4",
-   "popularity": 8,
-   "winOdds": 15.6,
+   "popularity": 9,
+   "winOdds": 18.5,
    "placeOdds": [
     4.1,
     5.9
@@ -512,7 +512,7 @@
    "weight": 54.0,
    "sexAge": "牡3",
    "popularity": 1,
-   "winOdds": 3.8,
+   "winOdds": 3.5,
    "placeOdds": [
     1.5,
     1.8
@@ -573,7 +573,7 @@
    "weight": 58.0,
    "sexAge": "牡5",
    "popularity": 4,
-   "winOdds": 9.8,
+   "winOdds": 8.5,
    "placeOdds": [
     2.7,
     3.9
@@ -634,7 +634,7 @@
    "weight": 54.0,
    "sexAge": "牝4",
    "popularity": 2,
-   "winOdds": 4.6,
+   "winOdds": 4.5,
    "placeOdds": [
     1.6,
     2.1
@@ -694,8 +694,8 @@
    "jockey": "松若",
    "weight": 55.5,
    "sexAge": "牝4",
-   "popularity": 13,
-   "winOdds": 39.7,
+   "popularity": 12,
+   "winOdds": 36.1,
    "placeOdds": [
     6.8,
     10.0
@@ -755,8 +755,8 @@
    "jockey": "川田",
    "weight": 56.0,
    "sexAge": "牡6",
-   "popularity": 9,
-   "winOdds": 18.8,
+   "popularity": 11,
+   "winOdds": 26.0,
    "placeOdds": [
     3.6,
     5.2
@@ -816,8 +816,8 @@
    "jockey": "西村淳",
    "weight": 55.0,
    "sexAge": "セ4",
-   "popularity": 11,
-   "winOdds": 34.0,
+   "popularity": 10,
+   "winOdds": 21.0,
    "placeOdds": [
     6.0,
     8.8
@@ -878,7 +878,7 @@
    "weight": 58.0,
    "sexAge": "牡4",
    "popularity": 3,
-   "winOdds": 7.4,
+   "winOdds": 7.1,
    "placeOdds": [
     2.0,
     2.7
@@ -939,7 +939,7 @@
    "weight": 58.0,
    "sexAge": "セ7",
    "popularity": 15,
-   "winOdds": 87.4,
+   "winOdds": 155.1,
    "placeOdds": [
     13.1,
     19.4
@@ -993,5 +993,25 @@
     }
    ]
   }
- ]
+ ],
+ "scratched": [
+  {
+   "num": 13,
+   "name": "グランヴィノス",
+   "reason": "競走中止(レース中)"
+  }
+ ],
+ "result": {
+  "first": 15,
+  "second": 8,
+  "third": 7,
+  "tanshoPay": 710,
+  "fukushoPay": [
+   220,
+   510,
+   380
+  ],
+  "sanrenpukuPay": 16840,
+  "sanrentanPay": 85250
+ }
 }

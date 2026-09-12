@@ -7,7 +7,7 @@
  "surface": "ダ",
  "distance": 1200,
  "postTime": "15:30",
- "trackCondition": "不",
+ "trackCondition": "重",
  "conditionType": "別定",
  "fieldSize": 16,
  "status": "発走前確定",
@@ -23,8 +23,8 @@
    "jockey": "石橋脩",
    "weight": 55.0,
    "sexAge": "牝5",
-   "popularity": 7,
-   "winOdds": 14.5,
+   "popularity": 12,
+   "winOdds": 39.8,
    "placeOdds": [
     4.5,
     5.5
@@ -84,8 +84,8 @@
    "jockey": "大野",
    "weight": 55.0,
    "sexAge": "牝5",
-   "popularity": 12,
-   "winOdds": 17.8,
+   "popularity": 10,
+   "winOdds": 31.7,
    "placeOdds": [
     5.4,
     6.5
@@ -145,8 +145,8 @@
    "jockey": "松岡",
    "weight": 58.0,
    "sexAge": "牡7",
-   "popularity": 16,
-   "winOdds": 53.9,
+   "popularity": 15,
+   "winOdds": 101.9,
    "placeOdds": [
     13.1,
     15.8
@@ -206,8 +206,8 @@
    "jockey": "田辺",
    "weight": 58.0,
    "sexAge": "牡6",
-   "popularity": 6,
-   "winOdds": 13.4,
+   "popularity": null,
+   "winOdds": null,
    "placeOdds": [
     4.0,
     4.9
@@ -267,8 +267,8 @@
    "jockey": "武藤",
    "weight": 56.0,
    "sexAge": "牝5",
-   "popularity": 3,
-   "winOdds": 7.7,
+   "popularity": 4,
+   "winOdds": 7.1,
    "placeOdds": [
     2.4,
     2.9
@@ -328,8 +328,8 @@
    "jockey": "横山琉",
    "weight": 57.0,
    "sexAge": "牡7",
-   "popularity": 9,
-   "winOdds": 15.5,
+   "popularity": 8,
+   "winOdds": 22.0,
    "placeOdds": [
     3.6,
     4.3
@@ -390,7 +390,7 @@
    "weight": 57.0,
    "sexAge": "牡6",
    "popularity": 11,
-   "winOdds": 17.5,
+   "winOdds": 31.9,
    "placeOdds": [
     3.8,
     4.6
@@ -451,7 +451,7 @@
    "weight": 57.0,
    "sexAge": "牡5",
    "popularity": 14,
-   "winOdds": 28.1,
+   "winOdds": 53.1,
    "placeOdds": [
     6.6,
     8.1
@@ -511,8 +511,8 @@
    "jockey": "戸崎圭",
    "weight": 58.0,
    "sexAge": "牡5",
-   "popularity": 1,
-   "winOdds": 5.7,
+   "popularity": 2,
+   "winOdds": 5.2,
    "placeOdds": [
     2.5,
     2.9
@@ -572,8 +572,8 @@
    "jockey": "菊沢",
    "weight": 57.0,
    "sexAge": "牡4",
-   "popularity": 2,
-   "winOdds": 7.2,
+   "popularity": 1,
+   "winOdds": 3.7,
    "placeOdds": [
     2.8,
     3.3
@@ -633,8 +633,8 @@
    "jockey": "丸山",
    "weight": 55.0,
    "sexAge": "牝4",
-   "popularity": 10,
-   "winOdds": 16.6,
+   "popularity": 9,
+   "winOdds": 31.2,
    "placeOdds": [
     5.1,
     6.2
@@ -694,8 +694,8 @@
    "jockey": "三浦",
    "weight": 57.0,
    "sexAge": "牡4",
-   "popularity": 15,
-   "winOdds": 37.7,
+   "popularity": 13,
+   "winOdds": 48.8,
    "placeOdds": [
     7.1,
     8.6
@@ -755,8 +755,8 @@
    "jockey": "横山武",
    "weight": 57.0,
    "sexAge": "牡6",
-   "popularity": 13,
-   "winOdds": 18.3,
+   "popularity": 7,
+   "winOdds": 21.7,
    "placeOdds": [
     4.0,
     4.9
@@ -816,8 +816,8 @@
    "jockey": "斎藤",
    "weight": 57.0,
    "sexAge": "牡4",
-   "popularity": 5,
-   "winOdds": 9.4,
+   "popularity": 6,
+   "winOdds": 10.3,
    "placeOdds": [
     3.6,
     4.3
@@ -877,8 +877,8 @@
    "jockey": "丹内",
    "weight": 57.0,
    "sexAge": "牡6",
-   "popularity": 4,
-   "winOdds": 8.1,
+   "popularity": 3,
+   "winOdds": 6.3,
    "placeOdds": [
     2.2,
     2.6
@@ -938,8 +938,8 @@
    "jockey": "川須",
    "weight": 57.0,
    "sexAge": "牡5",
-   "popularity": 8,
-   "winOdds": 14.9,
+   "popularity": 5,
+   "winOdds": 7.3,
    "placeOdds": [
     4.7,
     5.7
@@ -993,5 +993,25 @@
     }
    ]
   }
- ]
+ ],
+ "scratched": [
+  {
+   "num": 4,
+   "name": "モンドプリューム",
+   "reason": "競走除外(15:29発表)"
+  }
+ ],
+ "result": {
+  "first": 15,
+  "second": 5,
+  "third": 16,
+  "tanshoPay": 630,
+  "fukushoPay": [
+   180,
+   220,
+   260
+  ],
+  "sanrenpukuPay": 6800,
+  "sanrentanPay": 38150
+ }
 }
