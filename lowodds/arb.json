@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-12T10:13:03.215Z",
+  "generatedAt": "2026-09-12T10:18:44.748Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,5 +24,81 @@
     },
     "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "M7CifCIc",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Chicago Cubs - Pittsburgh Pirates",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/chicago-cubs-pittsburgh-pirates/M7CifCIc/",
+      "kickoff": "2026-09-12T19:20:00+09:00",
+      "width": 3,
+      "books": 9,
+      "labels": [
+        "Chicago Cubs",
+        "Draw",
+        "Pittsburgh Pirates"
+      ],
+      "legs": [
+        {
+          "outcome": "Chicago Cubs",
+          "book": "12:2",
+          "odd": 12,
+          "stake": 15245,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=12%3A2%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "4:3",
+          "odd": 2.68,
+          "stake": 68260,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=4%3A3%20sportsbook"
+        },
+        {
+          "outcome": "Pittsburgh Pirates",
+          "book": "12:2",
+          "odd": 11.09,
+          "stake": 16496,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=12%3A2%20sportsbook"
+        }
+      ],
+      "S": 0.5466389872100273,
+      "roi": 82.93609189931126,
+      "profit": 82935,
+      "payout": 182936,
+      "staked": 100001,
+      "mins": 1,
+      "split": {
+        "S": 0.5466389872100273,
+        "payout": 182936,
+        "profit": 82935,
+        "staked": 100001,
+        "legs": [
+          {
+            "book": "12:2",
+            "odd": 12,
+            "stake": 15245
+          },
+          {
+            "book": "4:3",
+            "odd": 2.68,
+            "stake": 68260
+          },
+          {
+            "book": "12:2",
+            "odd": 11.09,
+            "stake": 16496
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
