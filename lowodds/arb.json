@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-12T11:43:41.303Z",
+  "generatedAt": "2026-09-12T11:49:16.400Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 5,
-  "arbCount": 0,
+  "arbCount": 3,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,233 @@
       "count": 31,
       "profit": 23389643
     },
-    "pending": 3
+    "pending": 6
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "fXhAsZYi",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Washington Nationals - Los Angeles Angels",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/washington-nationals-los-angeles-angels/fXhAsZYi/",
+      "kickoff": "2026-09-12T21:05:00+09:00",
+      "width": 3,
+      "books": 9,
+      "labels": [
+        "Washington Nationals",
+        "Draw",
+        "Los Angeles Angels"
+      ],
+      "legs": [
+        {
+          "outcome": "Washington Nationals",
+          "book": "9:2",
+          "odd": 9,
+          "stake": 24586,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=9%3A2%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "5:3",
+          "odd": 3.24,
+          "stake": 68294,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=5%3A3%20sportsbook"
+        },
+        {
+          "outcome": "Los Angeles Angels",
+          "book": "6:3",
+          "odd": 31.08,
+          "stake": 7120,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=6%3A3%20sportsbook"
+        }
+      ],
+      "S": 0.4519281185947852,
+      "roi": 121.27412720177198,
+      "profit": 121274,
+      "payout": 221274,
+      "staked": 100000,
+      "mins": 16,
+      "split": {
+        "S": 0.4519281185947852,
+        "payout": 221274,
+        "profit": 121274,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "9:2",
+            "odd": 9,
+            "stake": 24586
+          },
+          {
+            "book": "5:3",
+            "odd": 3.24,
+            "stake": 68294
+          },
+          {
+            "book": "6:3",
+            "odd": 31.08,
+            "stake": 7120
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "dQQZ6k23",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "San Francisco Giants - San Diego Padres",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/san-francisco-giants-san-diego-padres/dQQZ6k23/",
+      "kickoff": "2026-09-12T21:05:00+09:00",
+      "width": 3,
+      "books": 10,
+      "labels": [
+        "San Francisco Giants",
+        "Draw",
+        "San Diego Padres"
+      ],
+      "legs": [
+        {
+          "outcome": "San Francisco Giants",
+          "book": "13:12",
+          "odd": 13,
+          "stake": 14514,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=13%3A12%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "10:6",
+          "odd": 2.7,
+          "stake": 69880,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=10%3A6%20sportsbook"
+        },
+        {
+          "outcome": "San Diego Padres",
+          "book": "5:7",
+          "odd": 12.09,
+          "stake": 15606,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=5%3A7%20sportsbook"
+        }
+      ],
+      "S": 0.5300064332322396,
+      "roi": 88.67695508930123,
+      "profit": 88677,
+      "payout": 188677,
+      "staked": 100000,
+      "mins": 16,
+      "split": {
+        "S": 0.5300064332322396,
+        "payout": 188677,
+        "profit": 88677,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "13:12",
+            "odd": 13,
+            "stake": 14514
+          },
+          {
+            "book": "10:6",
+            "odd": 2.7,
+            "stake": 69880
+          },
+          {
+            "book": "5:7",
+            "odd": 12.09,
+            "stake": 15606
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "fsdOJVto",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Boston Red Sox - Kansas City Royals",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/boston-red-sox-kansas-city-royals/fsdOJVto/",
+      "kickoff": "2026-09-12T21:10:00+09:00",
+      "width": 3,
+      "books": 6,
+      "labels": [
+        "Boston Red Sox",
+        "Draw",
+        "Kansas City Royals"
+      ],
+      "legs": [
+        {
+          "outcome": "Boston Red Sox",
+          "book": "6:9",
+          "odd": 6,
+          "stake": 25411,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=6%3A9%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "5:2",
+          "odd": 2.46,
+          "stake": 61978,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=5%3A2%20sportsbook"
+        },
+        {
+          "outcome": "Kansas City Royals",
+          "book": "2:3",
+          "odd": 12.09,
+          "stake": 12611,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=2%3A3%20sportsbook"
+        }
+      ],
+      "S": 0.6558837176461094,
+      "roi": 52.46605047444752,
+      "profit": 52466,
+      "payout": 152466,
+      "staked": 100000,
+      "mins": 21,
+      "split": {
+        "S": 0.6558837176461094,
+        "payout": 152466,
+        "profit": 52466,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "6:9",
+            "odd": 6,
+            "stake": 25411
+          },
+          {
+            "book": "5:2",
+            "odd": 2.46,
+            "stake": 61978
+          },
+          {
+            "book": "2:3",
+            "odd": 12.09,
+            "stake": 12611
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
