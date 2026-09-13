@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-13T19:55:52.242Z",
+  "generatedAt": "2026-09-13T20:01:16.846Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "EHG44dXh",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "China - Philippines",
-      "url": "https://www.betexplorer.com/basketball/asia/asian-games/china-philippines/EHG44dXh/",
-      "kickoff": "2026-09-14T05:00:00+09:00",
-      "width": 2,
-      "books": 12,
-      "labels": [
-        "China",
-        "Philippines"
-      ],
-      "legs": [
-        {
-          "outcome": "China",
-          "book": "William Hill",
-          "odd": 1.07,
-          "stake": 94079,
-          "jp": false,
-          "exch": false,
-          "url": "https://sports.williamhill.com/"
-        },
-        {
-          "outcome": "Philippines",
-          "book": "Duelbits",
-          "odd": 17,
-          "stake": 5921,
-          "jp": false,
-          "exch": false,
-          "url": "https://duelbits.com/"
-        }
-      ],
-      "S": 0.9934029686641012,
-      "roi": 0.6640841173215284,
-      "profit": 664,
-      "payout": 100664,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.9934029686641012,
-        "payout": 100664,
-        "profit": 664,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "William Hill",
-            "odd": 1.07,
-            "stake": 94079
-          },
-          {
-            "book": "Duelbits",
-            "odd": 17,
-            "stake": 5921
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
