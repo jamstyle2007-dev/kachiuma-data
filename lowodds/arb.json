@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-13T04:40:56.705Z",
+  "generatedAt": "2026-09-13T04:45:58.301Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 4,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 39,
       "profit": 24066500
     },
-    "pending": 1
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "veMAoK8F",
+      "sport": "handball",
+      "sportLabel": "ハンドボール",
+      "teams": "Ejstrup/Haervejen W - Aarhus Handbold W",
+      "url": "https://www.betexplorer.com/handball/denmark/1-division-women/ejstrup-haervejen-aarhus-handbold/veMAoK8F/",
+      "kickoff": "2026-09-13T14:00:00+09:00",
+      "width": 3,
+      "books": 11,
+      "labels": [
+        "Ejstrup/Haervejen W",
+        "Draw",
+        "Aarhus Handbold W"
+      ],
+      "legs": [
+        {
+          "outcome": "Ejstrup/Haervejen W",
+          "book": "Betsson",
+          "odd": 3.3,
+          "stake": 31579,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.betsson.com/"
+        },
+        {
+          "outcome": "Draw",
+          "book": "Duelbits",
+          "odd": 9.9,
+          "stake": 10526,
+          "jp": false,
+          "exch": false,
+          "url": "https://duelbits.com/"
+        },
+        {
+          "outcome": "Aarhus Handbold W",
+          "book": "Bets.io",
+          "odd": 1.8,
+          "stake": 57895,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
+        }
+      ],
+      "S": 0.9595959595959596,
+      "roi": 4.210526315789487,
+      "profit": 4211,
+      "payout": 104211,
+      "staked": 100000,
+      "mins": 14,
+      "split": {
+        "S": 0.9595959595959596,
+        "payout": 104211,
+        "profit": 4211,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Betsson",
+            "odd": 3.3,
+            "stake": 31579
+          },
+          {
+            "book": "Duelbits",
+            "odd": 9.9,
+            "stake": 10526
+          },
+          {
+            "book": "Bets.io",
+            "odd": 1.8,
+            "stake": 57895
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
