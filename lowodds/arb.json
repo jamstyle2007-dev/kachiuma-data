@@ -1,89 +1,28 @@
 {
-  "generatedAt": "2026-09-13T07:56:12.281Z",
+  "generatedAt": "2026-09-13T08:01:36.838Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
-      "count": 325,
-      "profit": 107778841
+      "count": 326,
+      "profit": 107783052
     },
     "year": {
-      "count": 325,
-      "profit": 107778841
+      "count": 326,
+      "profit": 107783052
     },
     "month": {
-      "count": 71,
-      "profit": 62662549
+      "count": 72,
+      "profit": 62666760
     },
     "week": {
-      "count": 40,
-      "profit": 24374856
+      "count": 41,
+      "profit": 24379067
     },
-    "pending": 2
+    "pending": 1
   },
-  "opps": [
-    {
-      "id": "I3HqUNmn",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "North Macedonia - Poland",
-      "url": "https://www.betexplorer.com/volleyball/europe/european-championships/north-macedonia-poland/I3HqUNmn/",
-      "kickoff": "2026-09-13T17:00:00+09:00",
-      "width": 2,
-      "books": 7,
-      "labels": [
-        "North Macedonia",
-        "Poland"
-      ],
-      "legs": [
-        {
-          "outcome": "North Macedonia",
-          "book": "888sport",
-          "odd": 888,
-          "stake": 4413,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=888sport%20sportsbook"
-        },
-        {
-          "outcome": "Poland",
-          "book": "888sport",
-          "odd": 41,
-          "stake": 95587,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=888sport%20sportsbook"
-        }
-      ],
-      "S": 0.02551637002856515,
-      "roi": 3819.0527448869752,
-      "profit": 3819053,
-      "payout": 3919053,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.02551637002856515,
-        "payout": 3919053,
-        "profit": 3819053,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "888sport",
-            "odd": 888,
-            "stake": 4413
-          },
-          {
-            "book": "888sport",
-            "odd": 41,
-            "stake": 95587
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
