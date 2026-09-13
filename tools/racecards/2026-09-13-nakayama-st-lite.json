@@ -7,11 +7,11 @@
  "surface": "芝",
  "distance": 2200,
  "postTime": "15:45",
- "trackCondition": "重",
+ "trackCondition": "稍",
  "conditionType": "馬齢",
  "fieldSize": 16,
  "status": "発走前確定",
- "oddsUpdatedAt": "2026-09-12 19:3x(前日最終)",
+ "oddsUpdatedAt": "2026-09-13 13:40",
  "sourcesChecked": [
   "netkeiba",
   "競馬ラボ"
@@ -23,8 +23,8 @@
    "jockey": "横山和",
    "weight": 57.0,
    "sexAge": "牡3",
-   "popularity": 12,
-   "winOdds": 48.1,
+   "popularity": 13,
+   "winOdds": 64.2,
    "placeOdds": [
     7.5,
     10.3
@@ -85,7 +85,7 @@
    "weight": 57.0,
    "sexAge": "牡3",
    "popularity": 6,
-   "winOdds": 9.1,
+   "winOdds": 11.0,
    "placeOdds": [
     2.9,
     3.9
@@ -145,8 +145,8 @@
    "jockey": "丸山",
    "weight": 57.0,
    "sexAge": "牡3",
-   "popularity": 13,
-   "winOdds": 59.1,
+   "popularity": 12,
+   "winOdds": 51.8,
    "placeOdds": [
     10.1,
     14.0
@@ -207,7 +207,7 @@
    "weight": 57.0,
    "sexAge": "牡3",
    "popularity": 11,
-   "winOdds": 45.3,
+   "winOdds": 39.0,
    "placeOdds": [
     6.2,
     8.5
@@ -267,8 +267,8 @@
    "jockey": "岩田康",
    "weight": 57.0,
    "sexAge": "牡3",
-   "popularity": 4,
-   "winOdds": 5.7,
+   "popularity": 3,
+   "winOdds": 5.5,
    "placeOdds": [
     1.8,
     2.3
@@ -328,8 +328,8 @@
    "jockey": "松山",
    "weight": 57.0,
    "sexAge": "牡3",
-   "popularity": 5,
-   "winOdds": 6.9,
+   "popularity": 4,
+   "winOdds": 6.3,
    "placeOdds": [
     2.1,
     2.7
@@ -390,7 +390,7 @@
    "weight": 57.0,
    "sexAge": "牡3",
    "popularity": 10,
-   "winOdds": 42.0,
+   "winOdds": 35.5,
    "placeOdds": [
     6.7,
     9.2
@@ -451,7 +451,7 @@
    "weight": 57.0,
    "sexAge": "牡3",
    "popularity": 1,
-   "winOdds": 4.2,
+   "winOdds": 3.9,
    "placeOdds": [
     1.7,
     2.1
@@ -511,8 +511,8 @@
    "jockey": "田辺",
    "weight": 57.0,
    "sexAge": "牡3",
-   "popularity": 3,
-   "winOdds": 5.5,
+   "popularity": 5,
+   "winOdds": 7.7,
    "placeOdds": [
     2.5,
     3.3
@@ -573,7 +573,7 @@
    "weight": 57.0,
    "sexAge": "牡3",
    "popularity": 2,
-   "winOdds": 5.4,
+   "winOdds": 4.8,
    "placeOdds": [
     1.9,
     2.5
@@ -634,7 +634,7 @@
    "weight": 57.0,
    "sexAge": "牡3",
    "popularity": 14,
-   "winOdds": 69.0,
+   "winOdds": 81.9,
    "placeOdds": [
     9.4,
     13.0
@@ -695,7 +695,7 @@
    "weight": 57.0,
    "sexAge": "牡3",
    "popularity": 8,
-   "winOdds": 28.3,
+   "winOdds": 26.2,
    "placeOdds": [
     5.8,
     7.9
@@ -756,7 +756,7 @@
    "weight": 57.0,
    "sexAge": "牡3",
    "popularity": 15,
-   "winOdds": 102.5,
+   "winOdds": 87.1,
    "placeOdds": [
     11.2,
     15.4
@@ -817,7 +817,7 @@
    "weight": 57.0,
    "sexAge": "牡3",
    "popularity": 16,
-   "winOdds": 165.6,
+   "winOdds": 191.2,
    "placeOdds": [
     19.8,
     27.2
@@ -878,7 +878,7 @@
    "weight": 57.0,
    "sexAge": "牡3",
    "popularity": 9,
-   "winOdds": 33.9,
+   "winOdds": 27.7,
    "placeOdds": [
     5.4,
     7.3
@@ -939,7 +939,7 @@
    "weight": 57.0,
    "sexAge": "牡3",
    "popularity": 7,
-   "winOdds": 21.3,
+   "winOdds": 22.2,
    "placeOdds": [
     4.0,
     5.4
@@ -993,5 +993,24 @@
     }
    ]
   }
- ]
+ ],
+ "dataNote": "13:40版の近3走は全16頭中15頭で3走前が1走古いレースに取り違えられていた(例: ティラーノは1勝クラスに出走しているのに勝利が消えている)。近3走は10:40版を維持し、13:40版からは人気・オッズ・馬場状態だけを採用した。",
+ "result": {
+  "first": 7,
+  "second": 6,
+  "third": 2,
+  "tanshoPay": 5060,
+  "fukushoPay": [
+   960,
+   220,
+   390
+  ],
+  "widePay": {
+   "6-7": 3570,
+   "2-7": 6680,
+   "2-6": 1100
+  },
+  "sanrenpukuPay": 32610,
+  "sanrentanPay": 284140
+ }
 }
