@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-13T01:41:29.036Z",
+  "generatedAt": "2026-09-13T01:47:02.888Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 4,
-  "arbCount": 0,
+  "scanned": 5,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 39,
       "profit": 24066500
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "UXdSMblD",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Japan - South Korea",
+      "url": "https://www.betexplorer.com/basketball/asia/asian-games/japan-south-korea/UXdSMblD/",
+      "kickoff": "2026-09-13T11:00:00+09:00",
+      "width": 3,
+      "books": 2,
+      "labels": [
+        "Japan",
+        "Draw",
+        "South Korea"
+      ],
+      "legs": [
+        {
+          "outcome": "Japan",
+          "book": "98:53",
+          "odd": 98,
+          "stake": 4167,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=98%3A53%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "80:86",
+          "odd": 6.92,
+          "stake": 59011,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=80%3A86%20sportsbook"
+        },
+        {
+          "outcome": "South Korea",
+          "book": "80:86",
+          "odd": 11.09,
+          "stake": 36822,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=80%3A86%20sportsbook"
+        }
+      ],
+      "S": 0.24488407767136944,
+      "roi": 308.35648013913925,
+      "profit": 308356,
+      "payout": 408356,
+      "staked": 100000,
+      "mins": 13,
+      "split": {
+        "S": 0.24488407767136944,
+        "payout": 408356,
+        "profit": 308356,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "98:53",
+            "odd": 98,
+            "stake": 4167
+          },
+          {
+            "book": "80:86",
+            "odd": 6.92,
+            "stake": 59011
+          },
+          {
+            "book": "80:86",
+            "odd": 11.09,
+            "stake": 36822
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
