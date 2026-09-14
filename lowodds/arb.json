@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-14T10:02:34.581Z",
+  "generatedAt": "2026-09-14T10:08:14.467Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,5 +24,66 @@
     },
     "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "tjF1KQF6",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Wurzburg - Manchester Basketball",
+      "url": "https://www.betexplorer.com/basketball/europe/champions-league/wurzburg-manchester-basketball/tjF1KQF6/",
+      "kickoff": "2026-09-14T19:15:00+09:00",
+      "width": 2,
+      "books": 16,
+      "labels": [
+        "Wurzburg",
+        "Manchester Basketball"
+      ],
+      "legs": [
+        {
+          "outcome": "Wurzburg",
+          "book": "Betfair Exchange",
+          "odd": 1.1,
+          "stake": 91912,
+          "jp": true,
+          "exch": true,
+          "url": "https://www.betfair.com/exchange/plus/"
+        },
+        {
+          "outcome": "Manchester Basketball",
+          "book": "1xBet",
+          "odd": 12.5,
+          "stake": 8088,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        }
+      ],
+      "S": 0.989090909090909,
+      "roi": 1.1029411764705843,
+      "profit": 1103,
+      "payout": 101103,
+      "staked": 100000,
+      "mins": 7,
+      "split": {
+        "S": 0.989090909090909,
+        "payout": 101103,
+        "profit": 1103,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Betfair Exchange",
+            "odd": 1.1,
+            "stake": 91912
+          },
+          {
+            "book": "1xBet",
+            "odd": 12.5,
+            "stake": 8088
+          }
+        ]
+      },
+      "hasExch": true,
+      "allJp": true
+    }
+  ]
 }
