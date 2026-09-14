@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-14T14:31:52.534Z",
+  "generatedAt": "2026-09-14T14:37:24.078Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 6,
-  "arbCount": 1,
+  "scanned": 7,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "SU84AqQh",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Cincinnati Reds - Los Angeles Dodgers",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/cincinnati-reds-los-angeles-dodgers/SU84AqQh/",
-      "kickoff": "2026-09-14T23:40:00+09:00",
-      "width": 2,
-      "books": 19,
-      "labels": [
-        "Cincinnati Reds",
-        "Los Angeles Dodgers"
-      ],
-      "legs": [
-        {
-          "outcome": "Cincinnati Reds",
-          "book": "Cloudbet",
-          "odd": 3.04,
-          "stake": 33187,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.cloudbet.com/"
-        },
-        {
-          "outcome": "Los Angeles Dodgers",
-          "book": "1xBet",
-          "odd": 1.51,
-          "stake": 66813,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        }
-      ],
-      "S": 0.9911990240501918,
-      "roi": 0.8879120879120794,
-      "profit": 888,
-      "payout": 100888,
-      "staked": 100000,
-      "mins": 8,
-      "split": {
-        "S": 0.9911990240501918,
-        "payout": 100888,
-        "profit": 888,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Cloudbet",
-            "odd": 3.04,
-            "stake": 33187
-          },
-          {
-            "book": "1xBet",
-            "odd": 1.51,
-            "stake": 66813
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
