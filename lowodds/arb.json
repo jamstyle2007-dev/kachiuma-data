@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-14T17:26:12.976Z",
+  "generatedAt": "2026-09-14T17:31:37.756Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 0,
+  "scanned": 3,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 3,
       "profit": 4651
     },
-    "pending": 1
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "Iizsr9bf",
+      "sport": "volleyball",
+      "sportLabel": "バレー",
+      "teams": "Mexico W - Cuba W",
+      "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup-women/mexico-cuba/Iizsr9bf/",
+      "kickoff": "2026-09-15T03:00:00+09:00",
+      "width": 2,
+      "books": 13,
+      "labels": [
+        "Mexico W",
+        "Cuba W"
+      ],
+      "legs": [
+        {
+          "outcome": "Mexico W",
+          "book": "BetInAsia",
+          "odd": 1.27,
+          "stake": 80371,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.betinasia.com/"
+        },
+        {
+          "outcome": "Cuba W",
+          "book": "1xBet",
+          "odd": 5.2,
+          "stake": 19629,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        }
+      ],
+      "S": 0.9797092671108418,
+      "roi": 2.0710973724884063,
+      "profit": 2071,
+      "payout": 102071,
+      "staked": 100000,
+      "mins": 28,
+      "split": {
+        "S": 0.9797092671108418,
+        "payout": 102071,
+        "profit": 2071,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "BetInAsia",
+            "odd": 1.27,
+            "stake": 80371
+          },
+          {
+            "book": "1xBet",
+            "odd": 5.2,
+            "stake": 19629
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    }
+  ]
 }
