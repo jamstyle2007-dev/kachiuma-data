@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T14:21:00.979Z",
+  "generatedAt": "2026-09-14T14:26:27.334Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
@@ -43,7 +43,7 @@
           "outcome": "Cincinnati Reds",
           "book": "Cloudbet",
           "odd": 3.04,
-          "stake": 33187,
+          "stake": 33040,
           "jp": true,
           "exch": false,
           "url": "https://www.cloudbet.com/"
@@ -51,34 +51,34 @@
         {
           "outcome": "Los Angeles Dodgers",
           "book": "1xBet",
-          "odd": 1.51,
-          "stake": 66813,
+          "odd": 1.5,
+          "stake": 66960,
           "jp": true,
           "exch": false,
           "url": "https://1xbet.com/ja"
         }
       ],
-      "S": 0.9911990240501918,
-      "roi": 0.8879120879120794,
-      "profit": 888,
-      "payout": 100888,
+      "S": 0.9956140350877193,
+      "roi": 0.4405286343612369,
+      "profit": 441,
+      "payout": 100441,
       "staked": 100000,
-      "mins": 19,
+      "mins": 14,
       "split": {
-        "S": 0.9911990240501918,
-        "payout": 100888,
-        "profit": 888,
+        "S": 0.9956140350877193,
+        "payout": 100441,
+        "profit": 441,
         "staked": 100000,
         "legs": [
           {
             "book": "Cloudbet",
             "odd": 3.04,
-            "stake": 33187
+            "stake": 33040
           },
           {
             "book": "1xBet",
-            "odd": 1.51,
-            "stake": 66813
+            "odd": 1.5,
+            "stake": 66960
           }
         ]
       },
