@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-14T00:35:12.813Z",
+  "generatedAt": "2026-09-14T00:40:39.114Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 3,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "v9pDmva6",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Hanshin Tigers - Chunichi Dragons",
-      "url": "https://www.betexplorer.com/baseball/japan/npb/hanshin-tigers-chunichi-dragons/v9pDmva6/",
-      "kickoff": "2026-09-14T10:00:00+09:00",
-      "width": 2,
-      "books": 19,
-      "labels": [
-        "Hanshin Tigers",
-        "Chunichi Dragons"
-      ],
-      "legs": [
-        {
-          "outcome": "Hanshin Tigers",
-          "book": "Mozzartbet",
-          "odd": 1.7,
-          "stake": 60000,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.mozzartbet.com/"
-        },
-        {
-          "outcome": "Chunichi Dragons",
-          "book": "bwin",
-          "odd": 2.55,
-          "stake": 40000,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        }
-      ],
-      "S": 0.9803921568627452,
-      "roi": 2.0000000000000018,
-      "profit": 2000,
-      "payout": 102000,
-      "staked": 100000,
-      "mins": 25,
-      "split": {
-        "S": 0.9803921568627452,
-        "payout": 102000,
-        "profit": 2000,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Mozzartbet",
-            "odd": 1.7,
-            "stake": 60000
-          },
-          {
-            "book": "bwin",
-            "odd": 2.55,
-            "stake": 40000
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
