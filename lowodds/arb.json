@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-15T09:59:24.813Z",
+  "generatedAt": "2026-09-15T10:04:51.155Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
+  "scanned": 1,
   "arbCount": 1,
   "track": {
     "stake": 100000,
@@ -43,8 +43,8 @@
         {
           "outcome": "Gniezno W",
           "book": "Betfair",
-          "odd": 18,
-          "stake": 5629,
+          "odd": 17,
+          "stake": 5941,
           "jp": true,
           "exch": true,
           "url": "https://www.betfair.com/exchange/plus/"
@@ -53,7 +53,7 @@
           "outcome": "Draw",
           "book": "Betfair",
           "odd": 26,
-          "stake": 3897,
+          "stake": 3884,
           "jp": true,
           "exch": true,
           "url": "https://www.betfair.com/exchange/plus/"
@@ -62,38 +62,38 @@
           "outcome": "Zaglebie W",
           "book": "Rainbet",
           "odd": 1.12,
-          "stake": 90473,
+          "stake": 90175,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
         }
       ],
-      "S": 0.9868742368742368,
-      "roi": 1.3300340241262143,
-      "profit": 1331,
-      "payout": 101330,
-      "staked": 99999,
-      "mins": 16,
+      "S": 0.990142210730446,
+      "roi": 0.9955932756650965,
+      "profit": 996,
+      "payout": 100996,
+      "staked": 100000,
+      "mins": 10,
       "split": {
-        "S": 0.9868742368742368,
-        "payout": 101330,
-        "profit": 1331,
-        "staked": 99999,
+        "S": 0.990142210730446,
+        "payout": 100996,
+        "profit": 996,
+        "staked": 100000,
         "legs": [
           {
             "book": "Betfair",
-            "odd": 18,
-            "stake": 5629
+            "odd": 17,
+            "stake": 5941
           },
           {
             "book": "Betfair",
             "odd": 26,
-            "stake": 3897
+            "stake": 3884
           },
           {
             "book": "Rainbet",
             "odd": 1.12,
-            "stake": 90473
+            "stake": 90175
           }
         ]
       },
