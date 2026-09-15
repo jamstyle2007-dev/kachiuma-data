@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-15T05:08:01.575Z",
+  "generatedAt": "2026-09-15T08:10:50.123Z",
   "source": "betexplorer.com (Pinnacle / 1xBet odds)",
   "threshold": 1.6,
-  "count": 27,
+  "count": 26,
   "matches": [
     {
       "sport": "バレー",
       "sportKey": "volleyball",
-      "league": "SOUTH AMERICA: SOUTH AMERICAN CHAMPIONSHIP",
-      "home": "Colombia",
-      "away": "Bolivia",
-      "favTeam": "Colombia",
-      "underTeam": "Bolivia",
+      "league": "AFRICA: AFRICAN CHAMPIONSHIP",
+      "home": "D.R. Congo",
+      "away": "Cameroon",
+      "favTeam": "Cameroon",
+      "underTeam": "D.R. Congo",
       "favOdd": 1.01,
       "prob": 99,
       "book": "1xBet",
@@ -19,30 +19,50 @@
         "1xbet": 1.01
       },
       "avgFavOdd": 1.01,
-      "time": "05:00",
-      "kickoff": "2026-09-15T21:00:00+09:00",
+      "time": "23:00",
+      "kickoff": "2026-09-15T15:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/south-america/south-american-championship/colombia-bolivia/GMUHtl3b/"
+      "url": "https://www.betexplorer.com/volleyball/africa/african-championship/d-r-congo-cameroon/jkUNnTHN/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25 GUIYANG, HARD",
-      "home": "Kachmazov A.",
-      "away": "Liu S.",
-      "favTeam": "Kachmazov A.",
-      "underTeam": "Liu S.",
-      "favOdd": 1.01,
-      "prob": 99,
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "POLAND: SUPERLIGA WOMEN",
+      "home": "Kobierzyce W",
+      "away": "Sosnica Gliwice W",
+      "favTeam": "Kobierzyce W",
+      "underTeam": "Sosnica Gliwice W",
+      "favOdd": 1.02,
+      "prob": 98,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.01
+        "1xbet": 1.02
       },
-      "avgFavOdd": 1.02,
-      "time": "14:10",
-      "kickoff": "2026-09-15T06:10:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-guiyang/kachmazov-alibek-liu-shaoyun/KzBnRUj2/"
+      "avgFavOdd": 1.03,
+      "time": "01:00",
+      "kickoff": "2026-09-15T17:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/handball/poland/superliga-women/kpr-gminy-kobierzyce-sosnica-gliwice/zwbQkwOH/"
+    },
+    {
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "POLAND: SUPERLIGA WOMEN",
+      "home": "Gniezno W",
+      "away": "Zaglebie W",
+      "favTeam": "Zaglebie W",
+      "underTeam": "Gniezno W",
+      "favOdd": 1.02,
+      "prob": 98,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.02
+      },
+      "avgFavOdd": 1.03,
+      "time": "03:15",
+      "kickoff": "2026-09-15T19:15:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/handball/poland/superliga-women/gniezno-zaglebie/l2g2esft/"
     },
     {
       "sport": "バスケ",
@@ -52,57 +72,37 @@
       "away": "Able Hon Friends",
       "favTeam": "Winling",
       "underTeam": "Able Hon Friends",
-      "favOdd": 1.03,
-      "prob": 97,
+      "favOdd": 1.02,
+      "prob": 98,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.03
+        "1xbet": 1.02
       },
-      "avgFavOdd": 1.05,
+      "avgFavOdd": 1.04,
       "time": "20:00",
       "kickoff": "2026-09-15T12:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/basketball/hong-kong/a1/winling-able-hon-friends/Ac1G4fdM/"
     },
     {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "SOUTH AMERICA: SOUTH AMERICAN CHAMPIONSHIP",
-      "home": "Argentina",
-      "away": "Venezuela",
-      "favTeam": "Argentina",
-      "underTeam": "Venezuela",
-      "favOdd": 1.04,
-      "prob": 96,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.04
-      },
-      "avgFavOdd": 1.03,
-      "time": "02:00",
-      "kickoff": "2026-09-15T18:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/south-america/south-american-championship/argentina-venezuela/8dR9rAYo/"
-    },
-    {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "EUROPE: EUROPEAN CHAMPIONSHIPS",
-      "home": "Czech Republic",
-      "away": "Italy",
-      "favTeam": "Italy",
-      "underTeam": "Czech Republic",
-      "favOdd": 1.07,
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF MEN - SINGLES: M15 MONASTIR 31, HARD",
+      "home": "van Wyk K.",
+      "away": "Rahmani K.",
+      "favTeam": "Rahmani K.",
+      "underTeam": "van Wyk K.",
+      "favOdd": 1.08,
       "prob": 93,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.07
+        "1xbet": 1.08
       },
-      "avgFavOdd": 1.07,
-      "time": "04:05",
-      "kickoff": "2026-09-15T20:05:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/europe/european-championships/czech-republic-italy/h6weheyS/"
+      "avgFavOdd": 1.1,
+      "time": "17:30",
+      "kickoff": "2026-09-15T09:30:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m15-monastir-31/van-wyk-kris-rahmani-kasra/jXdql8Bc/"
     },
     {
       "sport": "バスケ",
@@ -118,31 +118,51 @@
       "books": {
         "1xbet": 1.08
       },
-      "avgFavOdd": 1.12,
+      "avgFavOdd": 1.11,
       "time": "00:30",
       "kickoff": "2026-09-15T16:30:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/basketball/finland/suomen-cup/helsinki-seagulls-lahti-basketball/YD1Rn3md/"
     },
     {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "EUROPE: CHAMPIONS LEAGUE",
-      "home": "Benfica",
-      "away": "Geneva Lions",
-      "favTeam": "Benfica",
-      "underTeam": "Geneva Lions",
-      "favOdd": 1.09,
-      "prob": 92,
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "CHALLENGER MEN - SINGLES: PHAN THIET 4, HARD",
+      "home": "Kouame M.",
+      "away": "Matsuda R.",
+      "favTeam": "Kouame M.",
+      "underTeam": "Matsuda R.",
+      "favOdd": 1.11,
+      "prob": 90,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.09
+        "1xbet": 1.11
       },
-      "avgFavOdd": 1.07,
-      "time": "00:45",
-      "kickoff": "2026-09-15T16:45:00+09:00",
+      "avgFavOdd": 1.11,
+      "time": "17:20",
+      "kickoff": "2026-09-15T09:20:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/europe/champions-league/benfica-geneva-lions/j3csX3aC/"
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/phan-thiet-4/kouame-moise-matsuda-ryuki/K6yuImKO/"
+    },
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "RUSSIA: RUSSIA CUP WOMEN",
+      "home": "Minchanka W",
+      "away": "Amurskiye Tigritsy W",
+      "favTeam": "Minchanka W",
+      "underTeam": "Amurskiye Tigritsy W",
+      "favOdd": 1.13,
+      "prob": 88,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.13
+      },
+      "avgFavOdd": 1.04,
+      "time": "17:30",
+      "kickoff": "2026-09-15T09:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/volleyball/russia/russia-cup-women/minchanka-amurskiye-tigritsy/lv7fO05K/"
     },
     {
       "sport": "バレー",
@@ -165,6 +185,26 @@
       "url": "https://www.betexplorer.com/volleyball/europe/european-championships/belgium-denmark/4tJFd4T6/"
     },
     {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF WOMEN - SINGLES: W75 LE NEUBOURG, HARD",
+      "home": "Vlasselaer C.",
+      "away": "Ryser V.",
+      "favTeam": "Ryser V.",
+      "underTeam": "Vlasselaer C.",
+      "favOdd": 1.16,
+      "prob": 86,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.16
+      },
+      "avgFavOdd": 1.18,
+      "time": "17:30",
+      "kickoff": "2026-09-15T09:30:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w75-le-neubourg/vlasselaer-clara-ryser-valentina/pd139A6m/"
+    },
+    {
       "sport": "バレー",
       "sportKey": "volleyball",
       "league": "EUROPE: EUROPEAN CHAMPIONSHIPS",
@@ -172,57 +212,77 @@
       "away": "Ukraine",
       "favTeam": "Poland",
       "underTeam": "Ukraine",
-      "favOdd": 1.21,
-      "prob": 83,
+      "favOdd": 1.19,
+      "prob": 84,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.21
+        "1xbet": 1.19
       },
-      "avgFavOdd": 1.2,
+      "avgFavOdd": 1.17,
       "time": "01:00",
       "kickoff": "2026-09-15T17:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/volleyball/europe/european-championships/poland-ukraine/hpluJcuo/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - SINGLES: W35 SHENYANG, HARD",
-      "home": "Yang Y.",
-      "away": "Leykina P.",
-      "favTeam": "Yang Y.",
-      "underTeam": "Leykina P.",
-      "favOdd": 1.24,
-      "prob": 81,
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "CZECH REPUBLIC: EXTRALIGA",
+      "home": "Karvina",
+      "away": "Zubri",
+      "favTeam": "Karvina",
+      "underTeam": "Zubri",
+      "favOdd": 1.22,
+      "prob": 82,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.24
+        "1xbet": 1.22
       },
-      "avgFavOdd": 1.25,
-      "time": "14:15",
-      "kickoff": "2026-09-15T06:15:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w35-shenyang/yang-yidi-leykina-polina/KYPLrqsA/"
+      "avgFavOdd": 1.19,
+      "time": "01:45",
+      "kickoff": "2026-09-15T17:45:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/handball/czech-republic/extraliga/karvina-zubri/ETYpTexA/"
     },
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: PHAN THIET 4, HARD",
-      "home": "Sultanov K.",
-      "away": "Heck H.",
-      "favTeam": "Sultanov K.",
-      "underTeam": "Heck H.",
-      "favOdd": 1.27,
+      "league": "CHALLENGER WOMEN - SINGLES: LJUBLJANA, CLAY",
+      "home": "Barthel M.",
+      "away": "Zelnickova R.",
+      "favTeam": "Barthel M.",
+      "underTeam": "Zelnickova R.",
+      "favOdd": 1.22,
+      "prob": 82,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.22
+      },
+      "avgFavOdd": 1.2,
+      "time": "17:10",
+      "kickoff": "2026-09-15T09:10:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/tennis/challenger-women-singles/ljubljana/barthel-mona-zelnickova-radka/dARRaKSa/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "EUROPE: CHAMPIONS LEAGUE",
+      "home": "Promitheas",
+      "away": "Vienna Basket",
+      "favTeam": "Promitheas",
+      "underTeam": "Vienna Basket",
+      "favOdd": 1.26,
       "prob": 79,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.27
+        "1xbet": 1.26
       },
-      "avgFavOdd": 1.27,
-      "time": "14:35",
-      "kickoff": "2026-09-15T06:35:00+09:00",
+      "avgFavOdd": 1.24,
+      "time": "20:15",
+      "kickoff": "2026-09-15T12:15:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/phan-thiet-4/sultanov-khumoyun-heck-hunter/rqFdzVZh/"
+      "url": "https://www.betexplorer.com/basketball/europe/champions-league/promitheas-vienna-basket/xKekVsUO/"
     },
     {
       "sport": "バレー",
@@ -238,7 +298,7 @@
       "books": {
         "1xbet": 1.28
       },
-      "avgFavOdd": 1.25,
+      "avgFavOdd": 1.22,
       "time": "02:00",
       "kickoff": "2026-09-15T18:00:00+09:00",
       "niche": false,
@@ -265,66 +325,6 @@
       "url": "https://www.betexplorer.com/hockey/russia/mhl/avto-mhl-krasnoyarskie-rysi-mhl/xYlhEUUO/"
     },
     {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "EUROPE: CHAMPIONS LEAGUE",
-      "home": "Promitheas",
-      "away": "Vienna Basket",
-      "favTeam": "Promitheas",
-      "underTeam": "Vienna Basket",
-      "favOdd": 1.3,
-      "prob": 77,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.3
-      },
-      "avgFavOdd": 1.26,
-      "time": "20:15",
-      "kickoff": "2026-09-15T12:15:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/europe/champions-league/promitheas-vienna-basket/xKekVsUO/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: PHAN THIET 4, HARD",
-      "home": "Bittoun C.",
-      "away": "O'Connell B.",
-      "favTeam": "Bittoun C.",
-      "underTeam": "O'Connell B.",
-      "favOdd": 1.32,
-      "prob": 76,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.32
-      },
-      "avgFavOdd": 1.33,
-      "time": "15:00",
-      "kickoff": "2026-09-15T07:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/phan-thiet-4/bittoun-kouzmine-constantin-o-connell-benjamin/2RO0AYOE/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - SINGLES: W35 SHENYANG, HARD",
-      "home": "Sidorova K.",
-      "away": "Yang Y. Y.",
-      "favTeam": "Sidorova K.",
-      "underTeam": "Yang Y. Y.",
-      "favOdd": 1.32,
-      "prob": 76,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.32
-      },
-      "avgFavOdd": 1.34,
-      "time": "14:10",
-      "kickoff": "2026-09-15T06:10:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w35-shenyang/sidorova-kristiana-yang-ya-yi/lWrdSNdT/"
-    },
-    {
       "sport": "バレー",
       "sportKey": "volleyball",
       "league": "EUROPE: EUROPEAN CHAMPIONSHIPS",
@@ -332,37 +332,37 @@
       "away": "Portugal",
       "favTeam": "Portugal",
       "underTeam": "North Macedonia",
-      "favOdd": 1.34,
+      "favOdd": 1.33,
       "prob": 75,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.34
+        "1xbet": 1.33
       },
-      "avgFavOdd": 1.29,
+      "avgFavOdd": 1.28,
       "time": "22:00",
       "kickoff": "2026-09-15T14:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/volleyball/europe/european-championships/north-macedonia-portugal/MeE0QumB/"
     },
     {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "DENMARK: HERRE HANDBOLD LIGAEN",
-      "home": "Skive",
-      "away": "Holstebro",
-      "favTeam": "Holstebro",
-      "underTeam": "Skive",
-      "favOdd": 1.35,
-      "prob": 74,
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "CHALLENGER WOMEN - SINGLES: LJUBLJANA, CLAY",
+      "home": "Sobolieva A.",
+      "away": "Boskovic L.",
+      "favTeam": "Sobolieva A.",
+      "underTeam": "Boskovic L.",
+      "favOdd": 1.34,
+      "prob": 75,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.35
+        "1xbet": 1.34
       },
-      "avgFavOdd": 1.32,
-      "time": "03:00",
-      "kickoff": "2026-09-15T19:00:00+09:00",
+      "avgFavOdd": 1.31,
+      "time": "17:10",
+      "kickoff": "2026-09-15T09:10:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/handball/denmark/herre-handbold-ligaen/skive-holstebro/nTqk24N6/"
+      "url": "https://www.betexplorer.com/tennis/challenger-women-singles/ljubljana/anastasiya-konstantinovna-soboleva-boskovic-lea/tQV2qarJ/"
     },
     {
       "sport": "野球",
@@ -372,37 +372,37 @@
       "away": "Fukuoka S. Hawks",
       "favTeam": "Fukuoka S. Hawks",
       "underTeam": "Orix Buffaloes",
-      "favOdd": 1.39,
-      "prob": 72,
+      "favOdd": 1.36,
+      "prob": 74,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.39
+        "1xbet": 1.36
       },
-      "avgFavOdd": 1.36,
+      "avgFavOdd": 1.35,
       "time": "18:00",
       "kickoff": "2026-09-15T10:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/baseball/japan/npb/orix-buffaloes-fukuoka-s-hawks/Ma2Xp8yH/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - DOUBLES: W35 SHENYANG, HARD",
-      "home": "Savinykh V. / Wang J.",
-      "away": "Huang Yujia / Nugroho P. M.",
-      "favTeam": "Huang Yujia / Nugroho P. M.",
-      "underTeam": "Savinykh V. / Wang J.",
-      "favOdd": 1.39,
-      "prob": 72,
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "DENMARK: HERRE HANDBOLD LIGAEN",
+      "home": "Skive",
+      "away": "Holstebro",
+      "favTeam": "Holstebro",
+      "underTeam": "Skive",
+      "favOdd": 1.36,
+      "prob": 74,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.39
+        "1xbet": 1.36
       },
-      "avgFavOdd": 1.39,
-      "time": "14:30",
-      "kickoff": "2026-09-15T06:30:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-doubles/w35-shenyang/savinykh-valeria-wang-jiaqi-huang-yujia-nugroho-priska-madelyn/xh5gcrd3/"
+      "avgFavOdd": 1.35,
+      "time": "03:00",
+      "kickoff": "2026-09-15T19:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/handball/denmark/herre-handbold-ligaen/skive-holstebro/nTqk24N6/"
     },
     {
       "sport": "バレー",
@@ -412,13 +412,13 @@
       "away": "Germany",
       "favTeam": "France",
       "underTeam": "Germany",
-      "favOdd": 1.4,
-      "prob": 71,
+      "favOdd": 1.39,
+      "prob": 72,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.4
+        "1xbet": 1.39
       },
-      "avgFavOdd": 1.36,
+      "avgFavOdd": 1.35,
       "time": "02:00",
       "kickoff": "2026-09-15T18:00:00+09:00",
       "niche": false,
@@ -445,6 +445,26 @@
       "url": "https://www.betexplorer.com/baseball/japan/npb/nippon-ham-fighters-chiba-lotte-marines/fmBGljxh/"
     },
     {
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "RUSSIA: SUPERLEAGUE WOMEN",
+      "home": "Astrahanochka W",
+      "away": "Togliatti W",
+      "favTeam": "Astrahanochka W",
+      "underTeam": "Togliatti W",
+      "favOdd": 1.44,
+      "prob": 69,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.44
+      },
+      "avgFavOdd": 1.43,
+      "time": "23:30",
+      "kickoff": "2026-09-15T15:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/handball/russia/superleague-women/astrahanochka-togliatti/z98h0DiB/"
+    },
+    {
       "sport": "野球",
       "sportKey": "baseball",
       "league": "SOUTH KOREA: KBO",
@@ -452,13 +472,13 @@
       "away": "Lotte Giants",
       "favTeam": "Samsung Lions",
       "underTeam": "Lotte Giants",
-      "favOdd": 1.46,
-      "prob": 68,
+      "favOdd": 1.45,
+      "prob": 69,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.46
+        "1xbet": 1.45
       },
-      "avgFavOdd": 1.41,
+      "avgFavOdd": 1.4,
       "time": "18:30",
       "kickoff": "2026-09-15T10:30:00+09:00",
       "niche": false,
@@ -467,82 +487,42 @@
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25 GUIYANG, HARD",
-      "home": "Zhao L.",
-      "away": "Ehrenschneider N.",
-      "favTeam": "Ehrenschneider N.",
-      "underTeam": "Zhao L.",
-      "favOdd": 1.48,
-      "prob": 68,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.48
-      },
-      "avgFavOdd": 1.48,
-      "time": "14:10",
-      "kickoff": "2026-09-15T06:10:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-guiyang/zhao-lingxi-ehrenschneider-nino/O45ZWaNN/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - SINGLES: W35 KYOTO, HARD",
-      "home": "Nishimura K.",
-      "away": "Kawaguchi N.",
-      "favTeam": "Kawaguchi N.",
-      "underTeam": "Nishimura K.",
+      "league": "CHALLENGER MEN - SINGLES: SZCZECIN, CLAY",
+      "home": "Sachko V.",
+      "away": "Jianu F. C.",
+      "favTeam": "Sachko V.",
+      "underTeam": "Jianu F. C.",
       "favOdd": 1.49,
       "prob": 67,
       "book": "1xBet",
       "books": {
         "1xbet": 1.49
       },
-      "avgFavOdd": 1.5,
-      "time": "14:45",
-      "kickoff": "2026-09-15T06:45:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w35-kyoto/nishimura-kayo-kawaguchi-natsumi/x0VPDWjR/"
-    },
-    {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "RUSSIA: SUPERLEAGUE WOMEN",
-      "home": "Astrahanochka W",
-      "away": "Togliatti W",
-      "favTeam": "Astrahanochka W",
-      "underTeam": "Togliatti W",
-      "favOdd": 1.5,
-      "prob": 67,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.5
-      },
-      "avgFavOdd": 1.5,
-      "time": "23:30",
-      "kickoff": "2026-09-15T15:30:00+09:00",
+      "avgFavOdd": 1.51,
+      "time": "17:30",
+      "kickoff": "2026-09-15T09:30:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/handball/russia/superleague-women/astrahanochka-togliatti/z98h0DiB/"
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/szczecin/sachko-vitaliy-jianu-filip-cristian/xQ2Fcj8L/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF MEN - SINGLES: M25 GUIYANG, HARD",
-      "home": "Han X.",
-      "away": "Yang X.",
-      "favTeam": "Han X.",
-      "underTeam": "Yang X.",
-      "favOdd": 1.5,
-      "prob": 67,
+      "sport": "野球",
+      "sportKey": "baseball",
+      "league": "SOUTH KOREA: KBO",
+      "home": "Hanwha Eagles",
+      "away": "KT Wiz Suwon",
+      "favTeam": "KT Wiz Suwon",
+      "underTeam": "Hanwha Eagles",
+      "favOdd": 1.59,
+      "prob": 63,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.5
+        "1xbet": 1.59
       },
       "avgFavOdd": 1.52,
-      "time": "14:10",
-      "kickoff": "2026-09-15T06:10:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-men-singles/m25-guiyang/han-xirui-yang-xiaoyin/tOp7oaxH/"
+      "time": "18:30",
+      "kickoff": "2026-09-15T10:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/hanwha-eagles-kt-wiz-suwon/n9rZSiT0/"
     }
   ]
 }
