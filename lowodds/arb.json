@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T09:48:31.198Z",
+  "generatedAt": "2026-09-15T09:53:59.042Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
@@ -44,7 +44,7 @@
           "outcome": "Gniezno W",
           "book": "Betfair",
           "odd": 18,
-          "stake": 5584,
+          "stake": 5629,
           "jp": true,
           "exch": true,
           "url": "https://www.betfair.com/exchange/plus/"
@@ -53,7 +53,7 @@
           "outcome": "Draw",
           "book": "Betfair",
           "odd": 26,
-          "stake": 3866,
+          "stake": 3897,
           "jp": true,
           "exch": true,
           "url": "https://www.betfair.com/exchange/plus/"
@@ -61,39 +61,39 @@
         {
           "outcome": "Zaglebie W",
           "book": "Rainbet",
-          "odd": 1.11,
-          "stake": 90550,
+          "odd": 1.12,
+          "stake": 90473,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
         }
       ],
-      "S": 0.9949179949179948,
-      "roi": 0.5107963779893199,
-      "profit": 511,
-      "payout": 100511,
-      "staked": 100000,
-      "mins": 26,
+      "S": 0.9868742368742368,
+      "roi": 1.3300340241262143,
+      "profit": 1331,
+      "payout": 101330,
+      "staked": 99999,
+      "mins": 21,
       "split": {
-        "S": 0.9949179949179948,
-        "payout": 100511,
-        "profit": 511,
-        "staked": 100000,
+        "S": 0.9868742368742368,
+        "payout": 101330,
+        "profit": 1331,
+        "staked": 99999,
         "legs": [
           {
             "book": "Betfair",
             "odd": 18,
-            "stake": 5584
+            "stake": 5629
           },
           {
             "book": "Betfair",
             "odd": 26,
-            "stake": 3866
+            "stake": 3897
           },
           {
             "book": "Rainbet",
-            "odd": 1.11,
-            "stake": 90550
+            "odd": 1.12,
+            "stake": 90473
           }
         ]
       },
