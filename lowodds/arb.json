@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-15T05:24:33.024Z",
+  "generatedAt": "2026-09-15T05:30:00.067Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 1,
+  "scanned": 7,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "ULCrSAzQ",
-      "sport": "hockey",
-      "sportLabel": "アイスホッケー",
-      "teams": "Avangard Omsk - Yekaterinburg",
-      "url": "https://www.betexplorer.com/hockey/russia/khl/avangard-omsk-yekaterinburg/ULCrSAzQ/",
-      "kickoff": "2026-09-15T14:30:00+09:00",
-      "width": 3,
-      "books": 10,
-      "labels": [
-        "Avangard Omsk",
-        "Draw",
-        "Yekaterinburg"
-      ],
-      "legs": [
-        {
-          "outcome": "Avangard Omsk",
-          "book": "Bets.io",
-          "odd": 2.01,
-          "stake": 49816,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "1xBet",
-          "odd": 4.29,
-          "stake": 23340,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "Yekaterinburg",
-          "book": "1xBet",
-          "odd": 3.73,
-          "stake": 26844,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        }
-      ],
-      "S": 0.9987091856564867,
-      "roi": 0.12924826987195104,
-      "profit": 129,
-      "payout": 100129,
-      "staked": 100000,
-      "mins": 5,
-      "split": {
-        "S": 0.9987091856564867,
-        "payout": 100129,
-        "profit": 129,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Bets.io",
-            "odd": 2.01,
-            "stake": 49816
-          },
-          {
-            "book": "1xBet",
-            "odd": 4.29,
-            "stake": 23340
-          },
-          {
-            "book": "1xBet",
-            "odd": 3.73,
-            "stake": 26844
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
