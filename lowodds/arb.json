@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-15T07:38:08.868Z",
+  "generatedAt": "2026-09-15T07:43:38.018Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 3,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,5 +24,66 @@
     },
     "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "vNz0zJLk",
+      "sport": "handball",
+      "sportLabel": "ハンドボール",
+      "teams": "Gyor W - Kisvardai KC W",
+      "url": "https://www.betexplorer.com/handball/hungary/nb-i-women/gyor-kisvardai-kc/vNz0zJLk/",
+      "kickoff": "2026-09-15T17:00:00+09:00",
+      "width": 2,
+      "books": 4,
+      "labels": [
+        "Gyor W",
+        "Kisvardai KC W"
+      ],
+      "legs": [
+        {
+          "outcome": "Gyor W",
+          "book": "1xBet",
+          "odd": 65,
+          "stake": 50000,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        },
+        {
+          "outcome": "Kisvardai KC W",
+          "book": "1xBet",
+          "odd": 65,
+          "stake": 50000,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        }
+      ],
+      "S": 0.03076923076923077,
+      "roi": 3150,
+      "profit": 3150000,
+      "payout": 3250000,
+      "staked": 100000,
+      "mins": 16,
+      "split": {
+        "S": 0.03076923076923077,
+        "payout": 3250000,
+        "profit": 3150000,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "1xBet",
+            "odd": 65,
+            "stake": 50000
+          },
+          {
+            "book": "1xBet",
+            "odd": 65,
+            "stake": 50000
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    }
+  ]
 }
