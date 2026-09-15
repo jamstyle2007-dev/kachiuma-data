@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-15T10:10:17.744Z",
+  "generatedAt": "2026-09-15T10:15:42.516Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 3
   },
-  "opps": [
-    {
-      "id": "l2g2esft",
-      "sport": "handball",
-      "sportLabel": "ハンドボール",
-      "teams": "Gniezno W - Zaglebie W",
-      "url": "https://www.betexplorer.com/handball/poland/superliga-women/gniezno-zaglebie/l2g2esft/",
-      "kickoff": "2026-09-15T19:15:00+09:00",
-      "width": 3,
-      "books": 12,
-      "labels": [
-        "Gniezno W",
-        "Draw",
-        "Zaglebie W"
-      ],
-      "legs": [
-        {
-          "outcome": "Gniezno W",
-          "book": "Betfair",
-          "odd": 17,
-          "stake": 5941,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        },
-        {
-          "outcome": "Draw",
-          "book": "Betfair",
-          "odd": 26,
-          "stake": 3884,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        },
-        {
-          "outcome": "Zaglebie W",
-          "book": "Rainbet",
-          "odd": 1.12,
-          "stake": 90175,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
-        }
-      ],
-      "S": 0.990142210730446,
-      "roi": 0.9955932756650965,
-      "profit": 996,
-      "payout": 100996,
-      "staked": 100000,
-      "mins": 5,
-      "split": {
-        "S": 0.990142210730446,
-        "payout": 100996,
-        "profit": 996,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betfair",
-            "odd": 17,
-            "stake": 5941
-          },
-          {
-            "book": "Betfair",
-            "odd": 26,
-            "stake": 3884
-          },
-          {
-            "book": "Rainbet",
-            "odd": 1.12,
-            "stake": 90175
-          }
-        ]
-      },
-      "hasExch": true,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
