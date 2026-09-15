@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-15T01:59:51.810Z",
+  "generatedAt": "2026-09-15T02:05:21.178Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 5,
-  "arbCount": 0,
+  "scanned": 1,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 5,
       "profit": 7610
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "hdLGj93E",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Ryukyu - Ibaraki Robots",
+      "url": "https://www.betexplorer.com/basketball/world/club-friendly/ryukyu-okinawa-ibaraki-robots/hdLGj93E/",
+      "kickoff": "2026-09-15T11:35:00+09:00",
+      "width": 2,
+      "books": 13,
+      "labels": [
+        "Ryukyu",
+        "Ibaraki Robots"
+      ],
+      "legs": [
+        {
+          "outcome": "Ryukyu",
+          "book": "BetInAsia",
+          "odd": 1.55,
+          "stake": 67368,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.betinasia.com/"
+        },
+        {
+          "outcome": "Ibaraki Robots",
+          "book": "Rainbet",
+          "odd": 3.2,
+          "stake": 32632,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
+        }
+      ],
+      "S": 0.9576612903225806,
+      "roi": 4.421052631578948,
+      "profit": 4421,
+      "payout": 104421,
+      "staked": 100000,
+      "mins": 30,
+      "split": {
+        "S": 0.9576612903225806,
+        "payout": 104421,
+        "profit": 4421,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "BetInAsia",
+            "odd": 1.55,
+            "stake": 67368
+          },
+          {
+            "book": "Rainbet",
+            "odd": 3.2,
+            "stake": 32632
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
