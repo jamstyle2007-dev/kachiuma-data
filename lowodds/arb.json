@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-15T08:59:45.580Z",
+  "generatedAt": "2026-09-15T09:05:15.141Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 4,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "bsMzS76E",
-      "sport": "handball",
-      "sportLabel": "ハンドボール",
-      "teams": "Zrinski W - Podravka W",
-      "url": "https://www.betexplorer.com/handball/croatia/1-hrl-women/zrinski-podravka/bsMzS76E/",
-      "kickoff": "2026-09-15T18:00:00+09:00",
-      "width": 2,
-      "books": 5,
-      "labels": [
-        "Zrinski W",
-        "Podravka W"
-      ],
-      "legs": [
-        {
-          "outcome": "Zrinski W",
-          "book": "Betfair",
-          "odd": 71,
-          "stake": 53289,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        },
-        {
-          "outcome": "Podravka W",
-          "book": "Betfair",
-          "odd": 81,
-          "stake": 46711,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        }
-      ],
-      "S": 0.0264301860545992,
-      "roi": 3683.552631578947,
-      "profit": 3683553,
-      "payout": 3783553,
-      "staked": 100000,
-      "mins": 0,
-      "split": {
-        "S": 0.0264301860545992,
-        "payout": 3783553,
-        "profit": 3683553,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betfair",
-            "odd": 71,
-            "stake": 53289
-          },
-          {
-            "book": "Betfair",
-            "odd": 81,
-            "stake": 46711
-          }
-        ]
-      },
-      "hasExch": true,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
