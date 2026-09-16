@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-09-16T08:56:24.686Z",
+  "generatedAt": "2026-09-16T09:01:55.798Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 4,
+  "scanned": 2,
   "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
-      "count": 340,
-      "profit": 118456402
+      "count": 341,
+      "profit": 118456553
     },
     "year": {
-      "count": 340,
-      "profit": 118456402
+      "count": 341,
+      "profit": 118456553
     },
     "month": {
-      "count": 86,
-      "profit": 73340110
+      "count": 87,
+      "profit": 73340261
     },
     "week": {
-      "count": 13,
-      "profit": 6854297
+      "count": 14,
+      "profit": 6854448
     },
-    "pending": 5
+    "pending": 4
   },
   "opps": [
     {
@@ -63,7 +63,7 @@
       "profit": 265,
       "payout": 100265,
       "staked": 100000,
-      "mins": 14,
+      "mins": 8,
       "split": {
         "S": 0.9973529967857817,
         "payout": 100265,
