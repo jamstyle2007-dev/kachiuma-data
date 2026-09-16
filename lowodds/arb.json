@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T07:27:36.964Z",
+  "generatedAt": "2026-09-16T07:33:03.368Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 0,
+  "scanned": 4,
+  "arbCount": 2,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,128 @@
       "count": 13,
       "profit": 6854297
     },
-    "pending": 1
+    "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "nmv8Ydj2",
+      "sport": "handball",
+      "sportLabel": "ハンドボール",
+      "teams": "Ferencvaros W - MTK Budapest W",
+      "url": "https://www.betexplorer.com/handball/hungary/nb-i-women/ferencvaros-mtk-budapest/nmv8Ydj2/",
+      "kickoff": "2026-09-16T17:00:00+09:00",
+      "width": 2,
+      "books": 5,
+      "labels": [
+        "Ferencvaros W",
+        "MTK Budapest W"
+      ],
+      "legs": [
+        {
+          "outcome": "Ferencvaros W",
+          "book": "bwin",
+          "odd": 56,
+          "stake": 53719,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        },
+        {
+          "outcome": "MTK Budapest W",
+          "book": "1xBet",
+          "odd": 65,
+          "stake": 46281,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        }
+      ],
+      "S": 0.03324175824175824,
+      "roi": 2908.2644628099174,
+      "profit": 2908264,
+      "payout": 3008264,
+      "staked": 100000,
+      "mins": 27,
+      "split": {
+        "S": 0.03324175824175824,
+        "payout": 3008264,
+        "profit": 2908264,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "bwin",
+            "odd": 56,
+            "stake": 53719
+          },
+          {
+            "book": "1xBet",
+            "odd": 65,
+            "stake": 46281
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    },
+    {
+      "id": "SCfIiag5",
+      "sport": "handball",
+      "sportLabel": "ハンドボール",
+      "teams": "Ruch Kalisz W - MKS Lublin W",
+      "url": "https://www.betexplorer.com/handball/poland/superliga-women/ruch-kalisz-mks-lublin/SCfIiag5/",
+      "kickoff": "2026-09-16T17:00:00+09:00",
+      "width": 2,
+      "books": 4,
+      "labels": [
+        "Ruch Kalisz W",
+        "MKS Lublin W"
+      ],
+      "legs": [
+        {
+          "outcome": "Ruch Kalisz W",
+          "book": "bwin",
+          "odd": 36,
+          "stake": 53247,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        },
+        {
+          "outcome": "MKS Lublin W",
+          "book": "bwin",
+          "odd": 41,
+          "stake": 46753,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        }
+      ],
+      "S": 0.0521680216802168,
+      "roi": 1816.8831168831168,
+      "profit": 1816883,
+      "payout": 1916883,
+      "staked": 100000,
+      "mins": 27,
+      "split": {
+        "S": 0.0521680216802168,
+        "payout": 1916883,
+        "profit": 1816883,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "bwin",
+            "odd": 36,
+            "stake": 53247
+          },
+          {
+            "book": "bwin",
+            "odd": 41,
+            "stake": 46753
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    }
+  ]
 }
