@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T05:32:49.759Z",
+  "generatedAt": "2026-09-16T05:38:21.249Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 7,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 12,
       "profit": 6846769
     },
-    "pending": 1
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "hb7Nf3FG",
+      "sport": "volleyball",
+      "sportLabel": "バレー",
+      "teams": "Turkey - Latvia",
+      "url": "https://www.betexplorer.com/volleyball/europe/european-championships/turkey-latvia/hb7Nf3FG/",
+      "kickoff": "2026-09-16T15:00:00+09:00",
+      "width": 2,
+      "books": 14,
+      "labels": [
+        "Turkey",
+        "Latvia"
+      ],
+      "legs": [
+        {
+          "outcome": "Turkey",
+          "book": "BetInAsia",
+          "odd": 1.16,
+          "stake": 86337,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.betinasia.com/"
+        },
+        {
+          "outcome": "Latvia",
+          "book": "1xBet",
+          "odd": 7.33,
+          "stake": 13663,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        }
+      ],
+      "S": 0.9984946135390695,
+      "roi": 0.1507656065959928,
+      "profit": 151,
+      "payout": 100151,
+      "staked": 100000,
+      "mins": 22,
+      "split": {
+        "S": 0.9984946135390695,
+        "payout": 100151,
+        "profit": 151,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "BetInAsia",
+            "odd": 1.16,
+            "stake": 86337
+          },
+          {
+            "book": "1xBet",
+            "odd": 7.33,
+            "stake": 13663
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    }
+  ]
 }
