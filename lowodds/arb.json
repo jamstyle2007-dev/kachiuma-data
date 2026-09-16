@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T08:23:20.106Z",
+  "generatedAt": "2026-09-16T08:28:52.085Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 4,
@@ -44,7 +44,7 @@
           "outcome": "GOG",
           "book": "Betsson",
           "odd": 2.87,
-          "stake": 35529,
+          "stake": 35271,
           "jp": false,
           "exch": false,
           "url": "https://www.betsson.com/"
@@ -52,48 +52,48 @@
         {
           "outcome": "Draw",
           "book": "1xBet",
-          "odd": 9.2,
-          "stake": 11084,
+          "odd": 9.3,
+          "stake": 10885,
           "jp": true,
           "exch": false,
           "url": "https://1xbet.com/ja"
         },
         {
           "outcome": "Szeged",
-          "book": "1xBet",
-          "odd": 1.91,
-          "stake": 53387,
-          "jp": true,
+          "book": "bet365",
+          "odd": 1.88,
+          "stake": 53844,
+          "jp": false,
           "exch": false,
-          "url": "https://1xbet.com/ja"
+          "url": "https://www.bet365.com/"
         }
       ],
-      "S": 0.9806879173471257,
-      "roi": 1.969238359244363,
-      "profit": 1969,
-      "payout": 101969,
+      "S": 0.9878738310865802,
+      "roi": 1.227501785332441,
+      "profit": 1228,
+      "payout": 101228,
       "staked": 100000,
-      "mins": 22,
+      "mins": 16,
       "split": {
-        "S": 0.9806879173471257,
-        "payout": 101969,
-        "profit": 1969,
+        "S": 0.9878738310865802,
+        "payout": 101228,
+        "profit": 1228,
         "staked": 100000,
         "legs": [
           {
             "book": "Betsson",
             "odd": 2.87,
-            "stake": 35529
+            "stake": 35271
           },
           {
             "book": "1xBet",
-            "odd": 9.2,
-            "stake": 11084
+            "odd": 9.3,
+            "stake": 10885
           },
           {
-            "book": "1xBet",
-            "odd": 1.91,
-            "stake": 53387
+            "book": "bet365",
+            "odd": 1.88,
+            "stake": 53844
           }
         ]
       },
