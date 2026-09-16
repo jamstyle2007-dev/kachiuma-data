@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T09:07:20.618Z",
+  "generatedAt": "2026-09-16T09:12:47.541Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 4
   },
-  "opps": [
-    {
-      "id": "CEA0IhPM",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Cleveland Guardians - Chicago White Sox",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/cleveland-guardians-chicago-white-sox/CEA0IhPM/",
-      "kickoff": "2026-09-16T18:10:00+09:00",
-      "width": 2,
-      "books": 18,
-      "labels": [
-        "Cleveland Guardians",
-        "Chicago White Sox"
-      ],
-      "legs": [
-        {
-          "outcome": "Cleveland Guardians",
-          "book": "1xBet",
-          "odd": 1.64,
-          "stake": 61137,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "Chicago White Sox",
-          "book": "Betfair Exchange",
-          "odd": 2.58,
-          "stake": 38863,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        }
-      ],
-      "S": 0.9973529967857817,
-      "roi": 0.2654028436019029,
-      "profit": 265,
-      "payout": 100265,
-      "staked": 100000,
-      "mins": 3,
-      "split": {
-        "S": 0.9973529967857817,
-        "payout": 100265,
-        "profit": 265,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 1.64,
-            "stake": 61137
-          },
-          {
-            "book": "Betfair Exchange",
-            "odd": 2.58,
-            "stake": 38863
-          }
-        ]
-      },
-      "hasExch": true,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
