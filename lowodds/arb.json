@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T01:22:58.549Z",
+  "generatedAt": "2026-09-16T01:28:28.397Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 4,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "lKdyX7Sa",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Lotte Giants - SSG Landers",
-      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/lotte-giants-ssg-landers/lKdyX7Sa/",
-      "kickoff": "2026-09-16T10:30:00+09:00",
-      "width": 2,
-      "books": 19,
-      "labels": [
-        "Lotte Giants",
-        "SSG Landers"
-      ],
-      "legs": [
-        {
-          "outcome": "Lotte Giants",
-          "book": "Betfair Exchange",
-          "odd": 2.27,
-          "stake": 44226,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        },
-        {
-          "outcome": "SSG Landers",
-          "book": "bwin",
-          "odd": 1.8,
-          "stake": 55774,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        }
-      ],
-      "S": 0.996084189916789,
-      "roi": 0.39312039312038305,
-      "profit": 393,
-      "payout": 100393,
-      "staked": 100000,
-      "mins": 7,
-      "split": {
-        "S": 0.996084189916789,
-        "payout": 100393,
-        "profit": 393,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betfair Exchange",
-            "odd": 2.27,
-            "stake": 44226
-          },
-          {
-            "book": "bwin",
-            "odd": 1.8,
-            "stake": 55774
-          }
-        ]
-      },
-      "hasExch": true,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
