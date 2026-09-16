@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T02:44:51.094Z",
+  "generatedAt": "2026-09-16T02:50:15.667Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 0,
+  "scanned": 2,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 11,
       "profit": 6846376
     },
-    "pending": 1
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "xIh9yPk5",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Levice - Salon Vilpas",
+      "url": "https://www.betexplorer.com/basketball/europe/champions-league/levice-salon-vilpas/xIh9yPk5/",
+      "kickoff": "2026-09-16T12:15:00+09:00",
+      "width": 2,
+      "books": 17,
+      "labels": [
+        "Levice",
+        "Salon Vilpas"
+      ],
+      "legs": [
+        {
+          "outcome": "Levice",
+          "book": "Rainbet",
+          "odd": 1.32,
+          "stake": 81461,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
+        },
+        {
+          "outcome": "Salon Vilpas",
+          "book": "Duelbits",
+          "odd": 5.8,
+          "stake": 18539,
+          "jp": false,
+          "exch": false,
+          "url": "https://duelbits.com/"
+        }
+      ],
+      "S": 0.9299895506792059,
+      "roi": 7.528089887640443,
+      "profit": 7528,
+      "payout": 107528,
+      "staked": 100000,
+      "mins": 25,
+      "split": {
+        "S": 0.9299895506792059,
+        "payout": 107528,
+        "profit": 7528,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Rainbet",
+            "odd": 1.32,
+            "stake": 81461
+          },
+          {
+            "book": "Duelbits",
+            "odd": 5.8,
+            "stake": 18539
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
