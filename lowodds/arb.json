@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T06:55:39.457Z",
+  "generatedAt": "2026-09-17T07:01:06.348Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 3,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 18,
       "profit": 11581829
     },
-    "pending": 1
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "j3VKK1sf",
+      "sport": "hockey",
+      "sportLabel": "アイスホッケー",
+      "teams": "Jokerit - JYP",
+      "url": "https://www.betexplorer.com/hockey/finland/liiga/jokerit-jyp-jyvaskyla/j3VKK1sf/",
+      "kickoff": "2026-09-17T16:30:00+09:00",
+      "width": 3,
+      "books": 18,
+      "labels": [
+        "Jokerit",
+        "Draw",
+        "JYP"
+      ],
+      "legs": [
+        {
+          "outcome": "Jokerit",
+          "book": "Betsson",
+          "odd": 2.95,
+          "stake": 33998,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.betsson.com/"
+        },
+        {
+          "outcome": "Draw",
+          "book": "Betsson",
+          "odd": 4.3,
+          "stake": 23324,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.betsson.com/"
+        },
+        {
+          "outcome": "JYP",
+          "book": "bwin",
+          "odd": 2.35,
+          "stake": 42678,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        }
+      ],
+      "S": 0.9970731052759583,
+      "roi": 0.2935486584237701,
+      "profit": 294,
+      "payout": 100294,
+      "staked": 100000,
+      "mins": 29,
+      "split": {
+        "S": 0.9970731052759583,
+        "payout": 100294,
+        "profit": 294,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Betsson",
+            "odd": 2.95,
+            "stake": 33998
+          },
+          {
+            "book": "Betsson",
+            "odd": 4.3,
+            "stake": 23324
+          },
+          {
+            "book": "bwin",
+            "odd": 2.35,
+            "stake": 42678
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
