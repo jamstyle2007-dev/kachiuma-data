@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T05:55:38.095Z",
+  "generatedAt": "2026-09-17T06:01:10.144Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 7,
-  "arbCount": 1,
+  "scanned": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "AJctr5ED",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "Serbia - Belgium",
-      "url": "https://www.betexplorer.com/volleyball/europe/european-championships/serbia-belgium/AJctr5ED/",
-      "kickoff": "2026-09-17T15:00:00+09:00",
-      "width": 2,
-      "books": 16,
-      "labels": [
-        "Serbia",
-        "Belgium"
-      ],
-      "legs": [
-        {
-          "outcome": "Serbia",
-          "book": "BetInAsia",
-          "odd": 2.72,
-          "stake": 36891,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        },
-        {
-          "outcome": "Belgium",
-          "book": "1xBet",
-          "odd": 1.59,
-          "stake": 63109,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        }
-      ],
-      "S": 0.9965778764335922,
-      "roi": 0.3433874709976914,
-      "profit": 343,
-      "payout": 100343,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.9965778764335922,
-        "payout": 100343,
-        "profit": 343,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "BetInAsia",
-            "odd": 2.72,
-            "stake": 36891
-          },
-          {
-            "book": "1xBet",
-            "odd": 1.59,
-            "stake": 63109
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
