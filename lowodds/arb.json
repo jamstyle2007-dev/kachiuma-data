@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-17T07:22:55.487Z",
+  "generatedAt": "2026-09-17T07:28:23.856Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 3,
+  "scanned": 2,
   "arbCount": 1,
   "track": {
     "stake": 100000,
@@ -51,12 +51,12 @@
         },
         {
           "outcome": "Draw",
-          "book": "Betsson",
+          "book": "1xBet",
           "odd": 4.3,
           "stake": 23324,
-          "jp": false,
+          "jp": true,
           "exch": false,
-          "url": "https://www.betsson.com/"
+          "url": "https://1xbet.com/ja"
         },
         {
           "outcome": "JYP",
@@ -73,7 +73,7 @@
       "profit": 294,
       "payout": 100294,
       "staked": 100000,
-      "mins": 7,
+      "mins": 2,
       "split": {
         "S": 0.9970731052759583,
         "payout": 100294,
@@ -86,7 +86,7 @@
             "stake": 33998
           },
           {
-            "book": "Betsson",
+            "book": "1xBet",
             "odd": 4.3,
             "stake": 23324
           },
