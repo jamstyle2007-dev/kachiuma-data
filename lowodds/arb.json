@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T17:28:39.977Z",
+  "generatedAt": "2026-09-17T17:34:01.504Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 1,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 20,
       "profit": 11582466
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "l4CMrZrL",
+      "sport": "volleyball",
+      "sportLabel": "バレー",
+      "teams": "Mexico W - Dominican Republic W",
+      "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup-women/mexico-dominican-republic/l4CMrZrL/",
+      "kickoff": "2026-09-18T03:00:00+09:00",
+      "width": 2,
+      "books": 15,
+      "labels": [
+        "Mexico W",
+        "Dominican Republic W"
+      ],
+      "legs": [
+        {
+          "outcome": "Mexico W",
+          "book": "Unibet",
+          "odd": 1.3,
+          "stake": 77586,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.unibet.com/"
+        },
+        {
+          "outcome": "Dominican Republic W",
+          "book": "Betfair",
+          "odd": 4.5,
+          "stake": 22414,
+          "jp": true,
+          "exch": true,
+          "url": "https://www.betfair.com/exchange/plus/"
+        }
+      ],
+      "S": 0.9914529914529914,
+      "roi": 0.8620689655172598,
+      "profit": 862,
+      "payout": 100862,
+      "staked": 100000,
+      "mins": 26,
+      "split": {
+        "S": 0.9914529914529914,
+        "payout": 100862,
+        "profit": 862,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Unibet",
+            "odd": 1.3,
+            "stake": 77586
+          },
+          {
+            "book": "Betfair",
+            "odd": 4.5,
+            "stake": 22414
+          }
+        ]
+      },
+      "hasExch": true,
+      "allJp": false
+    }
+  ]
 }
