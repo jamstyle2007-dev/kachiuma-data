@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T17:50:15.294Z",
+  "generatedAt": "2026-09-17T17:55:40.014Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
@@ -43,46 +43,46 @@
           "outcome": "Mexico W",
           "book": "Unibet",
           "odd": 1.29,
-          "stake": 77720,
+          "stake": 77643,
           "jp": false,
           "exch": false,
           "url": "https://www.unibet.com/"
         },
         {
           "outcome": "Dominican Republic W",
-          "book": "Betfair",
-          "odd": 4.5,
-          "stake": 22280,
+          "book": "1xBet",
+          "odd": 4.48,
+          "stake": 22357,
           "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
+          "exch": false,
+          "url": "https://1xbet.com/ja"
         }
       ],
-      "S": 0.9974160206718345,
-      "roi": 0.2590673575129543,
-      "profit": 259,
-      "payout": 100259,
+      "S": 0.998408084163898,
+      "roi": 0.15944540727903522,
+      "profit": 159,
+      "payout": 100159,
       "staked": 100000,
-      "mins": 10,
+      "mins": 4,
       "split": {
-        "S": 0.9974160206718345,
-        "payout": 100259,
-        "profit": 259,
+        "S": 0.998408084163898,
+        "payout": 100159,
+        "profit": 159,
         "staked": 100000,
         "legs": [
           {
             "book": "Unibet",
             "odd": 1.29,
-            "stake": 77720
+            "stake": 77643
           },
           {
-            "book": "Betfair",
-            "odd": 4.5,
-            "stake": 22280
+            "book": "1xBet",
+            "odd": 4.48,
+            "stake": 22357
           }
         ]
       },
-      "hasExch": true,
+      "hasExch": false,
       "allJp": false
     }
   ]
