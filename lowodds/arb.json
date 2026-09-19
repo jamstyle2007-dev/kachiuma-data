@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T15:00:52.749Z",
+  "generatedAt": "2026-09-19T15:06:40.057Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 3,
-  "arbCount": 2,
+  "scanned": 2,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -26,149 +26,74 @@
   },
   "opps": [
     {
-      "id": "EZA28WDl",
+      "id": "8zqVQvUF",
       "sport": "baseball",
       "sportLabel": "野球",
-      "teams": "Houston Astros - Atlanta Braves",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/houston-astros-atlanta-braves/EZA28WDl/",
-      "kickoff": "2026-09-20T00:10:00+09:00",
+      "teams": "St.Louis Cardinals - Washington Nationals",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/st-louis-cardinals-washington-nationals/8zqVQvUF/",
+      "kickoff": "2026-09-20T00:15:00+09:00",
       "width": 3,
       "books": 9,
       "labels": [
-        "Houston Astros",
+        "St.Louis Cardinals",
         "Draw",
-        "Atlanta Braves"
+        "Washington Nationals"
       ],
       "legs": [
         {
-          "outcome": "Houston Astros",
-          "book": "14:4",
-          "odd": 14,
-          "stake": 14049,
+          "outcome": "St.Louis Cardinals",
+          "book": "7:3",
+          "odd": 7,
+          "stake": 22053,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=14%3A4%20sportsbook"
+          "url": "https://www.google.com/search?q=7%3A3%20sportsbook"
         },
         {
           "outcome": "Draw",
-          "book": "3:1",
-          "odd": 2.6,
-          "stake": 75648,
+          "book": "2:1",
+          "odd": 2.24,
+          "stake": 68915,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=3%3A1%20sportsbook"
+          "url": "https://www.google.com/search?q=2%3A1%20sportsbook"
         },
         {
-          "outcome": "Atlanta Braves",
-          "book": "2:6",
-          "odd": 19.09,
-          "stake": 10303,
+          "outcome": "Washington Nationals",
+          "book": "5:6",
+          "odd": 17.09,
+          "stake": 9033,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=2%3A6%20sportsbook"
+          "url": "https://www.google.com/search?q=5%3A6%20sportsbook"
         }
       ],
-      "S": 0.5084274028747574,
-      "roi": 96.68491398099037,
-      "profit": 96685,
-      "payout": 196685,
-      "staked": 100000,
-      "mins": 9,
+      "S": 0.647799465017136,
+      "roi": 54.368759778698994,
+      "profit": 54368,
+      "payout": 154369,
+      "staked": 100001,
+      "mins": 8,
       "split": {
-        "S": 0.5084274028747574,
-        "payout": 196685,
-        "profit": 96685,
-        "staked": 100000,
+        "S": 0.647799465017136,
+        "payout": 154369,
+        "profit": 54368,
+        "staked": 100001,
         "legs": [
           {
-            "book": "14:4",
-            "odd": 14,
-            "stake": 14049
+            "book": "7:3",
+            "odd": 7,
+            "stake": 22053
           },
           {
-            "book": "3:1",
-            "odd": 2.6,
-            "stake": 75648
+            "book": "2:1",
+            "odd": 2.24,
+            "stake": 68915
           },
           {
-            "book": "2:6",
-            "odd": 19.09,
-            "stake": 10303
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    },
-    {
-      "id": "0Or7Rako",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Texas Rangers - Toronto Blue Jays",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/texas-rangers-toronto-blue-jays/0Or7Rako/",
-      "kickoff": "2026-09-20T00:05:00+09:00",
-      "width": 3,
-      "books": 10,
-      "labels": [
-        "Texas Rangers",
-        "Draw",
-        "Toronto Blue Jays"
-      ],
-      "legs": [
-        {
-          "outcome": "Texas Rangers",
-          "book": "9:1",
-          "odd": 9,
-          "stake": 18395,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=9%3A1%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "3:2",
-          "odd": 2.27,
-          "stake": 72932,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=3%3A2%20sportsbook"
-        },
-        {
-          "outcome": "Toronto Blue Jays",
-          "book": "7:1",
-          "odd": 19.09,
-          "stake": 8672,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=7%3A1%20sportsbook"
-        }
-      ],
-      "S": 0.6040231923031459,
-      "roi": 65.5565568909682,
-      "profit": 65558,
-      "payout": 165557,
-      "staked": 99999,
-      "mins": 4,
-      "split": {
-        "S": 0.6040231923031459,
-        "payout": 165557,
-        "profit": 65558,
-        "staked": 99999,
-        "legs": [
-          {
-            "book": "9:1",
-            "odd": 9,
-            "stake": 18395
-          },
-          {
-            "book": "3:2",
-            "odd": 2.27,
-            "stake": 72932
-          },
-          {
-            "book": "7:1",
-            "odd": 19.09,
-            "stake": 8672
+            "book": "5:6",
+            "odd": 17.09,
+            "stake": 9033
           }
         ]
       },
