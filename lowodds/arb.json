@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T14:35:55.477Z",
+  "generatedAt": "2026-09-19T14:42:29.286Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 3,
-  "arbCount": 3,
+  "scanned": 2,
+  "arbCount": 2,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,153 +22,78 @@
       "count": 23,
       "profit": 15582122
     },
-    "pending": 4
+    "pending": 5
   },
   "opps": [
     {
-      "id": "0l4nGNFc",
+      "id": "EZA28WDl",
       "sport": "baseball",
       "sportLabel": "野球",
-      "teams": "Cincinnati Reds - Chicago Cubs",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/cincinnati-reds-chicago-cubs/0l4nGNFc/",
-      "kickoff": "2026-09-19T23:40:00+09:00",
+      "teams": "Houston Astros - Atlanta Braves",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/houston-astros-atlanta-braves/EZA28WDl/",
+      "kickoff": "2026-09-20T00:10:00+09:00",
       "width": 3,
-      "books": 8,
+      "books": 9,
       "labels": [
-        "Cincinnati Reds",
+        "Houston Astros",
         "Draw",
-        "Chicago Cubs"
+        "Atlanta Braves"
       ],
       "legs": [
         {
-          "outcome": "Cincinnati Reds",
-          "book": "20:0",
-          "odd": 20,
-          "stake": 12627,
+          "outcome": "Houston Astros",
+          "book": "14:4",
+          "odd": 14,
+          "stake": 14049,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=20%3A0%20sportsbook"
+          "url": "https://www.google.com/search?q=14%3A4%20sportsbook"
         },
         {
           "outcome": "Draw",
-          "book": "3:2",
-          "odd": 3.44,
-          "stake": 73413,
+          "book": "3:1",
+          "odd": 2.6,
+          "stake": 75648,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=3%3A2%20sportsbook"
+          "url": "https://www.google.com/search?q=3%3A1%20sportsbook"
         },
         {
-          "outcome": "Chicago Cubs",
-          "book": "6:4",
-          "odd": 18.09,
-          "stake": 13960,
+          "outcome": "Atlanta Braves",
+          "book": "2:6",
+          "odd": 19.09,
+          "stake": 10303,
           "jp": false,
           "exch": false,
-          "url": "https://www.google.com/search?q=6%3A4%20sportsbook"
+          "url": "https://www.google.com/search?q=2%3A6%20sportsbook"
         }
       ],
-      "S": 0.3959768341753763,
-      "roi": 152.54002600493152,
-      "profit": 152540,
-      "payout": 252540,
+      "S": 0.5084274028747574,
+      "roi": 96.68491398099037,
+      "profit": 96685,
+      "payout": 196685,
       "staked": 100000,
-      "mins": 4,
+      "mins": 28,
       "split": {
-        "S": 0.3959768341753763,
-        "payout": 252540,
-        "profit": 152540,
+        "S": 0.5084274028747574,
+        "payout": 196685,
+        "profit": 96685,
         "staked": 100000,
         "legs": [
           {
-            "book": "20:0",
-            "odd": 20,
-            "stake": 12627
+            "book": "14:4",
+            "odd": 14,
+            "stake": 14049
           },
           {
-            "book": "3:2",
-            "odd": 3.44,
-            "stake": 73413
+            "book": "3:1",
+            "odd": 2.6,
+            "stake": 75648
           },
           {
-            "book": "6:4",
-            "odd": 18.09,
-            "stake": 13960
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    },
-    {
-      "id": "4t13CuFM",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Pittsburgh Pirates - Kansas City Royals",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/pittsburgh-pirates-kansas-city-royals/4t13CuFM/",
-      "kickoff": "2026-09-19T23:40:00+09:00",
-      "width": 3,
-      "books": 8,
-      "labels": [
-        "Pittsburgh Pirates",
-        "Draw",
-        "Kansas City Royals"
-      ],
-      "legs": [
-        {
-          "outcome": "Pittsburgh Pirates",
-          "book": "12:2",
-          "odd": 12,
-          "stake": 15972,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=12%3A2%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "12:2",
-          "odd": 2.61,
-          "stake": 73433,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=12%3A2%20sportsbook"
-        },
-        {
-          "outcome": "Kansas City Royals",
-          "book": "8:5",
-          "odd": 18.09,
-          "stake": 10595,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=8%3A5%20sportsbook"
-        }
-      ],
-      "S": 0.5217542555422123,
-      "roi": 91.66111045146911,
-      "profit": 91661,
-      "payout": 191661,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.5217542555422123,
-        "payout": 191661,
-        "profit": 91661,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "12:2",
-            "odd": 12,
-            "stake": 15972
-          },
-          {
-            "book": "12:2",
-            "odd": 2.61,
-            "stake": 73433
-          },
-          {
-            "book": "8:5",
-            "odd": 18.09,
-            "stake": 10595
+            "book": "2:6",
+            "odd": 19.09,
+            "stake": 10303
           }
         ]
       },
@@ -223,7 +148,7 @@
       "profit": 65558,
       "payout": 165557,
       "staked": 99999,
-      "mins": 29,
+      "mins": 23,
       "split": {
         "S": 0.6040231923031459,
         "payout": 165557,
