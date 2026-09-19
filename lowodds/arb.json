@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T23:09:13.895Z",
+  "generatedAt": "2026-09-19T23:14:38.549Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 0,
+  "scanned": 2,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 29,
       "profit": 16142936
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "OE4WSxvJ",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "China - Iran",
+      "url": "https://www.betexplorer.com/basketball/asia/asian-games/china-iran/OE4WSxvJ/",
+      "kickoff": "2026-09-20T08:40:00+09:00",
+      "width": 2,
+      "books": 14,
+      "labels": [
+        "China",
+        "Iran"
+      ],
+      "legs": [
+        {
+          "outcome": "China",
+          "book": "BetInAsia",
+          "odd": 1.13,
+          "stake": 89061,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.betinasia.com/"
+        },
+        {
+          "outcome": "Iran",
+          "book": "Duelbits",
+          "odd": 9.2,
+          "stake": 10939,
+          "jp": false,
+          "exch": false,
+          "url": "https://duelbits.com/"
+        }
+      ],
+      "S": 0.9936514043863025,
+      "roi": 0.6389157792836331,
+      "profit": 639,
+      "payout": 100639,
+      "staked": 100000,
+      "mins": 25,
+      "split": {
+        "S": 0.9936514043863025,
+        "payout": 100639,
+        "profit": 639,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "BetInAsia",
+            "odd": 1.13,
+            "stake": 89061
+          },
+          {
+            "book": "Duelbits",
+            "odd": 9.2,
+            "stake": 10939
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
