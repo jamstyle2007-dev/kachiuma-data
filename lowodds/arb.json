@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T14:54:47.917Z",
+  "generatedAt": "2026-09-19T15:00:52.749Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 3,
-  "arbCount": 3,
+  "arbCount": 2,
   "track": {
     "stake": 100000,
     "all": {
@@ -44,7 +44,7 @@
           "outcome": "Houston Astros",
           "book": "14:4",
           "odd": 14,
-          "stake": 14008,
+          "stake": 14049,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=14%3A4%20sportsbook"
@@ -52,8 +52,8 @@
         {
           "outcome": "Draw",
           "book": "3:1",
-          "odd": 2.59,
-          "stake": 75719,
+          "odd": 2.6,
+          "stake": 75648,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=3%3A1%20sportsbook"
@@ -62,38 +62,38 @@
           "outcome": "Atlanta Braves",
           "book": "2:6",
           "odd": 19.09,
-          "stake": 10273,
+          "stake": 10303,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=2%3A6%20sportsbook"
         }
       ],
-      "S": 0.5099124043597589,
-      "roi": 96.11211483580013,
-      "profit": 96112,
-      "payout": 196112,
+      "S": 0.5084274028747574,
+      "roi": 96.68491398099037,
+      "profit": 96685,
+      "payout": 196685,
       "staked": 100000,
-      "mins": 15,
+      "mins": 9,
       "split": {
-        "S": 0.5099124043597589,
-        "payout": 196112,
-        "profit": 96112,
+        "S": 0.5084274028747574,
+        "payout": 196685,
+        "profit": 96685,
         "staked": 100000,
         "legs": [
           {
             "book": "14:4",
             "odd": 14,
-            "stake": 14008
+            "stake": 14049
           },
           {
             "book": "3:1",
-            "odd": 2.59,
-            "stake": 75719
+            "odd": 2.6,
+            "stake": 75648
           },
           {
             "book": "2:6",
             "odd": 19.09,
-            "stake": 10273
+            "stake": 10303
           }
         ]
       },
@@ -148,7 +148,7 @@
       "profit": 65558,
       "payout": 165557,
       "staked": 99999,
-      "mins": 10,
+      "mins": 4,
       "split": {
         "S": 0.6040231923031459,
         "payout": 165557,
@@ -169,81 +169,6 @@
             "book": "7:1",
             "odd": 19.09,
             "stake": 8672
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    },
-    {
-      "id": "8zqVQvUF",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "St.Louis Cardinals - Washington Nationals",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/st-louis-cardinals-washington-nationals/8zqVQvUF/",
-      "kickoff": "2026-09-20T00:15:00+09:00",
-      "width": 3,
-      "books": 9,
-      "labels": [
-        "St.Louis Cardinals",
-        "Draw",
-        "Washington Nationals"
-      ],
-      "legs": [
-        {
-          "outcome": "St.Louis Cardinals",
-          "book": "7:3",
-          "odd": 7,
-          "stake": 21930,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=7%3A3%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "2:1",
-          "odd": 2.24,
-          "stake": 68530,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=2%3A1%20sportsbook"
-        },
-        {
-          "outcome": "Washington Nationals",
-          "book": "5:6",
-          "odd": 16.09,
-          "stake": 9541,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=5%3A6%20sportsbook"
-        }
-      ],
-      "S": 0.65143611826334,
-      "roi": 53.50699354311126,
-      "profit": 53506,
-      "payout": 153507,
-      "staked": 100001,
-      "mins": 20,
-      "split": {
-        "S": 0.65143611826334,
-        "payout": 153507,
-        "profit": 53506,
-        "staked": 100001,
-        "legs": [
-          {
-            "book": "7:3",
-            "odd": 7,
-            "stake": 21930
-          },
-          {
-            "book": "2:1",
-            "odd": 2.24,
-            "stake": 68530
-          },
-          {
-            "book": "5:6",
-            "odd": 16.09,
-            "stake": 9541
           }
         ]
       },
