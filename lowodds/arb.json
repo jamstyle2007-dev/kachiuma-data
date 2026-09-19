@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-19T15:06:40.057Z",
+  "generatedAt": "2026-09-19T15:12:20.976Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
+  "scanned": 1,
   "arbCount": 1,
   "track": {
     "stake": 100000,
@@ -44,7 +44,7 @@
           "outcome": "St.Louis Cardinals",
           "book": "7:3",
           "odd": 7,
-          "stake": 22053,
+          "stake": 21930,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=7%3A3%20sportsbook"
@@ -53,7 +53,7 @@
           "outcome": "Draw",
           "book": "2:1",
           "odd": 2.24,
-          "stake": 68915,
+          "stake": 68530,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=2%3A1%20sportsbook"
@@ -61,39 +61,39 @@
         {
           "outcome": "Washington Nationals",
           "book": "5:6",
-          "odd": 17.09,
-          "stake": 9033,
+          "odd": 16.09,
+          "stake": 9541,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=5%3A6%20sportsbook"
         }
       ],
-      "S": 0.647799465017136,
-      "roi": 54.368759778698994,
-      "profit": 54368,
-      "payout": 154369,
+      "S": 0.65143611826334,
+      "roi": 53.50699354311126,
+      "profit": 53506,
+      "payout": 153507,
       "staked": 100001,
-      "mins": 8,
+      "mins": 3,
       "split": {
-        "S": 0.647799465017136,
-        "payout": 154369,
-        "profit": 54368,
+        "S": 0.65143611826334,
+        "payout": 153507,
+        "profit": 53506,
         "staked": 100001,
         "legs": [
           {
             "book": "7:3",
             "odd": 7,
-            "stake": 22053
+            "stake": 21930
           },
           {
             "book": "2:1",
             "odd": 2.24,
-            "stake": 68915
+            "stake": 68530
           },
           {
             "book": "5:6",
-            "odd": 17.09,
-            "stake": 9033
+            "odd": 16.09,
+            "stake": 9541
           }
         ]
       },
