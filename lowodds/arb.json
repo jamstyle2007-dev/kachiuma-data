@@ -1,104 +1,28 @@
 {
-  "generatedAt": "2026-09-20T10:55:25.806Z",
+  "generatedAt": "2026-09-20T11:01:52.410Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
-      "count": 357,
-      "profit": 127745680
+      "count": 358,
+      "profit": 127745771
     },
     "year": {
-      "count": 357,
-      "profit": 127745680
+      "count": 358,
+      "profit": 127745771
     },
     "month": {
-      "count": 103,
-      "profit": 82629388
+      "count": 104,
+      "profit": 82629479
     },
     "week": {
-      "count": 30,
-      "profit": 16143575
+      "count": 31,
+      "profit": 16143666
     },
-    "pending": 3
+    "pending": 2
   },
-  "opps": [
-    {
-      "id": "Wnq7SCMH",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Colorado Rockies - Seattle Mariners",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/colorado-rockies-seattle-mariners/Wnq7SCMH/",
-      "kickoff": "2026-09-20T20:10:00+09:00",
-      "width": 3,
-      "books": 10,
-      "labels": [
-        "Colorado Rockies",
-        "Draw",
-        "Seattle Mariners"
-      ],
-      "legs": [
-        {
-          "outcome": "Colorado Rockies",
-          "book": "11:7",
-          "odd": 11,
-          "stake": 20573,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=11%3A7%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "10:3",
-          "odd": 3.32,
-          "stake": 68163,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=10%3A3%20sportsbook"
-        },
-        {
-          "outcome": "Seattle Mariners",
-          "book": "5:3",
-          "odd": 20.09,
-          "stake": 11264,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=5%3A3%20sportsbook"
-        }
-      ],
-      "S": 0.4418899181503606,
-      "roi": 126.30070497777974,
-      "profit": 126301,
-      "payout": 226301,
-      "staked": 100000,
-      "mins": 15,
-      "split": {
-        "S": 0.4418899181503606,
-        "payout": 226301,
-        "profit": 126301,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "11:7",
-            "odd": 11,
-            "stake": 20573
-          },
-          {
-            "book": "10:3",
-            "odd": 3.32,
-            "stake": 68163
-          },
-          {
-            "book": "5:3",
-            "odd": 20.09,
-            "stake": 11264
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
