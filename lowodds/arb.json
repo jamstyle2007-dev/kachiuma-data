@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-20T07:43:32.428Z",
+  "generatedAt": "2026-09-20T07:49:09.364Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 30,
       "profit": 16143575
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "AV013fZO",
+      "sport": "volleyball",
+      "sportLabel": "バレー",
+      "teams": "France - Portugal",
+      "url": "https://www.betexplorer.com/volleyball/europe/european-championships/france-portugal/AV013fZO/",
+      "kickoff": "2026-09-20T17:00:00+09:00",
+      "width": 2,
+      "books": 18,
+      "labels": [
+        "France",
+        "Portugal"
+      ],
+      "legs": [
+        {
+          "outcome": "France",
+          "book": "Duelbits",
+          "odd": 1.07,
+          "stake": 93543,
+          "jp": false,
+          "exch": false,
+          "url": "https://duelbits.com/"
+        },
+        {
+          "outcome": "Portugal",
+          "book": "1xBet",
+          "odd": 15.5,
+          "stake": 6457,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        }
+      ],
+      "S": 0.9990955682845946,
+      "roi": 0.09052504526252392,
+      "profit": 91,
+      "payout": 100091,
+      "staked": 100000,
+      "mins": 11,
+      "split": {
+        "S": 0.9990955682845946,
+        "payout": 100091,
+        "profit": 91,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Duelbits",
+            "odd": 1.07,
+            "stake": 93543
+          },
+          {
+            "book": "1xBet",
+            "odd": 15.5,
+            "stake": 6457
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
