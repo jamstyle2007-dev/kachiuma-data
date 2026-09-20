@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T07:49:09.364Z",
+  "generatedAt": "2026-09-20T07:54:53.796Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
@@ -43,46 +43,46 @@
           "outcome": "France",
           "book": "Duelbits",
           "odd": 1.07,
-          "stake": 93543,
+          "stake": 95856,
           "jp": false,
           "exch": false,
           "url": "https://duelbits.com/"
         },
         {
           "outcome": "Portugal",
-          "book": "1xBet",
-          "odd": 15.5,
-          "stake": 6457,
+          "book": "Betfair Exchange",
+          "odd": 24.75,
+          "stake": 4144,
           "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
+          "exch": true,
+          "url": "https://www.betfair.com/exchange/plus/"
         }
       ],
-      "S": 0.9990955682845946,
-      "roi": 0.09052504526252392,
-      "profit": 91,
-      "payout": 100091,
+      "S": 0.9749834796563769,
+      "roi": 2.5658404337722596,
+      "profit": 2566,
+      "payout": 102566,
       "staked": 100000,
-      "mins": 11,
+      "mins": 5,
       "split": {
-        "S": 0.9990955682845946,
-        "payout": 100091,
-        "profit": 91,
+        "S": 0.9749834796563769,
+        "payout": 102566,
+        "profit": 2566,
         "staked": 100000,
         "legs": [
           {
             "book": "Duelbits",
             "odd": 1.07,
-            "stake": 93543
+            "stake": 95856
           },
           {
-            "book": "1xBet",
-            "odd": 15.5,
-            "stake": 6457
+            "book": "Betfair Exchange",
+            "odd": 24.75,
+            "stake": 4144
           }
         ]
       },
-      "hasExch": false,
+      "hasExch": true,
       "allJp": false
     }
   ]
