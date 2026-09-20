@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-20T19:26:08.920Z",
+  "generatedAt": "2026-09-20T19:31:32.475Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 3,
+  "arbCount": 2,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,158 @@
       "count": 0,
       "profit": 0
     },
-    "pending": 0
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "zN1oUwR9",
+      "sport": "volleyball",
+      "sportLabel": "バレー",
+      "teams": "Indonesia W - Vietnam W",
+      "url": "https://www.betexplorer.com/volleyball/asia/asian-games-women/indonesia-vietnam/zN1oUwR9/",
+      "kickoff": "2026-09-21T05:00:00+09:00",
+      "width": 3,
+      "books": 2,
+      "labels": [
+        "Indonesia W",
+        "Draw",
+        "Vietnam W"
+      ],
+      "legs": [
+        {
+          "outcome": "Indonesia W",
+          "book": "3:0",
+          "odd": 3,
+          "stake": 72901,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=3%3A0%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "3:0",
+          "odd": 13.49,
+          "stake": 16212,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=3%3A0%20sportsbook"
+        },
+        {
+          "outcome": "Vietnam W",
+          "book": "3:0",
+          "odd": 20.09,
+          "stake": 10886,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=3%3A0%20sportsbook"
+        }
+      ],
+      "S": 0.45723832573040785,
+      "roi": 118.70432632753749,
+      "profit": 118705,
+      "payout": 218704,
+      "staked": 99999,
+      "mins": 28,
+      "split": {
+        "S": 0.45723832573040785,
+        "payout": 218704,
+        "profit": 118705,
+        "staked": 99999,
+        "legs": [
+          {
+            "book": "3:0",
+            "odd": 3,
+            "stake": 72901
+          },
+          {
+            "book": "3:0",
+            "odd": 13.49,
+            "stake": 16212
+          },
+          {
+            "book": "3:0",
+            "odd": 20.09,
+            "stake": 10886
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "CSuAH0Th",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Rakuten Gold. Eagles - Fukuoka S. Hawks",
+      "url": "https://www.betexplorer.com/baseball/japan/npb/rakuten-gold-eagles-fukuoka-s-hawks/CSuAH0Th/",
+      "kickoff": "2026-09-21T05:00:00+09:00",
+      "width": 3,
+      "books": 7,
+      "labels": [
+        "Rakuten Gold. Eagles",
+        "Draw",
+        "Fukuoka S. Hawks"
+      ],
+      "legs": [
+        {
+          "outcome": "Rakuten Gold. Eagles",
+          "book": "10:4",
+          "odd": 10,
+          "stake": 15801,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=10%3A4%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "6:1",
+          "odd": 2.07,
+          "stake": 76334,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=6%3A1%20sportsbook"
+        },
+        {
+          "outcome": "Fukuoka S. Hawks",
+          "book": "5:3",
+          "odd": 20.09,
+          "stake": 7865,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=5%3A3%20sportsbook"
+        }
+      ],
+      "S": 0.6328677954037748,
+      "roi": 58.01088430514809,
+      "profit": 58011,
+      "payout": 158011,
+      "staked": 100000,
+      "mins": 28,
+      "split": {
+        "S": 0.6328677954037748,
+        "payout": 158011,
+        "profit": 58011,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "10:4",
+            "odd": 10,
+            "stake": 15801
+          },
+          {
+            "book": "6:1",
+            "odd": 2.07,
+            "stake": 76334
+          },
+          {
+            "book": "5:3",
+            "odd": 20.09,
+            "stake": 7865
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
