@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T16:40:21.362Z",
+  "generatedAt": "2026-09-21T16:45:47.408Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 0,
+  "scanned": 3,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 2,
       "profit": 176716
     },
-    "pending": 1
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "jsjzFcxh",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "El Calor de Cancun - Diablos Rojos",
+      "url": "https://www.betexplorer.com/basketball/mexico/lnbp/el-calor-de-cancun-diablos-rojos/jsjzFcxh/",
+      "kickoff": "2026-09-22T02:15:00+09:00",
+      "width": 2,
+      "books": 17,
+      "labels": [
+        "El Calor de Cancun",
+        "Diablos Rojos"
+      ],
+      "legs": [
+        {
+          "outcome": "El Calor de Cancun",
+          "book": "Mozzartbet",
+          "odd": 2.42,
+          "stake": 41687,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.mozzartbet.com/"
+        },
+        {
+          "outcome": "Diablos Rojos",
+          "book": "1xBet",
+          "odd": 1.73,
+          "stake": 58313,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        }
+      ],
+      "S": 0.9912578225767927,
+      "roi": 0.8819277108433665,
+      "profit": 882,
+      "payout": 100882,
+      "staked": 100000,
+      "mins": 29,
+      "split": {
+        "S": 0.9912578225767927,
+        "payout": 100882,
+        "profit": 882,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Mozzartbet",
+            "odd": 2.42,
+            "stake": 41687
+          },
+          {
+            "book": "1xBet",
+            "odd": 1.73,
+            "stake": 58313
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
