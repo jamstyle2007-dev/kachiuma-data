@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T21:54:03.657Z",
+  "generatedAt": "2026-09-21T21:59:41.337Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "QV5qWarn",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Hiroshima Carp - Yomiuri Giants",
-      "url": "https://www.betexplorer.com/baseball/japan/npb/hiroshima-carp-yomiuri-giants/QV5qWarn/",
-      "kickoff": "2026-09-22T07:00:00+09:00",
-      "width": 3,
-      "books": 7,
-      "labels": [
-        "Hiroshima Carp",
-        "Draw",
-        "Yomiuri Giants"
-      ],
-      "legs": [
-        {
-          "outcome": "Hiroshima Carp",
-          "book": "10:0",
-          "odd": 10,
-          "stake": 20705,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=10%3A0%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "7:2",
-          "odd": 2.98,
-          "stake": 69478,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=7%3A2%20sportsbook"
-        },
-        {
-          "outcome": "Yomiuri Giants",
-          "book": "10:0",
-          "odd": 21.09,
-          "stake": 9817,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=10%3A0%20sportsbook"
-        }
-      ],
-      "S": 0.4829863066881789,
-      "roi": 107.04520731798111,
-      "profit": 107045,
-      "payout": 207045,
-      "staked": 100000,
-      "mins": 6,
-      "split": {
-        "S": 0.4829863066881789,
-        "payout": 207045,
-        "profit": 107045,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "10:0",
-            "odd": 10,
-            "stake": 20705
-          },
-          {
-            "book": "7:2",
-            "odd": 2.98,
-            "stake": 69478
-          },
-          {
-            "book": "10:0",
-            "odd": 21.09,
-            "stake": 9817
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
