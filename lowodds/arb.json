@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T14:52:51.659Z",
+  "generatedAt": "2026-09-22T14:58:21.888Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 3,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 5,
       "profit": 348598
     },
-    "pending": 1
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "fmMlKTn2",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Las Animas - Colo Colo",
+      "url": "https://www.betexplorer.com/basketball/chile/lnb/las-animas-colo-colo/fmMlKTn2/",
+      "kickoff": "2026-09-23T00:00:00+09:00",
+      "width": 2,
+      "books": 15,
+      "labels": [
+        "Las Animas",
+        "Colo Colo"
+      ],
+      "legs": [
+        {
+          "outcome": "Las Animas",
+          "book": "Betway",
+          "odd": 1.75,
+          "stake": 59112,
+          "jp": true,
+          "exch": false,
+          "url": "https://betway.com/"
+        },
+        {
+          "outcome": "Colo Colo",
+          "book": "1xBet",
+          "odd": 2.53,
+          "stake": 40888,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        }
+      ],
+      "S": 0.9666854884246189,
+      "roi": 3.4462616822429792,
+      "profit": 3446,
+      "payout": 103446,
+      "staked": 100000,
+      "mins": 2,
+      "split": {
+        "S": 0.9666854884246189,
+        "payout": 103446,
+        "profit": 3446,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Betway",
+            "odd": 1.75,
+            "stake": 59112
+          },
+          {
+            "book": "1xBet",
+            "odd": 2.53,
+            "stake": 40888
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    }
+  ]
 }
