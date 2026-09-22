@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T15:58:03.188Z",
+  "generatedAt": "2026-09-22T16:03:27.149Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 3
   },
-  "opps": [
-    {
-      "id": "IcsDadop",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "Dominican Republic W - Canada W",
-      "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup-final-six-women/dominican-republic-canada/IcsDadop/",
-      "kickoff": "2026-09-23T01:00:00+09:00",
-      "width": 2,
-      "books": 11,
-      "labels": [
-        "Dominican Republic W",
-        "Canada W"
-      ],
-      "legs": [
-        {
-          "outcome": "Dominican Republic W",
-          "book": "BetInAsia",
-          "odd": 1.2,
-          "stake": 84791,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        },
-        {
-          "outcome": "Canada W",
-          "book": "1xBet",
-          "odd": 6.69,
-          "stake": 15209,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        }
-      ],
-      "S": 0.9828101644245142,
-      "roi": 1.7490494296577896,
-      "profit": 1749,
-      "payout": 101749,
-      "staked": 100000,
-      "mins": 2,
-      "split": {
-        "S": 0.9828101644245142,
-        "payout": 101749,
-        "profit": 1749,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "BetInAsia",
-            "odd": 1.2,
-            "stake": 84791
-          },
-          {
-            "book": "1xBet",
-            "odd": 6.69,
-            "stake": 15209
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
