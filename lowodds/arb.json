@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T17:52:51.477Z",
+  "generatedAt": "2026-09-22T17:58:21.083Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 3,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 3
   },
-  "opps": [
-    {
-      "id": "MZ9plYDj",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Las Vegas Aces W - Los Angeles Sparks W",
-      "url": "https://www.betexplorer.com/basketball/usa/wnba/las-vegas-aces-los-angeles-sparks/MZ9plYDj/",
-      "kickoff": "2026-09-23T03:00:00+09:00",
-      "width": 3,
-      "books": 10,
-      "labels": [
-        "Las Vegas Aces W",
-        "Draw",
-        "Los Angeles Sparks W"
-      ],
-      "legs": [
-        {
-          "outcome": "Las Vegas Aces W",
-          "book": "111:71",
-          "odd": 111,
-          "stake": 6296,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=111%3A71%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "98:77",
-          "odd": 10.03,
-          "stake": 69673,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=98%3A77%20sportsbook"
-        },
-        {
-          "outcome": "Los Angeles Sparks W",
-          "book": "93:73",
-          "odd": 29.08,
-          "stake": 24031,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=93%3A73%20sportsbook"
-        }
-      ],
-      "S": 0.14309780177788262,
-      "roi": 598.822754490811,
-      "profit": 598823,
-      "payout": 698823,
-      "staked": 100000,
-      "mins": 7,
-      "split": {
-        "S": 0.14309780177788262,
-        "payout": 698823,
-        "profit": 598823,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "111:71",
-            "odd": 111,
-            "stake": 6296
-          },
-          {
-            "book": "98:77",
-            "odd": 10.03,
-            "stake": 69673
-          },
-          {
-            "book": "93:73",
-            "odd": 29.08,
-            "stake": 24031
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
