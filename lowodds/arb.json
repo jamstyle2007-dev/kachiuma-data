@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T14:36:26.845Z",
+  "generatedAt": "2026-09-22T14:41:58.291Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 6,
-  "arbCount": 1,
+  "scanned": 3,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "zqfQt3sS",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Pittsburgh Pirates - St.Louis Cardinals",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/pittsburgh-pirates-st-louis-cardinals/zqfQt3sS/",
-      "kickoff": "2026-09-22T23:40:00+09:00",
-      "width": 2,
-      "books": 19,
-      "labels": [
-        "Pittsburgh Pirates",
-        "St.Louis Cardinals"
-      ],
-      "legs": [
-        {
-          "outcome": "Pittsburgh Pirates",
-          "book": "1xBet",
-          "odd": 1.66,
-          "stake": 60664,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "St.Louis Cardinals",
-          "book": "BetInAsia",
-          "odd": 2.56,
-          "stake": 39336,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        }
-      ],
-      "S": 0.9930346385542169,
-      "roi": 0.7014218009478546,
-      "profit": 701,
-      "payout": 100701,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.9930346385542169,
-        "payout": 100701,
-        "profit": 701,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 1.66,
-            "stake": 60664
-          },
-          {
-            "book": "BetInAsia",
-            "odd": 2.56,
-            "stake": 39336
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
