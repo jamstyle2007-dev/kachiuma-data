@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T03:04:57.941Z",
+  "generatedAt": "2026-09-23T03:10:22.256Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
@@ -42,8 +42,8 @@
         {
           "outcome": "Beijing Royal Fighters",
           "book": "Duelbits",
-          "odd": 6.2,
-          "stake": 16442,
+          "odd": 6.4,
+          "stake": 16010,
           "jp": false,
           "exch": false,
           "url": "https://duelbits.com/"
@@ -52,33 +52,33 @@
           "outcome": "G League United",
           "book": "bwin",
           "odd": 1.22,
-          "stake": 83558,
+          "stake": 83990,
           "jp": true,
           "exch": false,
           "url": "https://sports.bwin.com/"
         }
       ],
-      "S": 0.9809624537281861,
-      "roi": 1.9407008086253397,
-      "profit": 1941,
-      "payout": 101941,
+      "S": 0.975922131147541,
+      "roi": 2.4671916010498673,
+      "profit": 2467,
+      "payout": 102467,
       "staked": 100000,
-      "mins": 25,
+      "mins": 20,
       "split": {
-        "S": 0.9809624537281861,
-        "payout": 101941,
-        "profit": 1941,
+        "S": 0.975922131147541,
+        "payout": 102467,
+        "profit": 2467,
         "staked": 100000,
         "legs": [
           {
             "book": "Duelbits",
-            "odd": 6.2,
-            "stake": 16442
+            "odd": 6.4,
+            "stake": 16010
           },
           {
             "book": "bwin",
             "odd": 1.22,
-            "stake": 83558
+            "stake": 83990
           }
         ]
       },
