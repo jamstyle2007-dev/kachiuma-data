@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T14:43:05.425Z",
+  "generatedAt": "2026-09-23T14:48:32.924Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 0,
+  "scanned": 3,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 10,
       "profit": 955258
     },
-    "pending": 1
+    "pending": 2
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "hIPnFdmf",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Atlanta Braves - Cincinnati Reds",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/atlanta-braves-cincinnati-reds/hIPnFdmf/",
+      "kickoff": "2026-09-24T00:15:00+09:00",
+      "width": 2,
+      "books": 18,
+      "labels": [
+        "Atlanta Braves",
+        "Cincinnati Reds"
+      ],
+      "legs": [
+        {
+          "outcome": "Atlanta Braves",
+          "book": "Mozzartbet",
+          "odd": 1.45,
+          "stake": 69149,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.mozzartbet.com/"
+        },
+        {
+          "outcome": "Cincinnati Reds",
+          "book": "BetInAsia",
+          "odd": 3.25,
+          "stake": 30851,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.betinasia.com/"
+        }
+      ],
+      "S": 0.9973474801061009,
+      "roi": 0.26595744680850686,
+      "profit": 266,
+      "payout": 100266,
+      "staked": 100000,
+      "mins": 26,
+      "split": {
+        "S": 0.9973474801061009,
+        "payout": 100266,
+        "profit": 266,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Mozzartbet",
+            "odd": 1.45,
+            "stake": 69149
+          },
+          {
+            "book": "BetInAsia",
+            "odd": 3.25,
+            "stake": 30851
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
