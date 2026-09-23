@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T02:59:28.430Z",
+  "generatedAt": "2026-09-23T03:04:57.941Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 9,
       "profit": 953317
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "S2oDIbLl",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Beijing Royal Fighters - G League United",
+      "url": "https://www.betexplorer.com/basketball/world/intercontinental-cup/beijing-royal-fighters-g-league-united/S2oDIbLl/",
+      "kickoff": "2026-09-23T12:30:00+09:00",
+      "width": 2,
+      "books": 11,
+      "labels": [
+        "Beijing Royal Fighters",
+        "G League United"
+      ],
+      "legs": [
+        {
+          "outcome": "Beijing Royal Fighters",
+          "book": "Duelbits",
+          "odd": 6.2,
+          "stake": 16442,
+          "jp": false,
+          "exch": false,
+          "url": "https://duelbits.com/"
+        },
+        {
+          "outcome": "G League United",
+          "book": "bwin",
+          "odd": 1.22,
+          "stake": 83558,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        }
+      ],
+      "S": 0.9809624537281861,
+      "roi": 1.9407008086253397,
+      "profit": 1941,
+      "payout": 101941,
+      "staked": 100000,
+      "mins": 25,
+      "split": {
+        "S": 0.9809624537281861,
+        "payout": 101941,
+        "profit": 1941,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Duelbits",
+            "odd": 6.2,
+            "stake": 16442
+          },
+          {
+            "book": "bwin",
+            "odd": 1.22,
+            "stake": 83558
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
