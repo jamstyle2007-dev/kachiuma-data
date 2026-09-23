@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T15:26:45.996Z",
+  "generatedAt": "2026-09-23T15:32:50.080Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 2,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 10,
       "profit": 955258
     },
-    "pending": 2
+    "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "QsNC3Q3F",
+      "sport": "volleyball",
+      "sportLabel": "バレー",
+      "teams": "Canada W - Puerto Rico W",
+      "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup-final-six-women/canada-puerto-rico/QsNC3Q3F/",
+      "kickoff": "2026-09-24T01:00:00+09:00",
+      "width": 2,
+      "books": 11,
+      "labels": [
+        "Canada W",
+        "Puerto Rico W"
+      ],
+      "legs": [
+        {
+          "outcome": "Canada W",
+          "book": "Bets.io",
+          "odd": 8.6,
+          "stake": 11704,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
+        },
+        {
+          "outcome": "Puerto Rico W",
+          "book": "William Hill",
+          "odd": 1.14,
+          "stake": 88296,
+          "jp": false,
+          "exch": false,
+          "url": "https://sports.williamhill.com/"
+        }
+      ],
+      "S": 0.9934720522235823,
+      "roi": 0.6570841889117052,
+      "profit": 657,
+      "payout": 100657,
+      "staked": 100000,
+      "mins": 27,
+      "split": {
+        "S": 0.9934720522235823,
+        "payout": 100657,
+        "profit": 657,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Bets.io",
+            "odd": 8.6,
+            "stake": 11704
+          },
+          {
+            "book": "William Hill",
+            "odd": 1.14,
+            "stake": 88296
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
