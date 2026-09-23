@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T17:43:45.909Z",
+  "generatedAt": "2026-09-23T17:49:13.696Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 3
   },
-  "opps": [
-    {
-      "id": "Y7QK14YR",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "Mexico W - Cuba W",
-      "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup-final-six-women/mexico-cuba/Y7QK14YR/",
-      "kickoff": "2026-09-24T03:00:00+09:00",
-      "width": 3,
-      "books": 2,
-      "labels": [
-        "Mexico W",
-        "Draw",
-        "Cuba W"
-      ],
-      "legs": [
-        {
-          "outcome": "Mexico W",
-          "book": "3:1",
-          "odd": 3,
-          "stake": 46126,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=3%3A1%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "3:1",
-          "odd": 2.89,
-          "stake": 47881,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=3%3A1%20sportsbook"
-        },
-        {
-          "outcome": "Cuba W",
-          "book": "3:1",
-          "odd": 23.09,
-          "stake": 5993,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=3%3A1%20sportsbook"
-        }
-      ],
-      "S": 0.72266288626372,
-      "roi": 38.37710764007216,
-      "profit": 38377,
-      "payout": 138377,
-      "staked": 100000,
-      "mins": 16,
-      "split": {
-        "S": 0.72266288626372,
-        "payout": 138377,
-        "profit": 38377,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "3:1",
-            "odd": 3,
-            "stake": 46126
-          },
-          {
-            "book": "3:1",
-            "odd": 2.89,
-            "stake": 47881
-          },
-          {
-            "book": "3:1",
-            "odd": 23.09,
-            "stake": 5993
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
