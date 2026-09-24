@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T15:06:54.371Z",
+  "generatedAt": "2026-09-24T15:12:19.857Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,5 +24,81 @@
     },
     "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "nJXWsnNc",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Atlanta Braves - Cincinnati Reds",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/atlanta-braves-cincinnati-reds/nJXWsnNc/",
+      "kickoff": "2026-09-25T00:15:00+09:00",
+      "width": 3,
+      "books": 9,
+      "labels": [
+        "Atlanta Braves",
+        "Draw",
+        "Cincinnati Reds"
+      ],
+      "legs": [
+        {
+          "outcome": "Atlanta Braves",
+          "book": "12:2",
+          "odd": 12,
+          "stake": 18926,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=12%3A2%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "3:2",
+          "odd": 3.17,
+          "stake": 71646,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=3%3A2%20sportsbook"
+        },
+        {
+          "outcome": "Cincinnati Reds",
+          "book": "3:2",
+          "odd": 24.09,
+          "stake": 9428,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=3%3A2%20sportsbook"
+        }
+      ],
+      "S": 0.4403017469976547,
+      "roi": 127.11697303470535,
+      "profit": 127117,
+      "payout": 227117,
+      "staked": 100000,
+      "mins": 3,
+      "split": {
+        "S": 0.4403017469976547,
+        "payout": 227117,
+        "profit": 127117,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "12:2",
+            "odd": 12,
+            "stake": 18926
+          },
+          {
+            "book": "3:2",
+            "odd": 3.17,
+            "stake": 71646
+          },
+          {
+            "book": "3:2",
+            "odd": 24.09,
+            "stake": 9428
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
