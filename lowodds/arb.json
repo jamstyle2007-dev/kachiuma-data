@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T13:52:42.414Z",
+  "generatedAt": "2026-09-24T13:58:06.585Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "zgqmv4MM",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Philadelphia Phillies - Milwaukee Brewers",
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/philadelphia-phillies-milwaukee-brewers/zgqmv4MM/",
-      "kickoff": "2026-09-24T23:05:00+09:00",
-      "width": 2,
-      "books": 18,
-      "labels": [
-        "Philadelphia Phillies",
-        "Milwaukee Brewers"
-      ],
-      "legs": [
-        {
-          "outcome": "Philadelphia Phillies",
-          "book": "Unibet",
-          "odd": 1.86,
-          "stake": 54634,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.unibet.com/"
-        },
-        {
-          "outcome": "Milwaukee Brewers",
-          "book": "BetInAsia",
-          "odd": 2.24,
-          "stake": 45366,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        }
-      ],
-      "S": 0.9840629800307219,
-      "roi": 1.6195121951219527,
-      "profit": 1620,
-      "payout": 101620,
-      "staked": 100000,
-      "mins": 12,
-      "split": {
-        "S": 0.9840629800307219,
-        "payout": 101620,
-        "profit": 1620,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Unibet",
-            "odd": 1.86,
-            "stake": 54634
-          },
-          {
-            "book": "BetInAsia",
-            "odd": 2.24,
-            "stake": 45366
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
