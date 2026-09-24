@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T23:56:24.702Z",
+  "generatedAt": "2026-09-24T00:01:50.454Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 3,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "8hGs1aoK",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "SSG Landers - Samsung Lions",
-      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/ssg-landers-samsung-lions/8hGs1aoK/",
-      "kickoff": "2026-09-24T09:00:00+09:00",
-      "width": 2,
-      "books": 18,
-      "labels": [
-        "SSG Landers",
-        "Samsung Lions"
-      ],
-      "legs": [
-        {
-          "outcome": "SSG Landers",
-          "book": "Unibet",
-          "odd": 2.8,
-          "stake": 36364,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.unibet.com/"
-        },
-        {
-          "outcome": "Samsung Lions",
-          "book": "bwin",
-          "odd": 1.6,
-          "stake": 63636,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        }
-      ],
-      "S": 0.9821428571428572,
-      "roi": 1.8181818181818077,
-      "profit": 1818,
-      "payout": 101818,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.9821428571428572,
-        "payout": 101818,
-        "profit": 1818,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Unibet",
-            "odd": 2.8,
-            "stake": 36364
-          },
-          {
-            "book": "bwin",
-            "odd": 1.6,
-            "stake": 63636
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
