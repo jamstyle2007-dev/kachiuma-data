@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T08:58:18.827Z",
+  "generatedAt": "2026-09-24T09:03:44.018Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "8bEqvWNj",
-      "sport": "handball",
-      "sportLabel": "ハンドボール",
-      "teams": "Los Angeles - El Zamalek",
-      "url": "https://www.betexplorer.com/handball/world/club-world-championship/los-angeles-el-zamalek/8bEqvWNj/",
-      "kickoff": "2026-09-24T18:00:00+09:00",
-      "width": 2,
-      "books": 3,
-      "labels": [
-        "Los Angeles",
-        "El Zamalek"
-      ],
-      "legs": [
-        {
-          "outcome": "Los Angeles",
-          "book": "Roobet",
-          "odd": 24,
-          "stake": 53846,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Roobet%20sportsbook"
-        },
-        {
-          "outcome": "El Zamalek",
-          "book": "Roobet",
-          "odd": 28,
-          "stake": 46154,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Roobet%20sportsbook"
-        }
-      ],
-      "S": 0.07738095238095238,
-      "roi": 1192.3076923076924,
-      "profit": 1192308,
-      "payout": 1292308,
-      "staked": 100000,
-      "mins": 2,
-      "split": {
-        "S": 0.07738095238095238,
-        "payout": 1292308,
-        "profit": 1192308,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Roobet",
-            "odd": 24,
-            "stake": 53846
-          },
-          {
-            "book": "Roobet",
-            "odd": 28,
-            "stake": 46154
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
