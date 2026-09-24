@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T14:44:57.808Z",
+  "generatedAt": "2026-09-24T14:50:24.527Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
-  "arbCount": 0,
+  "arbCount": 2,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,158 @@
       "count": 17,
       "profit": 2251784
     },
-    "pending": 1
+    "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "nJXWsnNc",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Atlanta Braves - Cincinnati Reds",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/atlanta-braves-cincinnati-reds/nJXWsnNc/",
+      "kickoff": "2026-09-25T00:15:00+09:00",
+      "width": 3,
+      "books": 9,
+      "labels": [
+        "Atlanta Braves",
+        "Draw",
+        "Cincinnati Reds"
+      ],
+      "legs": [
+        {
+          "outcome": "Atlanta Braves",
+          "book": "12:2",
+          "odd": 12,
+          "stake": 19054,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=12%3A2%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "3:2",
+          "odd": 3.2,
+          "stake": 71454,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=3%3A2%20sportsbook"
+        },
+        {
+          "outcome": "Cincinnati Reds",
+          "book": "3:2",
+          "odd": 24.09,
+          "stake": 9492,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=3%3A2%20sportsbook"
+        }
+      ],
+      "S": 0.43734433374844334,
+      "roi": 128.65278519309484,
+      "profit": 128653,
+      "payout": 228653,
+      "staked": 100000,
+      "mins": 25,
+      "split": {
+        "S": 0.43734433374844334,
+        "payout": 228653,
+        "profit": 128653,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "12:2",
+            "odd": 12,
+            "stake": 19054
+          },
+          {
+            "book": "3:2",
+            "odd": 3.2,
+            "stake": 71454
+          },
+          {
+            "book": "3:2",
+            "odd": 24.09,
+            "stake": 9492
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "fqyutQiA",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "New York Yankees - Tampa Bay Rays",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/new-york-yankees-tampa-bay-rays/fqyutQiA/",
+      "kickoff": "2026-09-25T00:05:00+09:00",
+      "width": 3,
+      "books": 8,
+      "labels": [
+        "New York Yankees",
+        "Draw",
+        "Tampa Bay Rays"
+      ],
+      "legs": [
+        {
+          "outcome": "New York Yankees",
+          "book": "9:2",
+          "odd": 9,
+          "stake": 20048,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=9%3A2%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "2:0",
+          "odd": 2.49,
+          "stake": 72462,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=2%3A0%20sportsbook"
+        },
+        {
+          "outcome": "Tampa Bay Rays",
+          "book": "9:2",
+          "odd": 24.09,
+          "stake": 7490,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=9%3A2%20sportsbook"
+        }
+      ],
+      "S": 0.5542285372290323,
+      "roi": 80.43098339895745,
+      "profit": 80431,
+      "payout": 180431,
+      "staked": 100000,
+      "mins": 15,
+      "split": {
+        "S": 0.5542285372290323,
+        "payout": 180431,
+        "profit": 80431,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "9:2",
+            "odd": 9,
+            "stake": 20048
+          },
+          {
+            "book": "2:0",
+            "odd": 2.49,
+            "stake": 72462
+          },
+          {
+            "book": "9:2",
+            "odd": 24.09,
+            "stake": 7490
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
