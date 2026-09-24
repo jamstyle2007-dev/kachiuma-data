@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T01:28:39.385Z",
+  "generatedAt": "2026-09-24T01:34:05.153Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 1,
+  "scanned": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "zPY2plfC",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "South East Melbourne - Melbourne United",
-      "url": "https://www.betexplorer.com/basketball/australia/nbl/south-east-melbourne-melbourne-united/zPY2plfC/",
-      "kickoff": "2026-09-24T10:30:00+09:00",
-      "width": 2,
-      "books": 17,
-      "labels": [
-        "South East Melbourne",
-        "Melbourne United"
-      ],
-      "legs": [
-        {
-          "outcome": "South East Melbourne",
-          "book": "William Hill",
-          "odd": 2.38,
-          "stake": 42926,
-          "jp": false,
-          "exch": false,
-          "url": "https://sports.williamhill.com/"
-        },
-        {
-          "outcome": "Melbourne United",
-          "book": "Betfair Exchange",
-          "odd": 1.79,
-          "stake": 57074,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        }
-      ],
-      "S": 0.9788272851039856,
-      "roi": 2.1630695443645154,
-      "profit": 2163,
-      "payout": 102163,
-      "staked": 100000,
-      "mins": 1,
-      "split": {
-        "S": 0.9788272851039856,
-        "payout": 102163,
-        "profit": 2163,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "William Hill",
-            "odd": 2.38,
-            "stake": 42926
-          },
-          {
-            "book": "Betfair Exchange",
-            "odd": 1.79,
-            "stake": 57074
-          }
-        ]
-      },
-      "hasExch": true,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
