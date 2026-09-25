@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-25T01:44:13.499Z",
+  "generatedAt": "2026-09-25T01:49:42.726Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 5,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 5
   },
-  "opps": [
-    {
-      "id": "fTuwkgDE",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Ibaraki Robots - NeoPhoenix",
-      "url": "https://www.betexplorer.com/basketball/japan/b-league-premier/ibaraki-robots-neophoenix/fTuwkgDE/",
-      "kickoff": "2026-09-25T11:05:00+09:00",
-      "width": 2,
-      "books": 17,
-      "labels": [
-        "Ibaraki Robots",
-        "NeoPhoenix"
-      ],
-      "legs": [
-        {
-          "outcome": "Ibaraki Robots",
-          "book": "Rainbet",
-          "odd": 2.48,
-          "stake": 42725,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
-        },
-        {
-          "outcome": "NeoPhoenix",
-          "book": "BetInAsia",
-          "odd": 1.85,
-          "stake": 57275,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        }
-      ],
-      "S": 0.9437663469921533,
-      "roi": 5.95842956120094,
-      "profit": 5958,
-      "payout": 105958,
-      "staked": 100000,
-      "mins": 21,
-      "split": {
-        "S": 0.9437663469921533,
-        "payout": 105958,
-        "profit": 5958,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Rainbet",
-            "odd": 2.48,
-            "stake": 42725
-          },
-          {
-            "book": "BetInAsia",
-            "odd": 1.85,
-            "stake": 57275
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
