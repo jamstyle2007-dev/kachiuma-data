@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T23:55:24.854Z",
+  "generatedAt": "2026-09-25T00:02:21.995Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 6,
-  "arbCount": 2,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,126 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "8KICHMzo",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Doosan Bears - Lotte Giants",
-      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/doosan-bears-lotte-giants/8KICHMzo/",
-      "kickoff": "2026-09-25T09:00:00+09:00",
-      "width": 2,
-      "books": 18,
-      "labels": [
-        "Doosan Bears",
-        "Lotte Giants"
-      ],
-      "legs": [
-        {
-          "outcome": "Doosan Bears",
-          "book": "1xBet",
-          "odd": 1.95,
-          "stake": 54118,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "Lotte Giants",
-          "book": "bwin",
-          "odd": 2.3,
-          "stake": 45882,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        }
-      ],
-      "S": 0.9476031215161651,
-      "roi": 5.529411764705872,
-      "profit": 5529,
-      "payout": 105529,
-      "staked": 100000,
-      "mins": 5,
-      "split": {
-        "S": 0.9476031215161651,
-        "payout": 105529,
-        "profit": 5529,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 1.95,
-            "stake": 54118
-          },
-          {
-            "book": "bwin",
-            "odd": 2.3,
-            "stake": 45882
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": true
-    },
-    {
-      "id": "pY9LgHwf",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "NC Dinos - Hanwha Eagles",
-      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/nc-dinos-hanwha-eagles/pY9LgHwf/",
-      "kickoff": "2026-09-25T09:00:00+09:00",
-      "width": 2,
-      "books": 18,
-      "labels": [
-        "NC Dinos",
-        "Hanwha Eagles"
-      ],
-      "legs": [
-        {
-          "outcome": "NC Dinos",
-          "book": "bwin",
-          "odd": 2.1,
-          "stake": 48148,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        },
-        {
-          "outcome": "Hanwha Eagles",
-          "book": "1xBet",
-          "odd": 1.95,
-          "stake": 51852,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        }
-      ],
-      "S": 0.989010989010989,
-      "roi": 1.1111111111111072,
-      "profit": 1111,
-      "payout": 101111,
-      "staked": 100000,
-      "mins": 5,
-      "split": {
-        "S": 0.989010989010989,
-        "payout": 101111,
-        "profit": 1111,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "bwin",
-            "odd": 2.1,
-            "stake": 48148
-          },
-          {
-            "book": "1xBet",
-            "odd": 1.95,
-            "stake": 51852
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
