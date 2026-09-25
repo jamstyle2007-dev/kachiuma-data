@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-25T00:54:29.998Z",
+  "generatedAt": "2026-09-25T01:00:06.946Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 5,
-  "arbCount": 2,
+  "scanned": 2,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,141 +24,5 @@
     },
     "pending": 4
   },
-  "opps": [
-    {
-      "id": "x4AhyE36",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Hiroshima Carp - Yomiuri Giants",
-      "url": "https://www.betexplorer.com/baseball/japan/npb/hiroshima-carp-yomiuri-giants/x4AhyE36/",
-      "kickoff": "2026-09-25T10:00:00+09:00",
-      "width": 2,
-      "books": 18,
-      "labels": [
-        "Hiroshima Carp",
-        "Yomiuri Giants"
-      ],
-      "legs": [
-        {
-          "outcome": "Hiroshima Carp",
-          "book": "BetInAsia",
-          "odd": 2.37,
-          "stake": 44496,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        },
-        {
-          "outcome": "Yomiuri Giants",
-          "book": "bwin",
-          "odd": 1.9,
-          "stake": 55504,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        }
-      ],
-      "S": 0.9482567177437263,
-      "roi": 5.456674473067924,
-      "profit": 5457,
-      "payout": 105457,
-      "staked": 100000,
-      "mins": 6,
-      "split": {
-        "S": 0.9482567177437263,
-        "payout": 105457,
-        "profit": 5457,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "BetInAsia",
-            "odd": 2.37,
-            "stake": 44496
-          },
-          {
-            "book": "bwin",
-            "odd": 1.9,
-            "stake": 55504
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": true
-    },
-    {
-      "id": "txdx4b4s",
-      "sport": "hockey",
-      "sportLabel": "アイスホッケー",
-      "teams": "Khabarovsk - Lokomotiv Yaroslavl",
-      "url": "https://www.betexplorer.com/hockey/russia/khl/amur-khabarovsk-lokomotiv-yaroslavl/txdx4b4s/",
-      "kickoff": "2026-09-25T10:00:00+09:00",
-      "width": 3,
-      "books": 9,
-      "labels": [
-        "Khabarovsk",
-        "Draw",
-        "Lokomotiv Yaroslavl"
-      ],
-      "legs": [
-        {
-          "outcome": "Khabarovsk",
-          "book": "1xBet",
-          "odd": 4.61,
-          "stake": 21953,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "Draw",
-          "book": "1xBet",
-          "odd": 4.51,
-          "stake": 22440,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "Lokomotiv Yaroslavl",
-          "book": "Bets.io",
-          "odd": 1.82,
-          "stake": 55607,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Bets.io%20sportsbook"
-        }
-      ],
-      "S": 0.9880997791690347,
-      "roi": 1.204354163602095,
-      "profit": 1204,
-      "payout": 101204,
-      "staked": 100000,
-      "mins": 6,
-      "split": {
-        "S": 0.9880997791690347,
-        "payout": 101204,
-        "profit": 1204,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 4.61,
-            "stake": 21953
-          },
-          {
-            "book": "1xBet",
-            "odd": 4.51,
-            "stake": 22440
-          },
-          {
-            "book": "Bets.io",
-            "odd": 1.82,
-            "stake": 55607
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
