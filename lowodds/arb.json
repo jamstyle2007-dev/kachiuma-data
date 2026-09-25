@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-25T02:04:47.742Z",
+  "generatedAt": "2026-09-25T02:10:17.910Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 5,
-  "arbCount": 2,
+  "scanned": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,126 +24,5 @@
     },
     "pending": 6
   },
-  "opps": [
-    {
-      "id": "fTuwkgDE",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Ibaraki Robots - NeoPhoenix",
-      "url": "https://www.betexplorer.com/basketball/japan/b-league-premier/ibaraki-robots-neophoenix/fTuwkgDE/",
-      "kickoff": "2026-09-25T11:05:00+09:00",
-      "width": 2,
-      "books": 17,
-      "labels": [
-        "Ibaraki Robots",
-        "NeoPhoenix"
-      ],
-      "legs": [
-        {
-          "outcome": "Ibaraki Robots",
-          "book": "Rainbet",
-          "odd": 2.48,
-          "stake": 42725,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
-        },
-        {
-          "outcome": "NeoPhoenix",
-          "book": "BetInAsia",
-          "odd": 1.85,
-          "stake": 57275,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        }
-      ],
-      "S": 0.9437663469921533,
-      "roi": 5.95842956120094,
-      "profit": 5958,
-      "payout": 105958,
-      "staked": 100000,
-      "mins": 0,
-      "split": {
-        "S": 0.9437663469921533,
-        "payout": 105958,
-        "profit": 5958,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Rainbet",
-            "odd": 2.48,
-            "stake": 42725
-          },
-          {
-            "book": "BetInAsia",
-            "odd": 1.85,
-            "stake": 57275
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    },
-    {
-      "id": "Yu6IUORa",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Nagasaki - Shimane",
-      "url": "https://www.betexplorer.com/basketball/japan/b-league-premier/nagasaki-shimane/Yu6IUORa/",
-      "kickoff": "2026-09-25T11:05:00+09:00",
-      "width": 2,
-      "books": 16,
-      "labels": [
-        "Nagasaki",
-        "Shimane"
-      ],
-      "legs": [
-        {
-          "outcome": "Nagasaki",
-          "book": "BetInAsia",
-          "odd": 2.77,
-          "stake": 37045,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        },
-        {
-          "outcome": "Shimane",
-          "book": "Rainbet",
-          "odd": 1.63,
-          "stake": 62955,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
-        }
-      ],
-      "S": 0.9745077628402472,
-      "roi": 2.6159090909090965,
-      "profit": 2616,
-      "payout": 102616,
-      "staked": 100000,
-      "mins": 0,
-      "split": {
-        "S": 0.9745077628402472,
-        "payout": 102616,
-        "profit": 2616,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "BetInAsia",
-            "odd": 2.77,
-            "stake": 37045
-          },
-          {
-            "book": "Rainbet",
-            "odd": 1.63,
-            "stake": 62955
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
