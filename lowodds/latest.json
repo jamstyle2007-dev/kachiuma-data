@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-26T20:10:01.139Z",
+  "generatedAt": "2026-09-26T21:51:45.319Z",
   "source": "betexplorer.com (Pinnacle / 1xBet odds)",
   "threshold": 1.6,
-  "count": 30,
+  "count": 32,
   "matches": [
     {
       "sport": "バレー",
@@ -18,7 +18,7 @@
       "books": {
         "1xbet": 1.01
       },
-      "avgFavOdd": 1.02,
+      "avgFavOdd": 1.03,
       "time": "10:00",
       "kickoff": "2026-09-27T02:00:00+09:00",
       "niche": false,
@@ -38,31 +38,51 @@
       "books": {
         "1xbet": 1.02
       },
-      "avgFavOdd": 1.03,
+      "avgFavOdd": 1.02,
       "time": "09:00",
       "kickoff": "2026-09-27T01:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup-final-six-women/usa-cuba/tl612VdJ/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - SINGLES: W50 BERKELEY, CA, HARD",
-      "home": "Day K.",
-      "away": "McDonald E.",
-      "favTeam": "Day K.",
-      "underTeam": "McDonald E.",
-      "favOdd": 1.04,
-      "prob": 96,
+      "sport": "野球",
+      "sportKey": "baseball",
+      "league": "ASIA: ASIAN GAMES",
+      "home": "Chinese Taipei",
+      "away": "China",
+      "favTeam": "Chinese Taipei",
+      "underTeam": "China",
+      "favOdd": 1.02,
+      "prob": 98,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.04
+        "1xbet": 1.02
       },
-      "avgFavOdd": 1.11,
-      "time": "05:05",
-      "kickoff": "2026-09-26T21:05:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w50-berkeley-ca/day-kayla-mcdonald-ella/WEScbAsQ/"
+      "avgFavOdd": 1.03,
+      "time": "12:00",
+      "kickoff": "2026-09-27T04:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/baseball/asia/asian-games/chinese-taipei-china/jgWdJXID/"
+    },
+    {
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "WORLD: CLUB WORLD CHAMPIONSHIP",
+      "home": "Sydney University",
+      "away": "Los Angeles",
+      "favTeam": "Los Angeles",
+      "underTeam": "Sydney University",
+      "favOdd": 1.05,
+      "prob": 95,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.05
+      },
+      "avgFavOdd": 1.05,
+      "time": "17:00",
+      "kickoff": "2026-09-27T09:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/handball/world/club-world-championship/sydney-university-los-angeles/27ta6mNs/"
     },
     {
       "sport": "バレー",
@@ -72,11 +92,11 @@
       "away": "Kazakhstan",
       "favTeam": "Pakistan",
       "underTeam": "Kazakhstan",
-      "favOdd": 1.06,
-      "prob": 94,
+      "favOdd": 1.05,
+      "prob": 95,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.06
+        "1xbet": 1.05
       },
       "avgFavOdd": 1.1,
       "time": "13:00",
@@ -125,26 +145,6 @@
       "url": "https://www.betexplorer.com/handball/world/friendly-international-women/poland-norway/nyxifOOE/"
     },
     {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "WORLD: CLUB WORLD CHAMPIONSHIP",
-      "home": "Sydney University",
-      "away": "Los Angeles",
-      "favTeam": "Los Angeles",
-      "underTeam": "Sydney University",
-      "favOdd": 1.1,
-      "prob": 91,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.1
-      },
-      "avgFavOdd": 1.06,
-      "time": "17:00",
-      "kickoff": "2026-09-27T09:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/handball/world/club-world-championship/sydney-university-los-angeles/27ta6mNs/"
-    },
-    {
       "sport": "バレー",
       "sportKey": "volleyball",
       "league": "ASIA: ASIAN GAMES",
@@ -158,7 +158,7 @@
       "books": {
         "1xbet": 1.1
       },
-      "avgFavOdd": 1.14,
+      "avgFavOdd": 1.15,
       "time": "13:00",
       "kickoff": "2026-09-27T05:00:00+09:00",
       "niche": false,
@@ -192,17 +192,37 @@
       "away": "El Calor de Cancun",
       "favTeam": "Fuerza Regia",
       "underTeam": "El Calor de Cancun",
-      "favOdd": 1.17,
+      "favOdd": 1.18,
       "prob": 85,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.17
+        "1xbet": 1.18
       },
       "avgFavOdd": 1.15,
       "time": "07:15",
       "kickoff": "2026-09-26T23:15:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/basketball/mexico/lnbp/fuerza-regia-el-calor-de-cancun/zwjFKCaK/"
+    },
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "ASIA: ASIAN GAMES",
+      "home": "Indonesia",
+      "away": "Thailand",
+      "favTeam": "Thailand",
+      "underTeam": "Indonesia",
+      "favOdd": 1.18,
+      "prob": 85,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.18
+      },
+      "avgFavOdd": 1.65,
+      "time": "16:00",
+      "kickoff": "2026-09-27T08:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/volleyball/asia/asian-games/indonesia-thailand/td08ELMG/"
     },
     {
       "sport": "テニス",
@@ -278,11 +298,31 @@
       "books": {
         "1xbet": 1.25
       },
-      "avgFavOdd": 1.27,
+      "avgFavOdd": 1.24,
       "time": "10:00",
       "kickoff": "2026-09-27T02:00:00+09:00",
       "niche": true,
       "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup-u23/guatemala-costa-rica/ImjZGUBC/"
+    },
+    {
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "CZECH REPUBLIC: EXTRALIGA",
+      "home": "Plzen",
+      "away": "Nove Veseli",
+      "favTeam": "Plzen",
+      "underTeam": "Nove Veseli",
+      "favOdd": 1.25,
+      "prob": 80,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.25
+      },
+      "avgFavOdd": 1.25,
+      "time": "17:30",
+      "kickoff": "2026-09-27T09:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/handball/czech-republic/extraliga/plzen-nove-veseli/04wgWLlJ/"
     },
     {
       "sport": "バレー",
@@ -298,11 +338,31 @@
       "books": {
         "1xbet": 1.25
       },
-      "avgFavOdd": 1.3,
+      "avgFavOdd": 1.31,
       "time": "11:00",
       "kickoff": "2026-09-27T03:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup-final-six-women/mexico-puerto-rico/6RcmQYlQ/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "CHALLENGER WOMEN - SINGLES: JINGSHAN, HARD",
+      "home": "Sidorova K.",
+      "away": "Guo M.",
+      "favTeam": "Sidorova K.",
+      "underTeam": "Guo M.",
+      "favOdd": 1.26,
+      "prob": 79,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.26
+      },
+      "avgFavOdd": 1.26,
+      "time": "12:00",
+      "kickoff": "2026-09-27T04:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/tennis/challenger-women-singles/jingshan/sidorova-kristiana-guo-meiqi/hp1w8ZSs/"
     },
     {
       "sport": "ハンドボール",
@@ -345,26 +405,6 @@
       "url": "https://www.betexplorer.com/volleyball/asia/asian-games/india-vietnam/0rUJLxUq/"
     },
     {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "CZECH REPUBLIC: EXTRALIGA",
-      "home": "Plzen",
-      "away": "Nove Veseli",
-      "favTeam": "Plzen",
-      "underTeam": "Nove Veseli",
-      "favOdd": 1.31,
-      "prob": 76,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.31
-      },
-      "avgFavOdd": 1.26,
-      "time": "17:30",
-      "kickoff": "2026-09-27T09:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/handball/czech-republic/extraliga/plzen-nove-veseli/04wgWLlJ/"
-    },
-    {
       "sport": "テニス",
       "sportKey": "tennis",
       "league": "ITF MEN - SINGLES: M25 YINCHUAN, HARD",
@@ -387,22 +427,22 @@
     {
       "sport": "野球",
       "sportKey": "baseball",
-      "league": "USA: MLB",
-      "home": "San Francisco Giants",
-      "away": "Los Angeles Dodgers",
-      "favTeam": "Los Angeles Dodgers",
-      "underTeam": "San Francisco Giants",
-      "favOdd": 1.39,
-      "prob": 72,
+      "league": "JAPAN: NPB",
+      "home": "Fukuoka S. Hawks",
+      "away": "Orix Buffaloes",
+      "favTeam": "Fukuoka S. Hawks",
+      "underTeam": "Orix Buffaloes",
+      "favOdd": 1.32,
+      "prob": 76,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.39
+        "1xbet": 1.32
       },
-      "avgFavOdd": 1.35,
-      "time": "05:05",
-      "kickoff": "2026-09-26T21:05:00+09:00",
+      "avgFavOdd": 1.31,
+      "time": "14:00",
+      "kickoff": "2026-09-27T06:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/san-francisco-giants-los-angeles-dodgers/C0aR9zOr/"
+      "url": "https://www.betexplorer.com/baseball/japan/npb/fukuoka-s-hawks-orix-buffaloes/044OmP9l/"
     },
     {
       "sport": "バスケ",
@@ -418,7 +458,7 @@
       "books": {
         "1xbet": 1.39
       },
-      "avgFavOdd": 1.36,
+      "avgFavOdd": 1.37,
       "time": "11:00",
       "kickoff": "2026-09-27T03:00:00+09:00",
       "niche": false,
@@ -488,21 +528,41 @@
       "sport": "テニス",
       "sportKey": "tennis",
       "league": "CHALLENGER MEN - SINGLES: SAN DIEGO 2, HARD",
-      "home": "Legout T.",
-      "away": "Marcondes I.",
-      "favTeam": "Legout T.",
-      "underTeam": "Marcondes I.",
-      "favOdd": 1.45,
-      "prob": 69,
+      "home": "Basavareddy N.",
+      "away": "Dietrich D.",
+      "favTeam": "Basavareddy N.",
+      "underTeam": "Dietrich D.",
+      "favOdd": 1.47,
+      "prob": 68,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.45
+        "1xbet": 1.47
       },
-      "avgFavOdd": 1.45,
-      "time": "06:00",
-      "kickoff": "2026-09-26T22:00:00+09:00",
+      "avgFavOdd": 1.47,
+      "time": "07:30",
+      "kickoff": "2026-09-26T23:30:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/san-diego-2/legout-timo-marcondes-igor/hlk7fMck/"
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/san-diego-2/basavareddy-nishesh-dietrich-dylan/xGq9JTWH/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "CHALLENGER WOMEN - SINGLES: JINGSHAN, HARD",
+      "home": "Rajecki A.",
+      "away": "Yuan C.",
+      "favTeam": "Rajecki A.",
+      "underTeam": "Yuan C.",
+      "favOdd": 1.47,
+      "prob": 68,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.47
+      },
+      "avgFavOdd": 1.47,
+      "time": "12:00",
+      "kickoff": "2026-09-27T04:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/tennis/challenger-women-singles/jingshan/rajecki-amelia-yuan-chengyiyi/xzG5llWi/"
     },
     {
       "sport": "テニス",
@@ -518,51 +578,31 @@
       "books": {
         "1xbet": 1.47
       },
-      "avgFavOdd": 1.47,
-      "time": "06:05",
-      "kickoff": "2026-09-26T22:05:00+09:00",
+      "avgFavOdd": 1.48,
+      "time": "06:55",
+      "kickoff": "2026-09-26T22:55:00+09:00",
       "niche": true,
       "url": "https://www.betexplorer.com/tennis/itf-women-doubles/w50-berkeley-ca/goto-reina-evialina-laskevich-osuigwe-whitney-urhobo-akasha/faSJrkPk/"
     },
     {
-      "sport": "アイスホッケー",
-      "sportKey": "hockey",
-      "league": "USA: NHL",
-      "home": "Philadelphia Flyers",
-      "away": "Washington Capitals",
-      "favTeam": "Philadelphia Flyers",
-      "underTeam": "Washington Capitals",
-      "favOdd": 1.5,
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "CHILE: LNB",
+      "home": "Espanol Osorno",
+      "away": "Puente Alto",
+      "favTeam": "Espanol Osorno",
+      "underTeam": "Puente Alto",
+      "favOdd": 1.49,
       "prob": 67,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.5
+        "1xbet": 1.49
       },
-      "avgFavOdd": 1.49,
-      "time": "06:00",
-      "kickoff": "2026-09-26T22:00:00+09:00",
+      "avgFavOdd": 1.48,
+      "time": "08:00",
+      "kickoff": "2026-09-27T00:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/hockey/usa/nhl/philadelphia-flyers-washington-capitals/42NxgSll/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: SAN DIEGO 2, HARD",
-      "home": "Basavareddy N.",
-      "away": "Dietrich D.",
-      "favTeam": "Basavareddy N.",
-      "underTeam": "Dietrich D.",
-      "favOdd": 1.5,
-      "prob": 67,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.5
-      },
-      "avgFavOdd": 1.5,
-      "time": "07:30",
-      "kickoff": "2026-09-26T23:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/san-diego-2/basavareddy-nishesh-dietrich-dylan/xGq9JTWH/"
+      "url": "https://www.betexplorer.com/basketball/chile/lnb/espanol-osorno-puente-alto/j5UihNHq/"
     },
     {
       "sport": "ハンドボール",
@@ -572,11 +612,11 @@
       "away": "South Korea W",
       "favTeam": "South Korea W",
       "underTeam": "Japan W",
-      "favOdd": 1.53,
-      "prob": 65,
+      "favOdd": 1.56,
+      "prob": 64,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.53
+        "1xbet": 1.56
       },
       "avgFavOdd": 1.53,
       "time": "18:00",
@@ -588,21 +628,21 @@
       "sport": "バスケ",
       "sportKey": "basketball",
       "league": "CHILE: LNB",
-      "home": "Espanol Osorno",
-      "away": "Puente Alto",
-      "favTeam": "Espanol Osorno",
-      "underTeam": "Puente Alto",
-      "favOdd": 1.54,
-      "prob": 65,
+      "home": "Naviera Ulloa",
+      "away": "Catolica",
+      "favTeam": "Naviera Ulloa",
+      "underTeam": "Catolica",
+      "favOdd": 1.57,
+      "prob": 64,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.54
+        "1xbet": 1.57
       },
-      "avgFavOdd": 1.49,
+      "avgFavOdd": 1.56,
       "time": "08:00",
       "kickoff": "2026-09-27T00:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/chile/lnb/espanol-osorno-puente-alto/j5UihNHq/"
+      "url": "https://www.betexplorer.com/basketball/chile/lnb/naviera-ulloa-catolica/jiXARBfS/"
     }
   ]
 }
