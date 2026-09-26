@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-26T03:29:33.577Z",
+  "generatedAt": "2026-09-26T03:34:55.882Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 4,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 28,
       "profit": 4815862
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "t2cHSwmo",
+      "sport": "handball",
+      "sportLabel": "ハンドボール",
+      "teams": "Stoholm - Grindsted",
+      "url": "https://www.betexplorer.com/handball/denmark/1-division/stoholm-grindsted/t2cHSwmo/",
+      "kickoff": "2026-09-26T13:00:00+09:00",
+      "width": 3,
+      "books": 13,
+      "labels": [
+        "Stoholm",
+        "Draw",
+        "Grindsted"
+      ],
+      "legs": [
+        {
+          "outcome": "Stoholm",
+          "book": "Betfair",
+          "odd": 15,
+          "stake": 6724,
+          "jp": true,
+          "exch": true,
+          "url": "https://www.betfair.com/exchange/plus/"
+        },
+        {
+          "outcome": "Draw",
+          "book": "Betfair",
+          "odd": 21,
+          "stake": 4803,
+          "jp": true,
+          "exch": true,
+          "url": "https://www.betfair.com/exchange/plus/"
+        },
+        {
+          "outcome": "Grindsted",
+          "book": "Duelbits",
+          "odd": 1.14,
+          "stake": 88473,
+          "jp": false,
+          "exch": false,
+          "url": "https://duelbits.com/"
+        }
+      ],
+      "S": 0.9914786967418547,
+      "roi": 0.8594539939332568,
+      "profit": 859,
+      "payout": 100859,
+      "staked": 100000,
+      "mins": 25,
+      "split": {
+        "S": 0.9914786967418547,
+        "payout": 100859,
+        "profit": 859,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Betfair",
+            "odd": 15,
+            "stake": 6724
+          },
+          {
+            "book": "Betfair",
+            "odd": 21,
+            "stake": 4803
+          },
+          {
+            "book": "Duelbits",
+            "odd": 1.14,
+            "stake": 88473
+          }
+        ]
+      },
+      "hasExch": true,
+      "allJp": false
+    }
+  ]
 }
