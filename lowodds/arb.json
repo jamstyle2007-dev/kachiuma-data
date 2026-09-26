@@ -1,89 +1,28 @@
 {
-  "generatedAt": "2026-09-26T06:59:24.289Z",
+  "generatedAt": "2026-09-26T07:04:54.115Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 1,
+  "scanned": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
-      "count": 388,
-      "profit": 132744413
+      "count": 389,
+      "profit": 132745272
     },
     "year": {
-      "count": 388,
-      "profit": 132744413
+      "count": 389,
+      "profit": 132745272
     },
     "month": {
-      "count": 134,
-      "profit": 87628121
+      "count": 135,
+      "profit": 87628980
     },
     "week": {
-      "count": 28,
-      "profit": 4815862
+      "count": 29,
+      "profit": 4816721
     },
-    "pending": 2
+    "pending": 1
   },
-  "opps": [
-    {
-      "id": "QyEsiaQj",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "Czarni Radom - Lechia Tomaszow Mazowiecki",
-      "url": "https://www.betexplorer.com/volleyball/poland/tauron-i-liga/czarni-radom-lechia-tomaszow-mazowiecki/QyEsiaQj/",
-      "kickoff": "2026-09-26T16:00:00+09:00",
-      "width": 2,
-      "books": 11,
-      "labels": [
-        "Czarni Radom",
-        "Lechia Tomaszow Mazowiecki"
-      ],
-      "legs": [
-        {
-          "outcome": "Czarni Radom",
-          "book": "Duelbits",
-          "odd": 1.81,
-          "stake": 57311,
-          "jp": false,
-          "exch": false,
-          "url": "https://duelbits.com/"
-        },
-        {
-          "outcome": "Lechia Tomaszow Mazowiecki",
-          "book": "BetInAsia",
-          "odd": 2.43,
-          "stake": 42689,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        }
-      ],
-      "S": 0.9640088215901599,
-      "roi": 3.7334905660377338,
-      "profit": 3733,
-      "payout": 103733,
-      "staked": 100000,
-      "mins": 1,
-      "split": {
-        "S": 0.9640088215901599,
-        "payout": 103733,
-        "profit": 3733,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Duelbits",
-            "odd": 1.81,
-            "stake": 57311
-          },
-          {
-            "book": "BetInAsia",
-            "odd": 2.43,
-            "stake": 42689
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
