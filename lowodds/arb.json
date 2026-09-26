@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-26T11:59:07.573Z",
+  "generatedAt": "2026-09-26T12:04:39.271Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 4,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 30,
       "profit": 4817227
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "C0aR9zOr",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "San Francisco Giants - Los Angeles Dodgers",
+      "url": "https://www.betexplorer.com/baseball/usa/mlb/san-francisco-giants-los-angeles-dodgers/C0aR9zOr/",
+      "kickoff": "2026-09-26T21:05:00+09:00",
+      "width": 2,
+      "books": 17,
+      "labels": [
+        "San Francisco Giants",
+        "Los Angeles Dodgers"
+      ],
+      "legs": [
+        {
+          "outcome": "San Francisco Giants",
+          "book": "BetInAsia",
+          "odd": 3.9,
+          "stake": 25714,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.betinasia.com/"
+        },
+        {
+          "outcome": "Los Angeles Dodgers",
+          "book": "Mozzartbet",
+          "odd": 1.35,
+          "stake": 74286,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.mozzartbet.com/"
+        }
+      ],
+      "S": 0.9971509971509971,
+      "roi": 0.28571428571428914,
+      "profit": 286,
+      "payout": 100286,
+      "staked": 100000,
+      "mins": 0,
+      "split": {
+        "S": 0.9971509971509971,
+        "payout": 100286,
+        "profit": 286,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "BetInAsia",
+            "odd": 3.9,
+            "stake": 25714
+          },
+          {
+            "book": "Mozzartbet",
+            "odd": 1.35,
+            "stake": 74286
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
