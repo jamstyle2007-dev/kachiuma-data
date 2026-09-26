@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T06:48:28.304Z",
+  "generatedAt": "2026-09-26T06:53:55.882Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
@@ -43,7 +43,7 @@
           "outcome": "Czarni Radom",
           "book": "Duelbits",
           "odd": 1.81,
-          "stake": 55528,
+          "stake": 58102,
           "jp": false,
           "exch": false,
           "url": "https://duelbits.com/"
@@ -51,34 +51,34 @@
         {
           "outcome": "Lechia Tomaszow Mazowiecki",
           "book": "BetInAsia",
-          "odd": 2.26,
-          "stake": 44472,
+          "odd": 2.51,
+          "stake": 41898,
           "jp": true,
           "exch": false,
           "url": "https://www.betinasia.com/"
         }
       ],
-      "S": 0.9949640639514986,
-      "roi": 0.5061425061424929,
-      "profit": 506,
-      "payout": 100506,
+      "S": 0.9508925623472959,
+      "roi": 5.164351851851845,
+      "profit": 5164,
+      "payout": 105164,
       "staked": 100000,
-      "mins": 12,
+      "mins": 6,
       "split": {
-        "S": 0.9949640639514986,
-        "payout": 100506,
-        "profit": 506,
+        "S": 0.9508925623472959,
+        "payout": 105164,
+        "profit": 5164,
         "staked": 100000,
         "legs": [
           {
             "book": "Duelbits",
             "odd": 1.81,
-            "stake": 55528
+            "stake": 58102
           },
           {
             "book": "BetInAsia",
-            "odd": 2.26,
-            "stake": 44472
+            "odd": 2.51,
+            "stake": 41898
           }
         ]
       },
