@@ -1,89 +1,28 @@
 {
-  "generatedAt": "2026-09-26T22:58:35.812Z",
+  "generatedAt": "2026-09-26T23:04:00.686Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 2,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
-      "count": 393,
-      "profit": 132985961
+      "count": 394,
+      "profit": 134509742
     },
     "year": {
-      "count": 393,
-      "profit": 132985961
+      "count": 394,
+      "profit": 134509742
     },
     "month": {
-      "count": 139,
-      "profit": 87869669
+      "count": 140,
+      "profit": 89393450
     },
     "week": {
-      "count": 33,
-      "profit": 5057410
+      "count": 34,
+      "profit": 6581191
     },
-    "pending": 2
+    "pending": 1
   },
-  "opps": [
-    {
-      "id": "td08ELMG",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "Indonesia - Thailand",
-      "url": "https://www.betexplorer.com/volleyball/asia/asian-games/indonesia-thailand/td08ELMG/",
-      "kickoff": "2026-09-27T08:00:00+09:00",
-      "width": 2,
-      "books": 9,
-      "labels": [
-        "Indonesia",
-        "Thailand"
-      ],
-      "legs": [
-        {
-          "outcome": "Indonesia",
-          "book": "1xBet",
-          "odd": 4.47,
-          "stake": 28135,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "Thailand",
-          "book": "Betsson",
-          "odd": 1.75,
-          "stake": 71865,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.betsson.com/"
-        }
-      ],
-      "S": 0.7951422179610099,
-      "roi": 25.7636655948553,
-      "profit": 25764,
-      "payout": 125764,
-      "staked": 100000,
-      "mins": 1,
-      "split": {
-        "S": 0.7951422179610099,
-        "payout": 125764,
-        "profit": 25764,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 4.47,
-            "stake": 28135
-          },
-          {
-            "book": "Betsson",
-            "odd": 1.75,
-            "stake": 71865
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
