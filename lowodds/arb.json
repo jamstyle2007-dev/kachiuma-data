@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-27T04:28:50.391Z",
+  "generatedAt": "2026-09-27T04:34:15.165Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
+  "scanned": 3,
   "arbCount": 1,
   "track": {
     "stake": 100000,
@@ -22,68 +22,83 @@
       "count": 35,
       "profit": 6606955
     },
-    "pending": 1
+    "pending": 2
   },
   "opps": [
     {
-      "id": "AVKRTsL5",
+      "id": "WtoiCbhT",
       "sport": "handball",
       "sportLabel": "ハンドボール",
-      "teams": "Barcelona - El Zamalek",
-      "url": "https://www.betexplorer.com/handball/world/club-world-championship/barcelona-el-zamalek/AVKRTsL5/",
-      "kickoff": "2026-09-27T13:30:00+09:00",
-      "width": 2,
-      "books": 6,
+      "teams": "Hannover-Burgdorf - Goppingen",
+      "url": "https://www.betexplorer.com/handball/germany/bundesliga/hannover-burgdorf-goppingen/WtoiCbhT/",
+      "kickoff": "2026-09-27T14:00:00+09:00",
+      "width": 3,
+      "books": 15,
       "labels": [
-        "Barcelona",
-        "El Zamalek"
+        "Hannover-Burgdorf",
+        "Draw",
+        "Goppingen"
       ],
       "legs": [
         {
-          "outcome": "Barcelona",
-          "book": "bwin",
-          "odd": 81,
-          "stake": 50000,
+          "outcome": "Hannover-Burgdorf",
+          "book": "1xBet",
+          "odd": 1.46,
+          "stake": 71208,
           "jp": true,
           "exch": false,
-          "url": "https://sports.bwin.com/"
+          "url": "https://1xbet.com/ja"
         },
         {
-          "outcome": "El Zamalek",
-          "book": "bwin",
-          "odd": 81,
-          "stake": 50000,
+          "outcome": "Draw",
+          "book": "1xBet",
+          "odd": 10.7,
+          "stake": 9716,
           "jp": true,
           "exch": false,
-          "url": "https://sports.bwin.com/"
+          "url": "https://1xbet.com/ja"
+        },
+        {
+          "outcome": "Goppingen",
+          "book": "Duelbits",
+          "odd": 5.45,
+          "stake": 19076,
+          "jp": false,
+          "exch": false,
+          "url": "https://duelbits.com/"
         }
       ],
-      "S": 0.024691358024691357,
-      "roi": 3950,
-      "profit": 3950000,
-      "payout": 4050000,
+      "S": 0.9618756893066588,
+      "roi": 3.9635382323491397,
+      "profit": 3964,
+      "payout": 103964,
       "staked": 100000,
-      "mins": 1,
+      "mins": 26,
       "split": {
-        "S": 0.024691358024691357,
-        "payout": 4050000,
-        "profit": 3950000,
+        "S": 0.9618756893066588,
+        "payout": 103964,
+        "profit": 3964,
         "staked": 100000,
         "legs": [
           {
-            "book": "bwin",
-            "odd": 81,
-            "stake": 50000
+            "book": "1xBet",
+            "odd": 1.46,
+            "stake": 71208
           },
           {
-            "book": "bwin",
-            "odd": 81,
-            "stake": 50000
+            "book": "1xBet",
+            "odd": 10.7,
+            "stake": 9716
+          },
+          {
+            "book": "Duelbits",
+            "odd": 5.45,
+            "stake": 19076
           }
         ]
       },
       "hasExch": false,
-      "allJp": true
+      "allJp": false
     }
   ]
 }
