@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-26T21:51:45.319Z",
+  "generatedAt": "2026-09-27T00:54:30.330Z",
   "source": "betexplorer.com (Pinnacle / 1xBet odds)",
   "threshold": 1.6,
-  "count": 32,
+  "count": 34,
   "matches": [
     {
       "sport": "バレー",
@@ -18,31 +18,11 @@
       "books": {
         "1xbet": 1.01
       },
-      "avgFavOdd": 1.03,
+      "avgFavOdd": 1.02,
       "time": "10:00",
       "kickoff": "2026-09-27T02:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/volleyball/asia/asian-games/qatar-hong-kong/j9rlRb6M/"
-    },
-    {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "WORLD: PAN-AMERICAN CUP FINAL SIX WOMEN",
-      "home": "USA W",
-      "away": "Cuba W",
-      "favTeam": "USA W",
-      "underTeam": "Cuba W",
-      "favOdd": 1.02,
-      "prob": 98,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.02
-      },
-      "avgFavOdd": 1.02,
-      "time": "09:00",
-      "kickoff": "2026-09-27T01:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup-final-six-women/usa-cuba/tl612VdJ/"
     },
     {
       "sport": "野球",
@@ -65,6 +45,46 @@
       "url": "https://www.betexplorer.com/baseball/asia/asian-games/chinese-taipei-china/jgWdJXID/"
     },
     {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "JAPAN: B.LEAGUE PREMIER",
+      "home": "Sendai",
+      "away": "Akita",
+      "favTeam": "Sendai",
+      "underTeam": "Akita",
+      "favOdd": 1.03,
+      "prob": 97,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.03
+      },
+      "avgFavOdd": 1.04,
+      "time": "13:05",
+      "kickoff": "2026-09-27T05:05:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/japan/b-league-premier/sendai-akita/nNrVe1Qb/"
+    },
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "ASIA: ASIAN GAMES",
+      "home": "China",
+      "away": "Chinese Taipei",
+      "favTeam": "China",
+      "underTeam": "Chinese Taipei",
+      "favOdd": 1.04,
+      "prob": 96,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.04
+      },
+      "avgFavOdd": 1.04,
+      "time": "19:00",
+      "kickoff": "2026-09-27T11:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/volleyball/asia/asian-games/china-chinese-taipei/4WU6Wgr2/"
+    },
+    {
       "sport": "ハンドボール",
       "sportKey": "handball",
       "league": "WORLD: CLUB WORLD CHAMPIONSHIP",
@@ -78,51 +98,11 @@
       "books": {
         "1xbet": 1.05
       },
-      "avgFavOdd": 1.05,
+      "avgFavOdd": 1.06,
       "time": "17:00",
       "kickoff": "2026-09-27T09:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/handball/world/club-world-championship/sydney-university-los-angeles/27ta6mNs/"
-    },
-    {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "ASIA: ASIAN GAMES",
-      "home": "Pakistan",
-      "away": "Kazakhstan",
-      "favTeam": "Pakistan",
-      "underTeam": "Kazakhstan",
-      "favOdd": 1.05,
-      "prob": 95,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.05
-      },
-      "avgFavOdd": 1.1,
-      "time": "13:00",
-      "kickoff": "2026-09-27T05:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/asia/asian-games/pakistan-kazakhstan/jkxlMCOP/"
-    },
-    {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "WORLD: PAN-AMERICAN CUP U23",
-      "home": "USA U23",
-      "away": "Mexico U23",
-      "favTeam": "USA U23",
-      "underTeam": "Mexico U23",
-      "favOdd": 1.08,
-      "prob": 93,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.08
-      },
-      "avgFavOdd": 1.07,
-      "time": "08:00",
-      "kickoff": "2026-09-27T00:00:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup-u23/usa-mexico/ANnRIjs0/"
     },
     {
       "sport": "ハンドボール",
@@ -132,13 +112,13 @@
       "away": "Norway B W",
       "favTeam": "Norway B W",
       "underTeam": "Poland W",
-      "favOdd": 1.08,
-      "prob": 93,
+      "favOdd": 1.1,
+      "prob": 91,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.08
+        "1xbet": 1.1
       },
-      "avgFavOdd": 1.08,
+      "avgFavOdd": 1.09,
       "time": "20:00",
       "kickoff": "2026-09-27T12:00:00+09:00",
       "niche": false,
@@ -148,21 +128,21 @@
       "sport": "バレー",
       "sportKey": "volleyball",
       "league": "ASIA: ASIAN GAMES",
-      "home": "South Korea",
-      "away": "Philippines",
-      "favTeam": "South Korea",
-      "underTeam": "Philippines",
-      "favOdd": 1.1,
-      "prob": 91,
+      "home": "Pakistan",
+      "away": "Kazakhstan",
+      "favTeam": "Pakistan",
+      "underTeam": "Kazakhstan",
+      "favOdd": 1.12,
+      "prob": 89,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.1
+        "1xbet": 1.12
       },
-      "avgFavOdd": 1.15,
+      "avgFavOdd": 1.12,
       "time": "13:00",
       "kickoff": "2026-09-27T05:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/asia/asian-games/south-korea-philippines/d6RbYFDk/"
+      "url": "https://www.betexplorer.com/volleyball/asia/asian-games/pakistan-kazakhstan/jkxlMCOP/"
     },
     {
       "sport": "ハンドボール",
@@ -185,24 +165,24 @@
       "url": "https://www.betexplorer.com/handball/spain/liga-asobal/atletico-valladolid-puerto-sagunto/2Z8ayJIa/"
     },
     {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "MEXICO: LNBP",
-      "home": "Fuerza Regia",
-      "away": "El Calor de Cancun",
-      "favTeam": "Fuerza Regia",
-      "underTeam": "El Calor de Cancun",
-      "favOdd": 1.18,
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "ASIA: ASIAN GAMES",
+      "home": "South Korea",
+      "away": "Philippines",
+      "favTeam": "South Korea",
+      "underTeam": "Philippines",
+      "favOdd": 1.17,
       "prob": 85,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.18
+        "1xbet": 1.17
       },
-      "avgFavOdd": 1.15,
-      "time": "07:15",
-      "kickoff": "2026-09-26T23:15:00+09:00",
+      "avgFavOdd": 1.17,
+      "time": "13:00",
+      "kickoff": "2026-09-27T05:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/mexico/lnbp/fuerza-regia-el-calor-de-cancun/zwjFKCaK/"
+      "url": "https://www.betexplorer.com/volleyball/asia/asian-games/south-korea-philippines/d6RbYFDk/"
     },
     {
       "sport": "バレー",
@@ -218,7 +198,7 @@
       "books": {
         "1xbet": 1.18
       },
-      "avgFavOdd": 1.65,
+      "avgFavOdd": 1.67,
       "time": "16:00",
       "kickoff": "2026-09-27T08:00:00+09:00",
       "niche": false,
@@ -232,13 +212,13 @@
       "away": "Abe H.",
       "favTeam": "Abe H.",
       "underTeam": "Hosogi S.",
-      "favOdd": 1.2,
-      "prob": 83,
+      "favOdd": 1.19,
+      "prob": 84,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.2
+        "1xbet": 1.19
       },
-      "avgFavOdd": 1.21,
+      "avgFavOdd": 1.2,
       "time": "10:00",
       "kickoff": "2026-09-27T02:00:00+09:00",
       "niche": true,
@@ -252,17 +232,37 @@
       "away": "Correcaminos",
       "favTeam": "Gambusinos",
       "underTeam": "Correcaminos",
-      "favOdd": 1.22,
-      "prob": 82,
+      "favOdd": 1.2,
+      "prob": 83,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.22
+        "1xbet": 1.2
       },
       "avgFavOdd": 1.19,
       "time": "11:00",
       "kickoff": "2026-09-27T03:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/basketball/mexico/lnbp/gambusinos-correcaminos/Wtc0B8M6/"
+    },
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "TURKEY: TURKISH CUP WOMEN",
+      "home": "Aras Kargo W",
+      "away": "Goztepe W",
+      "favTeam": "Aras Kargo W",
+      "underTeam": "Goztepe W",
+      "favOdd": 1.21,
+      "prob": 83,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.21
+      },
+      "avgFavOdd": 1.27,
+      "time": "19:00",
+      "kickoff": "2026-09-27T11:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/volleyball/turkey/turkish-cup-women/aras-kargo-goztepe/02U86Te2/"
     },
     {
       "sport": "ハンドボール",
@@ -305,6 +305,26 @@
       "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup-u23/guatemala-costa-rica/ImjZGUBC/"
     },
     {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "CHALLENGER WOMEN - SINGLES: JINGSHAN, HARD",
+      "home": "Sidorova K.",
+      "away": "Guo M.",
+      "favTeam": "Sidorova K.",
+      "underTeam": "Guo M.",
+      "favOdd": 1.25,
+      "prob": 80,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.25
+      },
+      "avgFavOdd": 1.25,
+      "time": "13:30",
+      "kickoff": "2026-09-27T05:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/tennis/challenger-women-singles/jingshan/sidorova-kristiana-guo-meiqi/hp1w8ZSs/"
+    },
+    {
       "sport": "ハンドボール",
       "sportKey": "handball",
       "league": "CZECH REPUBLIC: EXTRALIGA",
@@ -325,46 +345,6 @@
       "url": "https://www.betexplorer.com/handball/czech-republic/extraliga/plzen-nove-veseli/04wgWLlJ/"
     },
     {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "WORLD: PAN-AMERICAN CUP FINAL SIX WOMEN",
-      "home": "Mexico W",
-      "away": "Puerto Rico W",
-      "favTeam": "Mexico W",
-      "underTeam": "Puerto Rico W",
-      "favOdd": 1.25,
-      "prob": 80,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.25
-      },
-      "avgFavOdd": 1.31,
-      "time": "11:00",
-      "kickoff": "2026-09-27T03:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup-final-six-women/mexico-puerto-rico/6RcmQYlQ/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER WOMEN - SINGLES: JINGSHAN, HARD",
-      "home": "Sidorova K.",
-      "away": "Guo M.",
-      "favTeam": "Sidorova K.",
-      "underTeam": "Guo M.",
-      "favOdd": 1.26,
-      "prob": 79,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.26
-      },
-      "avgFavOdd": 1.26,
-      "time": "12:00",
-      "kickoff": "2026-09-27T04:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-women-singles/jingshan/sidorova-kristiana-guo-meiqi/hp1w8ZSs/"
-    },
-    {
       "sport": "ハンドボール",
       "sportKey": "handball",
       "league": "EUROPE: EHF EURO CUP WOMEN",
@@ -378,7 +358,7 @@
       "books": {
         "1xbet": 1.26
       },
-      "avgFavOdd": 1.26,
+      "avgFavOdd": 1.25,
       "time": "20:15",
       "kickoff": "2026-09-27T12:15:00+09:00",
       "niche": false,
@@ -387,22 +367,42 @@
     {
       "sport": "バレー",
       "sportKey": "volleyball",
-      "league": "ASIA: ASIAN GAMES",
-      "home": "India",
-      "away": "Vietnam",
-      "favTeam": "India",
-      "underTeam": "Vietnam",
-      "favOdd": 1.3,
-      "prob": 77,
+      "league": "WORLD: PAN-AMERICAN CUP FINAL SIX WOMEN",
+      "home": "Mexico W",
+      "away": "Puerto Rico W",
+      "favTeam": "Mexico W",
+      "underTeam": "Puerto Rico W",
+      "favOdd": 1.26,
+      "prob": 79,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.3
+        "1xbet": 1.26
+      },
+      "avgFavOdd": 1.3,
+      "time": "11:00",
+      "kickoff": "2026-09-27T03:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/volleyball/world/pan-american-cup-final-six-women/mexico-puerto-rico/6RcmQYlQ/"
+    },
+    {
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "MEXICO: LIGA MX WOMEN",
+      "home": "Juarez W",
+      "away": "Club Tijuana W",
+      "favTeam": "Juarez W",
+      "underTeam": "Club Tijuana W",
+      "favOdd": 1.27,
+      "prob": 79,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.27
       },
       "avgFavOdd": 1.31,
-      "time": "16:00",
-      "kickoff": "2026-09-27T08:00:00+09:00",
+      "time": "10:06",
+      "kickoff": "2026-09-27T02:06:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/asia/asian-games/india-vietnam/0rUJLxUq/"
+      "url": "https://www.betexplorer.com/football/mexico/liga-mx-women/juarez-club-tijuana/b16uHy67/"
     },
     {
       "sport": "テニス",
@@ -432,17 +432,37 @@
       "away": "Orix Buffaloes",
       "favTeam": "Fukuoka S. Hawks",
       "underTeam": "Orix Buffaloes",
-      "favOdd": 1.32,
-      "prob": 76,
+      "favOdd": 1.33,
+      "prob": 75,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.32
+        "1xbet": 1.33
       },
       "avgFavOdd": 1.31,
       "time": "14:00",
       "kickoff": "2026-09-27T06:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/baseball/japan/npb/fukuoka-s-hawks-orix-buffaloes/044OmP9l/"
+    },
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "ASIA: ASIAN GAMES",
+      "home": "India",
+      "away": "Vietnam",
+      "favTeam": "India",
+      "underTeam": "Vietnam",
+      "favOdd": 1.33,
+      "prob": 75,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.33
+      },
+      "avgFavOdd": 1.31,
+      "time": "16:00",
+      "kickoff": "2026-09-27T08:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/volleyball/asia/asian-games/india-vietnam/0rUJLxUq/"
     },
     {
       "sport": "バスケ",
@@ -458,31 +478,31 @@
       "books": {
         "1xbet": 1.39
       },
-      "avgFavOdd": 1.37,
+      "avgFavOdd": 1.4,
       "time": "11:00",
       "kickoff": "2026-09-27T03:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/basketball/mexico/lnbp/abejas-santos/6DhfXkqQ/"
     },
     {
-      "sport": "野球",
-      "sportKey": "baseball",
-      "league": "USA: MLB",
-      "home": "Chicago White Sox",
-      "away": "Colorado Rockies",
-      "favTeam": "Chicago White Sox",
-      "underTeam": "Colorado Rockies",
-      "favOdd": 1.43,
-      "prob": 70,
+      "sport": "アイスホッケー",
+      "sportKey": "hockey",
+      "league": "ASIA: ASIA LEAGUE",
+      "home": "Tohoku Free Blades",
+      "away": "Kobe Stars",
+      "favTeam": "Tohoku Free Blades",
+      "underTeam": "Kobe Stars",
+      "favOdd": 1.4,
+      "prob": 71,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.43
+        "1xbet": 1.4
       },
-      "avgFavOdd": 1.4,
-      "time": "08:10",
-      "kickoff": "2026-09-27T00:10:00+09:00",
+      "avgFavOdd": 1.39,
+      "time": "13:00",
+      "kickoff": "2026-09-27T05:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/baseball/usa/mlb/chicago-white-sox-colorado-rockies/27kSDqPG/"
+      "url": "https://www.betexplorer.com/hockey/asia/asia-league/tohoku-free-blades-kobe-stars/buyqhXQH/"
     },
     {
       "sport": "ハンドボール",
@@ -498,7 +518,7 @@
       "books": {
         "1xbet": 1.43
       },
-      "avgFavOdd": 1.41,
+      "avgFavOdd": 1.42,
       "time": "22:00",
       "kickoff": "2026-09-27T14:00:00+09:00",
       "niche": false,
@@ -507,42 +527,22 @@
     {
       "sport": "バスケ",
       "sportKey": "basketball",
-      "league": "MEXICO: LNBP",
-      "home": "Dorados",
-      "away": "Soles",
-      "favTeam": "Soles",
-      "underTeam": "Dorados",
-      "favOdd": 1.44,
-      "prob": 69,
+      "league": "JAPAN: B.LEAGUE ONE",
+      "home": "Iwate",
+      "away": "Yamagata Wyverns",
+      "favTeam": "Iwate",
+      "underTeam": "Yamagata Wyverns",
+      "favOdd": 1.43,
+      "prob": 70,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.44
+        "1xbet": 1.43
       },
-      "avgFavOdd": 1.42,
-      "time": "09:00",
-      "kickoff": "2026-09-27T01:00:00+09:00",
+      "avgFavOdd": 1.46,
+      "time": "12:40",
+      "kickoff": "2026-09-27T04:40:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/mexico/lnbp/dorados-soles/bTbhDUif/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: SAN DIEGO 2, HARD",
-      "home": "Basavareddy N.",
-      "away": "Dietrich D.",
-      "favTeam": "Basavareddy N.",
-      "underTeam": "Dietrich D.",
-      "favOdd": 1.47,
-      "prob": 68,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.47
-      },
-      "avgFavOdd": 1.47,
-      "time": "07:30",
-      "kickoff": "2026-09-26T23:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/san-diego-2/basavareddy-nishesh-dietrich-dylan/xGq9JTWH/"
+      "url": "https://www.betexplorer.com/basketball/japan/b-league-one/iwate-yamagata-wyverns/bRuxKVM9/"
     },
     {
       "sport": "テニス",
@@ -552,57 +552,77 @@
       "away": "Yuan C.",
       "favTeam": "Rajecki A.",
       "underTeam": "Yuan C.",
-      "favOdd": 1.47,
-      "prob": 68,
+      "favOdd": 1.45,
+      "prob": 69,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.47
+        "1xbet": 1.45
       },
-      "avgFavOdd": 1.47,
+      "avgFavOdd": 1.46,
       "time": "12:00",
       "kickoff": "2026-09-27T04:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/tennis/challenger-women-singles/jingshan/rajecki-amelia-yuan-chengyiyi/xzG5llWi/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "ITF WOMEN - DOUBLES: W50 BERKELEY, CA, HARD",
-      "home": "Goto R. / Laskevich E.",
-      "away": "Osuigwe W. / Urhobo A.",
-      "favTeam": "Osuigwe W. / Urhobo A.",
-      "underTeam": "Goto R. / Laskevich E.",
-      "favOdd": 1.47,
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "JAPAN: B.LEAGUE ONE",
+      "home": "Kagoshima Rebnise",
+      "away": "Fukuoka",
+      "favTeam": "Kagoshima Rebnise",
+      "underTeam": "Fukuoka",
+      "favOdd": 1.46,
       "prob": 68,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.47
+        "1xbet": 1.46
       },
-      "avgFavOdd": 1.48,
-      "time": "06:55",
-      "kickoff": "2026-09-26T22:55:00+09:00",
-      "niche": true,
-      "url": "https://www.betexplorer.com/tennis/itf-women-doubles/w50-berkeley-ca/goto-reina-evialina-laskevich-osuigwe-whitney-urhobo-akasha/faSJrkPk/"
+      "avgFavOdd": 1.44,
+      "time": "13:05",
+      "kickoff": "2026-09-27T05:05:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/japan/b-league-one/kagoshima-rebnise-fukuoka/6iqpI9iM/"
     },
     {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "CHILE: LNB",
-      "home": "Espanol Osorno",
-      "away": "Puente Alto",
-      "favTeam": "Espanol Osorno",
-      "underTeam": "Puente Alto",
-      "favOdd": 1.49,
-      "prob": 67,
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "WTA - DOUBLES: SEOUL, HARD",
+      "home": "Chan H-C. / Wu F.",
+      "away": "Lee Y. / Ye Q.",
+      "favTeam": "Chan H-C. / Wu F.",
+      "underTeam": "Lee Y. / Ye Q.",
+      "favOdd": 1.48,
+      "prob": 68,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.49
+        "1xbet": 1.48
       },
-      "avgFavOdd": 1.48,
-      "time": "08:00",
-      "kickoff": "2026-09-27T00:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/chile/lnb/espanol-osorno-puente-alto/j5UihNHq/"
+      "avgFavOdd": 1.5,
+      "time": "13:00",
+      "kickoff": "2026-09-27T05:00:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/wta-doubles/seoul/chan-hao-ching-wu-fang-hsien-lee-ya-hsin-ye-qiu-yu/8fQmJKht/"
+    },
+    {
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF WOMEN - SINGLES: W15 MAANSHAN 5, HARD",
+      "home": "Wang Y.",
+      "away": "Kubareva A.",
+      "favTeam": "Wang Y.",
+      "underTeam": "Kubareva A.",
+      "favOdd": 1.55,
+      "prob": 65,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.55
+      },
+      "avgFavOdd": 1.54,
+      "time": "11:30",
+      "kickoff": "2026-09-27T03:30:00+09:00",
+      "niche": true,
+      "url": "https://www.betexplorer.com/tennis/itf-women-singles/w15-maanshan-5/wang-yuhan-kubareva-anna/QmfxkV75/"
     },
     {
       "sport": "ハンドボール",
@@ -618,7 +638,7 @@
       "books": {
         "1xbet": 1.56
       },
-      "avgFavOdd": 1.53,
+      "avgFavOdd": 1.54,
       "time": "18:00",
       "kickoff": "2026-09-27T10:00:00+09:00",
       "niche": false,
@@ -627,22 +647,42 @@
     {
       "sport": "バスケ",
       "sportKey": "basketball",
-      "league": "CHILE: LNB",
-      "home": "Naviera Ulloa",
-      "away": "Catolica",
-      "favTeam": "Naviera Ulloa",
-      "underTeam": "Catolica",
+      "league": "JAPAN: B.LEAGUE PREMIER",
+      "home": "Levanga Hokkaido",
+      "away": "SeaHorses Mikawa",
+      "favTeam": "Levanga Hokkaido",
+      "underTeam": "SeaHorses Mikawa",
+      "favOdd": 1.56,
+      "prob": 64,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.56
+      },
+      "avgFavOdd": 1.57,
+      "time": "13:05",
+      "kickoff": "2026-09-27T05:05:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/japan/b-league-premier/levanga-hokkaido-seahorses-mikawa/0pkohJPN/"
+    },
+    {
+      "sport": "野球",
+      "sportKey": "baseball",
+      "league": "SOUTH KOREA: KBO",
+      "home": "KIA Tigers",
+      "away": "LG Twins",
+      "favTeam": "LG Twins",
+      "underTeam": "KIA Tigers",
       "favOdd": 1.57,
       "prob": 64,
       "book": "1xBet",
       "books": {
         "1xbet": 1.57
       },
-      "avgFavOdd": 1.56,
-      "time": "08:00",
-      "kickoff": "2026-09-27T00:00:00+09:00",
+      "avgFavOdd": 1.52,
+      "time": "17:00",
+      "kickoff": "2026-09-27T09:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/chile/lnb/naviera-ulloa-catolica/jiXARBfS/"
+      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/kia-tigers-lg-twins/lGMmCn9N/"
     }
   ]
 }
