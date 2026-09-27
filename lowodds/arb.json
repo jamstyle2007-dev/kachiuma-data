@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-27T04:45:47.253Z",
+  "generatedAt": "2026-09-27T04:51:13.211Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 3,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "WtoiCbhT",
-      "sport": "handball",
-      "sportLabel": "ハンドボール",
-      "teams": "Hannover-Burgdorf - Goppingen",
-      "url": "https://www.betexplorer.com/handball/germany/bundesliga/hannover-burgdorf-goppingen/WtoiCbhT/",
-      "kickoff": "2026-09-27T14:00:00+09:00",
-      "width": 3,
-      "books": 15,
-      "labels": [
-        "Hannover-Burgdorf",
-        "Draw",
-        "Goppingen"
-      ],
-      "legs": [
-        {
-          "outcome": "Hannover-Burgdorf",
-          "book": "1xBet",
-          "odd": 1.46,
-          "stake": 71208,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "Draw",
-          "book": "1xBet",
-          "odd": 10.7,
-          "stake": 9716,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "Goppingen",
-          "book": "Duelbits",
-          "odd": 5.45,
-          "stake": 19076,
-          "jp": false,
-          "exch": false,
-          "url": "https://duelbits.com/"
-        }
-      ],
-      "S": 0.9618756893066588,
-      "roi": 3.9635382323491397,
-      "profit": 3964,
-      "payout": 103964,
-      "staked": 100000,
-      "mins": 14,
-      "split": {
-        "S": 0.9618756893066588,
-        "payout": 103964,
-        "profit": 3964,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 1.46,
-            "stake": 71208
-          },
-          {
-            "book": "1xBet",
-            "odd": 10.7,
-            "stake": 9716
-          },
-          {
-            "book": "Duelbits",
-            "odd": 5.45,
-            "stake": 19076
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
