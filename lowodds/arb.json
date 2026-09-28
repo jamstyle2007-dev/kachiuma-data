@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-28T22:32:30.737Z",
+  "generatedAt": "2026-09-28T22:37:59.171Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 3,
-  "arbCount": 2,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -25,81 +25,6 @@
     "pending": 3
   },
   "opps": [
-    {
-      "id": "QkaXaZxR",
-      "sport": "hockey",
-      "sportLabel": "アイスホッケー",
-      "teams": "Snezhnye Barsy - Sputnik Almetievsk",
-      "url": "https://www.betexplorer.com/hockey/russia/mhl/snezhnye-barsy-mhl-sputnik-almetievsk-mhl/QkaXaZxR/",
-      "kickoff": "2026-09-29T08:00:00+09:00",
-      "width": 3,
-      "books": 3,
-      "labels": [
-        "Snezhnye Barsy",
-        "Draw",
-        "Sputnik Almetievsk"
-      ],
-      "legs": [
-        {
-          "outcome": "Snezhnye Barsy",
-          "book": "1:4",
-          "odd": 7.92,
-          "stake": 38807,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=1%3A4%20sportsbook"
-        },
-        {
-          "outcome": "Draw",
-          "book": "1:4",
-          "odd": 6.22,
-          "stake": 49413,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=1%3A4%20sportsbook"
-        },
-        {
-          "outcome": "Sputnik Almetievsk",
-          "book": "1:4",
-          "odd": 26.09,
-          "stake": 11780,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=1%3A4%20sportsbook"
-        }
-      ],
-      "S": 0.3253631920755001,
-      "roi": 207.34884103545167,
-      "profit": 207349,
-      "payout": 307349,
-      "staked": 100000,
-      "mins": 27,
-      "split": {
-        "S": 0.3253631920755001,
-        "payout": 307349,
-        "profit": 207349,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1:4",
-            "odd": 7.92,
-            "stake": 38807
-          },
-          {
-            "book": "1:4",
-            "odd": 6.22,
-            "stake": 49413
-          },
-          {
-            "book": "1:4",
-            "odd": 26.09,
-            "stake": 11780
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    },
     {
       "id": "0ztTwxjS",
       "sport": "volleyball",
@@ -138,7 +63,7 @@
       "profit": 643,
       "payout": 100643,
       "staked": 100000,
-      "mins": 27,
+      "mins": 22,
       "split": {
         "S": 0.9936065401949481,
         "payout": 100643,
