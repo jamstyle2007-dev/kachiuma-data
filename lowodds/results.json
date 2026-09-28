@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-09-28T19:51:35.234Z",
+  "generatedAt": "2026-09-28T22:54:16.891Z",
   "windowDays": 400,
   "total": 300,
-  "hits": 186,
-  "hitRate": 0.62,
+  "hits": 185,
+  "hitRate": 0.6166666666666667,
   "sim": {
     "stake": 10000,
-    "asOf": "2026-09-28T19:51:35.234Z",
+    "asOf": "2026-09-28T22:54:16.891Z",
     "byMinStars": {
       "1": {
         "all": {
-          "n": 7740,
-          "hits": 5023,
-          "staked": 77400000,
-          "returns": 64155400,
-          "profit": -13244600
+          "n": 7742,
+          "hits": 5024,
+          "staked": 77420000,
+          "returns": 64168400,
+          "profit": -13251600
         },
         "year": {
-          "n": 7740,
-          "hits": 5023,
-          "staked": 77400000,
-          "returns": 64155400,
-          "profit": -13244600
+          "n": 7742,
+          "hits": 5024,
+          "staked": 77420000,
+          "returns": 64168400,
+          "profit": -13251600
         },
         "month": {
-          "n": 2989,
-          "hits": 1947,
-          "staked": 29890000,
-          "returns": 24685700,
-          "profit": -5204300
+          "n": 2991,
+          "hits": 1948,
+          "staked": 29910000,
+          "returns": 24698700,
+          "profit": -5211300
         },
         "week": {
-          "n": 84,
-          "hits": 55,
-          "staked": 840000,
-          "returns": 685300,
-          "profit": -154700
+          "n": 86,
+          "hits": 56,
+          "staked": 860000,
+          "returns": 698300,
+          "profit": -161700
         }
       },
       "2": {
         "all": {
-          "n": 4414,
-          "hits": 3160,
-          "staked": 44140000,
-          "returns": 36600700,
-          "profit": -7539300
+          "n": 4416,
+          "hits": 3161,
+          "staked": 44160000,
+          "returns": 36613700,
+          "profit": -7546300
         },
         "year": {
-          "n": 4414,
-          "hits": 3160,
-          "staked": 44140000,
-          "returns": 36600700,
-          "profit": -7539300
+          "n": 4416,
+          "hits": 3161,
+          "staked": 44160000,
+          "returns": 36613700,
+          "profit": -7546300
         },
         "month": {
-          "n": 1776,
-          "hits": 1270,
-          "staked": 17760000,
-          "returns": 14679400,
-          "profit": -3080600
+          "n": 1778,
+          "hits": 1271,
+          "staked": 17780000,
+          "returns": 14692400,
+          "profit": -3087600
         },
         "week": {
-          "n": 50,
-          "hits": 36,
-          "staked": 500000,
-          "returns": 405300,
-          "profit": -94700
+          "n": 52,
+          "hits": 37,
+          "staked": 520000,
+          "returns": 418300,
+          "profit": -101700
         }
       },
       "3": {
@@ -161,6 +161,40 @@
     }
   },
   "settled": [
+    {
+      "id": "f5c4Xdjl",
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "MEXICO: LIGA MX WOMEN",
+      "favTeam": "UNAM Pumas W",
+      "underTeam": "Atlante W",
+      "favIsHome": false,
+      "favOdd": 1.3,
+      "prob": 77,
+      "stars": 2,
+      "kickoff": "2026-09-28T22:45:00+09:00",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isDraw": true,
+      "favWon": false
+    },
+    {
+      "id": "nHXp0TpA",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "CHALLENGER MEN - SINGLES: COLUMBUS, HARD",
+      "favTeam": "Rottgering M.",
+      "underTeam": "Winter E.",
+      "favIsHome": true,
+      "favOdd": 1.3,
+      "prob": 77,
+      "stars": 2,
+      "kickoff": "2026-09-28T22:10:00+09:00",
+      "homeScore": 2,
+      "awayScore": 0,
+      "isDraw": false,
+      "favWon": true
+    },
     {
       "id": "hfSJN1Sk",
       "sport": "テニス",
@@ -5226,40 +5260,6 @@
       "awayScore": 23,
       "isDraw": true,
       "favWon": false
-    },
-    {
-      "id": "hj42jsuh",
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "DENMARK: 1. DIVISION",
-      "favTeam": "Sydhavsoerne",
-      "underTeam": "Norddjurs",
-      "favIsHome": true,
-      "favOdd": 1.46,
-      "prob": 68,
-      "stars": 1,
-      "kickoff": "2026-09-26T14:00:00+09:00",
-      "homeScore": 22,
-      "awayScore": 15,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "MPjSHUje",
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "BELARUS: DIVISION 1",
-      "favTeam": "Masheka",
-      "underTeam": "Gomel",
-      "favIsHome": true,
-      "favOdd": 1.15,
-      "prob": 87,
-      "stars": 3,
-      "kickoff": "2026-09-26T14:00:00+09:00",
-      "homeScore": 30,
-      "awayScore": 29,
-      "isDraw": false,
-      "favWon": true
     }
   ]
 }
