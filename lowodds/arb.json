@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T07:45:40.072Z",
+  "generatedAt": "2026-09-28T07:51:11.360Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 6,
@@ -63,7 +63,7 @@
       "profit": 2450000,
       "payout": 2550000,
       "staked": 100000,
-      "mins": 14,
+      "mins": 9,
       "split": {
         "S": 0.0392156862745098,
         "payout": 2550000,
@@ -103,47 +103,47 @@
           "outcome": "Korfez Basket",
           "book": "Stake.com",
           "odd": 2.45,
-          "stake": 46623,
+          "stake": 46507,
           "jp": true,
           "exch": false,
           "url": "https://stake.com/"
         },
         {
           "outcome": "Esenler Erokspor",
-          "book": "Rainbet",
-          "odd": 2.14,
-          "stake": 53377,
-          "jp": false,
+          "book": "1xBet",
+          "odd": 2.13,
+          "stake": 53493,
+          "jp": true,
           "exch": false,
-          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
+          "url": "https://1xbet.com/ja"
         }
       ],
-      "S": 0.8754529849322906,
-      "roi": 14.226579520697168,
-      "profit": 14227,
-      "payout": 114227,
+      "S": 0.8776468333812397,
+      "roi": 13.9410480349345,
+      "profit": 13941,
+      "payout": 113941,
       "staked": 100000,
-      "mins": 14,
+      "mins": 9,
       "split": {
-        "S": 0.8754529849322906,
-        "payout": 114227,
-        "profit": 14227,
+        "S": 0.8776468333812397,
+        "payout": 113941,
+        "profit": 13941,
         "staked": 100000,
         "legs": [
           {
             "book": "Stake.com",
             "odd": 2.45,
-            "stake": 46623
+            "stake": 46507
           },
           {
-            "book": "Rainbet",
-            "odd": 2.14,
-            "stake": 53377
+            "book": "1xBet",
+            "odd": 2.13,
+            "stake": 53493
           }
         ]
       },
       "hasExch": false,
-      "allJp": false
+      "allJp": true
     }
   ]
 }
