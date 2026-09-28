@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-28T14:29:49.658Z",
+  "generatedAt": "2026-09-28T14:35:13.311Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 1,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,68 @@
       "count": 3,
       "profit": 2464404
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "MaRdXxAE",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Las Animas - Catolica",
+      "url": "https://www.betexplorer.com/basketball/chile/lnb/las-animas-catolica/MaRdXxAE/",
+      "kickoff": "2026-09-29T00:00:00+09:00",
+      "width": 2,
+      "books": 13,
+      "labels": [
+        "Las Animas",
+        "Catolica"
+      ],
+      "legs": [
+        {
+          "outcome": "Las Animas",
+          "book": "Betway",
+          "odd": 1.44,
+          "stake": 69620,
+          "jp": true,
+          "exch": false,
+          "url": "https://betway.com/"
+        },
+        {
+          "outcome": "Catolica",
+          "book": "Unibet",
+          "odd": 3.3,
+          "stake": 30380,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.unibet.com/"
+        }
+      ],
+      "S": 0.9974747474747474,
+      "roi": 0.25316455696202667,
+      "profit": 253,
+      "payout": 100253,
+      "staked": 100000,
+      "mins": 25,
+      "split": {
+        "S": 0.9974747474747474,
+        "payout": 100253,
+        "profit": 253,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Betway",
+            "odd": 1.44,
+            "stake": 69620
+          },
+          {
+            "book": "Unibet",
+            "odd": 3.3,
+            "stake": 30380
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
