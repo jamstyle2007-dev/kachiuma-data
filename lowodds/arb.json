@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T07:40:09.189Z",
+  "generatedAt": "2026-09-28T07:45:40.072Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 6,
@@ -63,7 +63,7 @@
       "profit": 2450000,
       "payout": 2550000,
       "staked": 100000,
-      "mins": 20,
+      "mins": 14,
       "split": {
         "S": 0.0392156862745098,
         "payout": 2550000,
@@ -93,7 +93,7 @@
       "url": "https://www.betexplorer.com/basketball/turkey/super-lig/korfez-basket-esenler-erokspor/EkvmdDsT/",
       "kickoff": "2026-09-28T17:00:00+09:00",
       "width": 2,
-      "books": 6,
+      "books": 7,
       "labels": [
         "Korfez Basket",
         "Esenler Erokspor"
@@ -103,7 +103,7 @@
           "outcome": "Korfez Basket",
           "book": "Stake.com",
           "odd": 2.45,
-          "stake": 46389,
+          "stake": 46623,
           "jp": true,
           "exch": false,
           "url": "https://stake.com/"
@@ -111,34 +111,34 @@
         {
           "outcome": "Esenler Erokspor",
           "book": "Rainbet",
-          "odd": 2.12,
-          "stake": 53611,
+          "odd": 2.14,
+          "stake": 53377,
           "jp": false,
           "exch": false,
           "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
         }
       ],
-      "S": 0.8798613785136695,
-      "roi": 13.654266958424511,
-      "profit": 13654,
-      "payout": 113654,
+      "S": 0.8754529849322906,
+      "roi": 14.226579520697168,
+      "profit": 14227,
+      "payout": 114227,
       "staked": 100000,
-      "mins": 20,
+      "mins": 14,
       "split": {
-        "S": 0.8798613785136695,
-        "payout": 113654,
-        "profit": 13654,
+        "S": 0.8754529849322906,
+        "payout": 114227,
+        "profit": 14227,
         "staked": 100000,
         "legs": [
           {
             "book": "Stake.com",
             "odd": 2.45,
-            "stake": 46389
+            "stake": 46623
           },
           {
             "book": "Rainbet",
-            "odd": 2.12,
-            "stake": 53611
+            "odd": 2.14,
+            "stake": 53377
           }
         ]
       },
