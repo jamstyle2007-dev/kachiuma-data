@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-28T06:24:28.535Z",
+  "generatedAt": "2026-09-28T06:29:53.068Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "Otyl140m",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Indian Railways - Al Ittihad",
-      "url": "https://www.betexplorer.com/basketball/asia/wasl/indian-railways-al-ittihad/Otyl140m/",
-      "kickoff": "2026-09-28T15:45:00+09:00",
-      "width": 2,
-      "books": 7,
-      "labels": [
-        "Indian Railways",
-        "Al Ittihad"
-      ],
-      "legs": [
-        {
-          "outcome": "Indian Railways",
-          "book": "1xBet",
-          "odd": 6.02,
-          "stake": 16736,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "Al Ittihad",
-          "book": "BetInAsia",
-          "odd": 1.21,
-          "stake": 83264,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        }
-      ],
-      "S": 0.9925592378023668,
-      "roi": 0.7496542185338795,
-      "profit": 750,
-      "payout": 100750,
-      "staked": 100000,
-      "mins": 21,
-      "split": {
-        "S": 0.9925592378023668,
-        "payout": 100750,
-        "profit": 750,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 6.02,
-            "stake": 16736
-          },
-          {
-            "book": "BetInAsia",
-            "odd": 1.21,
-            "stake": 83264
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
