@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-28T19:45:34.279Z",
+  "generatedAt": "2026-09-28T19:50:59.406Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 4,
       "profit": 2464657
     },
-    "pending": 0
+    "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "EP6WnFSr",
+      "sport": "volleyball",
+      "sportLabel": "バレー",
+      "teams": "Philippines - Chinese Taipei",
+      "url": "https://www.betexplorer.com/volleyball/asia/asian-games/philippines-chinese-taipei/EP6WnFSr/",
+      "kickoff": "2026-09-29T05:00:00+09:00",
+      "width": 3,
+      "books": 2,
+      "labels": [
+        "Philippines",
+        "Draw",
+        "Chinese Taipei"
+      ],
+      "legs": [
+        {
+          "outcome": "Philippines",
+          "book": "3:0",
+          "odd": 3,
+          "stake": 72357,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=3%3A0%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "3:0",
+          "odd": 10.9,
+          "stake": 19915,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=3%3A0%20sportsbook"
+        },
+        {
+          "outcome": "Chinese Taipei",
+          "book": "3:0",
+          "odd": 28.09,
+          "stake": 7728,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=3%3A0%20sportsbook"
+        }
+      ],
+      "S": 0.460676310199958,
+      "roi": 117.07215627518308,
+      "profit": 117072,
+      "payout": 217072,
+      "staked": 100000,
+      "mins": 9,
+      "split": {
+        "S": 0.460676310199958,
+        "payout": 217072,
+        "profit": 117072,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "3:0",
+            "odd": 3,
+            "stake": 72357
+          },
+          {
+            "book": "3:0",
+            "odd": 10.9,
+            "stake": 19915
+          },
+          {
+            "book": "3:0",
+            "odd": 28.09,
+            "stake": 7728
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
