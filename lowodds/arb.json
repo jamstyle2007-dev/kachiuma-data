@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-28T07:29:16.589Z",
+  "generatedAt": "2026-09-28T07:34:37.226Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 6,
+  "arbCount": 2,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,128 @@
       "count": 0,
       "profit": 0
     },
-    "pending": 1
+    "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "Qyppn12B",
+      "sport": "handball",
+      "sportLabel": "ハンドボール",
+      "teams": "Szeged - Gyongyosi",
+      "url": "https://www.betexplorer.com/handball/hungary/nb-i/szeged-gyongyosi/Qyppn12B/",
+      "kickoff": "2026-09-28T17:00:00+09:00",
+      "width": 2,
+      "books": 5,
+      "labels": [
+        "Szeged",
+        "Gyongyosi"
+      ],
+      "legs": [
+        {
+          "outcome": "Szeged",
+          "book": "bwin",
+          "odd": 51,
+          "stake": 50000,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        },
+        {
+          "outcome": "Gyongyosi",
+          "book": "bwin",
+          "odd": 51,
+          "stake": 50000,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        }
+      ],
+      "S": 0.0392156862745098,
+      "roi": 2450,
+      "profit": 2450000,
+      "payout": 2550000,
+      "staked": 100000,
+      "mins": 25,
+      "split": {
+        "S": 0.0392156862745098,
+        "payout": 2550000,
+        "profit": 2450000,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "bwin",
+            "odd": 51,
+            "stake": 50000
+          },
+          {
+            "book": "bwin",
+            "odd": 51,
+            "stake": 50000
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    },
+    {
+      "id": "EkvmdDsT",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Korfez Basket - Esenler Erokspor",
+      "url": "https://www.betexplorer.com/basketball/turkey/super-lig/korfez-basket-esenler-erokspor/EkvmdDsT/",
+      "kickoff": "2026-09-28T17:00:00+09:00",
+      "width": 2,
+      "books": 6,
+      "labels": [
+        "Korfez Basket",
+        "Esenler Erokspor"
+      ],
+      "legs": [
+        {
+          "outcome": "Korfez Basket",
+          "book": "Stake.com",
+          "odd": 2.45,
+          "stake": 46389,
+          "jp": true,
+          "exch": false,
+          "url": "https://stake.com/"
+        },
+        {
+          "outcome": "Esenler Erokspor",
+          "book": "Rainbet",
+          "odd": 2.12,
+          "stake": 53611,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
+        }
+      ],
+      "S": 0.8798613785136695,
+      "roi": 13.654266958424511,
+      "profit": 13654,
+      "payout": 113654,
+      "staked": 100000,
+      "mins": 25,
+      "split": {
+        "S": 0.8798613785136695,
+        "payout": 113654,
+        "profit": 13654,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Stake.com",
+            "odd": 2.45,
+            "stake": 46389
+          },
+          {
+            "book": "Rainbet",
+            "odd": 2.12,
+            "stake": 53611
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
