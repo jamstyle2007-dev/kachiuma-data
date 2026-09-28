@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-28T22:27:08.372Z",
+  "generatedAt": "2026-09-28T22:32:30.737Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 0,
-  "arbCount": 0,
+  "scanned": 3,
+  "arbCount": 2,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,143 @@
       "count": 4,
       "profit": 2464657
     },
-    "pending": 1
+    "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "QkaXaZxR",
+      "sport": "hockey",
+      "sportLabel": "アイスホッケー",
+      "teams": "Snezhnye Barsy - Sputnik Almetievsk",
+      "url": "https://www.betexplorer.com/hockey/russia/mhl/snezhnye-barsy-mhl-sputnik-almetievsk-mhl/QkaXaZxR/",
+      "kickoff": "2026-09-29T08:00:00+09:00",
+      "width": 3,
+      "books": 3,
+      "labels": [
+        "Snezhnye Barsy",
+        "Draw",
+        "Sputnik Almetievsk"
+      ],
+      "legs": [
+        {
+          "outcome": "Snezhnye Barsy",
+          "book": "1:4",
+          "odd": 7.92,
+          "stake": 38807,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=1%3A4%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "1:4",
+          "odd": 6.22,
+          "stake": 49413,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=1%3A4%20sportsbook"
+        },
+        {
+          "outcome": "Sputnik Almetievsk",
+          "book": "1:4",
+          "odd": 26.09,
+          "stake": 11780,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=1%3A4%20sportsbook"
+        }
+      ],
+      "S": 0.3253631920755001,
+      "roi": 207.34884103545167,
+      "profit": 207349,
+      "payout": 307349,
+      "staked": 100000,
+      "mins": 27,
+      "split": {
+        "S": 0.3253631920755001,
+        "payout": 307349,
+        "profit": 207349,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "1:4",
+            "odd": 7.92,
+            "stake": 38807
+          },
+          {
+            "book": "1:4",
+            "odd": 6.22,
+            "stake": 49413
+          },
+          {
+            "book": "1:4",
+            "odd": 26.09,
+            "stake": 11780
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "0ztTwxjS",
+      "sport": "volleyball",
+      "sportLabel": "バレー",
+      "teams": "Qatar - India",
+      "url": "https://www.betexplorer.com/volleyball/asia/asian-games/qatar-india/0ztTwxjS/",
+      "kickoff": "2026-09-29T08:00:00+09:00",
+      "width": 2,
+      "books": 11,
+      "labels": [
+        "Qatar",
+        "India"
+      ],
+      "legs": [
+        {
+          "outcome": "Qatar",
+          "book": "1xBet",
+          "odd": 3.29,
+          "stake": 30591,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        },
+        {
+          "outcome": "India",
+          "book": "BetInAsia",
+          "odd": 1.45,
+          "stake": 69409,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.betinasia.com/"
+        }
+      ],
+      "S": 0.9936065401949481,
+      "roi": 0.6434599156118104,
+      "profit": 643,
+      "payout": 100643,
+      "staked": 100000,
+      "mins": 27,
+      "split": {
+        "S": 0.9936065401949481,
+        "payout": 100643,
+        "profit": 643,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "1xBet",
+            "odd": 3.29,
+            "stake": 30591
+          },
+          {
+            "book": "BetInAsia",
+            "odd": 1.45,
+            "stake": 69409
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    }
+  ]
 }
