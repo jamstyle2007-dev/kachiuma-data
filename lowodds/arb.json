@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-28T22:54:20.186Z",
+  "generatedAt": "2026-09-28T22:59:45.646Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 3,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 3
   },
-  "opps": [
-    {
-      "id": "0ztTwxjS",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "Qatar - India",
-      "url": "https://www.betexplorer.com/volleyball/asia/asian-games/qatar-india/0ztTwxjS/",
-      "kickoff": "2026-09-29T08:00:00+09:00",
-      "width": 2,
-      "books": 11,
-      "labels": [
-        "Qatar",
-        "India"
-      ],
-      "legs": [
-        {
-          "outcome": "Qatar",
-          "book": "1xBet",
-          "odd": 3.29,
-          "stake": 30591,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        },
-        {
-          "outcome": "India",
-          "book": "BetInAsia",
-          "odd": 1.45,
-          "stake": 69409,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        }
-      ],
-      "S": 0.9936065401949481,
-      "roi": 0.6434599156118104,
-      "profit": 643,
-      "payout": 100643,
-      "staked": 100000,
-      "mins": 6,
-      "split": {
-        "S": 0.9936065401949481,
-        "payout": 100643,
-        "profit": 643,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "1xBet",
-            "odd": 3.29,
-            "stake": 30591
-          },
-          {
-            "book": "BetInAsia",
-            "odd": 1.45,
-            "stake": 69409
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
