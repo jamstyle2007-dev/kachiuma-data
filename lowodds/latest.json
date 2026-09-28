@@ -1,48 +1,88 @@
 {
-  "generatedAt": "2026-09-28T13:45:10.351Z",
+  "generatedAt": "2026-09-28T16:48:27.784Z",
   "source": "betexplorer.com (Pinnacle / 1xBet odds)",
   "threshold": 1.6,
-  "count": 27,
+  "count": 33,
   "matches": [
     {
       "sport": "バレー",
       "sportKey": "volleyball",
-      "league": "WORLD: CLUB FRIENDLY",
-      "home": "Smouha",
-      "away": "Bani Yas",
-      "favTeam": "Bani Yas",
-      "underTeam": "Smouha",
+      "league": "ASIA: ASIAN GAMES",
+      "home": "Iran",
+      "away": "Indonesia",
+      "favTeam": "Iran",
+      "underTeam": "Indonesia",
+      "favOdd": 1.01,
+      "prob": 99,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.01
+      },
+      "avgFavOdd": 1.01,
+      "time": "16:00",
+      "kickoff": "2026-09-29T08:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/volleyball/asia/asian-games/iran-indonesia/IeptTKyA/"
+    },
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "ASIA: ASIAN GAMES",
+      "home": "Kyrgyzstan",
+      "away": "Thailand",
+      "favTeam": "Thailand",
+      "underTeam": "Kyrgyzstan",
       "favOdd": 1.03,
       "prob": 97,
       "book": "1xBet",
       "books": {
         "1xbet": 1.03
       },
-      "avgFavOdd": 1.06,
-      "time": "23:00",
-      "kickoff": "2026-09-28T15:00:00+09:00",
+      "avgFavOdd": 1.03,
+      "time": "10:00",
+      "kickoff": "2026-09-29T02:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/world/club-friendly/smouha-bani-yas/KfTeqjeM/"
+      "url": "https://www.betexplorer.com/volleyball/asia/asian-games/kyrgyzstan-thailand/AVtYUt7c/"
     },
     {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "ISRAEL: WBL WOMEN",
-      "home": "Hapoel Rishon LeZion W",
-      "away": "Bnei Yehuda W",
-      "favTeam": "Hapoel Rishon LeZion W",
-      "underTeam": "Bnei Yehuda W",
-      "favOdd": 1.04,
-      "prob": 96,
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "ASIA: ASIAN GAMES",
+      "home": "Japan",
+      "away": "Pakistan",
+      "favTeam": "Japan",
+      "underTeam": "Pakistan",
+      "favOdd": 1.03,
+      "prob": 97,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.04
+        "1xbet": 1.03
       },
-      "avgFavOdd": 1.05,
-      "time": "01:00",
-      "kickoff": "2026-09-28T17:00:00+09:00",
+      "avgFavOdd": 1.03,
+      "time": "19:20",
+      "kickoff": "2026-09-29T11:20:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/israel/wbl-women/hapoel-rishon-lezion-bnei-yehuda/AmjJwUlB/"
+      "url": "https://www.betexplorer.com/volleyball/asia/asian-games/japan-pakistan/0IbhI3Ni/"
+    },
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "ASIA: ASIAN GAMES",
+      "home": "Hong Kong",
+      "away": "Vietnam",
+      "favTeam": "Vietnam",
+      "underTeam": "Hong Kong",
+      "favOdd": 1.07,
+      "prob": 93,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.07
+      },
+      "avgFavOdd": 1.07,
+      "time": "10:00",
+      "kickoff": "2026-09-29T02:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/volleyball/asia/asian-games/hong-kong-vietnam/8SNLubLF/"
     },
     {
       "sport": "バスケ",
@@ -65,144 +105,184 @@
       "url": "https://www.betexplorer.com/basketball/europe/latvian-estonian-league/latvijas-universitate-ventspils/nytfofpm/"
     },
     {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "TURKEY: TURKISH CUP WOMEN",
-      "home": "Ilbank W",
-      "away": "Aras Kargo W",
-      "favTeam": "Aras Kargo W",
-      "underTeam": "Ilbank W",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "ASIA: WASL",
+      "home": "Al Arabi",
+      "away": "Shahrdari Gorgan",
+      "favTeam": "Shahrdari Gorgan",
+      "underTeam": "Al Arabi",
+      "favOdd": 1.08,
+      "prob": 93,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.08
+      },
+      "avgFavOdd": 1.12,
+      "time": "23:45",
+      "kickoff": "2026-09-29T15:45:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/asia/wasl/al-arabi-shahrdari-gorgan/lQJTDspg/"
+    },
+    {
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "RUSSIA: SUPERLEAGUE WOMEN",
+      "home": "CSKA Moscow W",
+      "away": "Zvenigorod W",
+      "favTeam": "CSKA Moscow W",
+      "underTeam": "Zvenigorod W",
       "favOdd": 1.11,
       "prob": 90,
       "book": "1xBet",
       "books": {
         "1xbet": 1.11
       },
-      "avgFavOdd": 1.14,
-      "time": "01:00",
-      "kickoff": "2026-09-28T17:00:00+09:00",
+      "avgFavOdd": 1.11,
+      "time": "01:30",
+      "kickoff": "2026-09-29T17:30:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/turkey/turkish-cup-women/ilbank-aras-kargo/IFCV6c7r/"
+      "url": "https://www.betexplorer.com/handball/russia/superleague-women/cska-moscow-zvenigorod/066vT2RE/"
     },
     {
       "sport": "バスケ",
       "sportKey": "basketball",
-      "league": "ISRAEL: WBL WOMEN",
-      "home": "Hapoel Petah Tikva W",
-      "away": "Elitzur Ramla W",
-      "favTeam": "Elitzur Ramla W",
-      "underTeam": "Hapoel Petah Tikva W",
+      "league": "CHILE: LNB",
+      "home": "Ancud",
+      "away": "CD Puerto Varas",
+      "favTeam": "Ancud",
+      "underTeam": "CD Puerto Varas",
       "favOdd": 1.12,
       "prob": 89,
       "book": "1xBet",
       "books": {
         "1xbet": 1.12
       },
-      "avgFavOdd": 1.14,
-      "time": "01:00",
-      "kickoff": "2026-09-28T17:00:00+09:00",
+      "avgFavOdd": 1.15,
+      "time": "08:30",
+      "kickoff": "2026-09-29T00:30:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/israel/wbl-women/hapoel-petah-tikva-elitzur-ramla/tjXrfkZi/"
+      "url": "https://www.betexplorer.com/basketball/chile/lnb/ancud-cd-puerto-varas/U5vB9ZH7/"
     },
     {
       "sport": "バスケ",
       "sportKey": "basketball",
-      "league": "ASIA: WASL",
-      "home": "Indian Railways",
-      "away": "Al Ittihad",
-      "favTeam": "Al Ittihad",
-      "underTeam": "Indian Railways",
-      "favOdd": 1.17,
-      "prob": 85,
+      "league": "FINLAND: KORISLIIGA",
+      "home": "KTP Kotka Basket",
+      "away": "Bisons Loimaa",
+      "favTeam": "KTP Kotka Basket",
+      "underTeam": "Bisons Loimaa",
+      "favOdd": 1.12,
+      "prob": 89,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.17
+        "1xbet": 1.12
       },
-      "avgFavOdd": 1.17,
-      "time": "23:45",
-      "kickoff": "2026-09-28T15:45:00+09:00",
+      "avgFavOdd": 1.18,
+      "time": "00:30",
+      "kickoff": "2026-09-29T16:30:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/asia/wasl/indian-railways-al-ittihad/Otyl140m/"
-    },
-    {
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "TURKEY: TURKISH CUP WOMEN",
-      "home": "Afyon Bld. Yuntas W",
-      "away": "Nilufer Bld. W",
-      "favTeam": "Nilufer Bld. W",
-      "underTeam": "Afyon Bld. Yuntas W",
-      "favOdd": 1.19,
-      "prob": 84,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.19
-      },
-      "avgFavOdd": 1.17,
-      "time": "01:00",
-      "kickoff": "2026-09-28T17:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/volleyball/turkey/turkish-cup-women/afyon-bld-yuntas-nilufer-bld/QuGw5yxe/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "ASIA: WASL",
-      "home": "Kuwait SC",
-      "away": "Al-Riyadi",
-      "favTeam": "Al-Riyadi",
-      "underTeam": "Kuwait SC",
-      "favOdd": 1.22,
-      "prob": 82,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.22
-      },
-      "avgFavOdd": 1.27,
-      "time": "02:45",
-      "kickoff": "2026-09-28T18:45:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/asia/wasl/kuwait-sc-al-riyadi/hfEGJCGE/"
+      "url": "https://www.betexplorer.com/basketball/finland/korisliiga/ktp-kotka-basket-bisons-loimaa/WlgOTjZa/"
     },
     {
       "sport": "アイスホッケー",
       "sportKey": "hockey",
-      "league": "KAZAKHSTAN: CHAMPIONSHIP",
-      "home": "Gornyak Rudny",
-      "away": "Beibarys Atyrau",
-      "favTeam": "Gornyak Rudny",
-      "underTeam": "Beibarys Atyrau",
-      "favOdd": 1.26,
-      "prob": 79,
+      "league": "CZECH REPUBLIC: ULLH",
+      "home": "Black Dogs Budweis",
+      "away": "Masaryk University",
+      "favTeam": "Black Dogs Budweis",
+      "underTeam": "Masaryk University",
+      "favOdd": 1.15,
+      "prob": 87,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.26
+        "1xbet": 1.15
       },
-      "avgFavOdd": 1.28,
-      "time": "23:00",
-      "kickoff": "2026-09-28T15:00:00+09:00",
+      "avgFavOdd": 1.12,
+      "time": "02:30",
+      "kickoff": "2026-09-28T18:30:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/hockey/kazakhstan/championship/gornyak-rudny-beibarys-atyrau/OG5BOPP0/"
+      "url": "https://www.betexplorer.com/hockey/czech-republic/ullh/black-dogs-budweis-masaryk-university/lAiIYS6L/"
     },
     {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: COLUMBUS, HARD",
-      "home": "Okonkwo O.",
-      "away": "Mitsui S.",
-      "favTeam": "Mitsui S.",
-      "underTeam": "Okonkwo O.",
-      "favOdd": 1.27,
-      "prob": 79,
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "WORLD: CLUB WORLD CHAMPIONSHIP",
+      "home": "El Zamalek",
+      "away": "Pinheiros",
+      "favTeam": "El Zamalek",
+      "underTeam": "Pinheiros",
+      "favOdd": 1.15,
+      "prob": 87,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.27
+        "1xbet": 1.15
+      },
+      "avgFavOdd": 1.15,
+      "time": "19:15",
+      "kickoff": "2026-09-29T11:15:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/handball/world/club-world-championship/el-zamalek-pinheiros/rqJZRLkI/"
+    },
+    {
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "SWEDEN: ALLSVENSKAN",
+      "home": "Drott",
+      "away": "Varberg",
+      "favTeam": "Varberg",
+      "underTeam": "Drott",
+      "favOdd": 1.23,
+      "prob": 81,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.23
+      },
+      "avgFavOdd": 1.21,
+      "time": "02:00",
+      "kickoff": "2026-09-28T18:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/handball/sweden/allsvenskan/drott-varberg/YmQXuob2/"
+    },
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "ASIA: ASIAN GAMES",
+      "home": "Philippines",
+      "away": "Chinese Taipei",
+      "favTeam": "Chinese Taipei",
+      "underTeam": "Philippines",
+      "favOdd": 1.23,
+      "prob": 81,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.23
+      },
+      "avgFavOdd": 1.3,
+      "time": "13:00",
+      "kickoff": "2026-09-29T05:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/volleyball/asia/asian-games/philippines-chinese-taipei/EP6WnFSr/"
+    },
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "ASIA: ASIAN GAMES",
+      "home": "Uzbekistan",
+      "away": "Kazakhstan",
+      "favTeam": "Kazakhstan",
+      "underTeam": "Uzbekistan",
+      "favOdd": 1.24,
+      "prob": 81,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.24
       },
       "avgFavOdd": 1.27,
-      "time": "23:00",
-      "kickoff": "2026-09-28T15:00:00+09:00",
+      "time": "13:00",
+      "kickoff": "2026-09-29T05:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/columbus/okonkwo-oliver-mitsui-shunsuke/MkheSeQi/"
+      "url": "https://www.betexplorer.com/volleyball/asia/asian-games/uzbekistan-kazakhstan/YB66f0Vp/"
     },
     {
       "sport": "バレー",
@@ -225,44 +305,24 @@
       "url": "https://www.betexplorer.com/volleyball/russia/russia-cup-women/amurskiye-tigritsy-saratov/bykfzdQO/"
     },
     {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "SERBIA: ARKUS LIGA",
-      "home": "Pancevo",
-      "away": "Dubocica",
-      "favTeam": "Pancevo",
-      "underTeam": "Dubocica",
-      "favOdd": 1.31,
-      "prob": 76,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.31
-      },
-      "avgFavOdd": 1.29,
-      "time": "01:00",
-      "kickoff": "2026-09-28T17:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/handball/serbia/arkus-liga/dinamo-pancevo-dubocica/YDPgymb6/"
-    },
-    {
       "sport": "バスケ",
       "sportKey": "basketball",
-      "league": "ISRAEL: WBL WOMEN",
-      "home": "Maccabi Ramat Gan W",
-      "away": "Hapoel Jerusalem W",
-      "favTeam": "Maccabi Ramat Gan W",
-      "underTeam": "Hapoel Jerusalem W",
-      "favOdd": 1.32,
-      "prob": 76,
+      "league": "ASIA: WASL",
+      "home": "Kuwait SC",
+      "away": "Al-Riyadi",
+      "favTeam": "Al-Riyadi",
+      "underTeam": "Kuwait SC",
+      "favOdd": 1.29,
+      "prob": 78,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.32
+        "1xbet": 1.29
       },
-      "avgFavOdd": 1.3,
-      "time": "01:00",
-      "kickoff": "2026-09-28T17:00:00+09:00",
+      "avgFavOdd": 1.27,
+      "time": "02:45",
+      "kickoff": "2026-09-28T18:45:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/basketball/israel/wbl-women/maccabi-ramat-gan-hapoel-jerusalem/OWiBujKb/"
+      "url": "https://www.betexplorer.com/basketball/asia/wasl/kuwait-sc-al-riyadi/hfEGJCGE/"
     },
     {
       "sport": "バレー",
@@ -285,24 +345,44 @@
       "url": "https://www.betexplorer.com/volleyball/russia/russia-cup-women/cherepovets-krasnodar/l0U3faBt/"
     },
     {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "SWEDEN: ALLSVENSKAN",
-      "home": "Drott",
-      "away": "Varberg",
-      "favTeam": "Varberg",
-      "underTeam": "Drott",
-      "favOdd": 1.33,
+      "sport": "野球",
+      "sportKey": "baseball",
+      "league": "SOUTH KOREA: KBO",
+      "home": "Samsung Lions",
+      "away": "Hanwha Eagles",
+      "favTeam": "Samsung Lions",
+      "underTeam": "Hanwha Eagles",
+      "favOdd": 1.34,
       "prob": 75,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.33
+        "1xbet": 1.34
       },
-      "avgFavOdd": 1.31,
-      "time": "02:00",
-      "kickoff": "2026-09-28T18:00:00+09:00",
+      "avgFavOdd": 1.32,
+      "time": "18:30",
+      "kickoff": "2026-09-29T10:30:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/handball/sweden/allsvenskan/drott-varberg/YmQXuob2/"
+      "url": "https://www.betexplorer.com/baseball/south-korea/kbo/samsung-lions-hanwha-eagles/KQGRmHt0/"
+    },
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "ASIA: ASIAN GAMES",
+      "home": "South Korea",
+      "away": "China",
+      "favTeam": "China",
+      "underTeam": "South Korea",
+      "favOdd": 1.38,
+      "prob": 72,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.38
+      },
+      "avgFavOdd": 1.37,
+      "time": "19:00",
+      "kickoff": "2026-09-29T11:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/volleyball/asia/asian-games/south-korea-china/MkAvogce/"
     },
     {
       "sport": "バスケ",
@@ -312,77 +392,17 @@
       "away": "Galil Elyon",
       "favTeam": "Nes Ziona",
       "underTeam": "Galil Elyon",
-      "favOdd": 1.34,
-      "prob": 75,
+      "favOdd": 1.43,
+      "prob": 70,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.34
+        "1xbet": 1.43
       },
-      "avgFavOdd": 1.43,
+      "avgFavOdd": 1.41,
       "time": "02:00",
       "kickoff": "2026-09-28T18:00:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/basketball/israel/league-cup/ironi-nes-ziona-galil-elyon/Eeqkj3R7/"
-    },
-    {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "GREECE: A1",
-      "home": "AEK Athens",
-      "away": "PAOK",
-      "favTeam": "AEK Athens",
-      "underTeam": "PAOK",
-      "favOdd": 1.4,
-      "prob": 71,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.4
-      },
-      "avgFavOdd": 1.38,
-      "time": "01:00",
-      "kickoff": "2026-09-28T17:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/handball/greece/a1/aek-athens-paok/8Qb48M7b/"
-    },
-    {
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: BARI, CLAY",
-      "home": "Petkovic M.",
-      "away": "Sachko V.",
-      "favTeam": "Sachko V.",
-      "underTeam": "Petkovic M.",
-      "favOdd": 1.4,
-      "prob": 71,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.4
-      },
-      "avgFavOdd": 1.41,
-      "time": "22:50",
-      "kickoff": "2026-09-28T14:50:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/bari/petkovic-mika-sachko-vitaliy/nZrOaGd4/"
-    },
-    {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "DENMARK: HERRE HANDBOLD LIGAEN",
-      "home": "Ribe-Esbjerg",
-      "away": "GOG",
-      "favTeam": "GOG",
-      "underTeam": "Ribe-Esbjerg",
-      "favOdd": 1.41,
-      "prob": 71,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.41
-      },
-      "avgFavOdd": 1.42,
-      "time": "01:30",
-      "kickoff": "2026-09-28T17:30:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/handball/denmark/herre-handbold-ligaen/ribe-esbjerg-gog/IDss9Czi/"
     },
     {
       "sport": "バスケ",
@@ -398,7 +418,7 @@
       "books": {
         "1xbet": 1.43
       },
-      "avgFavOdd": 1.4,
+      "avgFavOdd": 1.41,
       "time": "08:00",
       "kickoff": "2026-09-29T00:00:00+09:00",
       "niche": false,
@@ -407,62 +427,122 @@
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "CHALLENGER WOMEN - SINGLES: ADANA, HARD",
-      "home": "Efremova K.",
-      "away": "Kubka M.",
-      "favTeam": "Kubka M.",
-      "underTeam": "Efremova K.",
-      "favOdd": 1.52,
-      "prob": 66,
+      "league": "CHALLENGER MEN - SINGLES: COLUMBUS, HARD",
+      "home": "Vandecasteele Q.",
+      "away": "Ostapenkov D.",
+      "favTeam": "Vandecasteele Q.",
+      "underTeam": "Ostapenkov D.",
+      "favOdd": 1.43,
+      "prob": 70,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.52
+        "1xbet": 1.43
       },
-      "avgFavOdd": 1.49,
-      "time": "22:40",
-      "kickoff": "2026-09-28T14:40:00+09:00",
+      "avgFavOdd": 1.44,
+      "time": "02:10",
+      "kickoff": "2026-09-28T18:10:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-women-singles/adana/efremova-ksenia-kubka-martyna/vV0YNRGF/"
-    },
-    {
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "TURKEY: SUPER LIG",
-      "home": "Korfez Basket",
-      "away": "Esenler Erokspor",
-      "favTeam": "Esenler Erokspor",
-      "underTeam": "Korfez Basket",
-      "favOdd": 1.54,
-      "prob": 65,
-      "book": "1xBet",
-      "books": {
-        "1xbet": 1.54
-      },
-      "avgFavOdd": 1.49,
-      "time": "01:00",
-      "kickoff": "2026-09-28T17:00:00+09:00",
-      "niche": false,
-      "url": "https://www.betexplorer.com/basketball/turkey/super-lig/korfez-basket-esenler-erokspor/EkvmdDsT/"
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/columbus/vandecasteele-quinn-ostapenkov-daniil/QaU2stBL/"
     },
     {
       "sport": "テニス",
       "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: PORTO, HARD",
-      "home": "Geerts M.",
-      "away": "Domingues J.",
-      "favTeam": "Geerts M.",
-      "underTeam": "Domingues J.",
+      "league": "CHALLENGER MEN - SINGLES: MOUILLERON-LE-CAPTIF, HARD",
+      "home": "Tabur C.",
+      "away": "Martineau M.",
+      "favTeam": "Tabur C.",
+      "underTeam": "Martineau M.",
+      "favOdd": 1.45,
+      "prob": 69,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.45
+      },
+      "avgFavOdd": 1.46,
+      "time": "04:05",
+      "kickoff": "2026-09-28T20:05:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/mouilleron-le-captif/tabur-clement-martineau-matteo/hfSJN1Sk/"
+    },
+    {
+      "sport": "野球",
+      "sportKey": "baseball",
+      "league": "JAPAN: NPB",
+      "home": "Hanshin Tigers",
+      "away": "Yakult Swallows",
+      "favTeam": "Hanshin Tigers",
+      "underTeam": "Yakult Swallows",
+      "favOdd": 1.5,
+      "prob": 67,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.5
+      },
+      "avgFavOdd": 1.46,
+      "time": "18:00",
+      "kickoff": "2026-09-29T10:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/baseball/japan/npb/hanshin-tigers-yakult-swallows/r5HqwzZg/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "ARGENTINA: LIGA A",
+      "home": "Lanus",
+      "away": "Gimnasia",
+      "favTeam": "Gimnasia",
+      "underTeam": "Lanus",
+      "favOdd": 1.5,
+      "prob": 67,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.5
+      },
+      "avgFavOdd": 1.53,
+      "time": "10:05",
+      "kickoff": "2026-09-29T02:05:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/argentina/liga-a/lanus-gimnasia/xQfNLYW1/"
+    },
+    {
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "ASIA: ASIAN GAMES",
+      "home": "Qatar",
+      "away": "India",
+      "favTeam": "India",
+      "underTeam": "Qatar",
+      "favOdd": 1.53,
+      "prob": 65,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.53
+      },
+      "avgFavOdd": 1.53,
+      "time": "16:00",
+      "kickoff": "2026-09-29T08:00:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/volleyball/asia/asian-games/qatar-india/0ztTwxjS/"
+    },
+    {
+      "sport": "ハンドボール",
+      "sportKey": "handball",
+      "league": "DENMARK: HERRE HANDBOLD LIGAEN",
+      "home": "Fredericia",
+      "away": "Sonderjyske",
+      "favTeam": "Fredericia",
+      "underTeam": "Sonderjyske",
       "favOdd": 1.54,
       "prob": 65,
       "book": "1xBet",
       "books": {
         "1xbet": 1.54
       },
-      "avgFavOdd": 1.54,
-      "time": "23:10",
-      "kickoff": "2026-09-28T15:10:00+09:00",
+      "avgFavOdd": 1.47,
+      "time": "02:00",
+      "kickoff": "2026-09-28T18:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/tennis/challenger-men-singles/porto/geerts-michael-domingues-joao/QuKRL7ro/"
+      "url": "https://www.betexplorer.com/handball/denmark/herre-handbold-ligaen/fredericia-sonderjyske/tWl2dZjo/"
     },
     {
       "sport": "野球",
@@ -472,13 +552,13 @@
       "away": "Kiwoom Heroes",
       "favTeam": "Lotte Giants",
       "underTeam": "Kiwoom Heroes",
-      "favOdd": 1.56,
-      "prob": 64,
+      "favOdd": 1.55,
+      "prob": 65,
       "book": "1xBet",
       "books": {
-        "1xbet": 1.56
+        "1xbet": 1.55
       },
-      "avgFavOdd": 1.51,
+      "avgFavOdd": 1.49,
       "time": "18:30",
       "kickoff": "2026-09-29T10:30:00+09:00",
       "niche": false,
@@ -498,31 +578,51 @@
       "books": {
         "1xbet": 1.57
       },
-      "avgFavOdd": 1.51,
+      "avgFavOdd": 1.5,
       "time": "18:30",
       "kickoff": "2026-09-29T10:30:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/baseball/south-korea/kbo/doosan-bears-nc-dinos/CdaHX4j2/"
     },
     {
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "DENMARK: HERRE HANDBOLD LIGAEN",
-      "home": "Fredericia",
-      "away": "Sonderjyske",
-      "favTeam": "Fredericia",
-      "underTeam": "Sonderjyske",
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "SLOVENIA: 2. SNL",
+      "home": "Rudar",
+      "away": "Dravinja",
+      "favTeam": "Rudar",
+      "underTeam": "Dravinja",
       "favOdd": 1.57,
       "prob": 64,
       "book": "1xBet",
       "books": {
         "1xbet": 1.57
       },
-      "avgFavOdd": 1.52,
+      "avgFavOdd": 1.63,
       "time": "02:00",
       "kickoff": "2026-09-28T18:00:00+09:00",
       "niche": false,
-      "url": "https://www.betexplorer.com/handball/denmark/herre-handbold-ligaen/fredericia-sonderjyske/tWl2dZjo/"
+      "url": "https://www.betexplorer.com/football/slovenia/2-snl/rudar-dravinja/Oz0GKsf5/"
+    },
+    {
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "BRAZIL: CARIOCA B2",
+      "home": "Barra Mansa",
+      "away": "Buzios",
+      "favTeam": "Barra Mansa",
+      "underTeam": "Buzios",
+      "favOdd": 1.58,
+      "prob": 63,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.58
+      },
+      "avgFavOdd": 1.59,
+      "time": "02:45",
+      "kickoff": "2026-09-28T18:45:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/football/brazil/carioca-b2/barra-mansa-buzios/K4rNxMUG/"
     },
     {
       "sport": "ハンドボール",
@@ -543,6 +643,26 @@
       "kickoff": "2026-09-28T18:30:00+09:00",
       "niche": false,
       "url": "https://www.betexplorer.com/handball/germany/bundesliga/erlangen-eisenach/SCWM6xGj/"
+    },
+    {
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "FINLAND: KORISLIIGA",
+      "home": "Kataja",
+      "away": "Helsinki Seagulls",
+      "favTeam": "Kataja",
+      "underTeam": "Helsinki Seagulls",
+      "favOdd": 1.59,
+      "prob": 63,
+      "book": "1xBet",
+      "books": {
+        "1xbet": 1.59
+      },
+      "avgFavOdd": 1.59,
+      "time": "00:30",
+      "kickoff": "2026-09-29T16:30:00+09:00",
+      "niche": false,
+      "url": "https://www.betexplorer.com/basketball/finland/korisliiga/joensuun-kataja-helsinki-seagulls/hxTrlLKE/"
     }
   ]
 }
