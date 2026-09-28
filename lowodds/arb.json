@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T14:46:04.536Z",
+  "generatedAt": "2026-09-28T14:51:28.584Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
@@ -32,53 +32,68 @@
       "teams": "Las Animas - Catolica",
       "url": "https://www.betexplorer.com/basketball/chile/lnb/las-animas-catolica/MaRdXxAE/",
       "kickoff": "2026-09-29T00:00:00+09:00",
-      "width": 2,
-      "books": 13,
+      "width": 3,
+      "books": 10,
       "labels": [
         "Las Animas",
+        "Draw",
         "Catolica"
       ],
       "legs": [
         {
           "outcome": "Las Animas",
-          "book": "Betway",
-          "odd": 1.44,
-          "stake": 69620,
-          "jp": true,
+          "book": "104:56",
+          "odd": 104,
+          "stake": 3979,
+          "jp": false,
           "exch": false,
-          "url": "https://betway.com/"
+          "url": "https://www.google.com/search?q=104%3A56%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "79:74",
+          "odd": 5.03,
+          "stake": 82261,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=79%3A74%20sportsbook"
         },
         {
           "outcome": "Catolica",
-          "book": "Unibet",
-          "odd": 3.3,
-          "stake": 30380,
+          "book": "91:90",
+          "odd": 30.07,
+          "stake": 13760,
           "jp": false,
           "exch": false,
-          "url": "https://www.unibet.com/"
+          "url": "https://www.google.com/search?q=91%3A90%20sportsbook"
         }
       ],
-      "S": 0.9974747474747474,
-      "roi": 0.25316455696202667,
-      "profit": 253,
-      "payout": 100253,
+      "S": 0.2416782782876047,
+      "roi": 313.7732224366349,
+      "profit": 313773,
+      "payout": 413773,
       "staked": 100000,
-      "mins": 14,
+      "mins": 9,
       "split": {
-        "S": 0.9974747474747474,
-        "payout": 100253,
-        "profit": 253,
+        "S": 0.2416782782876047,
+        "payout": 413773,
+        "profit": 313773,
         "staked": 100000,
         "legs": [
           {
-            "book": "Betway",
-            "odd": 1.44,
-            "stake": 69620
+            "book": "104:56",
+            "odd": 104,
+            "stake": 3979
           },
           {
-            "book": "Unibet",
-            "odd": 3.3,
-            "stake": 30380
+            "book": "79:74",
+            "odd": 5.03,
+            "stake": 82261
+          },
+          {
+            "book": "91:90",
+            "odd": 30.07,
+            "stake": 13760
           }
         ]
       },
