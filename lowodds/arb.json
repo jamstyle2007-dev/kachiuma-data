@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-29T07:54:52.199Z",
+  "generatedAt": "2026-09-29T08:00:24.265Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 7,
-  "arbCount": 1,
+  "scanned": 2,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "hEYtLPZ2",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Dubai - Barcelona",
-      "url": "https://www.betexplorer.com/basketball/europe/euroleague/dubai-barcelona/hEYtLPZ2/",
-      "kickoff": "2026-09-29T17:00:00+09:00",
-      "width": 2,
-      "books": 18,
-      "labels": [
-        "Dubai",
-        "Barcelona"
-      ],
-      "legs": [
-        {
-          "outcome": "Dubai",
-          "book": "BetInAsia",
-          "odd": 1.36,
-          "stake": 73896,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        },
-        {
-          "outcome": "Barcelona",
-          "book": "Mozzartbet",
-          "odd": 3.85,
-          "stake": 26104,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.mozzartbet.com/"
-        }
-      ],
-      "S": 0.9950343773873185,
-      "roi": 0.499040307101728,
-      "profit": 499,
-      "payout": 100499,
-      "staked": 100000,
-      "mins": 5,
-      "split": {
-        "S": 0.9950343773873185,
-        "payout": 100499,
-        "profit": 499,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "BetInAsia",
-            "odd": 1.36,
-            "stake": 73896
-          },
-          {
-            "book": "Mozzartbet",
-            "odd": 3.85,
-            "stake": 26104
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
