@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-29T00:47:36.652Z",
+  "generatedAt": "2026-09-29T00:53:07.671Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 7,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 5,
       "profit": 2581729
     },
-    "pending": 2
+    "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "r5HqwzZg",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Hanshin Tigers - Yakult Swallows",
+      "url": "https://www.betexplorer.com/baseball/japan/npb/hanshin-tigers-yakult-swallows/r5HqwzZg/",
+      "kickoff": "2026-09-29T10:00:00+09:00",
+      "width": 3,
+      "books": 8,
+      "labels": [
+        "Hanshin Tigers",
+        "Draw",
+        "Yakult Swallows"
+      ],
+      "legs": [
+        {
+          "outcome": "Hanshin Tigers",
+          "book": "8:1",
+          "odd": 8,
+          "stake": 26216,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=8%3A1%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "4:8",
+          "odd": 3.19,
+          "stake": 65745,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=4%3A8%20sportsbook"
+        },
+        {
+          "outcome": "Yakult Swallows",
+          "book": "3:8",
+          "odd": 26.09,
+          "stake": 8039,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=3%3A8%20sportsbook"
+        }
+      ],
+      "S": 0.47680848545726096,
+      "roi": 109.72781116531442,
+      "profit": 109728,
+      "payout": 209728,
+      "staked": 100000,
+      "mins": 7,
+      "split": {
+        "S": 0.47680848545726096,
+        "payout": 209728,
+        "profit": 109728,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "8:1",
+            "odd": 8,
+            "stake": 26216
+          },
+          {
+            "book": "4:8",
+            "odd": 3.19,
+            "stake": 65745
+          },
+          {
+            "book": "3:8",
+            "odd": 26.09,
+            "stake": 8039
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
