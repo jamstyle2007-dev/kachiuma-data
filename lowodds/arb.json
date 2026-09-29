@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-29T22:23:40.625Z",
+  "generatedAt": "2026-09-29T22:29:04.380Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,5 +24,66 @@
     },
     "pending": 1
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "8hHNw0m3",
+      "sport": "basketball",
+      "sportLabel": "バスケ",
+      "teams": "Suwon KT - Seoul Knights",
+      "url": "https://www.betexplorer.com/basketball/world/club-friendly/suwon-kt-seoul-knights/8hHNw0m3/",
+      "kickoff": "2026-09-30T07:30:00+09:00",
+      "width": 2,
+      "books": 11,
+      "labels": [
+        "Suwon KT",
+        "Seoul Knights"
+      ],
+      "legs": [
+        {
+          "outcome": "Suwon KT",
+          "book": "bwin",
+          "odd": 1.48,
+          "stake": 69102,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        },
+        {
+          "outcome": "Seoul Knights",
+          "book": "1xBet",
+          "odd": 3.31,
+          "stake": 30898,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        }
+      ],
+      "S": 0.9777904793010532,
+      "roi": 2.2713987473903963,
+      "profit": 2271,
+      "payout": 102271,
+      "staked": 100000,
+      "mins": 1,
+      "split": {
+        "S": 0.9777904793010532,
+        "payout": 102271,
+        "profit": 2271,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "bwin",
+            "odd": 1.48,
+            "stake": 69102
+          },
+          {
+            "book": "1xBet",
+            "odd": 3.31,
+            "stake": 30898
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    }
+  ]
 }
