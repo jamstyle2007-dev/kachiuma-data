@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T23:12:16.279Z",
+  "generatedAt": "2026-09-29T23:17:39.479Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
@@ -43,7 +43,7 @@
           "outcome": "New Zealand Breakers",
           "book": "Unibet",
           "odd": 1.68,
-          "stake": 60095,
+          "stake": 60563,
           "jp": false,
           "exch": false,
           "url": "https://www.unibet.com/"
@@ -51,34 +51,34 @@
         {
           "outcome": "Cairns Taipans",
           "book": "1xBet",
-          "odd": 2.53,
-          "stake": 39905,
+          "odd": 2.58,
+          "stake": 39437,
           "jp": true,
           "exch": false,
           "url": "https://1xbet.com/ja"
         }
       ],
-      "S": 0.9904950122341427,
-      "roi": 0.9596199524940507,
-      "profit": 960,
-      "payout": 100960,
+      "S": 0.9828349944629013,
+      "roi": 1.7464788732394432,
+      "profit": 1746,
+      "payout": 101746,
       "staked": 100000,
-      "mins": 18,
+      "mins": 12,
       "split": {
-        "S": 0.9904950122341427,
-        "payout": 100960,
-        "profit": 960,
+        "S": 0.9828349944629013,
+        "payout": 101746,
+        "profit": 1746,
         "staked": 100000,
         "legs": [
           {
             "book": "Unibet",
             "odd": 1.68,
-            "stake": 60095
+            "stake": 60563
           },
           {
             "book": "1xBet",
-            "odd": 2.53,
-            "stake": 39905
+            "odd": 2.58,
+            "stake": 39437
           }
         ]
       },
