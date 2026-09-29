@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-29T23:28:27.073Z",
+  "generatedAt": "2026-09-29T23:33:50.412Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 1,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "Us8CuWaN",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "New Zealand Breakers - Cairns Taipans",
-      "url": "https://www.betexplorer.com/basketball/australia/nbl/new-zealand-breakers-cairns-taipans/Us8CuWaN/",
-      "kickoff": "2026-09-30T08:30:00+09:00",
-      "width": 2,
-      "books": 17,
-      "labels": [
-        "New Zealand Breakers",
-        "Cairns Taipans"
-      ],
-      "legs": [
-        {
-          "outcome": "New Zealand Breakers",
-          "book": "Unibet",
-          "odd": 1.68,
-          "stake": 60563,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.unibet.com/"
-        },
-        {
-          "outcome": "Cairns Taipans",
-          "book": "1xBet",
-          "odd": 2.58,
-          "stake": 39437,
-          "jp": true,
-          "exch": false,
-          "url": "https://1xbet.com/ja"
-        }
-      ],
-      "S": 0.9828349944629013,
-      "roi": 1.7464788732394432,
-      "profit": 1746,
-      "payout": 101746,
-      "staked": 100000,
-      "mins": 2,
-      "split": {
-        "S": 0.9828349944629013,
-        "payout": 101746,
-        "profit": 1746,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Unibet",
-            "odd": 1.68,
-            "stake": 60563
-          },
-          {
-            "book": "1xBet",
-            "odd": 2.58,
-            "stake": 39437
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
