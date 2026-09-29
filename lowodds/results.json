@@ -1,166 +1,302 @@
 {
-  "generatedAt": "2026-09-28T22:54:16.891Z",
+  "generatedAt": "2026-09-29T02:12:07.238Z",
   "windowDays": 400,
   "total": 300,
-  "hits": 185,
-  "hitRate": 0.6166666666666667,
+  "hits": 187,
+  "hitRate": 0.6233333333333333,
   "sim": {
     "stake": 10000,
-    "asOf": "2026-09-28T22:54:16.891Z",
+    "asOf": "2026-09-29T02:12:07.238Z",
     "byMinStars": {
       "1": {
         "all": {
-          "n": 7742,
-          "hits": 5024,
-          "staked": 77420000,
-          "returns": 64168400,
-          "profit": -13251600
+          "n": 7750,
+          "hits": 5031,
+          "staked": 77500000,
+          "returns": 64258900,
+          "profit": -13241100
         },
         "year": {
-          "n": 7742,
-          "hits": 5024,
-          "staked": 77420000,
-          "returns": 64168400,
-          "profit": -13251600
+          "n": 7750,
+          "hits": 5031,
+          "staked": 77500000,
+          "returns": 64258900,
+          "profit": -13241100
         },
         "month": {
-          "n": 2991,
-          "hits": 1948,
-          "staked": 29910000,
-          "returns": 24698700,
-          "profit": -5211300
+          "n": 2999,
+          "hits": 1955,
+          "staked": 29990000,
+          "returns": 24789200,
+          "profit": -5200800
         },
         "week": {
-          "n": 86,
-          "hits": 56,
-          "staked": 860000,
-          "returns": 698300,
-          "profit": -161700
+          "n": 94,
+          "hits": 63,
+          "staked": 940000,
+          "returns": 788800,
+          "profit": -151200
         }
       },
       "2": {
         "all": {
-          "n": 4416,
-          "hits": 3161,
-          "staked": 44160000,
-          "returns": 36613700,
-          "profit": -7546300
+          "n": 4421,
+          "hits": 3165,
+          "staked": 44210000,
+          "returns": 36658500,
+          "profit": -7551500
         },
         "year": {
-          "n": 4416,
-          "hits": 3161,
-          "staked": 44160000,
-          "returns": 36613700,
-          "profit": -7546300
+          "n": 4421,
+          "hits": 3165,
+          "staked": 44210000,
+          "returns": 36658500,
+          "profit": -7551500
         },
         "month": {
-          "n": 1778,
-          "hits": 1271,
-          "staked": 17780000,
-          "returns": 14692400,
-          "profit": -3087600
+          "n": 1783,
+          "hits": 1275,
+          "staked": 17830000,
+          "returns": 14737200,
+          "profit": -3092800
         },
         "week": {
-          "n": 52,
-          "hits": 37,
-          "staked": 520000,
-          "returns": 418300,
-          "profit": -101700
+          "n": 57,
+          "hits": 41,
+          "staked": 570000,
+          "returns": 463100,
+          "profit": -106900
         }
       },
       "3": {
         "all": {
-          "n": 2563,
-          "hits": 1973,
-          "staked": 25630000,
-          "returns": 21402500,
-          "profit": -4227500
+          "n": 2566,
+          "hits": 1976,
+          "staked": 25660000,
+          "returns": 21434700,
+          "profit": -4225300
         },
         "year": {
-          "n": 2563,
-          "hits": 1973,
-          "staked": 25630000,
-          "returns": 21402500,
-          "profit": -4227500
+          "n": 2566,
+          "hits": 1976,
+          "staked": 25660000,
+          "returns": 21434700,
+          "profit": -4225300
         },
         "month": {
-          "n": 1047,
-          "hits": 807,
-          "staked": 10470000,
-          "returns": 8747700,
-          "profit": -1722300
+          "n": 1050,
+          "hits": 810,
+          "staked": 10500000,
+          "returns": 8779900,
+          "profit": -1720100
         },
         "week": {
-          "n": 32,
-          "hits": 27,
-          "staked": 320000,
-          "returns": 288800,
-          "profit": -31200
+          "n": 35,
+          "hits": 30,
+          "staked": 350000,
+          "returns": 321000,
+          "profit": -29000
         }
       },
       "4": {
         "all": {
-          "n": 1541,
-          "hits": 1239,
-          "staked": 15410000,
-          "returns": 12938400,
-          "profit": -2471600
+          "n": 1543,
+          "hits": 1241,
+          "staked": 15430000,
+          "returns": 12959100,
+          "profit": -2470900
         },
         "year": {
-          "n": 1541,
-          "hits": 1239,
-          "staked": 15410000,
-          "returns": 12938400,
-          "profit": -2471600
+          "n": 1543,
+          "hits": 1241,
+          "staked": 15430000,
+          "returns": 12959100,
+          "profit": -2470900
         },
         "month": {
-          "n": 639,
-          "hits": 502,
-          "staked": 6390000,
-          "returns": 5231700,
-          "profit": -1158300
+          "n": 641,
+          "hits": 504,
+          "staked": 6410000,
+          "returns": 5252400,
+          "profit": -1157600
         },
         "week": {
-          "n": 23,
-          "hits": 20,
-          "staked": 230000,
-          "returns": 208000,
-          "profit": -22000
+          "n": 25,
+          "hits": 22,
+          "staked": 250000,
+          "returns": 228700,
+          "profit": -21300
         }
       },
       "5": {
         "all": {
-          "n": 956,
-          "hits": 803,
-          "staked": 9560000,
-          "returns": 8232200,
-          "profit": -1327800
+          "n": 958,
+          "hits": 805,
+          "staked": 9580000,
+          "returns": 8252900,
+          "profit": -1327100
         },
         "year": {
-          "n": 956,
-          "hits": 803,
-          "staked": 9560000,
-          "returns": 8232200,
-          "profit": -1327800
+          "n": 958,
+          "hits": 805,
+          "staked": 9580000,
+          "returns": 8252900,
+          "profit": -1327100
         },
         "month": {
-          "n": 412,
-          "hits": 337,
-          "staked": 4120000,
-          "returns": 3453900,
-          "profit": -666100
+          "n": 414,
+          "hits": 339,
+          "staked": 4140000,
+          "returns": 3474600,
+          "profit": -665400
         },
         "week": {
-          "n": 18,
-          "hits": 15,
-          "staked": 180000,
-          "returns": 154200,
-          "profit": -25800
+          "n": 20,
+          "hits": 17,
+          "staked": 200000,
+          "returns": 174900,
+          "profit": -25100
         }
       }
     }
   },
   "settled": [
+    {
+      "id": "WdDDlcIl",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ATP - SINGLES: TOKYO, HARD",
+      "favTeam": "Tsitsipas S.",
+      "underTeam": "Hijikata R.",
+      "favIsHome": true,
+      "favOdd": 1.31,
+      "prob": 76,
+      "stars": 2,
+      "kickoff": "2026-09-29T03:00:00+09:00",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isDraw": true,
+      "favWon": false
+    },
+    {
+      "id": "zqaKTEkD",
+      "sport": "サッカー",
+      "sportKey": "soccer",
+      "league": "MEXICO: LIGA MX WOMEN",
+      "favTeam": "Toluca W",
+      "underTeam": "Necaxa W",
+      "favIsHome": false,
+      "favOdd": 1.05,
+      "prob": 95,
+      "stars": 5,
+      "kickoff": "2026-09-29T02:06:00+09:00",
+      "homeScore": 0,
+      "awayScore": 1,
+      "isDraw": false,
+      "favWon": true
+    },
+    {
+      "id": "xQfNLYW1",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "ARGENTINA: LIGA A",
+      "favTeam": "Gimnasia",
+      "underTeam": "Lanus",
+      "favIsHome": false,
+      "favOdd": 1.51,
+      "prob": 66,
+      "stars": 1,
+      "kickoff": "2026-09-29T02:05:00+09:00",
+      "homeScore": 27,
+      "awayScore": 52,
+      "isDraw": false,
+      "favWon": true
+    },
+    {
+      "id": "AVtYUt7c",
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "ASIA: ASIAN GAMES",
+      "favTeam": "Thailand",
+      "underTeam": "Kyrgyzstan",
+      "favIsHome": false,
+      "favOdd": 1.02,
+      "prob": 98,
+      "stars": 5,
+      "kickoff": "2026-09-29T02:00:00+09:00",
+      "homeScore": 0,
+      "awayScore": 2,
+      "isDraw": false,
+      "favWon": true
+    },
+    {
+      "id": "8SNLubLF",
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "ASIA: ASIAN GAMES",
+      "favTeam": "Vietnam",
+      "underTeam": "Hong Kong",
+      "favIsHome": false,
+      "favOdd": 1.15,
+      "prob": 87,
+      "stars": 3,
+      "kickoff": "2026-09-29T02:00:00+09:00",
+      "homeScore": 0,
+      "awayScore": 2,
+      "isDraw": false,
+      "favWon": true
+    },
+    {
+      "id": "U5vB9ZH7",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "CHILE: LNB",
+      "favTeam": "Ancud",
+      "underTeam": "CD Puerto Varas",
+      "favIsHome": true,
+      "favOdd": 1.26,
+      "prob": 79,
+      "stars": 2,
+      "kickoff": "2026-09-29T00:30:00+09:00",
+      "homeScore": 79,
+      "awayScore": 74,
+      "isDraw": false,
+      "favWon": true
+    },
+    {
+      "id": "MaRdXxAE",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "CHILE: LNB",
+      "favTeam": "Las Animas",
+      "underTeam": "Catolica",
+      "favIsHome": true,
+      "favOdd": 1.49,
+      "prob": 67,
+      "stars": 1,
+      "kickoff": "2026-09-29T00:00:00+09:00",
+      "homeScore": 96,
+      "awayScore": 61,
+      "isDraw": false,
+      "favWon": true
+    },
+    {
+      "id": "fFAkJdM6",
+      "sport": "バスケ",
+      "sportKey": "basketball",
+      "league": "WORLD: CLUB FRIENDLY",
+      "favTeam": "Flamengo",
+      "underTeam": "Penarol",
+      "favIsHome": false,
+      "favOdd": 1.57,
+      "prob": 64,
+      "stars": 1,
+      "kickoff": "2026-09-29T00:00:00+09:00",
+      "homeScore": 72,
+      "awayScore": 75,
+      "isDraw": false,
+      "favWon": true
+    },
     {
       "id": "f5c4Xdjl",
       "sport": "サッカー",
@@ -5124,142 +5260,6 @@
       "awayScore": 1,
       "isDraw": false,
       "favWon": true
-    },
-    {
-      "id": "xWTAIoy3",
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "NORWAY: 1. DIVISION",
-      "favTeam": "Halden",
-      "underTeam": "Notteroy",
-      "favIsHome": true,
-      "favOdd": 1.16,
-      "prob": 86,
-      "stars": 3,
-      "kickoff": "2026-09-26T15:00:00+09:00",
-      "homeScore": 32,
-      "awayScore": 30,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "bkdtR4yG",
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "EUROPE: LATVIAN-ESTONIAN LEAGUE",
-      "favTeam": "VEF Riga",
-      "underTeam": "BK Ogre",
-      "favIsHome": false,
-      "favOdd": 1.23,
-      "prob": 81,
-      "stars": 2,
-      "kickoff": "2026-09-26T15:00:00+09:00",
-      "homeScore": 4,
-      "awayScore": 4,
-      "isDraw": true,
-      "favWon": false
-    },
-    {
-      "id": "KGtteT6N",
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "PORTUGAL: ANDEBOL 1",
-      "favTeam": "Aguas Santas",
-      "underTeam": "Santo Tirso",
-      "favIsHome": false,
-      "favOdd": 1.31,
-      "prob": 76,
-      "stars": 2,
-      "kickoff": "2026-09-26T15:00:00+09:00",
-      "homeScore": 31,
-      "awayScore": 38,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "IRETzpKr",
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "WORLD: CLUB FRIENDLY",
-      "favTeam": "CD Povoa",
-      "underTeam": "Esgueira",
-      "favIsHome": false,
-      "favOdd": 1.34,
-      "prob": 75,
-      "stars": 2,
-      "kickoff": "2026-09-26T15:00:00+09:00",
-      "homeScore": 6,
-      "awayScore": 13,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "KEDrkzug",
-      "sport": "バスケ",
-      "sportKey": "basketball",
-      "league": "WORLD: CLUB FRIENDLY WOMEN",
-      "favTeam": "Barcelos W",
-      "underTeam": "Sanjoanense W",
-      "favIsHome": true,
-      "favOdd": 1.4,
-      "prob": 71,
-      "stars": 1,
-      "kickoff": "2026-09-26T15:00:00+09:00",
-      "homeScore": 81,
-      "awayScore": 65,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "A1FPkAAk",
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "POLAND: I LIGA WOMEN",
-      "favTeam": "Zgoda Ruda Slaska W",
-      "underTeam": "Grunwald Ruda Slaska W",
-      "favIsHome": true,
-      "favOdd": 1.46,
-      "prob": 68,
-      "stars": 1,
-      "kickoff": "2026-09-26T15:00:00+09:00",
-      "homeScore": 37,
-      "awayScore": 21,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "GEdDTgKh",
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "ICELAND: MIZUNODEILD WOMEN",
-      "favTeam": "HK Kopavogur W",
-      "underTeam": "Throttur Nes W",
-      "favIsHome": false,
-      "favOdd": 1.02,
-      "prob": 98,
-      "stars": 5,
-      "kickoff": "2026-09-26T14:00:00+09:00",
-      "homeScore": 1,
-      "awayScore": 1,
-      "isDraw": true,
-      "favWon": false
-    },
-    {
-      "id": "MTtCEYCT",
-      "sport": "ハンドボール",
-      "sportKey": "handball",
-      "league": "DENMARK: HERRE HANDBOLD LIGAEN",
-      "favTeam": "Aalborg",
-      "underTeam": "Ringsted",
-      "favIsHome": false,
-      "favOdd": 1.08,
-      "prob": 93,
-      "stars": 4,
-      "kickoff": "2026-09-26T14:00:00+09:00",
-      "homeScore": 23,
-      "awayScore": 23,
-      "isDraw": true,
-      "favWon": false
     }
   ]
 }
