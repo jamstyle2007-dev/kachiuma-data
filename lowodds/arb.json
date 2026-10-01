@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-01T00:33:22.196Z",
+  "generatedAt": "2026-10-01T00:50:15.571Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 1,
-  "arbCount": 0,
+  "scanned": 5,
+  "arbCount": 3,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,203 @@
       "count": 12,
       "profit": 2902612
     },
-    "pending": 0
+    "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "2Hht0hXi",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Hanshin Tigers - Yomiuri Giants",
+      "url": "https://www.betexplorer.com/baseball/japan/npb/hanshin-tigers-yomiuri-giants/2Hht0hXi/",
+      "kickoff": "2026-10-01T10:00:00+09:00",
+      "width": 3,
+      "books": 9,
+      "labels": [
+        "Hanshin Tigers",
+        "Draw",
+        "Yomiuri Giants"
+      ],
+      "legs": [
+        {
+          "outcome": "Hanshin Tigers",
+          "book": "8:1",
+          "odd": 8,
+          "stake": 29271,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=8%3A1%20sportsbook"
+        },
+        {
+          "outcome": "Draw",
+          "book": "5:0",
+          "odd": 3.72,
+          "stake": 62947,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=5%3A0%20sportsbook"
+        },
+        {
+          "outcome": "Yomiuri Giants",
+          "book": "5:0",
+          "odd": 30.09,
+          "stake": 7782,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.google.com/search?q=5%3A0%20sportsbook"
+        }
+      ],
+      "S": 0.42705083673710054,
+      "roi": 134.16415891853558,
+      "profit": 134164,
+      "payout": 234164,
+      "staked": 100000,
+      "mins": 10,
+      "split": {
+        "S": 0.42705083673710054,
+        "payout": 234164,
+        "profit": 134164,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "8:1",
+            "odd": 8,
+            "stake": 29271
+          },
+          {
+            "book": "5:0",
+            "odd": 3.72,
+            "stake": 62947
+          },
+          {
+            "book": "5:0",
+            "odd": 30.09,
+            "stake": 7782
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    },
+    {
+      "id": "UsPpZiQi",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Rakuten Gold. Eagles - Fukuoka S. Hawks",
+      "url": "https://www.betexplorer.com/baseball/japan/npb/rakuten-gold-eagles-fukuoka-s-hawks/UsPpZiQi/",
+      "kickoff": "2026-10-01T10:00:00+09:00",
+      "width": 2,
+      "books": 17,
+      "labels": [
+        "Rakuten Gold. Eagles",
+        "Fukuoka S. Hawks"
+      ],
+      "legs": [
+        {
+          "outcome": "Rakuten Gold. Eagles",
+          "book": "BetInAsia",
+          "odd": 2.94,
+          "stake": 37712,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.betinasia.com/"
+        },
+        {
+          "outcome": "Fukuoka S. Hawks",
+          "book": "bwin",
+          "odd": 1.78,
+          "stake": 62288,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        }
+      ],
+      "S": 0.9019338072307574,
+      "roi": 10.872881355932208,
+      "profit": 10873,
+      "payout": 110873,
+      "staked": 100000,
+      "mins": 10,
+      "split": {
+        "S": 0.9019338072307574,
+        "payout": 110873,
+        "profit": 10873,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "BetInAsia",
+            "odd": 2.94,
+            "stake": 37712
+          },
+          {
+            "book": "bwin",
+            "odd": 1.78,
+            "stake": 62288
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    },
+    {
+      "id": "ITOjkNaU",
+      "sport": "baseball",
+      "sportLabel": "野球",
+      "teams": "Hiroshima Carp - Chunichi Dragons",
+      "url": "https://www.betexplorer.com/baseball/japan/npb/hiroshima-carp-chunichi-dragons/ITOjkNaU/",
+      "kickoff": "2026-10-01T10:00:00+09:00",
+      "width": 2,
+      "books": 17,
+      "labels": [
+        "Hiroshima Carp",
+        "Chunichi Dragons"
+      ],
+      "legs": [
+        {
+          "outcome": "Hiroshima Carp",
+          "book": "BetInAsia",
+          "odd": 1.95,
+          "stake": 53571,
+          "jp": true,
+          "exch": false,
+          "url": "https://www.betinasia.com/"
+        },
+        {
+          "outcome": "Chunichi Dragons",
+          "book": "bwin",
+          "odd": 2.25,
+          "stake": 46429,
+          "jp": true,
+          "exch": false,
+          "url": "https://sports.bwin.com/"
+        }
+      ],
+      "S": 0.9572649572649573,
+      "roi": 4.464285714285721,
+      "profit": 4464,
+      "payout": 104464,
+      "staked": 100000,
+      "mins": 10,
+      "split": {
+        "S": 0.9572649572649573,
+        "payout": 104464,
+        "profit": 4464,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "BetInAsia",
+            "odd": 1.95,
+            "stake": 53571
+          },
+          {
+            "book": "bwin",
+            "odd": 2.25,
+            "stake": 46429
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": true
+    }
+  ]
 }
