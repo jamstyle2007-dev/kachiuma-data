@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-01T02:06:15.752Z",
+  "generatedAt": "2026-10-01T02:11:44.340Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 4,
+  "scanned": 3,
   "arbCount": 1,
   "track": {
     "stake": 100000,
@@ -41,48 +41,48 @@
       "legs": [
         {
           "outcome": "TSG Hawks",
-          "book": "BetInAsia",
-          "odd": 2.42,
-          "stake": 41827,
+          "book": "Betfair",
+          "odd": 2.38,
+          "stake": 42233,
           "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
+          "exch": true,
+          "url": "https://www.betfair.com/exchange/plus/"
         },
         {
           "outcome": "Rakuten Monkeys",
           "book": "bwin",
           "odd": 1.74,
-          "stake": 58173,
+          "stake": 57767,
           "jp": true,
           "exch": false,
           "url": "https://sports.bwin.com/"
         }
       ],
-      "S": 0.9879357841740286,
-      "roi": 1.221153846153844,
-      "profit": 1221,
-      "payout": 101221,
+      "S": 0.9948807109050517,
+      "roi": 0.5145631067961176,
+      "profit": 515,
+      "payout": 100515,
       "staked": 100000,
-      "mins": 29,
+      "mins": 23,
       "split": {
-        "S": 0.9879357841740286,
-        "payout": 101221,
-        "profit": 1221,
+        "S": 0.9948807109050517,
+        "payout": 100515,
+        "profit": 515,
         "staked": 100000,
         "legs": [
           {
-            "book": "BetInAsia",
-            "odd": 2.42,
-            "stake": 41827
+            "book": "Betfair",
+            "odd": 2.38,
+            "stake": 42233
           },
           {
             "book": "bwin",
             "odd": 1.74,
-            "stake": 58173
+            "stake": 57767
           }
         ]
       },
-      "hasExch": false,
+      "hasExch": true,
       "allJp": true
     }
   ]
