@@ -1,87 +1,117 @@
 {
-  "generatedAt": "2026-10-01T00:21:03.179Z",
+  "generatedAt": "2026-10-01T01:13:25.424Z",
   "windowDays": 400,
   "total": 300,
-  "hits": 203,
-  "hitRate": 0.6766666666666666,
+  "hits": 201,
+  "hitRate": 0.67,
   "sim": {
     "stake": 10000,
-    "asOf": "2026-10-01T00:21:03.179Z",
+    "asOf": "2026-10-01T01:13:25.424Z",
     "byMinStars": {
       "1": {
         "all": {
-          "n": 8006,
+          "n": 8010,
           "hits": 5205,
-          "staked": 80060000,
+          "staked": 80100000,
           "returns": 66483800,
-          "profit": -13576200
+          "profit": -13616200
         },
         "year": {
-          "n": 8006,
+          "n": 8010,
           "hits": 5205,
-          "staked": 80060000,
+          "staked": 80100000,
           "returns": 66483800,
-          "profit": -13576200
+          "profit": -13616200
         },
         "month": {
-          "n": 5,
+          "n": 9,
           "hits": 1,
-          "staked": 50000,
+          "staked": 90000,
           "returns": 15500,
-          "profit": -34500
+          "profit": -74500
         },
         "week": {
-          "n": 350,
+          "n": 354,
           "hits": 237,
-          "staked": 3500000,
+          "staked": 3540000,
           "returns": 3013700,
-          "profit": -486300
+          "profit": -526300
         }
       },
       "2": {
         "all": {
-          "n": 4573,
+          "n": 4576,
           "hits": 3275,
-          "staked": 45730000,
+          "staked": 45760000,
           "returns": 37930000,
-          "profit": -7800000
+          "profit": -7830000
         },
         "year": {
-          "n": 4573,
+          "n": 4576,
           "hits": 3275,
-          "staked": 45730000,
+          "staked": 45760000,
           "returns": 37930000,
-          "profit": -7800000
+          "profit": -7830000
         },
         "month": {
-          "n": 3,
+          "n": 6,
           "hits": 0,
-          "staked": 30000,
+          "staked": 60000,
           "returns": 0,
-          "profit": -30000
+          "profit": -60000
         },
         "week": {
-          "n": 209,
+          "n": 212,
           "hits": 151,
-          "staked": 2090000,
+          "staked": 2120000,
           "returns": 1734600,
-          "profit": -355400
+          "profit": -385400
         }
       },
       "3": {
         "all": {
-          "n": 2656,
+          "n": 2659,
           "hits": 2045,
-          "staked": 26560000,
+          "staked": 26590000,
           "returns": 22180500,
-          "profit": -4379500
+          "profit": -4409500
         },
         "year": {
-          "n": 2656,
+          "n": 2659,
           "hits": 2045,
-          "staked": 26560000,
+          "staked": 26590000,
           "returns": 22180500,
-          "profit": -4379500
+          "profit": -4409500
+        },
+        "month": {
+          "n": 5,
+          "hits": 0,
+          "staked": 50000,
+          "returns": 0,
+          "profit": -50000
+        },
+        "week": {
+          "n": 128,
+          "hits": 99,
+          "staked": 1280000,
+          "returns": 1066800,
+          "profit": -213200
+        }
+      },
+      "4": {
+        "all": {
+          "n": 1599,
+          "hits": 1287,
+          "staked": 15990000,
+          "returns": 13440100,
+          "profit": -2549900
+        },
+        "year": {
+          "n": 1599,
+          "hits": 1287,
+          "staked": 15990000,
+          "returns": 13440100,
+          "profit": -2549900
         },
         "month": {
           "n": 2,
@@ -91,41 +121,11 @@
           "profit": -20000
         },
         "week": {
-          "n": 125,
-          "hits": 99,
-          "staked": 1250000,
-          "returns": 1066800,
-          "profit": -183200
-        }
-      },
-      "4": {
-        "all": {
-          "n": 1598,
-          "hits": 1287,
-          "staked": 15980000,
-          "returns": 13440100,
-          "profit": -2539900
-        },
-        "year": {
-          "n": 1598,
-          "hits": 1287,
-          "staked": 15980000,
-          "returns": 13440100,
-          "profit": -2539900
-        },
-        "month": {
-          "n": 1,
-          "hits": 0,
-          "staked": 10000,
-          "returns": 0,
-          "profit": -10000
-        },
-        "week": {
-          "n": 80,
+          "n": 81,
           "hits": 68,
-          "staked": 800000,
+          "staked": 810000,
           "returns": 709700,
-          "profit": -90300
+          "profit": -100300
         }
       },
       "5": {
@@ -161,6 +161,74 @@
     }
   },
   "settled": [
+    {
+      "id": "hY8XhoBc",
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "ASIA: ASIAN GAMES",
+      "favTeam": "Kazakhstan",
+      "underTeam": "Hong Kong",
+      "favIsHome": true,
+      "favOdd": 1.2,
+      "prob": 83,
+      "stars": 3,
+      "kickoff": "2026-10-01T02:00:00+09:00",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isDraw": true,
+      "favWon": false
+    },
+    {
+      "id": "SfHoVsJj",
+      "sport": "バレー",
+      "sportKey": "volleyball",
+      "league": "ASIA: ASIAN GAMES",
+      "favTeam": "Pakistan",
+      "underTeam": "India",
+      "favIsHome": false,
+      "favOdd": 1.58,
+      "prob": 63,
+      "stars": 1,
+      "kickoff": "2026-10-01T02:00:00+09:00",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isDraw": true,
+      "favWon": false
+    },
+    {
+      "id": "6eHBNgqo",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF WOMEN - SINGLES: W100 TEMPLETON, CA, HARD",
+      "favTeam": "Stoiana M.",
+      "underTeam": "Chang H.",
+      "favIsHome": false,
+      "favOdd": 1.13,
+      "prob": 88,
+      "stars": 3,
+      "kickoff": "2026-10-01T02:00:00+09:00",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isDraw": true,
+      "favWon": false
+    },
+    {
+      "id": "IVQv45xJ",
+      "sport": "テニス",
+      "sportKey": "tennis",
+      "league": "ITF WOMEN - SINGLES: W35 WAGGA WAGGA, HARD",
+      "favTeam": "Sato N.",
+      "underTeam": "Arakawa H.",
+      "favIsHome": true,
+      "favOdd": 1.09,
+      "prob": 92,
+      "stars": 4,
+      "kickoff": "2026-10-01T01:30:00+09:00",
+      "homeScore": 0,
+      "awayScore": 0,
+      "isDraw": true,
+      "favWon": false
+    },
     {
       "id": "IgBPXMHj",
       "sport": "テニス",
@@ -5191,74 +5259,6 @@
       "homeScore": 0,
       "awayScore": 0,
       "isDraw": true,
-      "favWon": false
-    },
-    {
-      "id": "nXLaCJqL",
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "TURKEY: TURKISH CUP WOMEN",
-      "favTeam": "THY W",
-      "underTeam": "Manisa BB W",
-      "favIsHome": false,
-      "favOdd": 1.03,
-      "prob": 97,
-      "stars": 5,
-      "kickoff": "2026-09-28T14:00:00+09:00",
-      "homeScore": 0,
-      "awayScore": 1,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "tKxsXd26",
-      "sport": "バレー",
-      "sportKey": "volleyball",
-      "league": "WORLD: CLUB FRIENDLY",
-      "favTeam": "Ziraat Bankasi",
-      "underTeam": "Khilasedichi Baku",
-      "favIsHome": true,
-      "favOdd": 1.03,
-      "prob": 97,
-      "stars": 5,
-      "kickoff": "2026-09-28T13:00:00+09:00",
-      "homeScore": 1,
-      "awayScore": 2,
-      "isDraw": false,
-      "favWon": false
-    },
-    {
-      "id": "Wt9JM3fD",
-      "sport": "アイスホッケー",
-      "sportKey": "hockey",
-      "league": "KAZAKHSTAN: CHAMPIONSHIP",
-      "favTeam": "Nomad Astana",
-      "underTeam": "Karaganda",
-      "favIsHome": true,
-      "favOdd": 1.41,
-      "prob": 71,
-      "stars": 1,
-      "kickoff": "2026-09-28T13:00:00+09:00",
-      "homeScore": 2,
-      "awayScore": 1,
-      "isDraw": false,
-      "favWon": true
-    },
-    {
-      "id": "b7RzWvw0",
-      "sport": "テニス",
-      "sportKey": "tennis",
-      "league": "CHALLENGER MEN - SINGLES: PORTO, HARD",
-      "favTeam": "Bonzi B.",
-      "underTeam": "Holmgren A.",
-      "favIsHome": true,
-      "favOdd": 1.28,
-      "prob": 78,
-      "stars": 2,
-      "kickoff": "2026-09-28T12:35:00+09:00",
-      "homeScore": 0,
-      "awayScore": 2,
-      "isDraw": false,
       "favWon": false
     }
   ]
