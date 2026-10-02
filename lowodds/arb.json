@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T02:04:28.628Z",
+  "generatedAt": "2026-10-02T02:09:55.487Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 3,
-  "arbCount": 1,
+  "scanned": 4,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "04LsNwPc",
-      "sport": "basketball",
-      "sportLabel": "バスケ",
-      "teams": "Chiba - Alvark",
-      "url": "https://www.betexplorer.com/basketball/japan/b-league-premier/chiba-alvark-tokyo/04LsNwPc/",
-      "kickoff": "2026-10-02T11:05:00+09:00",
-      "width": 2,
-      "books": 17,
-      "labels": [
-        "Chiba",
-        "Alvark"
-      ],
-      "legs": [
-        {
-          "outcome": "Chiba",
-          "book": "BetInAsia",
-          "odd": 1.98,
-          "stake": 55605,
-          "jp": true,
-          "exch": false,
-          "url": "https://www.betinasia.com/"
-        },
-        {
-          "outcome": "Alvark",
-          "book": "Rainbet",
-          "odd": 2.48,
-          "stake": 44395,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
-        }
-      ],
-      "S": 0.908276311502118,
-      "roi": 10.098654708520183,
-      "profit": 10099,
-      "payout": 110099,
-      "staked": 100000,
-      "mins": 1,
-      "split": {
-        "S": 0.908276311502118,
-        "payout": 110099,
-        "profit": 10099,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "BetInAsia",
-            "odd": 1.98,
-            "stake": 55605
-          },
-          {
-            "book": "Rainbet",
-            "odd": 2.48,
-            "stake": 44395
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
