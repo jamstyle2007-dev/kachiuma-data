@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T07:55:02.050Z",
+  "generatedAt": "2026-10-02T08:00:31.974Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 4,
-  "arbCount": 1,
+  "scanned": 0,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 2
   },
-  "opps": [
-    {
-      "id": "AwDWENcd",
-      "sport": "handball",
-      "sportLabel": "ハンドボール",
-      "teams": "Maritimo - Sporting",
-      "url": "https://www.betexplorer.com/handball/portugal/andebol-1/maritimo-madeira-sporting-lisboa/AwDWENcd/",
-      "kickoff": "2026-10-02T17:00:00+09:00",
-      "width": 2,
-      "books": 5,
-      "labels": [
-        "Maritimo",
-        "Sporting"
-      ],
-      "legs": [
-        {
-          "outcome": "Maritimo",
-          "book": "bwin",
-          "odd": 41,
-          "stake": 52874,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        },
-        {
-          "outcome": "Sporting",
-          "book": "bwin",
-          "odd": 46,
-          "stake": 47126,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        }
-      ],
-      "S": 0.04612937433722163,
-      "roi": 2067.816091954023,
-      "profit": 2067816,
-      "payout": 2167816,
-      "staked": 100000,
-      "mins": 5,
-      "split": {
-        "S": 0.04612937433722163,
-        "payout": 2167816,
-        "profit": 2067816,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "bwin",
-            "odd": 41,
-            "stake": 52874
-          },
-          {
-            "book": "bwin",
-            "odd": 46,
-            "stake": 47126
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
