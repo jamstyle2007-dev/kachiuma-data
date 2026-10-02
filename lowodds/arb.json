@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T00:57:39.992Z",
+  "generatedAt": "2026-10-02T01:03:09.123Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 5,
-  "arbCount": 1,
+  "scanned": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "W6PlrMGj",
-      "sport": "baseball",
-      "sportLabel": "野球",
-      "teams": "Chiba Lotte Marines - Fukuoka S. Hawks",
-      "url": "https://www.betexplorer.com/baseball/japan/npb/chiba-lotte-marines-fukuoka-s-hawks/W6PlrMGj/",
-      "kickoff": "2026-10-02T10:00:00+09:00",
-      "width": 2,
-      "books": 17,
-      "labels": [
-        "Chiba Lotte Marines",
-        "Fukuoka S. Hawks"
-      ],
-      "legs": [
-        {
-          "outcome": "Chiba Lotte Marines",
-          "book": "Betfair Exchange",
-          "odd": 2.65,
-          "stake": 38372,
-          "jp": true,
-          "exch": true,
-          "url": "https://www.betfair.com/exchange/plus/"
-        },
-        {
-          "outcome": "Fukuoka S. Hawks",
-          "book": "bwin",
-          "odd": 1.65,
-          "stake": 61628,
-          "jp": true,
-          "exch": false,
-          "url": "https://sports.bwin.com/"
-        }
-      ],
-      "S": 0.9834190966266438,
-      "roi": 1.6860465116278922,
-      "profit": 1686,
-      "payout": 101686,
-      "staked": 100000,
-      "mins": 2,
-      "split": {
-        "S": 0.9834190966266438,
-        "payout": 101686,
-        "profit": 1686,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betfair Exchange",
-            "odd": 2.65,
-            "stake": 38372
-          },
-          {
-            "book": "bwin",
-            "odd": 1.65,
-            "stake": 61628
-          }
-        ]
-      },
-      "hasExch": true,
-      "allJp": true
-    }
-  ]
+  "opps": []
 }
