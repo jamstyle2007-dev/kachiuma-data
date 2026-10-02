@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T03:25:37.208Z",
+  "generatedAt": "2026-10-02T03:31:26.834Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 2,
-  "arbCount": 0,
+  "arbCount": 1,
   "track": {
     "stake": 100000,
     "all": {
@@ -22,7 +22,83 @@
       "count": 16,
       "profit": 3053334
     },
-    "pending": 2
+    "pending": 3
   },
-  "opps": []
+  "opps": [
+    {
+      "id": "ruaJ9kR0",
+      "sport": "handball",
+      "sportLabel": "ハンドボール",
+      "teams": "Bnei Herzliya - Rehovot",
+      "url": "https://www.betexplorer.com/handball/israel/division-1/bnei-herzliya-rehovot/ruaJ9kR0/",
+      "kickoff": "2026-10-02T13:00:00+09:00",
+      "width": 3,
+      "books": 7,
+      "labels": [
+        "Bnei Herzliya",
+        "Draw",
+        "Rehovot"
+      ],
+      "legs": [
+        {
+          "outcome": "Bnei Herzliya",
+          "book": "Betsson",
+          "odd": 1.46,
+          "stake": 69889,
+          "jp": false,
+          "exch": false,
+          "url": "https://www.betsson.com/"
+        },
+        {
+          "outcome": "Draw",
+          "book": "Duelbits",
+          "odd": 9.8,
+          "stake": 10412,
+          "jp": false,
+          "exch": false,
+          "url": "https://duelbits.com/"
+        },
+        {
+          "outcome": "Rehovot",
+          "book": "1xBet",
+          "odd": 5.18,
+          "stake": 19699,
+          "jp": true,
+          "exch": false,
+          "url": "https://1xbet.com/ja"
+        }
+      ],
+      "S": 0.9800225162260388,
+      "roi": 2.038471917042517,
+      "profit": 2038,
+      "payout": 102038,
+      "staked": 100000,
+      "mins": 29,
+      "split": {
+        "S": 0.9800225162260388,
+        "payout": 102038,
+        "profit": 2038,
+        "staked": 100000,
+        "legs": [
+          {
+            "book": "Betsson",
+            "odd": 1.46,
+            "stake": 69889
+          },
+          {
+            "book": "Duelbits",
+            "odd": 9.8,
+            "stake": 10412
+          },
+          {
+            "book": "1xBet",
+            "odd": 5.18,
+            "stake": 19699
+          }
+        ]
+      },
+      "hasExch": false,
+      "allJp": false
+    }
+  ]
 }
