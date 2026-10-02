@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T07:10:42.156Z",
+  "generatedAt": "2026-10-02T07:16:14.815Z",
   "deadlineMin": 30,
   "stake": 100000,
   "scanned": 5,
-  "arbCount": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,66 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "v3YU5z43",
-      "sport": "volleyball",
-      "sportLabel": "バレー",
-      "teams": "Kladno - VK Lvi Prague",
-      "url": "https://www.betexplorer.com/volleyball/world/club-friendly/kladno-vk-lvi-prague/v3YU5z43/",
-      "kickoff": "2026-10-02T16:30:00+09:00",
-      "width": 2,
-      "books": 3,
-      "labels": [
-        "Kladno",
-        "VK Lvi Prague"
-      ],
-      "legs": [
-        {
-          "outcome": "Kladno",
-          "book": "3:1",
-          "odd": 3,
-          "stake": 80119,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=3%3A1%20sportsbook"
-        },
-        {
-          "outcome": "VK Lvi Prague",
-          "book": "3:0",
-          "odd": 12.09,
-          "stake": 19881,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=3%3A0%20sportsbook"
-        }
-      ],
-      "S": 0.4160463192721257,
-      "roi": 140.35785288270378,
-      "profit": 140358,
-      "payout": 240358,
-      "staked": 100000,
-      "mins": 19,
-      "split": {
-        "S": 0.4160463192721257,
-        "payout": 240358,
-        "profit": 140358,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "3:1",
-            "odd": 3,
-            "stake": 80119
-          },
-          {
-            "book": "3:0",
-            "odd": 12.09,
-            "stake": 19881
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
