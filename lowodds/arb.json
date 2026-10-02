@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-02T07:44:03.727Z",
+  "generatedAt": "2026-10-02T07:49:32.573Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 3,
+  "scanned": 4,
   "arbCount": 1,
   "track": {
     "stake": 100000,
@@ -43,7 +43,7 @@
           "outcome": "Maritimo",
           "book": "bwin",
           "odd": 41,
-          "stake": 50000,
+          "stake": 52874,
           "jp": true,
           "exch": false,
           "url": "https://sports.bwin.com/"
@@ -51,34 +51,34 @@
         {
           "outcome": "Sporting",
           "book": "bwin",
-          "odd": 41,
-          "stake": 50000,
+          "odd": 46,
+          "stake": 47126,
           "jp": true,
           "exch": false,
           "url": "https://sports.bwin.com/"
         }
       ],
-      "S": 0.04878048780487805,
-      "roi": 1950,
-      "profit": 1950000,
-      "payout": 2050000,
+      "S": 0.04612937433722163,
+      "roi": 2067.816091954023,
+      "profit": 2067816,
+      "payout": 2167816,
       "staked": 100000,
-      "mins": 16,
+      "mins": 10,
       "split": {
-        "S": 0.04878048780487805,
-        "payout": 2050000,
-        "profit": 1950000,
+        "S": 0.04612937433722163,
+        "payout": 2167816,
+        "profit": 2067816,
         "staked": 100000,
         "legs": [
           {
             "book": "bwin",
             "odd": 41,
-            "stake": 50000
+            "stake": 52874
           },
           {
             "book": "bwin",
-            "odd": 41,
-            "stake": 50000
+            "odd": 46,
+            "stake": 47126
           }
         ]
       },
