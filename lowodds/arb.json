@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-03T03:56:28.454Z",
+  "generatedAt": "2026-10-03T04:02:12.178Z",
   "deadlineMin": 30,
   "stake": 100000,
-  "scanned": 4,
-  "arbCount": 1,
+  "scanned": 1,
+  "arbCount": 0,
   "track": {
     "stake": 100000,
     "all": {
@@ -24,81 +24,5 @@
     },
     "pending": 1
   },
-  "opps": [
-    {
-      "id": "4E3RuFv9",
-      "sport": "handball",
-      "sportLabel": "ハンドボール",
-      "teams": "Skanderborg W - HOJ W",
-      "url": "https://www.betexplorer.com/handball/denmark/kvindeligaen-women/skanderborg-hoj/4E3RuFv9/",
-      "kickoff": "2026-10-03T13:00:00+09:00",
-      "width": 3,
-      "books": 14,
-      "labels": [
-        "Skanderborg W",
-        "Draw",
-        "HOJ W"
-      ],
-      "legs": [
-        {
-          "outcome": "Skanderborg W",
-          "book": "Betsson",
-          "odd": 9.5,
-          "stake": 10588,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.betsson.com/"
-        },
-        {
-          "outcome": "Draw",
-          "book": "Stake.com",
-          "odd": 18,
-          "stake": 5588,
-          "jp": true,
-          "exch": false,
-          "url": "https://stake.com/"
-        },
-        {
-          "outcome": "HOJ W",
-          "book": "Rainbet",
-          "odd": 1.2,
-          "stake": 83824,
-          "jp": false,
-          "exch": false,
-          "url": "https://www.google.com/search?q=Rainbet%20sportsbook"
-        }
-      ],
-      "S": 0.9941520467836258,
-      "roi": 0.588235294117645,
-      "profit": 588,
-      "payout": 100588,
-      "staked": 100000,
-      "mins": 4,
-      "split": {
-        "S": 0.9941520467836258,
-        "payout": 100588,
-        "profit": 588,
-        "staked": 100000,
-        "legs": [
-          {
-            "book": "Betsson",
-            "odd": 9.5,
-            "stake": 10588
-          },
-          {
-            "book": "Stake.com",
-            "odd": 18,
-            "stake": 5588
-          },
-          {
-            "book": "Rainbet",
-            "odd": 1.2,
-            "stake": 83824
-          }
-        ]
-      },
-      "hasExch": false,
-      "allJp": false
-    }
-  ]
+  "opps": []
 }
