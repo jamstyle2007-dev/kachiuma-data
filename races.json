@@ -1,6 +1,6 @@
 {
  "meta": {
-  "updatedAt": "2026-10-04 15:38",
+  "updatedAt": "2026-10-04 15:53",
   "note": "出馬表はJRA公式。前日は過去成績モデルの印（2026年JRA全2,406レースで◎の3着内率59%）、当日は単勝オッズの発売後にオッズ順へ更新（同66%）。自信度A=堅いレース。回収率はどの買い方も100%未満。"
  },
  "races": [
@@ -23594,7 +23594,20 @@
    },
    "source": "jra-handoff",
    "basis": "odds",
-   "netkeibaId": "202608040211"
+   "netkeibaId": "202608040211",
+   "result": {
+    "first": 12,
+    "second": 10,
+    "third": 6,
+    "tanshoPay": 2900,
+    "fukushoPay": [
+     850,
+     510,
+     210
+    ],
+    "sanrenpukuPay": 55890,
+    "sanrentanPay": 357300
+   }
   },
   {
    "id": "20261004-tokyo-11",
